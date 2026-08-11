@@ -569,9 +569,9 @@ function renderQuestionCard(q, idx, allQs) {
   const isFlagged = S.flagged.has(q.id);
   const answered = S.answers[q.id];
 
-  // ── Parse Part 2 transcript → extract real option texts ──────────────────
+  // ── Parse Part 1 & Part 2 transcript → extract real option texts ─────────
   let p2Parsed = null;
-  if (isPart2 && q.transcript) {
+  if ((isPart1 || isPart2) && q.transcript) {
     p2Parsed = parseP2Transcript(q.transcript);
   }
 
@@ -638,7 +638,7 @@ function renderQuestionCard(q, idx, allQs) {
       const displayLetter = origLetters[displaySlot] || 'A'; // letter hiển thị cho user
 
       let displayText;
-      if (isPart2 && p2Parsed && p2Parsed.optTexts[origLetter]) {
+      if (p2Parsed && p2Parsed.optTexts[origLetter]) {
         displayText = p2Parsed.optTexts[origLetter];
       } else {
         displayText = typeof opt === 'string'
@@ -707,7 +707,7 @@ function renderQuestionCard(q, idx, allQs) {
     const optAnalysis = (q.options || []).map((opt, i) => {
       const letter = optLetters[i] || 'A';
       let displayText;
-      if (isPart2 && p2Parsed && p2Parsed.optTexts[letter]) {
+      if (p2Parsed && p2Parsed.optTexts[letter]) {
         displayText = p2Parsed.optTexts[letter];
       } else {
         displayText = typeof opt === 'string'
@@ -796,9 +796,9 @@ function parseP2Transcript(transcript) {
   const optTexts = {};
   let questionLines = [];
   for (const line of lines) {
-    const m = line.match(/^([A-C])[.)\s]\s*(.+)$/);
+    const m = line.match(/^([A-D])[.)\s]\s*(.+)$/i);
     if (m) {
-      optTexts[m[1]] = m[2].trim();
+      optTexts[m[1].toUpperCase()] = m[2].trim();
     } else {
       questionLines.push(line);
     }
