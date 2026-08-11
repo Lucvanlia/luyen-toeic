@@ -1,0 +1,327 @@
+[
+  {
+    "id": 7,
+    "question": "How old is this building?",
+    "options": {
+      "A": "To ship some materials.",
+      "B": "About 10 years old.",
+      "C": "Company offices, I think."
+    },
+    "answer": "A",
+    "startTime": 80,
+    "endTime": 92,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 8,
+    "question": "Can you come to my jazz performance tonight?",
+    "options": {
+      "A": "I'm sorry I was late for the meeting.",
+      "B": "Mostly just local musicians.",
+      "C": "Sure, I'll be there."
+    },
+    "answer": "B",
+    "startTime": 94,
+    "endTime": 106,
+    "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 9,
+    "question": "Which apartment submitted a work order?",
+    "options": {
+      "A": "It's what you did for a living.",
+      "B": "Submit your assignment here.",
+      "C": "It came from the tenants in B23."
+    },
+    "answer": "A",
+    "startTime": 108,
+    "endTime": 120,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 10,
+    "question": "Will you contact the vendor about changing our delivery date?",
+    "options": {
+      "A": "Of course, I'll take care of it.",
+      "B": "An email receipt.",
+      "C": "Could I get change for a dollar?"
+    },
+    "answer": "A",
+    "startTime": 122,
+    "endTime": 134,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 11,
+    "question": "Why was the maintenance worker here?",
+    "options": {
+      "A": "No, he didn't.",
+      "B": "From 3 o'clock until 4.",
+      "C": "Because a light needed to be fixed."
+    },
+    "answer": "B",
+    "startTime": 136,
+    "endTime": 148,
+    "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 12,
+    "question": "Did management make a hiring decision yet?",
+    "options": {
+      "A": "Put it on the highest shelf.",
+      "B": "The personnel department.",
+      "C": "Yes, they chose Jacob Borgman."
+    },
+    "answer": "A",
+    "startTime": 150,
+    "endTime": 162,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 13,
+    "question": "Do you want to eat here in our cafeteria or go out?",
+    "options": {
+      "A": "He went there yesterday.",
+      "B": "Well, maybe a sandwich.",
+      "C": "Let's eat here."
+    },
+    "answer": "A",
+    "startTime": 164,
+    "endTime": 176,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 14,
+    "question": "Didn't you email the employment contract to Mr. Patel yesterday?",
+    "options": {
+      "A": "Yes, I would agree.",
+      "B": "No, I'll send it now.",
+      "C": "Check the employee manual."
+    },
+    "answer": "A",
+    "startTime": 178,
+    "endTime": 190,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 15,
+    "question": "Our division's picnic is this Saturday, right?",
+    "options": {
+      "A": "There's a lot of rain in the forecast.",
+      "B": "Sure, I like salad.",
+      "C": "At the end of this corridor."
+    },
+    "answer": "A",
+    "startTime": 192,
+    "endTime": 204,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 16,
+    "question": "Would you like coffee or tea?",
+    "options": {
+      "A": "Just water, please.",
+      "B": "For a few dollars more.",
+      "C": "A 15-minute break."
+    },
+    "answer": "A",
+    "startTime": 206,
+    "endTime": 218,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 17,
+    "question": "We achieved our sales targets this month.",
+    "options": {
+      "A": "That's excellent news.",
+      "B": "A few times a day.",
+      "C": "To the end of April."
+    },
+    "answer": "A",
+    "startTime": 220,
+    "endTime": 232,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 18,
+    "question": "How often do you travel for your job?",
+    "options": {
+      "A": "It turned out well.",
+      "B": "Yes, I did find one.",
+      "C": "About once a month."
+    },
+    "answer": "A",
+    "startTime": 234,
+    "endTime": 246,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 19,
+    "question": "We should hike the wildflower trail today.",
+    "options": {
+      "A": "This seat is available.",
+      "B": "I didn't bring boots.",
+      "C": "At the visitor's center."
+    },
+    "answer": "A",
+    "startTime": 248,
+    "endTime": 260,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 20,
+    "question": "You've booked a hotel in London, haven't you?",
+    "options": {
+      "A": "Very enjoyable, thanks.",
+      "B": "He usually takes the train.",
+      "C": "Yes, I made a reservation last week."
+    },
+    "answer": "A",
+    "startTime": 262,
+    "endTime": 274,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 21,
+    "question": "Are there any tickets left for tonight's concert?",
+    "options": {
+      "A": "It's sold out.",
+      "B": "He's a concert violinist.",
+      "C": "They already left."
+    },
+    "answer": "A",
+    "startTime": 276,
+    "endTime": 288,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 22,
+    "question": "Haven't you used this software before?",
+    "options": {
+      "A": "Can I take your order?",
+      "B": "I haven't had the chance.",
+      "C": "About $40."
+    },
+    "answer": "B",
+    "startTime": 290,
+    "endTime": 302,
+    "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 23,
+    "question": "When is the new blender going to be released?",
+    "options": {
+      "A": "Only with fruits and vegetables.",
+      "B": "In the kitchen cabinet.",
+      "C": "The prototype is still being tested."
+    },
+    "answer": "A",
+    "startTime": 304,
+    "endTime": 316,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 24,
+    "question": "Who's picking up our clients at the airport?",
+    "options": {
+      "A": "They decided to drive.",
+      "B": "At Terminal 2.",
+      "C": "It's a marketing position."
+    },
+    "answer": "A",
+    "startTime": 318,
+    "endTime": 330,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 25,
+    "question": "Where are the red roses that came in this morning?",
+    "options": {
+      "A": "About 3 liters of water.",
+      "B": "No, I didn't check out the sale.",
+      "C": "I needed some for a large bouquet."
+    },
+    "answer": "A",
+    "startTime": 332,
+    "endTime": 344,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 26,
+    "question": "This film has been nominated for several awards.",
+    "options": {
+      "A": "Why don't we go see it?",
+      "B": "After the announcement.",
+      "C": "He made a great speech."
+    },
+    "answer": "A",
+    "startTime": 346,
+    "endTime": 358,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 27,
+    "question": "Who's interested in starting a carpool program?",
+    "options": {
+      "A": "Thanks, but I can't swim.",
+      "B": "Clara's already organizing one.",
+      "C": "It's a very interesting article."
+    },
+    "answer": "A",
+    "startTime": 360,
+    "endTime": 372,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 28,
+    "question": "Where will I teach my workshop this month?",
+    "options": {
+      "A": "We just sent an email to all instructors.",
+      "B": "5 to 7 months.",
+      "C": "Yes, it's a beautiful building."
+    },
+    "answer": "A",
+    "startTime": 374,
+    "endTime": 386,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 29,
+    "question": "Why are we moving these sweaters to the back of the store?",
+    "options": {
+      "A": "In the new shopping mall.",
+      "B": "Yes, they come in other colors.",
+      "C": "Our spring merchandise is arriving soon."
+    },
+    "answer": "A",
+    "startTime": 388,
+    "endTime": 400,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 30,
+    "question": "Would you be interested in working on some of these contracts?",
+    "options": {
+      "A": "Thank you for meeting me.",
+      "B": "A contact lens prescription.",
+      "C": "I have very limited time."
+    },
+    "answer": "A",
+    "startTime": 402,
+    "endTime": 414,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  },
+  {
+    "id": 31,
+    "question": "What type of job are you looking for?",
+    "options": {
+      "A": "No, at 10 AM.",
+      "B": "I really like working with computers.",
+      "C": "Just a resume is needed."
+    },
+    "answer": "A",
+    "startTime": 416,
+    "endTime": 428,
+    "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+  }
+]

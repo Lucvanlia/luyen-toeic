@@ -1,0 +1,704 @@
+[
+  {
+    "part": "Part 3 – Conversations",
+    "id": 32,
+    "group": "32-34",
+    "startTime": 80,
+    "endTime": 155,
+    "duration_fmt": "01:20 → 02:35",
+    "question": "What is the conversation mainly about?",
+    "transcript": "(Hội thoại nhóm 32-34)\nHội thoại thảo luận về di chuyển văn phòng.",
+    "options": {
+      "A": "A job interview",
+      "B": "An office relocation",
+      "C": "A product launch",
+      "D": "A budget review"
+    },
+    "answer": "B",
+    "explanation": "Xem hội thoại 32-34: Hội thoại thảo luận về di chuyển văn phòng."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 33,
+    "group": "32-34",
+    "startTime": 80,
+    "endTime": 155,
+    "duration_fmt": "01:20 → 02:35",
+    "question": "Where will the new office be located?",
+    "transcript": "(Hội thoại nhóm 32-34)\nHội thoại thảo luận về di chuyển văn phòng.",
+    "options": {
+      "A": "Downtown",
+      "B": "Near the airport",
+      "C": "In the suburbs",
+      "D": "Across from the park"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 32-34: Hội thoại thảo luận về di chuyển văn phòng."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 34,
+    "group": "32-34",
+    "startTime": 80,
+    "endTime": 155,
+    "duration_fmt": "01:20 → 02:35",
+    "question": "What will the woman do next?",
+    "transcript": "(Hội thoại nhóm 32-34)\nHội thoại thảo luận về di chuyển văn phòng.",
+    "options": {
+      "A": "Contact the moving company",
+      "B": "Send an email to staff",
+      "C": "Meet with the landlord",
+      "D": "Review the contract"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 32-34: Hội thoại thảo luận về di chuyển văn phòng."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 35,
+    "group": "35-37",
+    "startTime": 156,
+    "endTime": 231,
+    "duration_fmt": "02:36 → 03:51",
+    "question": "What is the man concerned about?",
+    "transcript": "(Hội thoại nhóm 35-37)\nThảo luận về trễ chuyến hàng từ đối tác.",
+    "options": {
+      "A": "Shipment delays",
+      "B": "Quality issues",
+      "C": "High prices",
+      "D": "Staff shortage"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 35-37: Thảo luận về trễ chuyến hàng từ đối tác."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 36,
+    "group": "35-37",
+    "startTime": 156,
+    "endTime": 231,
+    "duration_fmt": "02:36 → 03:51",
+    "question": "What does the woman suggest?",
+    "transcript": "(Hội thoại nhóm 35-37)\nThảo luận về trễ chuyến hàng từ đối tác.",
+    "options": {
+      "A": "Switching suppliers",
+      "B": "Increasing the order",
+      "C": "Filing a complaint",
+      "D": "Extending the deadline"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 35-37: Thảo luận về trễ chuyến hàng từ đối tác."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 37,
+    "group": "35-37",
+    "startTime": 156,
+    "endTime": 231,
+    "duration_fmt": "02:36 → 03:51",
+    "question": "When does the order need to arrive?",
+    "transcript": "(Hội thoại nhóm 35-37)\nThảo luận về trễ chuyến hàng từ đối tác.",
+    "options": {
+      "A": "By end of next week",
+      "B": "Tomorrow morning",
+      "C": "Within two days",
+      "D": "By the end of the month"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 35-37: Thảo luận về trễ chuyến hàng từ đối tác."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 38,
+    "group": "38-40",
+    "startTime": 232,
+    "endTime": 307,
+    "duration_fmt": "03:52 → 05:07",
+    "question": "Where does this conversation take place?",
+    "transcript": "(Hội thoại nhóm 38-40)\nKhách hàng gia hạn phòng tại khách sạn.",
+    "options": {
+      "A": "At a restaurant",
+      "B": "At a hotel",
+      "C": "At an airport",
+      "D": "At a train station"
+    },
+    "answer": "B",
+    "explanation": "Xem hội thoại 38-40: Khách hàng gia hạn phòng tại khách sạn."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 39,
+    "group": "38-40",
+    "startTime": 232,
+    "endTime": 307,
+    "duration_fmt": "03:52 → 05:07",
+    "question": "What does the guest request?",
+    "transcript": "(Hội thoại nhóm 38-40)\nKhách hàng gia hạn phòng tại khách sạn.",
+    "options": {
+      "A": "A late checkout",
+      "B": "Room service",
+      "C": "Extra towels",
+      "D": "A taxi reservation"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 38-40: Khách hàng gia hạn phòng tại khách sạn."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 40,
+    "group": "38-40",
+    "startTime": 232,
+    "endTime": 307,
+    "duration_fmt": "03:52 → 05:07",
+    "question": "What will the staff member do?",
+    "transcript": "(Hội thoại nhóm 38-40)\nKhách hàng gia hạn phòng tại khách sạn.",
+    "options": {
+      "A": "Contact housekeeping",
+      "B": "Call a cab company",
+      "C": "Process an extension",
+      "D": "Bring a menu"
+    },
+    "answer": "C",
+    "explanation": "Xem hội thoại 38-40: Khách hàng gia hạn phòng tại khách sạn."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 41,
+    "group": "41-43",
+    "startTime": 308,
+    "endTime": 383,
+    "duration_fmt": "05:08 → 06:23",
+    "question": "What are the speakers discussing?",
+    "transcript": "(Hội thoại nhóm 41-43)\nBàn thảo chiến dịch tiếp thị sản phẩm mới.",
+    "options": {
+      "A": "A marketing campaign",
+      "B": "A sales report",
+      "C": "A training session",
+      "D": "A team outing"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 41-43: Bàn thảo chiến dịch tiếp thị sản phẩm mới."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 42,
+    "group": "41-43",
+    "startTime": 308,
+    "endTime": 383,
+    "duration_fmt": "05:08 → 06:23",
+    "question": "Who will give the presentation?",
+    "transcript": "(Hội thoại nhóm 41-43)\nBàn thảo chiến dịch tiếp thị sản phẩm mới.",
+    "options": {
+      "A": "The department head",
+      "B": "A new employee",
+      "C": "An external consultant",
+      "D": "The woman"
+    },
+    "answer": "D",
+    "explanation": "Xem hội thoại 41-43: Bàn thảo chiến dịch tiếp thị sản phẩm mới."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 43,
+    "group": "41-43",
+    "startTime": 308,
+    "endTime": 383,
+    "duration_fmt": "05:08 → 06:23",
+    "question": "What does the man offer to do?",
+    "transcript": "(Hội thoại nhóm 41-43)\nBàn thảo chiến dịch tiếp thị sản phẩm mới.",
+    "options": {
+      "A": "Prepare slides",
+      "B": "Send invitations",
+      "C": "Book a venue",
+      "D": "Create a handout"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 41-43: Bàn thảo chiến dịch tiếp thị sản phẩm mới."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 44,
+    "group": "44-46",
+    "startTime": 384,
+    "endTime": 459,
+    "duration_fmt": "06:24 → 07:39",
+    "question": "What problem does the caller report?",
+    "transcript": "(Hội thoại nhóm 44-46)\nBáo cáo sản phẩm hư hỏng và phương án đổi trả.",
+    "options": {
+      "A": "A billing error",
+      "B": "A lost package",
+      "C": "A damaged item",
+      "D": "An incorrect order"
+    },
+    "answer": "C",
+    "explanation": "Xem hội thoại 44-46: Báo cáo sản phẩm hư hỏng và phương án đổi trả."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 45,
+    "group": "44-46",
+    "startTime": 384,
+    "endTime": 459,
+    "duration_fmt": "06:24 → 07:39",
+    "question": "What does the representative offer?",
+    "transcript": "(Hội thoại nhóm 44-46)\nBáo cáo sản phẩm hư hỏng và phương án đổi trả.",
+    "options": {
+      "A": "A full refund",
+      "B": "A replacement shipment",
+      "C": "A discount code",
+      "D": "A store credit"
+    },
+    "answer": "B",
+    "explanation": "Xem hội thoại 44-46: Báo cáo sản phẩm hư hỏng và phương án đổi trả."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 46,
+    "group": "44-46",
+    "startTime": 384,
+    "endTime": 459,
+    "duration_fmt": "06:24 → 07:39",
+    "question": "What will the caller need to do?",
+    "transcript": "(Hội thoại nhóm 44-46)\nBáo cáo sản phẩm hư hỏng và phương án đổi trả.",
+    "options": {
+      "A": "Visit the nearest store",
+      "B": "Fill out a form online",
+      "C": "Return the damaged item",
+      "D": "Send photos by email"
+    },
+    "answer": "D",
+    "explanation": "Xem hội thoại 44-46: Báo cáo sản phẩm hư hỏng và phương án đổi trả."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 47,
+    "group": "47-49",
+    "startTime": 460,
+    "endTime": 535,
+    "duration_fmt": "07:40 → 08:55",
+    "question": "What type of business is being discussed?",
+    "transcript": "(Hội thoại nhóm 47-49)\nTư vấn khóa học thể thao nhóm.",
+    "options": {
+      "A": "A bookstore",
+      "B": "A coffee shop",
+      "C": "A fitness center",
+      "D": "A pharmacy"
+    },
+    "answer": "C",
+    "explanation": "Xem hội thoại 47-49: Tư vấn khóa học thể thao nhóm."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 48,
+    "group": "47-49",
+    "startTime": 460,
+    "endTime": 535,
+    "duration_fmt": "07:40 → 08:55",
+    "question": "What is the woman interested in?",
+    "transcript": "(Hội thoại nhóm 47-49)\nTư vấn khóa học thể thao nhóm.",
+    "options": {
+      "A": "A membership plan",
+      "B": "Personal training sessions",
+      "C": "A nutrition program",
+      "D": "Group classes"
+    },
+    "answer": "D",
+    "explanation": "Xem hội thoại 47-49: Tư vấn khóa học thể thao nhóm."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 49,
+    "group": "47-49",
+    "startTime": 460,
+    "endTime": 535,
+    "duration_fmt": "07:40 → 08:55",
+    "question": "What will the woman most likely do next?",
+    "transcript": "(Hội thoại nhóm 47-49)\nTư vấn khóa học thể thao nhóm.",
+    "options": {
+      "A": "Sign up for a trial",
+      "B": "Call for more information",
+      "C": "Visit the website",
+      "D": "Schedule a tour"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 47-49: Tư vấn khóa học thể thao nhóm."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 50,
+    "group": "50-52",
+    "startTime": 536,
+    "endTime": 611,
+    "duration_fmt": "08:56 → 10:11",
+    "question": "What event is the speakers preparing for?",
+    "transcript": "(Hội thoại nhóm 50-52)\nChuẩn bị tiệc kỷ niệm thành lập công ty.",
+    "options": {
+      "A": "A company anniversary party",
+      "B": "A product demonstration",
+      "C": "A job fair",
+      "D": "A board meeting"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 50-52: Chuẩn bị tiệc kỷ niệm thành lập công ty."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 51,
+    "group": "50-52",
+    "startTime": 536,
+    "endTime": 611,
+    "duration_fmt": "08:56 → 10:11",
+    "question": "How many people are expected to attend?",
+    "transcript": "(Hội thoại nhóm 50-52)\nChuẩn bị tiệc kỷ niệm thành lập công ty.",
+    "options": {
+      "A": "Around 50",
+      "B": "About 200",
+      "C": "Over 500",
+      "D": "Fewer than 30"
+    },
+    "answer": "B",
+    "explanation": "Xem hội thoại 50-52: Chuẩn bị tiệc kỷ niệm thành lập công ty."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 52,
+    "group": "50-52",
+    "startTime": 536,
+    "endTime": 611,
+    "duration_fmt": "08:56 → 10:11",
+    "question": "What still needs to be arranged?",
+    "transcript": "(Hội thoại nhóm 50-52)\nChuẩn bị tiệc kỷ niệm thành lập công ty.",
+    "options": {
+      "A": "Catering",
+      "B": "Venue booking",
+      "C": "Invitations",
+      "D": "Decorations"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 50-52: Chuẩn bị tiệc kỷ niệm thành lập công ty."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 53,
+    "group": "53-55",
+    "startTime": 612,
+    "endTime": 687,
+    "duration_fmt": "10:12 → 11:27",
+    "question": "What is the main purpose of the call?",
+    "transcript": "(Hội thoại nhóm 53-55)\nXác nhận lịch hẹn khám bệnh.",
+    "options": {
+      "A": "To change a reservation",
+      "B": "To cancel an appointment",
+      "C": "To request information",
+      "D": "To confirm a booking"
+    },
+    "answer": "D",
+    "explanation": "Xem hội thoại 53-55: Xác nhận lịch hẹn khám bệnh."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 54,
+    "group": "53-55",
+    "startTime": 612,
+    "endTime": 687,
+    "duration_fmt": "10:12 → 11:27",
+    "question": "When is the appointment scheduled?",
+    "transcript": "(Hội thoại nhóm 53-55)\nXác nhận lịch hẹn khám bệnh.",
+    "options": {
+      "A": "Monday at 2 PM",
+      "B": "Tuesday at 10 AM",
+      "C": "Wednesday at 3 PM",
+      "D": "Thursday at noon"
+    },
+    "answer": "B",
+    "explanation": "Xem hội thoại 53-55: Xác nhận lịch hẹn khám bệnh."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 55,
+    "group": "53-55",
+    "startTime": 612,
+    "endTime": 687,
+    "duration_fmt": "10:12 → 11:27",
+    "question": "What does the receptionist ask the caller to bring?",
+    "transcript": "(Hội thoại nhóm 53-55)\nXác nhận lịch hẹn khám bệnh.",
+    "options": {
+      "A": "Proof of insurance",
+      "B": "A referral letter",
+      "C": "Photo identification",
+      "D": "Medical records"
+    },
+    "answer": "C",
+    "explanation": "Xem hội thoại 53-55: Xác nhận lịch hẹn khám bệnh."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 56,
+    "group": "56-58",
+    "startTime": 688,
+    "endTime": 763,
+    "duration_fmt": "11:28 → 12:43",
+    "question": "What are the speakers talking about?",
+    "transcript": "(Hội thoại nhóm 56-58)\nLỗi tương thích hệ thống sau khi nâng cấp.",
+    "options": {
+      "A": "A construction project",
+      "B": "A new hire",
+      "C": "Office supplies",
+      "D": "A software update"
+    },
+    "answer": "D",
+    "explanation": "Xem hội thoại 56-58: Lỗi tương thích hệ thống sau khi nâng cấp."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 57,
+    "group": "56-58",
+    "startTime": 688,
+    "endTime": 763,
+    "duration_fmt": "11:28 → 12:43",
+    "question": "What issue are they experiencing?",
+    "transcript": "(Hội thoại nhóm 56-58)\nLỗi tương thích hệ thống sau khi nâng cấp.",
+    "options": {
+      "A": "Slow processing speed",
+      "B": "Compatibility errors",
+      "C": "Missing features",
+      "D": "Security vulnerabilities"
+    },
+    "answer": "B",
+    "explanation": "Xem hội thoại 56-58: Lỗi tương thích hệ thống sau khi nâng cấp."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 58,
+    "group": "56-58",
+    "startTime": 688,
+    "endTime": 763,
+    "duration_fmt": "11:28 → 12:43",
+    "question": "What does the man suggest they do?",
+    "transcript": "(Hội thoại nhóm 56-58)\nLỗi tương thích hệ thống sau khi nâng cấp.",
+    "options": {
+      "A": "Roll back to the previous version",
+      "B": "Contact technical support",
+      "C": "Reinstall the software",
+      "D": "Update the drivers"
+    },
+    "answer": "B",
+    "explanation": "Xem hội thoại 56-58: Lỗi tương thích hệ thống sau khi nâng cấp."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 59,
+    "group": "59-61",
+    "startTime": 764,
+    "endTime": 839,
+    "duration_fmt": "12:44 → 13:59",
+    "question": "Who most likely is the man?",
+    "transcript": "(Hội thoại nhóm 59-61)\nĐại lý du lịch tư vấn gói dịch vụ kỳ nghỉ.",
+    "options": {
+      "A": "A tour guide",
+      "B": "A hotel concierge",
+      "C": "A travel agent",
+      "D": "A taxi driver"
+    },
+    "answer": "C",
+    "explanation": "Xem hội thoại 59-61: Đại lý du lịch tư vấn gói dịch vụ kỳ nghỉ."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 60,
+    "group": "59-61",
+    "startTime": 764,
+    "endTime": 839,
+    "duration_fmt": "12:44 → 13:59",
+    "question": "What is the woman trying to plan?",
+    "transcript": "(Hội thoại nhóm 59-61)\nĐại lý du lịch tư vấn gói dịch vụ kỳ nghỉ.",
+    "options": {
+      "A": "A honeymoon trip",
+      "B": "A business conference",
+      "C": "A family vacation",
+      "D": "A solo adventure"
+    },
+    "answer": "C",
+    "explanation": "Xem hội thoại 59-61: Đại lý du lịch tư vấn gói dịch vụ kỳ nghỉ."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 61,
+    "group": "59-61",
+    "startTime": 764,
+    "endTime": 839,
+    "duration_fmt": "12:44 → 13:59",
+    "question": "What does the man recommend?",
+    "transcript": "(Hội thoại nhóm 59-61)\nĐại lý du lịch tư vấn gói dịch vụ kỳ nghỉ.",
+    "options": {
+      "A": "Booking early to save money",
+      "B": "Visiting during off-peak season",
+      "C": "Choosing a package deal",
+      "D": "Renting a car"
+    },
+    "answer": "C",
+    "explanation": "Xem hội thoại 59-61: Đại lý du lịch tư vấn gói dịch vụ kỳ nghỉ."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 62,
+    "group": "62-64",
+    "startTime": 840,
+    "endTime": 915,
+    "duration_fmt": "14:00 → 15:15",
+    "question": "What are the speakers discussing?",
+    "transcript": "(Hội thoại nhóm 62-64)\nĐề xuất bổ sung nhân sự cho dự án khẩn.",
+    "options": {
+      "A": "A research paper",
+      "B": "A business proposal",
+      "C": "A grant application",
+      "D": "A conference schedule"
+    },
+    "answer": "B",
+    "explanation": "Xem hội thoại 62-64: Đề xuất bổ sung nhân sự cho dự án khẩn."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 63,
+    "group": "62-64",
+    "startTime": 840,
+    "endTime": 915,
+    "duration_fmt": "14:00 → 15:15",
+    "question": "What concern does the woman raise?",
+    "transcript": "(Hội thoại nhóm 62-64)\nĐề xuất bổ sung nhân sự cho dự án khẩn.",
+    "options": {
+      "A": "The budget is too high",
+      "B": "The timeline is too short",
+      "C": "The team lacks experience",
+      "D": "The client may decline"
+    },
+    "answer": "B",
+    "explanation": "Xem hội thoại 62-64: Đề xuất bổ sung nhân sự cho dự án khẩn."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 64,
+    "group": "62-64",
+    "startTime": 840,
+    "endTime": 915,
+    "duration_fmt": "14:00 → 15:15",
+    "question": "What does the man propose to address the concern?",
+    "transcript": "(Hội thoại nhóm 62-64)\nĐề xuất bổ sung nhân sự cho dự án khẩn.",
+    "options": {
+      "A": "Hiring additional staff",
+      "B": "Revising the timeline",
+      "C": "Reducing the scope",
+      "D": "Seeking outside expertise"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 62-64: Đề xuất bổ sung nhân sự cho dự án khẩn."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 65,
+    "group": "65-67",
+    "startTime": 916,
+    "endTime": 991,
+    "duration_fmt": "15:16 → 16:31",
+    "question": "Where are the speakers?",
+    "transcript": "(Hội thoại nhóm 65-67)\nTư vấn chi phí chi trả bảo hiểm y tế.",
+    "options": {
+      "A": "At a medical clinic",
+      "B": "At a pharmacy",
+      "C": "At a dental office",
+      "D": "At a hospital"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 65-67: Tư vấn chi phí chi trả bảo hiểm y tế."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 66,
+    "group": "65-67",
+    "startTime": 916,
+    "endTime": 991,
+    "duration_fmt": "15:16 → 16:31",
+    "question": "What is the patient concerned about?",
+    "transcript": "(Hội thoại nhóm 65-67)\nTư vấn chi phí chi trả bảo hiểm y tế.",
+    "options": {
+      "A": "The treatment cost",
+      "B": "Side effects of medication",
+      "C": "The appointment duration",
+      "D": "Insurance coverage"
+    },
+    "answer": "D",
+    "explanation": "Xem hội thoại 65-67: Tư vấn chi phí chi trả bảo hiểm y tế."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 67,
+    "group": "65-67",
+    "startTime": 916,
+    "endTime": 991,
+    "duration_fmt": "15:16 → 16:31",
+    "question": "What does the doctor advise?",
+    "transcript": "(Hội thoại nhóm 65-67)\nTư vấn chi phí chi trả bảo hiểm y tế.",
+    "options": {
+      "A": "Schedule a follow-up appointment",
+      "B": "Take the medication twice daily",
+      "C": "Contact the insurance provider",
+      "D": "Get a second opinion"
+    },
+    "answer": "C",
+    "explanation": "Xem hội thoại 65-67: Tư vấn chi phí chi trả bảo hiểm y tế."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 68,
+    "group": "68-70",
+    "startTime": 992,
+    "endTime": 1067,
+    "duration_fmt": "16:32 → 17:47",
+    "question": "What department do the speakers work in?",
+    "transcript": "(Hội thoại nhóm 68-70)\nHọp nhân sự phổ biến quy định làm việc mới.",
+    "options": {
+      "A": "Human Resources",
+      "B": "Marketing",
+      "C": "Finance",
+      "D": "Operations"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 68-70: Họp nhân sự phổ biến quy định làm việc mới."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 69,
+    "group": "68-70",
+    "startTime": 992,
+    "endTime": 1067,
+    "duration_fmt": "16:32 → 17:47",
+    "question": "What policy change are they discussing?",
+    "transcript": "(Hội thoại nhóm 68-70)\nHọp nhân sự phổ biến quy định làm việc mới.",
+    "options": {
+      "A": "Remote work guidelines",
+      "B": "Expense reimbursement",
+      "C": "Vacation accrual",
+      "D": "Performance bonuses"
+    },
+    "answer": "C",
+    "explanation": "Xem hội thoại 68-70: Họp nhân sự phổ biến quy định làm việc mới."
+  },
+  {
+    "part": "Part 3 – Conversations",
+    "id": 70,
+    "group": "68-70",
+    "startTime": 992,
+    "endTime": 1067,
+    "duration_fmt": "16:32 → 17:47",
+    "question": "What does the woman say will happen next week?",
+    "transcript": "(Hội thoại nhóm 68-70)\nHọp nhân sự phổ biến quy định làm việc mới.",
+    "options": {
+      "A": "A staff meeting will be held",
+      "B": "A memo will be distributed",
+      "C": "New forms will be available",
+      "D": "Training sessions will begin"
+    },
+    "answer": "A",
+    "explanation": "Xem hội thoại 68-70: Họp nhân sự phổ biến quy định làm việc mới."
+  }
+]

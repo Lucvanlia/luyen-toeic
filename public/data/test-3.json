@@ -1,0 +1,3216 @@
+{
+  "id": "bai-on-3",
+  "title": "Bài Ôn Tập 3",
+  "testNumber": 3,
+  "durationMinutes": 120,
+  "totalQuestions": 200,
+  "parts": {
+    "part1": {
+      "name": "Part 1 - Photographs",
+      "description": "Nghe 4 mô tả về hình ảnh và chọn mô tả đúng nhất.",
+      "questionCount": 6,
+      "audio": "public/assets/bai-on-3/audio/PART 1 - TEST 3.mp3",
+      "questions": [
+        {
+          "id": 1,
+          "image": "public/assets/bai-on-3/listening/part1_q1.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "B",
+          "category": "Tranh tả một người",
+          "startTime": 95,
+          "endTime": 125,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 1 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 2,
+          "image": "public/assets/bai-on-3/listening/part1_q2.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "category": "Tranh tả nhiều người",
+          "startTime": 125,
+          "endTime": 155,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 2 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 3,
+          "image": "public/assets/bai-on-3/listening/part1_q3.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "C",
+          "category": "Tranh tả nhiều người",
+          "startTime": 155,
+          "endTime": 185,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 3 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 4,
+          "image": "public/assets/bai-on-3/listening/part1_q4.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "D",
+          "category": "Tranh tả vật",
+          "startTime": 185,
+          "endTime": 215,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 4 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 5,
+          "image": "public/assets/bai-on-3/listening/part1_q5.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "category": "Tranh tả một người",
+          "startTime": 215,
+          "endTime": 245,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 5 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 6,
+          "image": "public/assets/bai-on-3/listening/part1_q6.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "B",
+          "category": "Tranh tả vật",
+          "startTime": 245,
+          "endTime": 275,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 6 và chọn mô tả đúng nhất."
+        }
+      ]
+    },
+    "part2": {
+      "name": "Part 2 - Question-Response",
+      "description": "Nghe câu hỏi và chọn câu trả lời phù hợp nhất.",
+      "questionCount": 25,
+      "audio": "public/assets/bai-on-3/audio/PART 2 - TEST 3.mp3",
+      "questions": [
+        {
+          "id": 7,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 80,
+          "endTime": 92,
+          "text": "Where are the quarterly reports filed?",
+          "transcript": "Where are the quarterly reports filed?\nA. In the cabinet by the window.\nB. Yes, they were.\nC. Last month.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 8,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "B",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 94,
+          "endTime": 106,
+          "text": "When does the meeting start?",
+          "transcript": "When does the meeting start?\nA. In Conference Room B.\nB. At 3 PM sharp.\nC. With the manager.",
+          "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 9,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 108,
+          "endTime": 120,
+          "text": "Who handles the IT support requests?",
+          "transcript": "Who handles the IT support requests?\nA. Mark from the tech team.\nB. On the second floor.\nC. Next week.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 10,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 122,
+          "endTime": 134,
+          "text": "Did you finish the project proposal?",
+          "transcript": "Did you finish the project proposal?\nA. Yes, I sent it this morning.\nB. The proposal guidelines.\nC. To the client.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 11,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "B",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 136,
+          "endTime": 148,
+          "text": "Why is the office closed today?",
+          "transcript": "Why is the office closed today?\nA. Gate 3.\nB. A national holiday.\nC. For two hours.",
+          "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 12,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 150,
+          "endTime": 162,
+          "text": "Would you like coffee or tea?",
+          "transcript": "Would you like coffee or tea?\nA. Tea, please.\nB. Yes, I do.\nC. On the table.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 13,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 164,
+          "endTime": 176,
+          "text": "Can you tell me how to get to the reception?",
+          "transcript": "Can you tell me how to get to the reception?\nA. Turn left at the elevator.\nB. Yes, I can.\nC. The reception is busy.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 14,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 178,
+          "endTime": 190,
+          "text": "Could you review this contract by Friday?",
+          "transcript": "Could you review this contract by Friday?\nA. Yes, I'll do it this afternoon.\nB. On Friday morning.\nC. A new contract.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 15,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 192,
+          "endTime": 204,
+          "text": "What is the main topic of today's presentation?",
+          "transcript": "What is the main topic of today's presentation?\nA. Our new product launch strategy.\nB. At 10 AM.\nC. The conference room.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 16,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 206,
+          "endTime": 218,
+          "text": "How long have you been working here?",
+          "transcript": "How long have you been working here?\nA. For about three years.\nB. On the fourth floor.\nC. Yes, since last year.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 17,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 220,
+          "endTime": 232,
+          "text": "Is the printer on the second floor available?",
+          "transcript": "Is the printer on the second floor available?\nA. Yes, it was just repaired.\nB. Near the copy machine.\nC. It prints in color.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 18,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 234,
+          "endTime": 246,
+          "text": "Who approved the budget for the new project?",
+          "transcript": "Who approved the budget for the new project?\nA. The director of finance.\nB. Last Tuesday.\nC. In the main conference room.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 19,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 248,
+          "endTime": 260,
+          "text": "When will the new employee orientation be held?",
+          "transcript": "When will the new employee orientation be held?\nA. Next Monday morning.\nB. In the large hall.\nC. Three new employees.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 20,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 262,
+          "endTime": 274,
+          "text": "Why didn't you attend the team lunch?",
+          "transcript": "Why didn't you attend the team lunch?\nA. I had an urgent client call.\nB. At the Italian restaurant.\nC. Fifteen people went.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 21,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 276,
+          "endTime": 288,
+          "text": "Could someone help me move these boxes?",
+          "transcript": "Could someone help me move these boxes?\nA. Sure, I have a few minutes.\nB. They are heavy.\nC. Near the storage room.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 22,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "B",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 290,
+          "endTime": 302,
+          "text": "What time does the last train depart?",
+          "transcript": "What time does the last train depart?\nA. From Platform 5.\nB. At 10:45 PM.\nC. It departs daily.",
+          "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 23,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 304,
+          "endTime": 316,
+          "text": "Has the new policy been distributed yet?",
+          "transcript": "Has the new policy been distributed yet?\nA. No, it will go out tomorrow.\nB. The HR department handles it.\nC. Three new policies.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 24,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 318,
+          "endTime": 330,
+          "text": "Where should I send the signed documents?",
+          "transcript": "Where should I send the signed documents?\nA. To the legal department.\nB. Yes, you should sign them.\nC. Two copies are needed.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 25,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 332,
+          "endTime": 344,
+          "text": "Would you mind showing me the way to parking?",
+          "transcript": "Would you mind showing me the way to parking?\nA. It's on the basement level.\nB. Yes, I would.\nC. We park on weekdays.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 26,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 346,
+          "endTime": 358,
+          "text": "Who is in charge of the client account?",
+          "transcript": "Who is in charge of the client account?\nA. Ms. Park from sales.\nB. Downtown office.\nC. Since last quarter.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 27,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 360,
+          "endTime": 372,
+          "text": "Did the suppliers confirm the delivery date?",
+          "transcript": "Did the suppliers confirm the delivery date?\nA. Yes, it will arrive Thursday.\nB. The delivery is free.\nC. Two suppliers called.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 28,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 374,
+          "endTime": 386,
+          "text": "How are we tracking the project milestones?",
+          "transcript": "How are we tracking the project milestones?\nA. Using the new software tool.\nB. Twice a week.\nC. The project manager does.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 29,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 388,
+          "endTime": 400,
+          "text": "Is the annual performance review tomorrow?",
+          "transcript": "Is the annual performance review tomorrow?\nA. No, it was postponed to next week.\nB. Performance data.\nC. Yes, it reviews annually.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 30,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 402,
+          "endTime": 414,
+          "text": "Why was the client presentation rescheduled?",
+          "transcript": "Why was the client presentation rescheduled?\nA. The client requested more time.\nB. In the boardroom.\nC. Four slides were added.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 31,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 416,
+          "endTime": 428,
+          "text": "Would you like me to draft the email?",
+          "transcript": "Would you like me to draft the email?\nA. That would be great, thank you.\nB. An email was sent.\nC. Draft the report first.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        }
+      ]
+    },
+    "part3": {
+      "name": "Part 3 - Conversations",
+      "description": "Nghe hội thoại và trả lời các câu hỏi liên quan.",
+      "questionCount": 39,
+      "audio": "public/assets/bai-on-3/audio/PART 3 - TEST 3.mp3",
+      "questions": [
+        {
+          "id": 32,
+          "text": "What is the conversation mainly about?",
+          "options": [
+            "A. A job interview",
+            "B. An office relocation",
+            "C. A product launch",
+            "D. A budget review"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 80,
+          "endTime": 155,
+          "group": "32-34",
+          "transcript": "(Hội thoại nhóm 32-34)\nHội thoại thảo luận về di chuyển văn phòng.",
+          "explanation": "Xem hội thoại 32-34: Hội thoại thảo luận về di chuyển văn phòng."
+        },
+        {
+          "id": 33,
+          "text": "Where will the new office be located?",
+          "options": [
+            "A. Downtown",
+            "B. Near the airport",
+            "C. In the suburbs",
+            "D. Across from the park"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 80,
+          "endTime": 155,
+          "group": "32-34",
+          "transcript": "(Hội thoại nhóm 32-34)\nHội thoại thảo luận về di chuyển văn phòng.",
+          "explanation": "Xem hội thoại 32-34: Hội thoại thảo luận về di chuyển văn phòng."
+        },
+        {
+          "id": 34,
+          "text": "What will the woman do next?",
+          "options": [
+            "A. Contact the moving company",
+            "B. Send an email to staff",
+            "C. Meet with the landlord",
+            "D. Review the contract"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 80,
+          "endTime": 155,
+          "group": "32-34",
+          "transcript": "(Hội thoại nhóm 32-34)\nHội thoại thảo luận về di chuyển văn phòng.",
+          "explanation": "Xem hội thoại 32-34: Hội thoại thảo luận về di chuyển văn phòng."
+        },
+        {
+          "id": 35,
+          "text": "What is the man concerned about?",
+          "options": [
+            "A. Shipment delays",
+            "B. Quality issues",
+            "C. High prices",
+            "D. Staff shortage"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 156,
+          "endTime": 231,
+          "group": "35-37",
+          "transcript": "(Hội thoại nhóm 35-37)\nThảo luận về trễ chuyến hàng từ đối tác.",
+          "explanation": "Xem hội thoại 35-37: Thảo luận về trễ chuyến hàng từ đối tác."
+        },
+        {
+          "id": 36,
+          "text": "What does the woman suggest?",
+          "options": [
+            "A. Switching suppliers",
+            "B. Increasing the order",
+            "C. Filing a complaint",
+            "D. Extending the deadline"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 156,
+          "endTime": 231,
+          "group": "35-37",
+          "transcript": "(Hội thoại nhóm 35-37)\nThảo luận về trễ chuyến hàng từ đối tác.",
+          "explanation": "Xem hội thoại 35-37: Thảo luận về trễ chuyến hàng từ đối tác."
+        },
+        {
+          "id": 37,
+          "text": "When does the order need to arrive?",
+          "options": [
+            "A. By end of next week",
+            "B. Tomorrow morning",
+            "C. Within two days",
+            "D. By the end of the month"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 156,
+          "endTime": 231,
+          "group": "35-37",
+          "transcript": "(Hội thoại nhóm 35-37)\nThảo luận về trễ chuyến hàng từ đối tác.",
+          "explanation": "Xem hội thoại 35-37: Thảo luận về trễ chuyến hàng từ đối tác."
+        },
+        {
+          "id": 38,
+          "text": "Where does this conversation take place?",
+          "options": [
+            "A. At a restaurant",
+            "B. At a hotel",
+            "C. At an airport",
+            "D. At a train station"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 232,
+          "endTime": 307,
+          "group": "38-40",
+          "transcript": "(Hội thoại nhóm 38-40)\nKhách hàng gia hạn phòng tại khách sạn.",
+          "explanation": "Xem hội thoại 38-40: Khách hàng gia hạn phòng tại khách sạn."
+        },
+        {
+          "id": 39,
+          "text": "What does the guest request?",
+          "options": [
+            "A. A late checkout",
+            "B. Room service",
+            "C. Extra towels",
+            "D. A taxi reservation"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 232,
+          "endTime": 307,
+          "group": "38-40",
+          "transcript": "(Hội thoại nhóm 38-40)\nKhách hàng gia hạn phòng tại khách sạn.",
+          "explanation": "Xem hội thoại 38-40: Khách hàng gia hạn phòng tại khách sạn."
+        },
+        {
+          "id": 40,
+          "text": "What will the staff member do?",
+          "options": [
+            "A. Contact housekeeping",
+            "B. Call a cab company",
+            "C. Process an extension",
+            "D. Bring a menu"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 232,
+          "endTime": 307,
+          "group": "38-40",
+          "transcript": "(Hội thoại nhóm 38-40)\nKhách hàng gia hạn phòng tại khách sạn.",
+          "explanation": "Xem hội thoại 38-40: Khách hàng gia hạn phòng tại khách sạn."
+        },
+        {
+          "id": 41,
+          "text": "What are the speakers discussing?",
+          "options": [
+            "A. A marketing campaign",
+            "B. A sales report",
+            "C. A training session",
+            "D. A team outing"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 308,
+          "endTime": 383,
+          "group": "41-43",
+          "transcript": "(Hội thoại nhóm 41-43)\nBàn thảo chiến dịch tiếp thị sản phẩm mới.",
+          "explanation": "Xem hội thoại 41-43: Bàn thảo chiến dịch tiếp thị sản phẩm mới."
+        },
+        {
+          "id": 42,
+          "text": "Who will give the presentation?",
+          "options": [
+            "A. The department head",
+            "B. A new employee",
+            "C. An external consultant",
+            "D. The woman"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 308,
+          "endTime": 383,
+          "group": "41-43",
+          "transcript": "(Hội thoại nhóm 41-43)\nBàn thảo chiến dịch tiếp thị sản phẩm mới.",
+          "explanation": "Xem hội thoại 41-43: Bàn thảo chiến dịch tiếp thị sản phẩm mới."
+        },
+        {
+          "id": 43,
+          "text": "What does the man offer to do?",
+          "options": [
+            "A. Prepare slides",
+            "B. Send invitations",
+            "C. Book a venue",
+            "D. Create a handout"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 308,
+          "endTime": 383,
+          "group": "41-43",
+          "transcript": "(Hội thoại nhóm 41-43)\nBàn thảo chiến dịch tiếp thị sản phẩm mới.",
+          "explanation": "Xem hội thoại 41-43: Bàn thảo chiến dịch tiếp thị sản phẩm mới."
+        },
+        {
+          "id": 44,
+          "text": "What problem does the caller report?",
+          "options": [
+            "A. A billing error",
+            "B. A lost package",
+            "C. A damaged item",
+            "D. An incorrect order"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 384,
+          "endTime": 459,
+          "group": "44-46",
+          "transcript": "(Hội thoại nhóm 44-46)\nBáo cáo sản phẩm hư hỏng và phương án đổi trả.",
+          "explanation": "Xem hội thoại 44-46: Báo cáo sản phẩm hư hỏng và phương án đổi trả."
+        },
+        {
+          "id": 45,
+          "text": "What does the representative offer?",
+          "options": [
+            "A. A full refund",
+            "B. A replacement shipment",
+            "C. A discount code",
+            "D. A store credit"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 384,
+          "endTime": 459,
+          "group": "44-46",
+          "transcript": "(Hội thoại nhóm 44-46)\nBáo cáo sản phẩm hư hỏng và phương án đổi trả.",
+          "explanation": "Xem hội thoại 44-46: Báo cáo sản phẩm hư hỏng và phương án đổi trả."
+        },
+        {
+          "id": 46,
+          "text": "What will the caller need to do?",
+          "options": [
+            "A. Visit the nearest store",
+            "B. Fill out a form online",
+            "C. Return the damaged item",
+            "D. Send photos by email"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 384,
+          "endTime": 459,
+          "group": "44-46",
+          "transcript": "(Hội thoại nhóm 44-46)\nBáo cáo sản phẩm hư hỏng và phương án đổi trả.",
+          "explanation": "Xem hội thoại 44-46: Báo cáo sản phẩm hư hỏng và phương án đổi trả."
+        },
+        {
+          "id": 47,
+          "text": "What type of business is being discussed?",
+          "options": [
+            "A. A bookstore",
+            "B. A coffee shop",
+            "C. A fitness center",
+            "D. A pharmacy"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 460,
+          "endTime": 535,
+          "group": "47-49",
+          "transcript": "(Hội thoại nhóm 47-49)\nTư vấn khóa học thể thao nhóm.",
+          "explanation": "Xem hội thoại 47-49: Tư vấn khóa học thể thao nhóm."
+        },
+        {
+          "id": 48,
+          "text": "What is the woman interested in?",
+          "options": [
+            "A. A membership plan",
+            "B. Personal training sessions",
+            "C. A nutrition program",
+            "D. Group classes"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 460,
+          "endTime": 535,
+          "group": "47-49",
+          "transcript": "(Hội thoại nhóm 47-49)\nTư vấn khóa học thể thao nhóm.",
+          "explanation": "Xem hội thoại 47-49: Tư vấn khóa học thể thao nhóm."
+        },
+        {
+          "id": 49,
+          "text": "What will the woman most likely do next?",
+          "options": [
+            "A. Sign up for a trial",
+            "B. Call for more information",
+            "C. Visit the website",
+            "D. Schedule a tour"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 460,
+          "endTime": 535,
+          "group": "47-49",
+          "transcript": "(Hội thoại nhóm 47-49)\nTư vấn khóa học thể thao nhóm.",
+          "explanation": "Xem hội thoại 47-49: Tư vấn khóa học thể thao nhóm."
+        },
+        {
+          "id": 50,
+          "text": "What event is the speakers preparing for?",
+          "options": [
+            "A. A company anniversary party",
+            "B. A product demonstration",
+            "C. A job fair",
+            "D. A board meeting"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 536,
+          "endTime": 611,
+          "group": "50-52",
+          "transcript": "(Hội thoại nhóm 50-52)\nChuẩn bị tiệc kỷ niệm thành lập công ty.",
+          "explanation": "Xem hội thoại 50-52: Chuẩn bị tiệc kỷ niệm thành lập công ty."
+        },
+        {
+          "id": 51,
+          "text": "How many people are expected to attend?",
+          "options": [
+            "A. Around 50",
+            "B. About 200",
+            "C. Over 500",
+            "D. Fewer than 30"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 536,
+          "endTime": 611,
+          "group": "50-52",
+          "transcript": "(Hội thoại nhóm 50-52)\nChuẩn bị tiệc kỷ niệm thành lập công ty.",
+          "explanation": "Xem hội thoại 50-52: Chuẩn bị tiệc kỷ niệm thành lập công ty."
+        },
+        {
+          "id": 52,
+          "text": "What still needs to be arranged?",
+          "options": [
+            "A. Catering",
+            "B. Venue booking",
+            "C. Invitations",
+            "D. Decorations"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 536,
+          "endTime": 611,
+          "group": "50-52",
+          "transcript": "(Hội thoại nhóm 50-52)\nChuẩn bị tiệc kỷ niệm thành lập công ty.",
+          "explanation": "Xem hội thoại 50-52: Chuẩn bị tiệc kỷ niệm thành lập công ty."
+        },
+        {
+          "id": 53,
+          "text": "What is the main purpose of the call?",
+          "options": [
+            "A. To change a reservation",
+            "B. To cancel an appointment",
+            "C. To request information",
+            "D. To confirm a booking"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 612,
+          "endTime": 687,
+          "group": "53-55",
+          "transcript": "(Hội thoại nhóm 53-55)\nXác nhận lịch hẹn khám bệnh.",
+          "explanation": "Xem hội thoại 53-55: Xác nhận lịch hẹn khám bệnh."
+        },
+        {
+          "id": 54,
+          "text": "When is the appointment scheduled?",
+          "options": [
+            "A. Monday at 2 PM",
+            "B. Tuesday at 10 AM",
+            "C. Wednesday at 3 PM",
+            "D. Thursday at noon"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 612,
+          "endTime": 687,
+          "group": "53-55",
+          "transcript": "(Hội thoại nhóm 53-55)\nXác nhận lịch hẹn khám bệnh.",
+          "explanation": "Xem hội thoại 53-55: Xác nhận lịch hẹn khám bệnh."
+        },
+        {
+          "id": 55,
+          "text": "What does the receptionist ask the caller to bring?",
+          "options": [
+            "A. Proof of insurance",
+            "B. A referral letter",
+            "C. Photo identification",
+            "D. Medical records"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 612,
+          "endTime": 687,
+          "group": "53-55",
+          "transcript": "(Hội thoại nhóm 53-55)\nXác nhận lịch hẹn khám bệnh.",
+          "explanation": "Xem hội thoại 53-55: Xác nhận lịch hẹn khám bệnh."
+        },
+        {
+          "id": 56,
+          "text": "What are the speakers talking about?",
+          "options": [
+            "A. A construction project",
+            "B. A new hire",
+            "C. Office supplies",
+            "D. A software update"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 688,
+          "endTime": 763,
+          "group": "56-58",
+          "transcript": "(Hội thoại nhóm 56-58)\nLỗi tương thích hệ thống sau khi nâng cấp.",
+          "explanation": "Xem hội thoại 56-58: Lỗi tương thích hệ thống sau khi nâng cấp."
+        },
+        {
+          "id": 57,
+          "text": "What issue are they experiencing?",
+          "options": [
+            "A. Slow processing speed",
+            "B. Compatibility errors",
+            "C. Missing features",
+            "D. Security vulnerabilities"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 688,
+          "endTime": 763,
+          "group": "56-58",
+          "transcript": "(Hội thoại nhóm 56-58)\nLỗi tương thích hệ thống sau khi nâng cấp.",
+          "explanation": "Xem hội thoại 56-58: Lỗi tương thích hệ thống sau khi nâng cấp."
+        },
+        {
+          "id": 58,
+          "text": "What does the man suggest they do?",
+          "options": [
+            "A. Roll back to the previous version",
+            "B. Contact technical support",
+            "C. Reinstall the software",
+            "D. Update the drivers"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 688,
+          "endTime": 763,
+          "group": "56-58",
+          "transcript": "(Hội thoại nhóm 56-58)\nLỗi tương thích hệ thống sau khi nâng cấp.",
+          "explanation": "Xem hội thoại 56-58: Lỗi tương thích hệ thống sau khi nâng cấp."
+        },
+        {
+          "id": 59,
+          "text": "Who most likely is the man?",
+          "options": [
+            "A. A tour guide",
+            "B. A hotel concierge",
+            "C. A travel agent",
+            "D. A taxi driver"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 764,
+          "endTime": 839,
+          "group": "59-61",
+          "transcript": "(Hội thoại nhóm 59-61)\nĐại lý du lịch tư vấn gói dịch vụ kỳ nghỉ.",
+          "explanation": "Xem hội thoại 59-61: Đại lý du lịch tư vấn gói dịch vụ kỳ nghỉ."
+        },
+        {
+          "id": 60,
+          "text": "What is the woman trying to plan?",
+          "options": [
+            "A. A honeymoon trip",
+            "B. A business conference",
+            "C. A family vacation",
+            "D. A solo adventure"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 764,
+          "endTime": 839,
+          "group": "59-61",
+          "transcript": "(Hội thoại nhóm 59-61)\nĐại lý du lịch tư vấn gói dịch vụ kỳ nghỉ.",
+          "explanation": "Xem hội thoại 59-61: Đại lý du lịch tư vấn gói dịch vụ kỳ nghỉ."
+        },
+        {
+          "id": 61,
+          "text": "What does the man recommend?",
+          "options": [
+            "A. Booking early to save money",
+            "B. Visiting during off-peak season",
+            "C. Choosing a package deal",
+            "D. Renting a car"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 764,
+          "endTime": 839,
+          "group": "59-61",
+          "transcript": "(Hội thoại nhóm 59-61)\nĐại lý du lịch tư vấn gói dịch vụ kỳ nghỉ.",
+          "explanation": "Xem hội thoại 59-61: Đại lý du lịch tư vấn gói dịch vụ kỳ nghỉ."
+        },
+        {
+          "id": 62,
+          "text": "What are the speakers discussing?",
+          "options": [
+            "A. A research paper",
+            "B. A business proposal",
+            "C. A grant application",
+            "D. A conference schedule"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 840,
+          "endTime": 915,
+          "group": "62-64",
+          "transcript": "(Hội thoại nhóm 62-64)\nĐề xuất bổ sung nhân sự cho dự án khẩn.",
+          "explanation": "Xem hội thoại 62-64: Đề xuất bổ sung nhân sự cho dự án khẩn."
+        },
+        {
+          "id": 63,
+          "text": "What concern does the woman raise?",
+          "options": [
+            "A. The budget is too high",
+            "B. The timeline is too short",
+            "C. The team lacks experience",
+            "D. The client may decline"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 840,
+          "endTime": 915,
+          "group": "62-64",
+          "transcript": "(Hội thoại nhóm 62-64)\nĐề xuất bổ sung nhân sự cho dự án khẩn.",
+          "explanation": "Xem hội thoại 62-64: Đề xuất bổ sung nhân sự cho dự án khẩn."
+        },
+        {
+          "id": 64,
+          "text": "What does the man propose to address the concern?",
+          "options": [
+            "A. Hiring additional staff",
+            "B. Revising the timeline",
+            "C. Reducing the scope",
+            "D. Seeking outside expertise"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 840,
+          "endTime": 915,
+          "group": "62-64",
+          "transcript": "(Hội thoại nhóm 62-64)\nĐề xuất bổ sung nhân sự cho dự án khẩn.",
+          "explanation": "Xem hội thoại 62-64: Đề xuất bổ sung nhân sự cho dự án khẩn."
+        },
+        {
+          "id": 65,
+          "text": "Where are the speakers?",
+          "options": [
+            "A. At a medical clinic",
+            "B. At a pharmacy",
+            "C. At a dental office",
+            "D. At a hospital"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 916,
+          "endTime": 991,
+          "group": "65-67",
+          "transcript": "(Hội thoại nhóm 65-67)\nTư vấn chi phí chi trả bảo hiểm y tế.",
+          "explanation": "Xem hội thoại 65-67: Tư vấn chi phí chi trả bảo hiểm y tế."
+        },
+        {
+          "id": 66,
+          "text": "What is the patient concerned about?",
+          "options": [
+            "A. The treatment cost",
+            "B. Side effects of medication",
+            "C. The appointment duration",
+            "D. Insurance coverage"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 916,
+          "endTime": 991,
+          "group": "65-67",
+          "transcript": "(Hội thoại nhóm 65-67)\nTư vấn chi phí chi trả bảo hiểm y tế.",
+          "explanation": "Xem hội thoại 65-67: Tư vấn chi phí chi trả bảo hiểm y tế."
+        },
+        {
+          "id": 67,
+          "text": "What does the doctor advise?",
+          "options": [
+            "A. Schedule a follow-up appointment",
+            "B. Take the medication twice daily",
+            "C. Contact the insurance provider",
+            "D. Get a second opinion"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 916,
+          "endTime": 991,
+          "group": "65-67",
+          "transcript": "(Hội thoại nhóm 65-67)\nTư vấn chi phí chi trả bảo hiểm y tế.",
+          "explanation": "Xem hội thoại 65-67: Tư vấn chi phí chi trả bảo hiểm y tế."
+        },
+        {
+          "id": 68,
+          "text": "What department do the speakers work in?",
+          "options": [
+            "A. Human Resources",
+            "B. Marketing",
+            "C. Finance",
+            "D. Operations"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 992,
+          "endTime": 1067,
+          "group": "68-70",
+          "transcript": "(Hội thoại nhóm 68-70)\nHọp nhân sự phổ biến quy định làm việc mới.",
+          "explanation": "Xem hội thoại 68-70: Họp nhân sự phổ biến quy định làm việc mới."
+        },
+        {
+          "id": 69,
+          "text": "What policy change are they discussing?",
+          "options": [
+            "A. Remote work guidelines",
+            "B. Expense reimbursement",
+            "C. Vacation accrual",
+            "D. Performance bonuses"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 992,
+          "endTime": 1067,
+          "group": "68-70",
+          "transcript": "(Hội thoại nhóm 68-70)\nHọp nhân sự phổ biến quy định làm việc mới.",
+          "explanation": "Xem hội thoại 68-70: Họp nhân sự phổ biến quy định làm việc mới."
+        },
+        {
+          "id": 70,
+          "text": "What does the woman say will happen next week?",
+          "options": [
+            "A. A staff meeting will be held",
+            "B. A memo will be distributed",
+            "C. New forms will be available",
+            "D. Training sessions will begin"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 992,
+          "endTime": 1067,
+          "group": "68-70",
+          "transcript": "(Hội thoại nhóm 68-70)\nHọp nhân sự phổ biến quy định làm việc mới.",
+          "explanation": "Xem hội thoại 68-70: Họp nhân sự phổ biến quy định làm việc mới."
+        }
+      ]
+    },
+    "part4": {
+      "name": "Part 4 - Talks",
+      "description": "Nghe bài nói và trả lời các câu hỏi liên quan.",
+      "questionCount": 30,
+      "audio": "public/assets/bai-on-3/audio/PART 4 - TEST 3.mp3",
+      "questions": [
+        {
+          "id": 71,
+          "text": "Where is the announcement being made?",
+          "options": [
+            "A. At a subway station",
+            "B. At an airport",
+            "C. At a bus terminal",
+            "D. At a shopping mall"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 50,
+          "endTime": 120,
+          "group": "71-73",
+          "transcript": "(Bài nói nhóm 71-73)\nThông báo delay chuyến bay tại sân bay.",
+          "explanation": "Xem bài nói 71-73: Thông báo delay chuyến bay tại sân bay."
+        },
+        {
+          "id": 72,
+          "text": "What is the cause of the delay?",
+          "options": [
+            "A. Weather conditions",
+            "B. Technical maintenance",
+            "C. Staff shortage",
+            "D. Security screening"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 50,
+          "endTime": 120,
+          "group": "71-73",
+          "transcript": "(Bài nói nhóm 71-73)\nThông báo delay chuyến bay tại sân bay.",
+          "explanation": "Xem bài nói 71-73: Thông báo delay chuyến bay tại sân bay."
+        },
+        {
+          "id": 73,
+          "text": "What are passengers asked to do?",
+          "options": [
+            "A. Proceed to another gate",
+            "B. Claim their baggage",
+            "C. Wait for further updates",
+            "D. Contact customer service"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 50,
+          "endTime": 120,
+          "group": "71-73",
+          "transcript": "(Bài nói nhóm 71-73)\nThông báo delay chuyến bay tại sân bay.",
+          "explanation": "Xem bài nói 71-73: Thông báo delay chuyến bay tại sân bay."
+        },
+        {
+          "id": 74,
+          "text": "Who is the intended audience?",
+          "options": [
+            "A. New employees",
+            "B. Senior managers",
+            "C. External clients",
+            "D. Department heads"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 121,
+          "endTime": 191,
+          "group": "74-76",
+          "transcript": "(Bài nói nhóm 74-76)\nBuổi định hướng nhân viên mới.",
+          "explanation": "Xem bài nói 74-76: Buổi định hướng nhân viên mới."
+        },
+        {
+          "id": 75,
+          "text": "What is the main topic of the talk?",
+          "options": [
+            "A. Company history",
+            "B. Employee benefits",
+            "C. Office safety procedures",
+            "D. Onboarding orientation"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 121,
+          "endTime": 191,
+          "group": "74-76",
+          "transcript": "(Bài nói nhóm 74-76)\nBuổi định hướng nhân viên mới.",
+          "explanation": "Xem bài nói 74-76: Buổi định hướng nhân viên mới."
+        },
+        {
+          "id": 76,
+          "text": "What will happen after the talk?",
+          "options": [
+            "A. A tour of the building",
+            "B. A written test",
+            "C. A Q&A session",
+            "D. A meet-and-greet"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 121,
+          "endTime": 191,
+          "group": "74-76",
+          "transcript": "(Bài nói nhóm 74-76)\nBuổi định hướng nhân viên mới.",
+          "explanation": "Xem bài nói 74-76: Buổi định hướng nhân viên mới."
+        },
+        {
+          "id": 77,
+          "text": "What product is being advertised?",
+          "options": [
+            "A. A kitchen appliance",
+            "B. A financial service",
+            "C. A fitness app",
+            "D. A cleaning product"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 192,
+          "endTime": 262,
+          "group": "77-79",
+          "transcript": "(Bài nói nhóm 77-79)\nQuảng cáo ứng dụng tập thể dục.",
+          "explanation": "Xem bài nói 77-79: Quảng cáo ứng dụng tập thể dục."
+        },
+        {
+          "id": 78,
+          "text": "What special offer is mentioned?",
+          "options": [
+            "A. A free trial period",
+            "B. A discounted annual plan",
+            "C. A buy-one-get-one deal",
+            "D. A loyalty reward"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 192,
+          "endTime": 262,
+          "group": "77-79",
+          "transcript": "(Bài nói nhóm 77-79)\nQuảng cáo ứng dụng tập thể dục.",
+          "explanation": "Xem bài nói 77-79: Quảng cáo ứng dụng tập thể dục."
+        },
+        {
+          "id": 79,
+          "text": "How can listeners sign up?",
+          "options": [
+            "A. Via the company website",
+            "B. By calling a hotline",
+            "C. At a retail store",
+            "D. Through a mobile app"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 192,
+          "endTime": 262,
+          "group": "77-79",
+          "transcript": "(Bài nói nhóm 77-79)\nQuảng cáo ứng dụng tập thể dục.",
+          "explanation": "Xem bài nói 77-79: Quảng cáo ứng dụng tập thể dục."
+        },
+        {
+          "id": 80,
+          "text": "What department is giving this report?",
+          "options": [
+            "A. Sales",
+            "B. HR",
+            "C. Finance",
+            "D. Marketing"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 263,
+          "endTime": 333,
+          "group": "80-82",
+          "transcript": "(Bài nói nhóm 80-82)\nBáo cáo thành tích doanh số xuất sắc.",
+          "explanation": "Xem bài nói 80-82: Báo cáo thành tích doanh số xuất sắc."
+        },
+        {
+          "id": 81,
+          "text": "What is the overall performance trend?",
+          "options": [
+            "A. Declining sales in Q2",
+            "B. Steady growth year-over-year",
+            "C. A significant drop in profits",
+            "D. Record-breaking results"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 263,
+          "endTime": 333,
+          "group": "80-82",
+          "transcript": "(Bài nói nhóm 80-82)\nBáo cáo thành tích doanh số xuất sắc.",
+          "explanation": "Xem bài nói 80-82: Báo cáo thành tích doanh số xuất sắc."
+        },
+        {
+          "id": 82,
+          "text": "What will the speaker focus on next quarter?",
+          "options": [
+            "A. Expanding to new markets",
+            "B. Reducing operating costs",
+            "C. Improving customer service",
+            "D. Launching a new product"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 263,
+          "endTime": 333,
+          "group": "80-82",
+          "transcript": "(Bài nói nhóm 80-82)\nBáo cáo thành tích doanh số xuất sắc.",
+          "explanation": "Xem bài nói 80-82: Báo cáo thành tích doanh số xuất sắc."
+        },
+        {
+          "id": 83,
+          "text": "What is the purpose of this voicemail?",
+          "options": [
+            "A. To schedule a meeting",
+            "B. To confirm an order",
+            "C. To request a callback",
+            "D. To inform about a cancellation"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 334,
+          "endTime": 404,
+          "group": "83-85",
+          "transcript": "(Bài nói nhóm 83-85)\nTin nhắn thoại hẹn giờ trao đổi báo giá.",
+          "explanation": "Xem bài nói 83-85: Tin nhắn thoại hẹn giờ trao đổi báo giá."
+        },
+        {
+          "id": 84,
+          "text": "What time is convenient for the caller?",
+          "options": [
+            "A. Before 10 AM",
+            "B. Between 1 and 4 PM",
+            "C. After 5 PM",
+            "D. Any time on Friday"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 334,
+          "endTime": 404,
+          "group": "83-85",
+          "transcript": "(Bài nói nhóm 83-85)\nTin nhắn thoại hẹn giờ trao đổi báo giá.",
+          "explanation": "Xem bài nói 83-85: Tin nhắn thoại hẹn giờ trao đổi báo giá."
+        },
+        {
+          "id": 85,
+          "text": "What information does the caller request?",
+          "options": [
+            "A. Product availability",
+            "B. Delivery options",
+            "C. Pricing details",
+            "D. Store location"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 334,
+          "endTime": 404,
+          "group": "83-85",
+          "transcript": "(Bài nói nhóm 83-85)\nTin nhắn thoại hẹn giờ trao đổi báo giá.",
+          "explanation": "Xem bài nói 83-85: Tin nhắn thoại hẹn giờ trao đổi báo giá."
+        },
+        {
+          "id": 86,
+          "text": "Where does this talk take place?",
+          "options": [
+            "A. A hospital",
+            "B. A museum",
+            "C. A university lecture",
+            "D. A corporate conference"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 405,
+          "endTime": 475,
+          "group": "86-88",
+          "transcript": "(Bài nói nhóm 86-88)\nKêu gọi thực hiện bảo vệ môi trường.",
+          "explanation": "Xem bài nói 86-88: Kêu gọi thực hiện bảo vệ môi trường."
+        },
+        {
+          "id": 87,
+          "text": "What field does the speaker work in?",
+          "options": [
+            "A. Technology",
+            "B. Medicine",
+            "C. Environmental science",
+            "D. Finance"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 405,
+          "endTime": 475,
+          "group": "86-88",
+          "transcript": "(Bài nói nhóm 86-88)\nKêu gọi thực hiện bảo vệ môi trường.",
+          "explanation": "Xem bài nói 86-88: Kêu gọi thực hiện bảo vệ môi trường."
+        },
+        {
+          "id": 88,
+          "text": "What is the speaker asking the audience to do?",
+          "options": [
+            "A. Support a funding campaign",
+            "B. Volunteer for a research project",
+            "C. Adopt eco-friendly practices",
+            "D. Sign a petition"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 405,
+          "endTime": 475,
+          "group": "86-88",
+          "transcript": "(Bài nói nhóm 86-88)\nKêu gọi thực hiện bảo vệ môi trường.",
+          "explanation": "Xem bài nói 86-88: Kêu gọi thực hiện bảo vệ môi trường."
+        },
+        {
+          "id": 89,
+          "text": "Who is the primary speaker?",
+          "options": [
+            "A. A store manager",
+            "B. A radio host",
+            "C. A customer service rep",
+            "D. A news reporter"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 476,
+          "endTime": 546,
+          "group": "89-91",
+          "transcript": "(Bài nói nhóm 89-91)\nChương trình phát thanh địa phương.",
+          "explanation": "Xem bài nói 89-91: Chương trình phát thanh địa phương."
+        },
+        {
+          "id": 90,
+          "text": "What topic is being introduced?",
+          "options": [
+            "A. Local traffic updates",
+            "B. A cooking show segment",
+            "C. A news interview",
+            "D. Community events"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 476,
+          "endTime": 546,
+          "group": "89-91",
+          "transcript": "(Bài nói nhóm 89-91)\nChương trình phát thanh địa phương.",
+          "explanation": "Xem bài nói 89-91: Chương trình phát thanh địa phương."
+        },
+        {
+          "id": 91,
+          "text": "What is mentioned about the upcoming weekend?",
+          "options": [
+            "A. A music festival",
+            "B. A farmers market",
+            "C. A charity run",
+            "D. An art exhibition"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 476,
+          "endTime": 546,
+          "group": "89-91",
+          "transcript": "(Bài nói nhóm 89-91)\nChương trình phát thanh địa phương.",
+          "explanation": "Xem bài nói 89-91: Chương trình phát thanh địa phương."
+        },
+        {
+          "id": 92,
+          "text": "What is the main reason for this announcement?",
+          "options": [
+            "A. A new branch opening",
+            "B. A policy change",
+            "C. A system upgrade",
+            "D. An upcoming inspection"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 547,
+          "endTime": 617,
+          "group": "92-94",
+          "transcript": "(Bài nói nhóm 92-94)\nThông báo bảo trì nâng cấp phần mềm.",
+          "explanation": "Xem bài nói 92-94: Thông báo bảo trì nâng cấp phần mềm."
+        },
+        {
+          "id": 93,
+          "text": "When will the system be unavailable?",
+          "options": [
+            "A. This evening",
+            "B. Over the weekend",
+            "C. Next Monday morning",
+            "D. During lunch hours"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 547,
+          "endTime": 617,
+          "group": "92-94",
+          "transcript": "(Bài nói nhóm 92-94)\nThông báo bảo trì nâng cấp phần mềm.",
+          "explanation": "Xem bài nói 92-94: Thông báo bảo trì nâng cấp phần mềm."
+        },
+        {
+          "id": 94,
+          "text": "What should employees do before the maintenance window?",
+          "options": [
+            "A. Save all open files",
+            "B. Log out of their accounts",
+            "C. Backup their data",
+            "D. Report any issues"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 547,
+          "endTime": 617,
+          "group": "92-94",
+          "transcript": "(Bài nói nhóm 92-94)\nThông báo bảo trì nâng cấp phần mềm.",
+          "explanation": "Xem bài nói 92-94: Thông báo bảo trì nâng cấp phần mềm."
+        },
+        {
+          "id": 95,
+          "text": "What type of facility is being described?",
+          "options": [
+            "A. A library",
+            "B. A community center",
+            "C. A school cafeteria",
+            "D. An office building"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 618,
+          "endTime": 688,
+          "group": "95-97",
+          "transcript": "(Bài nói nhóm 95-97)\nQuyên góp xây dựng nhà cộng đồng.",
+          "explanation": "Xem bài nói 95-97: Quyên góp xây dựng nhà cộng đồng."
+        },
+        {
+          "id": 96,
+          "text": "What renovation is planned?",
+          "options": [
+            "A. Adding a swimming pool",
+            "B. Expanding the parking lot",
+            "C. Installing solar panels",
+            "D. Building a new wing"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 618,
+          "endTime": 688,
+          "group": "95-97",
+          "transcript": "(Bài nói nhóm 95-97)\nQuyên góp xây dựng nhà cộng đồng.",
+          "explanation": "Xem bài nói 95-97: Quyên góp xây dựng nhà cộng đồng."
+        },
+        {
+          "id": 97,
+          "text": "How was the renovation funded?",
+          "options": [
+            "A. Government grants",
+            "B. Private donations",
+            "C. City bonds",
+            "D. Membership fees"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 618,
+          "endTime": 688,
+          "group": "95-97",
+          "transcript": "(Bài nói nhóm 95-97)\nQuyên góp xây dựng nhà cộng đồng.",
+          "explanation": "Xem bài nói 95-97: Quyên góp xây dựng nhà cộng đồng."
+        },
+        {
+          "id": 98,
+          "text": "What is the speaker introducing?",
+          "options": [
+            "A. A new company policy",
+            "B. A guest speaker",
+            "C. A product demonstration",
+            "D. An award ceremony"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 689,
+          "endTime": 759,
+          "group": "98-100",
+          "transcript": "(Bài nói nhóm 98-100)\nGiới thiệu diễn giả công nghệ.",
+          "explanation": "Xem bài nói 98-100: Giới thiệu diễn giả công nghệ."
+        },
+        {
+          "id": 99,
+          "text": "What field is the guest expert known for?",
+          "options": [
+            "A. Technology innovation",
+            "B. Supply chain management",
+            "C. International trade",
+            "D. Human psychology"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 689,
+          "endTime": 759,
+          "group": "98-100",
+          "transcript": "(Bài nói nhóm 98-100)\nGiới thiệu diễn giả công nghệ.",
+          "explanation": "Xem bài nói 98-100: Giới thiệu diễn giả công nghệ."
+        },
+        {
+          "id": 100,
+          "text": "What does the speaker encourage the audience to do?",
+          "options": [
+            "A. Ask questions during the Q&A",
+            "B. Connect on social media",
+            "C. Purchase the speaker's book",
+            "D. Register for a follow-up session"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 689,
+          "endTime": 759,
+          "group": "98-100",
+          "transcript": "(Bài nói nhóm 98-100)\nGiới thiệu diễn giả công nghệ.",
+          "explanation": "Xem bài nói 98-100: Giới thiệu diễn giả công nghệ."
+        }
+      ]
+    },
+    "part5": {
+      "name": "Part 5 - Incomplete Sentences",
+      "description": "Chọn từ thích hợp để điền vào chỗ trống trong câu.",
+      "questionCount": 30,
+      "questions": [
+        {
+          "id": 101,
+          "text": "Former Sendai Company CEO Ken Nakata spoke about ------- career experiences.",
+          "options": [
+            "he",
+            "his",
+            "him",
+            "himself"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Bổ nghĩa cho cụm danh từ 'career experiences' cần tính từ sở hữu 'his' -> (B)"
+        },
+        {
+          "id": 102,
+          "text": "Passengers who will be taking a ------- domestic flight should go to Terminal A.",
+          "options": [
+            "connectivity",
+            "connects",
+            "connect",
+            "connecting"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Bổ nghĩa cho cụm 'domestic flight' cần tính từ/hiện tại phân từ 'connecting' -> (D)"
+        },
+        {
+          "id": 103,
+          "text": "Fresh and ------- apple-cider donuts are available at Oakcrest Orchard's retail shop for £6 per dozen.",
+          "options": [
+            "eaten",
+            "open",
+            "tasty",
+            "free"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Tính từ hòa hợp ý nghĩa chỉ tính chất thơm ngon của món ăn 'tasty' -> (C)"
+        },
+        {
+          "id": 104,
+          "text": "Zahn Flooring has the widest selection of ------- in the United Kingdom.",
+          "options": [
+            "paints",
+            "tiles",
+            "furniture",
+            "curtains"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Doanh nghiệp dịch vụ lát sàn 'Zahn Flooring' cung cấp mẫu 'tiles' (gạch lát) phong phú nhất -> (B)"
+        },
+        {
+          "id": 105,
+          "text": "One responsibility of the IT department is to ensure that the company is using ------- software.",
+          "options": [
+            "update",
+            "updating",
+            "updates",
+            "updated"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Phần mềm đã được cập nhật 'updated software' thể quá khứ phân từ -> (D)"
+        },
+        {
+          "id": 106,
+          "text": "It is wise to check a company's dress code ------- visiting its head office.",
+          "options": [
+            "so",
+            "how",
+            "like",
+            "before"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Giới từ chỉ thời điểm trước khi làm gì 'before + V-ing' -> (D)"
+        },
+        {
+          "id": 107,
+          "text": "Mr. Tanaka ------- the revised budget proposal to the board members yesterday afternoon.",
+          "options": [
+            "submit",
+            "submitted",
+            "submission",
+            "submitting"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Mốc thời gian 'yesterday afternoon' quá khứ đơn -> submitted (B)"
+        },
+        {
+          "id": 108,
+          "text": "The new software update makes it ------- for employees to access client files securely.",
+          "options": [
+            "easier",
+            "easily",
+            "ease",
+            "easiest"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Cấu trúc make it + adj -> easier (A)"
+        },
+        {
+          "id": 109,
+          "text": "Please return the signed agreement ------- Friday to confirm your registration.",
+          "options": [
+            "by",
+            "until",
+            "inside",
+            "during"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Hạn chót trễ nhất vào thứ Sáu -> by (A)"
+        },
+        {
+          "id": 110,
+          "text": "Ms. Vance will be promoted to senior analyst because of her ------- work ethic.",
+          "options": [
+            "exception",
+            "exceptional",
+            "exceptionally",
+            "except"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Tính từ bổ nghĩa cho danh từ 'work ethic' -> exceptional (B)"
+        },
+        {
+          "id": 111,
+          "text": "Neither the manager ------- the team members were aware of the schedule change.",
+          "options": [
+            "or",
+            "nor",
+            "and",
+            "with"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Cấu trúc tương quan Neither... nor... -> (B)"
+        },
+        {
+          "id": 112,
+          "text": "The marketing team is ------- a new digital advertising strategy for next season.",
+          "options": [
+            "developing",
+            "developed",
+            "develops",
+            "development"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Thì hiện tại tiếp diễn is + V-ing -> developing (A)"
+        },
+        {
+          "id": 113,
+          "text": "Project Earth Group is ------- for ways to reduce transport-related greenhouse gas emissions.",
+          "options": [
+            "looking",
+            "seeing",
+            "driving",
+            "leaning"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Cụm động từ 'looking for' = tìm kiếm giải pháp -> (A)"
+        },
+        {
+          "id": 114,
+          "text": "Our skilled tailors are happy to design a custom-made suit that fits your style and budget -------.",
+          "options": [
+            "perfect",
+            "perfects",
+            "perfectly",
+            "perfection"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Trạng từ bổ nghĩa cho động từ 'fits' -> perfectly (C)"
+        },
+        {
+          "id": 115,
+          "text": "Project manager Hannah Chung has proved to be very ------- with completing company projects.",
+          "options": [
+            "helpfulness",
+            "help",
+            "helpful",
+            "helpfully"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Tính từ đứng sau to be very -> helpful (C)"
+        },
+        {
+          "id": 116,
+          "text": "Lehua Vacation Club members will receive double points ------- the month of August at participating hotels.",
+          "options": [
+            "onto",
+            "above",
+            "during",
+            "between"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Giới từ chỉ trong suốt khoảng thời gian 'during' -> (C)"
+        },
+        {
+          "id": 117,
+          "text": "The costumes were not received ------- enough to be used in the first dress rehearsal.",
+          "options": [
+            "far",
+            "very",
+            "almost",
+            "soon"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Trạng từ 'soon enough' = đủ sớm -> (D)"
+        },
+        {
+          "id": 118,
+          "text": "As a former publicist for several renowned orchestras, Mr. Wu would excel in the role of event -------.",
+          "options": [
+            "organized",
+            "organizer",
+            "organize",
+            "organization"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Danh từ chỉ người 'event organizer' -> (B)"
+        },
+        {
+          "id": 119,
+          "text": "------- the bad weather, the construction work was completed on time.",
+          "options": [
+            "Despite",
+            "Although",
+            "However",
+            "Even if"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Despite + Cụm danh từ -> Despite (A)"
+        },
+        {
+          "id": 120,
+          "text": "Mr. Harrison requested that all department files be stored -------.",
+          "options": [
+            "secure",
+            "securely",
+            "security",
+            "securing"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Trạng từ bổ nghĩa động từ bị động 'be stored' -> securely (B)"
+        },
+        {
+          "id": 121,
+          "text": "Customers are advised to ------- their order status on our mobile application.",
+          "options": [
+            "track",
+            "tracking",
+            "tracked",
+            "tracks"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Sau to dùng V nguyên mẫu -> track (A)"
+        },
+        {
+          "id": 122,
+          "text": "The sales department reported a significant ------- in revenue this quarter.",
+          "options": [
+            "increase",
+            "increasing",
+            "increasingly",
+            "increased"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Danh từ đứng sau tính từ 'significant' -> increase (A)"
+        },
+        {
+          "id": 123,
+          "text": "The board members were not ------- informed about the budget deficit.",
+          "options": [
+            "full",
+            "fully",
+            "fullness",
+            "fuller"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Trạng từ bổ nghĩa cho tính từ/phân từ 'informed' -> fully (B)"
+        },
+        {
+          "id": 124,
+          "text": "Customer ------- is the top priority for our customer service team.",
+          "options": [
+            "satisfy",
+            "satisfaction",
+            "satisfying",
+            "satisfied"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Cụm danh từ 'Customer satisfaction' -> satisfaction (B)"
+        },
+        {
+          "id": 125,
+          "text": "The proposal was rejected ------- the lack of detailed supporting financial data.",
+          "options": [
+            "due to",
+            "because",
+            "as a result",
+            "therefore"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "due to + Noun phrase -> due to (A)"
+        },
+        {
+          "id": 126,
+          "text": "Employees ------- a minimum of two years of experience are eligible for promotion.",
+          "options": [
+            "with",
+            "who has",
+            "whose",
+            "which have"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Giới từ 'with' mang nghĩa sở hữu kinh nghiệm -> with (A)"
+        },
+        {
+          "id": 127,
+          "text": "The report must be ------- before the deadline on Friday afternoon.",
+          "options": [
+            "finalize",
+            "finalized",
+            "finalizing",
+            "finalization"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Bị động must be + V3 -> finalized (B)"
+        },
+        {
+          "id": 128,
+          "text": "The company offers its staff a comprehensive ------- package.",
+          "options": [
+            "benefit",
+            "benefits",
+            "beneficial",
+            "benefiting"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Cụm danh từ 'benefits package' -> benefits (B)"
+        },
+        {
+          "id": 129,
+          "text": "The new system is designed to be more ------- than the legacy software.",
+          "options": [
+            "efficient",
+            "efficiency",
+            "efficiently",
+            "efficiencies"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Tính từ đứng sau more -> efficient (A)"
+        },
+        {
+          "id": 130,
+          "text": "Please ------- the attached PDF file for complete project specifications.",
+          "options": [
+            "refer to",
+            "refer on",
+            "referred to",
+            "referring to"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Cụm động từ nguyên mẫu 'refer to' -> (A)"
+        }
+      ]
+    },
+    "part6": {
+      "name": "Part 6 - Text Completion",
+      "description": "Đọc đoạn văn và điền từ thích hợp vào chỗ trống.",
+      "questionCount": 16,
+      "questions": [
+        {
+          "id": 131,
+          "group": "131-134",
+          "passageTitle": "Part 6 - Passage 1 (Câu 131 - 134)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p131_134.png",
+          "text": "All employees are ------- to submit their weekly work logs by Thursday afternoon.",
+          "options": [
+            "requiring",
+            "required",
+            "requirement",
+            "require"
+          ],
+          "answer": "B",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Bị động are + V3 -> required (B)"
+        },
+        {
+          "id": 132,
+          "group": "131-134",
+          "passageTitle": "Part 6 - Passage 1 (Câu 131 - 134)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p131_134.png",
+          "text": "------- doing so will enable management to track project progress accurately.",
+          "options": [
+            "However",
+            "Otherwise",
+            "Additionally",
+            "Instead"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Trạng từ bổ sung ý tích cực -> Additionally (C)"
+        },
+        {
+          "id": 133,
+          "group": "131-134",
+          "passageTitle": "Part 6 - Passage 1 (Câu 131 - 134)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p131_134.png",
+          "text": "Logs submitted ------- the deadline will require supervisor sign-off.",
+          "options": [
+            "after",
+            "before",
+            "on",
+            "during"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Sau thời hạn chót 'after the deadline' -> after (A)"
+        },
+        {
+          "id": 134,
+          "group": "131-134",
+          "passageTitle": "Part 6 - Passage 1 (Câu 131 - 134)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p131_134.png",
+          "text": "Contact the HR department if you have ------- questions about this policy.",
+          "options": [
+            "any",
+            "none",
+            "all",
+            "every"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Từ nghi vấn/điều kiện 'any questions' -> any (A)"
+        },
+        {
+          "id": 135,
+          "group": "135-138",
+          "passageTitle": "Part 6 - Passage 2 (Câu 135 - 138)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p135_138.png",
+          "text": "I am writing to provide an ------- on the facility upgrade schedule.",
+          "options": [
+            "update",
+            "updates",
+            "updating",
+            "updated"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Danh từ đếm được đứng sau an -> update (A)"
+        },
+        {
+          "id": 136,
+          "group": "135-138",
+          "passageTitle": "Part 6 - Passage 2 (Câu 135 - 138)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p135_138.png",
+          "text": "The contractor has ------- all preparatory inspections.",
+          "options": [
+            "complete",
+            "completing",
+            "completed",
+            "completion"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Hiện tại hoàn thành has + V3 -> completed (C)"
+        },
+        {
+          "id": 137,
+          "group": "135-138",
+          "passageTitle": "Part 6 - Passage 2 (Câu 135 - 138)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p135_138.png",
+          "text": "We are ------- schedule to reopen the main cafeteria next Monday.",
+          "options": [
+            "on",
+            "in",
+            "at",
+            "by"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Cụm cố định 'on schedule' -> on (A)"
+        },
+        {
+          "id": 138,
+          "group": "135-138",
+          "passageTitle": "Part 6 - Passage 2 (Câu 135 - 138)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p135_138.png",
+          "text": "Please let me know ------- you need further clarification.",
+          "options": [
+            "whether",
+            "although",
+            "unless",
+            "whenever"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Liên từ 'whether' -> whether (A)"
+        },
+        {
+          "id": 139,
+          "group": "139-142",
+          "passageTitle": "Part 6 - Passage 3 (Câu 139 - 142)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p139_142.png",
+          "text": "The building management wishes to ------- residents of upcoming elevator repairs.",
+          "options": [
+            "notify",
+            "notice",
+            "notification",
+            "notified"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Động từ nguyên mẫu to + V -> notify (A)"
+        },
+        {
+          "id": 140,
+          "group": "139-142",
+          "passageTitle": "Part 6 - Passage 3 (Câu 139 - 142)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p139_142.png",
+          "text": "Repairs will ------- approximately four hours.",
+          "options": [
+            "take",
+            "make",
+            "bring",
+            "last"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "take + khoảng thời gian -> take (A)"
+        },
+        {
+          "id": 141,
+          "group": "139-142",
+          "passageTitle": "Part 6 - Passage 3 (Câu 139 - 142)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p139_142.png",
+          "text": "------- the inconvenience, please plan your trips accordingly.",
+          "options": [
+            "Despite",
+            "Regarding",
+            "Due to",
+            "In addition to"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Due to + danh từ -> Due to (C)"
+        },
+        {
+          "id": 142,
+          "group": "139-142",
+          "passageTitle": "Part 6 - Passage 3 (Câu 139 - 142)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p139_142.png",
+          "text": "Inquiries should be sent to the ------- office.",
+          "options": [
+            "manage",
+            "manages",
+            "management",
+            "managing"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Danh từ ghép 'management office' -> management (C)"
+        },
+        {
+          "id": 143,
+          "group": "143-146",
+          "passageTitle": "Part 6 - Passage 4 (Câu 143 - 146)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p143_146.png",
+          "text": "Our premium courier service is now ------- nationwide.",
+          "options": [
+            "available",
+            "availability",
+            "avail",
+            "availing"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Tính từ đứng sau is -> available (A)"
+        },
+        {
+          "id": 144,
+          "group": "143-146",
+          "passageTitle": "Part 6 - Passage 4 (Câu 143 - 146)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p143_146.png",
+          "text": "We strive to offer ------- and dependable parcel delivery.",
+          "options": [
+            "fast",
+            "faster",
+            "fastest",
+            "fastly"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Tính từ song song với dependable -> fast (A)"
+        },
+        {
+          "id": 145,
+          "group": "143-146",
+          "passageTitle": "Part 6 - Passage 4 (Câu 143 - 146)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p143_146.png",
+          "text": "Track your package ------- real-time GPS updates.",
+          "options": [
+            "with",
+            "for",
+            "from",
+            "by"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Giới từ 'with' -> with (A)"
+        },
+        {
+          "id": 146,
+          "group": "143-146",
+          "passageTitle": "Part 6 - Passage 4 (Câu 143 - 146)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part6_p143_146.png",
+          "text": "New clients will ------- a 15% discount on their first shipment.",
+          "options": [
+            "receive",
+            "received",
+            "receiving",
+            "reception"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Động từ nguyên mẫu sau will -> receive (A)"
+        }
+      ]
+    },
+    "part7": {
+      "name": "Part 7 - Reading Comprehension",
+      "description": "Đọc các đoạn văn và trả lời câu hỏi liên quan.",
+      "questionCount": 54,
+      "questions": [
+        {
+          "id": 147,
+          "group": "147-148",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 147-148)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q147_148.png",
+          "text": "What is the main purpose of the notice?",
+          "options": [
+            "To announce a renovation schedule",
+            "To warn about parking changes",
+            "To introduce a new building policy",
+            "To promote an upcoming facility event"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đoạn văn thông báo về lịch trình sửa chữa nâng cấp tòa nhà."
+        },
+        {
+          "id": 148,
+          "group": "147-148",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 147-148)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q147_148.png",
+          "text": "According to the notice, when will the project begin?",
+          "options": [
+            "Immediately",
+            "Next Monday morning",
+            "At the beginning of next month",
+            "Following the annual inspection"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Thời điểm bắt đầu được ghi rõ trong thông báo vào sáng thứ Hai tuần tới."
+        },
+        {
+          "id": 149,
+          "group": "149-150",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 149-150)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q149_150.png",
+          "text": "What type of product is being described in the email?",
+          "options": [
+            "Accounting software",
+            "Office furniture",
+            "Printing equipment",
+            "Security hardware"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Email mô tả về giải pháp phần mềm quản lý kế toán."
+        },
+        {
+          "id": 150,
+          "group": "149-150",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 149-150)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q149_150.png",
+          "text": "What special offer is available until Friday?",
+          "options": [
+            "Free technical support",
+            "A 20% renewal discount",
+            "Extended warranty coverage",
+            "Complimentary staff training"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Khuyến mãi giảm giá 20% khi gia hạn trước thứ Sáu."
+        },
+        {
+          "id": 151,
+          "group": "151-152",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 151-152)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q151_152.png",
+          "text": "Why did Ms. Rivera send the text message?",
+          "options": [
+            "To request a venue change",
+            "To confirm a meeting time",
+            "To report a flight delay",
+            "To order catering services"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Thông báo tin nhắn về việc chuyến bay bị hoãn thời gian đáp."
+        },
+        {
+          "id": 152,
+          "group": "151-152",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 151-152)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q151_152.png",
+          "text": "At 2:15 P.M., what does Mr. Park mean when he writes, 'I will handle it'?",
+          "options": [
+            "He will inform the client.",
+            "He will reschedule the taxi.",
+            "He will prepare the conference room.",
+            "He will sign the documents."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Xác nhận sẽ trực tiếp gọi điện báo cho phía đối tác."
+        },
+        {
+          "id": 153,
+          "group": "153-154",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 153-154)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q153_154.png",
+          "text": "What is highlighted about Zahn Flooring in the advertisement?",
+          "options": [
+            "Eco-friendly materials",
+            "Lifetime warranties",
+            "Nationwide delivery",
+            "Free installation services"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Quảng cáo nhấn mạnh vật liệu gạch lát thân thiện với môi trường."
+        },
+        {
+          "id": 154,
+          "group": "153-154",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 153-154)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q153_154.png",
+          "text": "How can customers claim the promotional voucher?",
+          "options": [
+            "By visiting the showroom",
+            "By registering on the website",
+            "By calling customer service",
+            "By scanning a QR code"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đăng ký tài khoản trên trang web để nhận mã ưu đãi."
+        },
+        {
+          "id": 155,
+          "group": "155-157",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 155-157)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q155_157.png",
+          "text": "What is the article mainly about?",
+          "options": [
+            "A corporate merger",
+            "An eco-friendly transport initiative",
+            "A new public transit line",
+            "A logistics conference"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Bài viết về sáng kiến cắt giảm khí thải giao thông của Project Earth Group."
+        },
+        {
+          "id": 156,
+          "group": "155-157",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 155-157)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q155_157.png",
+          "text": "What has Project Earth Group recently done?",
+          "options": [
+            "Hired new publicity directors",
+            "Partnered with local tailors",
+            "Launched a fleet of electric delivery vans",
+            "Expanded vacation club perks"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đưa vào vận hành đội xe van giao hàng điện năng."
+        },
+        {
+          "id": 157,
+          "group": "155-157",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 155-157)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q155_157.png",
+          "text": "Who is mentioned as a project leader?",
+          "options": [
+            "Ken Nakata",
+            "Hannah Chung",
+            "Mr. Wu",
+            "Ms. Vance"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Quản lý dự án Hannah Chung được nhắc tên trong bài."
+        },
+        {
+          "id": 158,
+          "group": "158-160",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 158-160)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q158_160.png",
+          "text": "What is the purpose of the form?",
+          "options": [
+            "To request vacation leave",
+            "To enroll in a hotel loyalty program",
+            "To submit an expense reimbursement claim",
+            "To reserve a conference room"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Mẫu đăng ký chương trình khách hàng thân thiết Lehua Vacation Club."
+        },
+        {
+          "id": 159,
+          "group": "158-160",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 158-160)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q158_160.png",
+          "text": "What perk is available during the month of August?",
+          "options": [
+            "Double reward points",
+            "Free room upgrades",
+            "Late checkout options",
+            "Complimentary breakfast"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Nhận x2 điểm thưởng trong suốt tháng 8."
+        },
+        {
+          "id": 160,
+          "group": "158-160",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 158-160)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q158_160.png",
+          "text": "What is required for form submission?",
+          "options": [
+            "Manager signature",
+            "Member ID number",
+            "Proof of payment",
+            "Corporate credit card"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Yêu cầu điền số định danh thành viên Member ID."
+        },
+        {
+          "id": 161,
+          "group": "161-163",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 161-163)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q161_163.png",
+          "text": "Why did Mr. Wu write the letter?",
+          "options": [
+            "To apply for an event publicist position",
+            "To resign from an orchestra group",
+            "To decline a concert invitation",
+            "To request marketing materials"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Ứng tuyển vị trí truyền thông sự kiện dựa trên kinh nghiệm cựu publicist."
+        },
+        {
+          "id": 162,
+          "group": "161-163",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 161-163)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q161_163.png",
+          "text": "What field has Mr. Wu previously worked in?",
+          "options": [
+            "Tailoring design",
+            "Orchestra publicity",
+            "Flooring manufacturing",
+            "IT software support"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Từng làm đại diện truyền thông cho các dàn nhạc giao hưởng nổi tiếng."
+        },
+        {
+          "id": 163,
+          "group": "161-163",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 161-163)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q161_163.png",
+          "text": "What is enclosed with the letter?",
+          "options": [
+            "A portfolio of past campaigns",
+            "A list of professional references",
+            "An updated resume",
+            "A signed employment contract"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đính kèm sơ yếu lý lịch cập nhật (resume)."
+        },
+        {
+          "id": 164,
+          "group": "164-167",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 164-167)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q164_167.png",
+          "text": "What are the chat participants discussing?",
+          "options": [
+            "Designing custom-made suits",
+            "Planning an orchestra rehearsal",
+            "Coordinating dress rehearsal costumes",
+            "Booking hotel accommodations"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Thảo luận về việc nhận trang phục cho buổi tổng duyệt đầu tiên."
+        },
+        {
+          "id": 165,
+          "group": "164-167",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 164-167)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q164_167.png",
+          "text": "Why were the costumes delayed?",
+          "options": [
+            "Fabric shipment issues",
+            "Custom tailoring adjustments",
+            "Courier delivery mix-up",
+            "Budget approval delays"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Chậm trễ do thiếu hụt vật liệu từ nhà cung cấp."
+        },
+        {
+          "id": 166,
+          "group": "164-167",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 164-167)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q164_167.png",
+          "text": "What time will the delivery arrive?",
+          "options": [
+            "9:00 A.M.",
+            "11:30 A.M.",
+            "2:00 P.M.",
+            "4:15 P.M."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Thời gian xe giao hàng dự kiến đến lúc 11:30 A.M."
+        },
+        {
+          "id": 167,
+          "group": "164-167",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 164-167)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q164_167.png",
+          "text": "What will Ms. Vance do next?",
+          "options": [
+            "Inspect the costume boxes",
+            "Call the courier manager",
+            "Notify the rehearsal cast",
+            "Issue payment vouchers"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Trực tiếp mở kiểm tra số lượng thùng trang phục khi giao đến."
+        },
+        {
+          "id": 168,
+          "group": "168-171",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q168_171.png",
+          "text": "What is the report mainly about?",
+          "options": [
+            "IT department software compliance",
+            "Oakcrest Orchard harvest yields",
+            "Zahn Flooring UK market expansion",
+            "Sendai Company executive restructuring"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Báo cáo kiểm tra tuân thủ bản quyền phần mềm phòng IT."
+        },
+        {
+          "id": 169,
+          "group": "168-171",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q168_171.png",
+          "text": "What is indicated about the company's software?",
+          "options": [
+            "All workstations run updated software.",
+            "Legacy licenses have expired.",
+            "New servers were installed.",
+            "Cloud backups are performed daily."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đảm bảo toàn bộ máy tính sử dụng phần mềm cập nhật chính thức."
+        },
+        {
+          "id": 170,
+          "group": "168-171",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q168_171.png",
+          "text": "According to the report, who conducted the audit?",
+          "options": [
+            "Ken Nakata",
+            "Hannah Chung",
+            "External IT consultants",
+            "Internal compliance team"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đội ngũ kiểm soát tuân thủ nội bộ tiến hành đánh giá."
+        },
+        {
+          "id": 171,
+          "group": "168-171",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q168_171.png",
+          "text": "What will be reviewed in November?",
+          "options": [
+            "Employee dress code guidelines",
+            "Cybersecurity protocols",
+            "Retail shop pricing",
+            "Domestic flight travel policies"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đánh giá lại giao thức an ninh mạng vào tháng 11."
+        },
+        {
+          "id": 172,
+          "group": "172-175",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 172-175)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q172_175.png",
+          "text": "In the email, what issue is mentioned regarding head office visits?",
+          "options": [
+            "Parking space limitations",
+            "Dress code policy compliance",
+            "Visitor badge processing delays",
+            "Security checkpoint queues"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Lưu ý kiểm tra quy định trang phục dress code trước khi đến văn phòng chính."
+        },
+        {
+          "id": 173,
+          "group": "172-175",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 172-175)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q172_175.png",
+          "text": "What is suggested about Sendai Company executive Ken Nakata?",
+          "options": [
+            "He will lead the orientation session.",
+            "He delivered a keynote presentation.",
+            "He recently retired from the CEO role.",
+            "He launched Oakcrest Orchard."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Chia sẻ kinh nghiệm sự nghiệp tại hội nghị vừa qua."
+        },
+        {
+          "id": 174,
+          "group": "172-175",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 172-175)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q172_175.png",
+          "text": "When is the executive meeting scheduled?",
+          "options": [
+            "Tuesday afternoon",
+            "Wednesday morning",
+            "Thursday at noon",
+            "Friday at 3:00 P.M."
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Lịch họp diễn ra lúc 12 giờ trưa thứ Năm."
+        },
+        {
+          "id": 175,
+          "group": "172-175",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 172-175)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q172_175.png",
+          "text": "What should visitors present upon arrival?",
+          "options": [
+            "Confirmation email",
+            "Government-issued photo ID",
+            "Business card",
+            "Employee badge"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Xuất trình giấy tờ tùy thân có ảnh khi check-in qua cổng bảo vệ."
+        },
+        {
+          "id": 176,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q176_180.png",
+          "text": "What is indicated about Oakcrest Orchard's retail shop?",
+          "options": [
+            "It offers apple-cider donuts for £6 per dozen.",
+            "It manufactures Zahn Flooring tiles.",
+            "It hosts vacation club members.",
+            "It operates exclusively online."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Bán bánh donut táo tươi với giá £6 mỗi tá tại cửa hàng bán lẻ."
+        },
+        {
+          "id": 177,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q176_180.png",
+          "text": "What item is currently on sale?",
+          "options": [
+            "Fresh apple-cider donuts",
+            "Custom tailoring fabrics",
+            "Domestic flight vouchers",
+            "IT software suites"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Bánh donut táo tươi được giảm giá khuyến mãi."
+        },
+        {
+          "id": 178,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q176_180.png",
+          "text": "How can customers place wholesale orders?",
+          "options": [
+            "By completing an online order form",
+            "By visiting the orchard on weekends",
+            "By contacting sales manager Mr. Tanaka",
+            "By sending a fax request"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Liên hệ trực tiếp quản lý kinh doanh Mr. Tanaka."
+        },
+        {
+          "id": 179,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q176_180.png",
+          "text": "What discount applies to orders over £50?",
+          "options": [
+            "5%",
+            "10%",
+            "15%",
+            "20%"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Chiết khấu 10% cho các đơn hàng bán sỉ trên £50."
+        },
+        {
+          "id": 180,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q176_180.png",
+          "text": "What is mentioned about delivery options?",
+          "options": [
+            "Free local delivery on orders over £30",
+            "Next-day air shipment nationwide",
+            "Curbside pickup only",
+            "International shipping via courier"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Giao hàng miễn phí nội vùng cho đơn hàng từ £30."
+        },
+        {
+          "id": 181,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q181_185.png",
+          "text": "What is the main purpose of the memo?",
+          "options": [
+            "To announce a domestic travel policy update",
+            "To review custom suit tailoring prices",
+            "To introduce Project Earth Group guidelines",
+            "To summarize IT audit results"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Cập nhật hướng dẫn di chuyển hàng không nội địa đến Terminal A."
+        },
+        {
+          "id": 182,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q181_185.png",
+          "text": "Which terminal should domestic passengers use?",
+          "options": [
+            "Terminal A",
+            "Terminal B",
+            "Terminal C",
+            "Terminal D"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Hành khách các chuyến bay nội địa tập trung tại Terminal A."
+        },
+        {
+          "id": 183,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q181_185.png",
+          "text": "What is required for luggage check-in?",
+          "options": [
+            "Electronic boarding pass",
+            "Barcode scan tag",
+            "Baggage weight verification",
+            "Corporate account number"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Yêu cầu quét mã vạch trên thẻ hành lý."
+        },
+        {
+          "id": 184,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q181_185.png",
+          "text": "Who should employees contact with travel itinerary changes?",
+          "options": [
+            "Corporate travel desk",
+            "Hannah Chung",
+            "Ken Nakata",
+            "Terminal A reception"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Liên hệ bộ phận điều hành di chuyển doanh nghiệp khi đổi lịch."
+        },
+        {
+          "id": 185,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q181_185.png",
+          "text": "According to the document, what is reimbursable?",
+          "options": [
+            "Airport shuttle parking fees",
+            "Premium seat upgrades",
+            "Excess baggage charges",
+            "In-flight internet access"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Phí đỗ xe buýt trung chuyển sân bay được hoàn trả theo quy định."
+        },
+        {
+          "id": 186,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q186_190.png",
+          "text": "In the document set, what service does the tailor shop provide?",
+          "options": [
+            "Custom-made suits fitting style and budget",
+            "Flooring installation",
+            "Software updating",
+            "Catering for orchard events"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Dịch vụ may đo bộ suit thiết kế theo phong cách và ngân sách riêng."
+        },
+        {
+          "id": 187,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q186_190.png",
+          "text": "What is praised about the tailors?",
+          "options": [
+            "Highly skilled craftsmanship",
+            "Fast 24-hour turnaround",
+            "Low material costs",
+            "Online virtual fitting tools"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Tay nghề may đo thủ công tinh xảo, chất lượng cao."
+        },
+        {
+          "id": 188,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q186_190.png",
+          "text": "Which material was selected for the order?",
+          "options": [
+            "Italian wool blend",
+            "Organic cotton",
+            "Pure silk lining",
+            "Synthetic polyester"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Chất liệu vải len tổng hợp cao cấp nhập khẩu từ Ý."
+        },
+        {
+          "id": 189,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q186_190.png",
+          "text": "When will the fitting appointment take place?",
+          "options": [
+            "Wednesday at 10:00 A.M.",
+            "Thursday at 2:30 P.M.",
+            "Friday at 4:00 P.M.",
+            "Saturday at 11:00 A.M."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Lịch hẹn thử đồ diễn ra vào 2:30 P.M. chiều thứ Năm."
+        },
+        {
+          "id": 190,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q186_190.png",
+          "text": "What discount did the client receive?",
+          "options": [
+            "First-time customer 15% discount",
+            "Seasonal clearance 20%",
+            "Corporate partner 10%",
+            "Referral bonus 25%"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Nhận ưu đãi 15% dành cho khách hàng trải nghiệm lần đầu."
+        },
+        {
+          "id": 191,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q191_195.png",
+          "text": "What is the primary focus of the webpage?",
+          "options": [
+            "Zahn Flooring product catalog in the UK",
+            "Lehua Vacation Club resort locations",
+            "Project Earth Group green transport goals",
+            "Oakcrest Orchard cider varieties"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Danh mục tổng hợp các mẫu gạch lát sàn Zahn Flooring tại Vương Quốc Anh."
+        },
+        {
+          "id": 192,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q191_195.png",
+          "text": "Which flooring line is advertised as the most popular?",
+          "options": [
+            "Classic Hardwood Tiles",
+            "Eco-Glazed Ceramic Tiles",
+            "Polished Marble Slabs",
+            "Rustic Vinyl Planks"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Mẫu gạch gốm tráng men sinh thái Eco-Glazed Ceramic Tiles."
+        },
+        {
+          "id": 193,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q191_195.png",
+          "text": "Where is Zahn Flooring headquartered?",
+          "options": [
+            "London, United Kingdom",
+            "Sendai, Japan",
+            "Honolulu, USA",
+            "Manchester, UK"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Trụ sở chính đặt tại thủ đô London, Vương Quốc Anh."
+        },
+        {
+          "id": 194,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q191_195.png",
+          "text": "What service is offered free of charge?",
+          "options": [
+            "On-site sample delivery and consultation",
+            "Complete room installation",
+            "Old floor removal",
+            "5-year maintenance inspections"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Giao mẫu thử nghiệm tận nhà và tư vấn thiết kế miễn phí."
+        },
+        {
+          "id": 195,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q191_195.png",
+          "text": "How can customers request a quote?",
+          "options": [
+            "By submitting an online measurement form",
+            "By calling the London showroom",
+            "By emailing sales@zahnflooring.co.uk",
+            "By visiting a local retail partner"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Điền biểu mẫu kích thước thông số trực tuyến trên trang web."
+        },
+        {
+          "id": 196,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q196_200.png",
+          "text": "What is the overall topic of the triple passage set?",
+          "options": [
+            "Project Earth Group transport emissions campaign",
+            "Lehua Vacation Club August double points promotion",
+            "Sendai Company CEO executive address",
+            "Zahn Flooring UK showroom opening"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Chiến dịch toàn diện về giải pháp giao thông xanh của Project Earth Group."
+        },
+        {
+          "id": 197,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q196_200.png",
+          "text": "According to the notice, what goal is targeted for next year?",
+          "options": [
+            "30% reduction in fleet greenhouse gas emissions",
+            "50% increase in electric van routes",
+            "100% renewable powered facilities",
+            "Full transition to paperless invoicing"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Mục tiêu giảm 30% tổng lượng khí thải nhà kính từ các phương tiện giao thông."
+        },
+        {
+          "id": 198,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q196_200.png",
+          "text": "Who authored the internal memo?",
+          "options": [
+            "Hannah Chung",
+            "Ken Nakata",
+            "Mr. Wu",
+            "Ms. Vance"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Bản ghi nhớ nội bộ do Quản lý dự án Hannah Chung phát hành."
+        },
+        {
+          "id": 199,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q196_200.png",
+          "text": "What will happen during the August conference?",
+          "options": [
+            "Presentation of annual environmental awards",
+            "Demonstration of new electric transport vehicles",
+            "Workshop on eco-friendly logistics",
+            "Panel discussion with corporate leaders"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Buổi chạy thử nghiệm thực tế các dòng xe giao vận chạy điện mới."
+        },
+        {
+          "id": 200,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
+          "passageImage": "public/assets/bai-on-3/reading/passages/part7_q196_200.png",
+          "text": "How can employees participate in the initiative?",
+          "options": [
+            "By signing up for carpooling programs",
+            "By submitting green ideas to the committee",
+            "By taking public transit on Fridays",
+            "By completing a sustainability survey"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đóng góp các ý kiến giải pháp bảo vệ môi trường cho ban điều hành."
+        }
+      ]
+    }
+  }
+}

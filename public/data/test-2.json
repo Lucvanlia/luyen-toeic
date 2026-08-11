@@ -1,0 +1,3346 @@
+{
+  "id": "bai-on-2",
+  "title": "Bài Ôn Tập 2",
+  "testNumber": 2,
+  "durationMinutes": 120,
+  "totalQuestions": 200,
+  "parts": {
+    "part1": {
+      "name": "Part 1 - Photographs",
+      "description": "Nghe 4 mô tả về hình ảnh và chọn mô tả đúng nhất.",
+      "questionCount": 6,
+      "audio": "public/assets/bai-on-2/audio/PART 1 - TEST 2.mp3",
+      "questions": [
+        {
+          "id": 1,
+          "image": "public/assets/bai-on-2/listening/part1_q1.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "B",
+          "category": "Tranh tả một người",
+          "startTime": 95,
+          "endTime": 125,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 1 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 2,
+          "image": "public/assets/bai-on-2/listening/part1_q2.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "category": "Tranh tả nhiều người",
+          "startTime": 125,
+          "endTime": 155,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 2 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 3,
+          "image": "public/assets/bai-on-2/listening/part1_q3.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "C",
+          "category": "Tranh tả nhiều người",
+          "startTime": 155,
+          "endTime": 185,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 3 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 4,
+          "image": "public/assets/bai-on-2/listening/part1_q4.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "D",
+          "category": "Tranh tả vật",
+          "startTime": 185,
+          "endTime": 215,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 4 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 5,
+          "image": "public/assets/bai-on-2/listening/part1_q5.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "category": "Tranh tả một người",
+          "startTime": 215,
+          "endTime": 245,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 5 và chọn mô tả đúng nhất."
+        },
+        {
+          "id": 6,
+          "image": "public/assets/bai-on-2/listening/part1_q6.png",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "B",
+          "category": "Tranh tả vật",
+          "startTime": 245,
+          "endTime": 275,
+          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "explanation": "Quan sát hình ảnh câu 6 và chọn mô tả đúng nhất."
+        }
+      ]
+    },
+    "part2": {
+      "name": "Part 2 - Question-Response",
+      "description": "Nghe câu hỏi và chọn câu trả lời phù hợp nhất.",
+      "questionCount": 25,
+      "audio": "public/assets/bai-on-2/audio/PART 2 - TEST 2.mp3",
+      "questions": [
+        {
+          "id": 7,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 80,
+          "endTime": 92,
+          "text": "Where are the quarterly reports filed?",
+          "transcript": "Where are the quarterly reports filed?\nA. In the cabinet by the window.\nB. Yes, they were.\nC. Last month.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 8,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "B",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 94,
+          "endTime": 106,
+          "text": "When does the meeting start?",
+          "transcript": "When does the meeting start?\nA. In Conference Room B.\nB. At 3 PM sharp.\nC. With the manager.",
+          "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 9,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 108,
+          "endTime": 120,
+          "text": "Who handles the IT support requests?",
+          "transcript": "Who handles the IT support requests?\nA. Mark from the tech team.\nB. On the second floor.\nC. Next week.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 10,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 122,
+          "endTime": 134,
+          "text": "Did you finish the project proposal?",
+          "transcript": "Did you finish the project proposal?\nA. Yes, I sent it this morning.\nB. The proposal guidelines.\nC. To the client.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 11,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "B",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 136,
+          "endTime": 148,
+          "text": "Why is the office closed today?",
+          "transcript": "Why is the office closed today?\nA. Gate 3.\nB. A national holiday.\nC. For two hours.",
+          "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 12,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 150,
+          "endTime": 162,
+          "text": "Would you like coffee or tea?",
+          "transcript": "Would you like coffee or tea?\nA. Tea, please.\nB. Yes, I do.\nC. On the table.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 13,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 164,
+          "endTime": 176,
+          "text": "Can you tell me how to get to the reception?",
+          "transcript": "Can you tell me how to get to the reception?\nA. Turn left at the elevator.\nB. Yes, I can.\nC. The reception is busy.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 14,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 178,
+          "endTime": 190,
+          "text": "Could you review this contract by Friday?",
+          "transcript": "Could you review this contract by Friday?\nA. Yes, I'll do it this afternoon.\nB. On Friday morning.\nC. A new contract.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 15,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 192,
+          "endTime": 204,
+          "text": "What is the main topic of today's presentation?",
+          "transcript": "What is the main topic of today's presentation?\nA. Our new product launch strategy.\nB. At 10 AM.\nC. The conference room.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 16,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 206,
+          "endTime": 218,
+          "text": "How long have you been working here?",
+          "transcript": "How long have you been working here?\nA. For about three years.\nB. On the fourth floor.\nC. Yes, since last year.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 17,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 220,
+          "endTime": 232,
+          "text": "Is the printer on the second floor available?",
+          "transcript": "Is the printer on the second floor available?\nA. Yes, it was just repaired.\nB. Near the copy machine.\nC. It prints in color.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 18,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 234,
+          "endTime": 246,
+          "text": "Who approved the budget for the new project?",
+          "transcript": "Who approved the budget for the new project?\nA. The director of finance.\nB. Last Tuesday.\nC. In the main conference room.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 19,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 248,
+          "endTime": 260,
+          "text": "When will the new employee orientation be held?",
+          "transcript": "When will the new employee orientation be held?\nA. Next Monday morning.\nB. In the large hall.\nC. Three new employees.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 20,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 262,
+          "endTime": 274,
+          "text": "Why didn't you attend the team lunch?",
+          "transcript": "Why didn't you attend the team lunch?\nA. I had an urgent client call.\nB. At the Italian restaurant.\nC. Fifteen people went.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 21,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 276,
+          "endTime": 288,
+          "text": "Could someone help me move these boxes?",
+          "transcript": "Could someone help me move these boxes?\nA. Sure, I have a few minutes.\nB. They are heavy.\nC. Near the storage room.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 22,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "B",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 290,
+          "endTime": 302,
+          "text": "What time does the last train depart?",
+          "transcript": "What time does the last train depart?\nA. From Platform 5.\nB. At 10:45 PM.\nC. It departs daily.",
+          "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 23,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 304,
+          "endTime": 316,
+          "text": "Has the new policy been distributed yet?",
+          "transcript": "Has the new policy been distributed yet?\nA. No, it will go out tomorrow.\nB. The HR department handles it.\nC. Three new policies.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 24,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 318,
+          "endTime": 330,
+          "text": "Where should I send the signed documents?",
+          "transcript": "Where should I send the signed documents?\nA. To the legal department.\nB. Yes, you should sign them.\nC. Two copies are needed.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 25,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 332,
+          "endTime": 344,
+          "text": "Would you mind showing me the way to parking?",
+          "transcript": "Would you mind showing me the way to parking?\nA. It's on the basement level.\nB. Yes, I would.\nC. We park on weekdays.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 26,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 346,
+          "endTime": 358,
+          "text": "Who is in charge of the client account?",
+          "transcript": "Who is in charge of the client account?\nA. Ms. Park from sales.\nB. Downtown office.\nC. Since last quarter.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 27,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 360,
+          "endTime": 372,
+          "text": "Did the suppliers confirm the delivery date?",
+          "transcript": "Did the suppliers confirm the delivery date?\nA. Yes, it will arrive Thursday.\nB. The delivery is free.\nC. Two suppliers called.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 28,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 374,
+          "endTime": 386,
+          "text": "How are we tracking the project milestones?",
+          "transcript": "How are we tracking the project milestones?\nA. Using the new software tool.\nB. Twice a week.\nC. The project manager does.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 29,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 388,
+          "endTime": 400,
+          "text": "Is the annual performance review tomorrow?",
+          "transcript": "Is the annual performance review tomorrow?\nA. No, it was postponed to next week.\nB. Performance data.\nC. Yes, it reviews annually.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 30,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 402,
+          "endTime": 414,
+          "text": "Why was the client presentation rescheduled?",
+          "transcript": "Why was the client presentation rescheduled?\nA. The client requested more time.\nB. In the boardroom.\nC. Four slides were added.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        },
+        {
+          "id": 31,
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "answer": "A",
+          "category": "Hỏi thông tin giao tiếp",
+          "startTime": 416,
+          "endTime": 428,
+          "text": "Would you like me to draft the email?",
+          "transcript": "Would you like me to draft the email?\nA. That would be great, thank you.\nB. An email was sent.\nC. Draft the report first.",
+          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+        }
+      ]
+    },
+    "part3": {
+      "name": "Part 3 - Conversations",
+      "description": "Nghe hội thoại và trả lời các câu hỏi liên quan.",
+      "questionCount": 39,
+      "audio": "public/assets/bai-on-2/audio/PART 3 - TEST 2.mp3",
+      "questions": [
+        {
+          "id": 32,
+          "text": "32. Where does the conversation most likely take place?",
+          "options": [
+            "(A) On a train",
+            "(B) On a boat",
+            "(C) At a factory",
+            "(D) At an airport"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 80,
+          "endTime": 155,
+          "group": "32-34",
+          "transcript": "Man: Good morning Captain. We'll be docking at the port in\nKolkata this evening, right?\nWoman: Actually we had to change\ncourse overnight to avoid a storm, so we're running behind schedule.\nBut we should arrive early tomorrow.\nMan: Well, that's not too bad.\nWoman: Oh, Hector has the day off today, so I'll need you to do the\nmorning rounds, starting with checking the machinery in the engine\nroom.\nMan: Of course, I'll head there now.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'On a train'. → (A)"
+        },
+        {
+          "id": 33,
+          "text": "33. What caused a delay?",
+          "options": [
+            "(A) An electrical failure occurred.",
+            "(B) A worker was unavailable.",
+            "(C) Some information was incorrect.",
+            "(D) The weather was bad."
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 80,
+          "endTime": 155,
+          "group": "32-34",
+          "transcript": "Man: Good morning Captain. We'll be docking at the port in\nKolkata this evening, right?\nWoman: Actually we had to change\ncourse overnight to avoid a storm, so we're running behind schedule.\nBut we should arrive early tomorrow.\nMan: Well, that's not too bad.\nWoman: Oh, Hector has the day off today, so I'll need you to do the\nmorning rounds, starting with checking the machinery in the engine\nroom.\nMan: Of course, I'll head there now.",
+          "explanation": "Trích thoại: \"Man: Well, that's not too bad.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'The weather was bad.'. → (D)"
+        },
+        {
+          "id": 34,
+          "text": "34. What will the man do next?",
+          "options": [
+            "(A) Confirm a schedule",
+            "(B) Speak to a coworker",
+            "(C) Check some machinery",
+            "(D) Clean a storage room"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 80,
+          "endTime": 155,
+          "group": "32-34",
+          "transcript": "Man: Good morning Captain. We'll be docking at the port in\nKolkata this evening, right?\nWoman: Actually we had to change\ncourse overnight to avoid a storm, so we're running behind schedule.\nBut we should arrive early tomorrow.\nMan: Well, that's not too bad.\nWoman: Oh, Hector has the day off today, so I'll need you to do the\nmorning rounds, starting with checking the machinery in the engine\nroom.\nMan: Of course, I'll head there now.",
+          "explanation": "Trích thoại: \"morning rounds, starting with checking the machinery in the engine\" → Thông tin đối chiếu trong bài nghe chọn đáp án (C) 'Check some machinery'. → (C)"
+        },
+        {
+          "id": 35,
+          "text": "35. Where does the woman most likely work?",
+          "options": [
+            "(A) At a sports stadium",
+            "(B) At a fitness center",
+            "(C) At a doctor’s office",
+            "(D) At a library"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 156,
+          "endTime": 231,
+          "group": "35-37",
+          "transcript": "Woman: Hi, I'm here to schedule some personal training sessions.\nMan: Okay, what are your fitness goals?\nWoman: I'd like to lift\nweights and build strength.\nMan: I can work with you on that. Are\nyou currently a member here?\nWoman: No, I'll also need to sign up\nfor a membership. I saw online that you're running a special for new\nmembers, 50% off the first month's membership. Can I sign up for\nthat?\nMan: Absolutely, but before I get you signed up, let me show\nyou around our facility.",
+          "explanation": "Trích thoại: \"Man: Okay, what are your fitness goals?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'At a fitness center'. → (B)"
+        },
+        {
+          "id": 36,
+          "text": "36. What does the man ask about?",
+          "options": [
+            "(A) A discount",
+            "(B) A form",
+            "(C) A business location",
+            "(D) A parking policy"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 156,
+          "endTime": 231,
+          "group": "35-37",
+          "transcript": "Woman: Hi, I'm here to schedule some personal training sessions.\nMan: Okay, what are your fitness goals?\nWoman: I'd like to lift\nweights and build strength.\nMan: I can work with you on that. Are\nyou currently a member here?\nWoman: No, I'll also need to sign up\nfor a membership. I saw online that you're running a special for new\nmembers, 50% off the first month's membership. Can I sign up for\nthat?\nMan: Absolutely, but before I get you signed up, let me show\nyou around our facility.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'A discount'. → (A)"
+        },
+        {
+          "id": 37,
+          "text": "37. What will the woman do next?",
+          "options": [
+            "(A) Post a sign",
+            "(B) Confirm an account number",
+            "(C) Provide a tour",
+            "(D) Look at a schedule"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 156,
+          "endTime": 231,
+          "group": "35-37",
+          "transcript": "Woman: Hi, I'm here to schedule some personal training sessions.\nMan: Okay, what are your fitness goals?\nWoman: I'd like to lift\nweights and build strength.\nMan: I can work with you on that. Are\nyou currently a member here?\nWoman: No, I'll also need to sign up\nfor a membership. I saw online that you're running a special for new\nmembers, 50% off the first month's membership. Can I sign up for\nthat?\nMan: Absolutely, but before I get you signed up, let me show\nyou around our facility.",
+          "explanation": "Trích thoại: \"Woman: No, I'll also need to sign up\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Post a sign'. → (A)"
+        },
+        {
+          "id": 38,
+          "text": "38. Who most likely are the speakers?",
+          "options": [
+            "(A) Art restorers",
+            "(B) Event planners",
+            "(C) Photographers",
+            "(D) Interior designers"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 232,
+          "endTime": 307,
+          "group": "38-40",
+          "transcript": "Man: As you can see, this Renaissance landscape painting we\nacquired is in bad condition. We can't display it yet.\nWoman:\nHmm... Yes, this painting will need significant restoration work.\nMan: I'll begin by investigating the artist's color palette and style to\nsee how we should repair the damaged areas.\nWoman: You know,\nthis would be a stunning piece to unveil at our anniversary dinner in\nJune. And since it's a big project to finish by then, we should get\nstarted right away.",
+          "explanation": "Trích thoại: \"Man: I'll begin by investigating the artist's color palette and style to\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Art restorers'. → (A)"
+        },
+        {
+          "id": 39,
+          "text": "39. What does the woman say she will do?",
+          "options": [
+            "(A) Hire an intern",
+            "(B) Review a contract",
+            "(C) Take some measurements",
+            "(D) Investigate a problem"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 232,
+          "endTime": 307,
+          "group": "38-40",
+          "transcript": "Man: As you can see, this Renaissance landscape painting we\nacquired is in bad condition. We can't display it yet.\nWoman:\nHmm... Yes, this painting will need significant restoration work.\nMan: I'll begin by investigating the artist's color palette and style to\nsee how we should repair the damaged areas.\nWoman: You know,\nthis would be a stunning piece to unveil at our anniversary dinner in\nJune. And since it's a big project to finish by then, we should get\nstarted right away.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'Hire an intern'. → (A)"
+        },
+        {
+          "id": 40,
+          "text": "40. Why does the man suggest beginning a project quickly?",
+          "options": [
+            "(A) Payment has already been made.",
+            "(B) Staff will be on vacation.",
+            "(C) An important event is approaching.",
+            "(D) A client is in town for a limited time."
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 232,
+          "endTime": 307,
+          "group": "38-40",
+          "transcript": "Man: As you can see, this Renaissance landscape painting we\nacquired is in bad condition. We can't display it yet.\nWoman:\nHmm... Yes, this painting will need significant restoration work.\nMan: I'll begin by investigating the artist's color palette and style to\nsee how we should repair the damaged areas.\nWoman: You know,\nthis would be a stunning piece to unveil at our anniversary dinner in\nJune. And since it's a big project to finish by then, we should get\nstarted right away.",
+          "explanation": "Trích thoại: \"Hmm... Yes, this painting will need significant restoration work.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'Staff will be on vacation.'. → (B)"
+        },
+        {
+          "id": 41,
+          "text": "41. What is the woman preparing?",
+          "options": [
+            "(A) A slide presentation",
+            "(B) A travel itinerary",
+            "(C) A guest list",
+            "(D) A sales contract"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 308,
+          "endTime": 383,
+          "group": "41-43",
+          "transcript": "Woman: Hi Ozan. Do you have time to review some slides I'm\npresenting at a meeting on Thursday?\nMan: Oh, is that the meeting\nwith Smith Incorporated?\nWoman: Yes, I'm presenting them with\nour updated marketing plan for their chain of bookstores. You know\nSmith Incorporated prefers informal meetings. I think just a handout\nhighlighting how our marketing plan will positively impact their\nbook sales would be enough.\nMan: Really? Filo, you've worked\nwith this client before. What do you think? Man 2 (Filo): Ozan is\nright. I think they'd prefer a meeting that was more of a conversation\nthan a presentation.",
+          "explanation": "Trích thoại: \"Woman: Hi Ozan. Do you have time to review some slides I'm\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'A slide presentation'. → (A)"
+        },
+        {
+          "id": 42,
+          "text": "42. What kind of business is Smith Incorporated?",
+          "options": [
+            "(A) A law firm",
+            "(B) A construction company",
+            "(C) A pharmaceutical manufacturer",
+            "(D) A bookstore chain"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 308,
+          "endTime": 383,
+          "group": "41-43",
+          "transcript": "Woman: Hi Ozan. Do you have time to review some slides I'm\npresenting at a meeting on Thursday?\nMan: Oh, is that the meeting\nwith Smith Incorporated?\nWoman: Yes, I'm presenting them with\nour updated marketing plan for their chain of bookstores. You know\nSmith Incorporated prefers informal meetings. I think just a handout\nhighlighting how our marketing plan will positively impact their\nbook sales would be enough.\nMan: Really? Filo, you've worked\nwith this client before. What do you think? Man 2 (Filo): Ozan is\nright. I think they'd prefer a meeting that was more of a conversation\nthan a presentation.",
+          "explanation": "Trích thoại: \"our updated marketing plan for their chain of bookstores. You know\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'A bookstore chain'. → (D)"
+        },
+        {
+          "id": 43,
+          "text": "43. What do the men agree about?",
+          "options": [
+            "(A) A subscription should be canceled.",
+            "(B) An advertising campaign should be delayed.",
+            "(C) A training session should be mandatory.",
+            "(D) A meeting should be casual."
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 308,
+          "endTime": 383,
+          "group": "41-43",
+          "transcript": "Woman: Hi Ozan. Do you have time to review some slides I'm\npresenting at a meeting on Thursday?\nMan: Oh, is that the meeting\nwith Smith Incorporated?\nWoman: Yes, I'm presenting them with\nour updated marketing plan for their chain of bookstores. You know\nSmith Incorporated prefers informal meetings. I think just a handout\nhighlighting how our marketing plan will positively impact their\nbook sales would be enough.\nMan: Really? Filo, you've worked\nwith this client before. What do you think? Man 2 (Filo): Ozan is\nright. I think they'd prefer a meeting that was more of a conversation\nthan a presentation.",
+          "explanation": "Trích thoại: \"presenting at a meeting on Thursday?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'A meeting should be casual.'. → (D)"
+        },
+        {
+          "id": 44,
+          "text": "44. Why does the woman congratulate the man?",
+          "options": [
+            "(A) He finished a road race.",
+            "(B) He won a publishing award.",
+            "(C) His experiment was successful.",
+            "(D) His research funding was extended."
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 384,
+          "endTime": 459,
+          "group": "44-46",
+          "transcript": "Man: I heard that the results of your experiment were better than\nyou expected. Congratulations!\nWoman: Thanks. I thought we'd\nhave to run that reaction ten times before we got a positive result,\nbut we got it on the third try.\nMan: You'll have to write up your\nresults and submit them to the research director. That's Ezra, right?\nWoman: Oh, Ezra is leaving the company next week.\nMan: Oh, I\ndidn't know that. I wonder if you'll be promoted to fill her position?\nWoman: I don't think so. I've never managed an entire research\ngroup. I hope to get some experience doing that next quarter.",
+          "explanation": "Trích thoại: \"didn't know that. I wonder if you'll be promoted to fill her position?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'He won a publishing award.'. → (B)"
+        },
+        {
+          "id": 45,
+          "text": "45. What does the man imply when he says, “Esra’s leaving the company next week”?",
+          "options": [
+            "(A) He needs assistance planning a party for Esra.",
+            "(B) He will not submit a report to Esra.",
+            "(C) He will apply for a new position.",
+            "(D) A larger office has become available."
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 384,
+          "endTime": 459,
+          "group": "44-46",
+          "transcript": "Man: I heard that the results of your experiment were better than\nyou expected. Congratulations!\nWoman: Thanks. I thought we'd\nhave to run that reaction ten times before we got a positive result,\nbut we got it on the third try.\nMan: You'll have to write up your\nresults and submit them to the research director. That's Ezra, right?\nWoman: Oh, Ezra is leaving the company next week.\nMan: Oh, I\ndidn't know that. I wonder if you'll be promoted to fill her position?\nWoman: I don't think so. I've never managed an entire research\ngroup. I hope to get some experience doing that next quarter.",
+          "explanation": "Trích thoại: \"results and submit them to the research director. That's Ezra, right?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'He will not submit a report to Esra.'. → (B)"
+        },
+        {
+          "id": 46,
+          "text": "46. What does the man hope to do next quarter?",
+          "options": [
+            "(A) Receive a research grant",
+            "(B) Publish a book",
+            "(C) Replace some furniture",
+            "(D) Gain management experience"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 384,
+          "endTime": 459,
+          "group": "44-46",
+          "transcript": "Man: I heard that the results of your experiment were better than\nyou expected. Congratulations!\nWoman: Thanks. I thought we'd\nhave to run that reaction ten times before we got a positive result,\nbut we got it on the third try.\nMan: You'll have to write up your\nresults and submit them to the research director. That's Ezra, right?\nWoman: Oh, Ezra is leaving the company next week.\nMan: Oh, I\ndidn't know that. I wonder if you'll be promoted to fill her position?\nWoman: I don't think so. I've never managed an entire research\ngroup. I hope to get some experience doing that next quarter.",
+          "explanation": "Trích thoại: \"results and submit them to the research director. That's Ezra, right?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Receive a research grant'. → (A)"
+        },
+        {
+          "id": 47,
+          "text": "47. Where most likely are the speakers?",
+          "options": [
+            "(A) At a sporting goods store",
+            "(B) At a television studio",
+            "(C) At a sports arena",
+            "(D) At a gym"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 460,
+          "endTime": 535,
+          "group": "47-49",
+          "transcript": "Woman: Now we'll move on to a special segment of our news\nprogram where we highlight new local businesses for our viewers.\nToday I'm talking with Druv Bahaj, a personal trainer and gym\nowner. Thanks for coming into the studio today, Druv.\nMan:\nThanks for having me. I'm excited to tell you about the gym I just\nopened last month. It has state-of-the-art equipment, and my trainers\ncan work with clients at any stage in their fitness journey.\nWoman:\nSounds great. How did you get started in this line of work?\nMan:\nWell, I was an athlete in school, and when I stopped competing, I\nwanted to continue doing something fitness-related, so I started\nworking as a trainer.",
+          "explanation": "Trích thoại: \"owner. Thanks for coming into the studio today, Druv.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'At a television studio'. → (B)"
+        },
+        {
+          "id": 48,
+          "text": "48. What does the man say he recently did?",
+          "options": [
+            "(A) He retired from his job.",
+            "(B) He designed a Web site.",
+            "(C) He opened a new facility.",
+            "(D) He competed in a sports event."
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 460,
+          "endTime": 535,
+          "group": "47-49",
+          "transcript": "Woman: Now we'll move on to a special segment of our news\nprogram where we highlight new local businesses for our viewers.\nToday I'm talking with Druv Bahaj, a personal trainer and gym\nowner. Thanks for coming into the studio today, Druv.\nMan:\nThanks for having me. I'm excited to tell you about the gym I just\nopened last month. It has state-of-the-art equipment, and my trainers\ncan work with clients at any stage in their fitness journey.\nWoman:\nSounds great. How did you get started in this line of work?\nMan:\nWell, I was an athlete in school, and when I stopped competing, I\nwanted to continue doing something fitness-related, so I started\nworking as a trainer.",
+          "explanation": "Trích thoại: \"Sounds great. How did you get started in this line of work?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'He retired from his job.'. → (A)"
+        },
+        {
+          "id": 49,
+          "text": "49. What does the woman ask the man to talk about?",
+          "options": [
+            "(A) His career path",
+            "(B) His mentors",
+            "(C) His future goals",
+            "(D) His hobbies"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 460,
+          "endTime": 535,
+          "group": "47-49",
+          "transcript": "Woman: Now we'll move on to a special segment of our news\nprogram where we highlight new local businesses for our viewers.\nToday I'm talking with Druv Bahaj, a personal trainer and gym\nowner. Thanks for coming into the studio today, Druv.\nMan:\nThanks for having me. I'm excited to tell you about the gym I just\nopened last month. It has state-of-the-art equipment, and my trainers\ncan work with clients at any stage in their fitness journey.\nWoman:\nSounds great. How did you get started in this line of work?\nMan:\nWell, I was an athlete in school, and when I stopped competing, I\nwanted to continue doing something fitness-related, so I started\nworking as a trainer.",
+          "explanation": "Trích thoại: \"Sounds great. How did you get started in this line of work?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'His career path'. → (A)"
+        },
+        {
+          "id": 50,
+          "text": "50. What has the woman been hired to do?",
+          "options": [
+            "(A) Write articles",
+            "(B) Update some software",
+            "(C) Organize a fund-raiser",
+            "(D) Manage office staff"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 536,
+          "endTime": 611,
+          "group": "50-52",
+          "transcript": "Woman: As director, I'm delighted to welcome you to the Redmond\nAquatic Institute. We're happy you'll be producing content for our\nwebsite.\nMan: I'm looking forward to writing about Redmond's\ninitiatives in marine biology.\nWoman: Yes, the more articles the\npublic can read about threats to aquatic ecosystems, the better.\nPublic awareness will help us get funding to meet our aim of\npreserving these ecosystems. This is Roberto, he's working on our\nmangrove research project, which is the first one you'll cover. Man\n2 (Roberto): It's an interesting project, and what's exciting is that\nwe've started using drones to photograph the area with the\nmangroves. So we have some great images you could use.",
+          "explanation": "Trích thoại: \"Woman: Yes, the more articles the\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Write articles'. → (A)"
+        },
+        {
+          "id": 51,
+          "text": "51. According to the director, what is the organization’s goal?",
+          "options": [
+            "(A) To hire professionals in the field",
+            "(B) To create educational programs",
+            "(C) To collect data from other scientific institutes",
+            "(D) To protect aquatic environments"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 536,
+          "endTime": 611,
+          "group": "50-52",
+          "transcript": "Woman: As director, I'm delighted to welcome you to the Redmond\nAquatic Institute. We're happy you'll be producing content for our\nwebsite.\nMan: I'm looking forward to writing about Redmond's\ninitiatives in marine biology.\nWoman: Yes, the more articles the\npublic can read about threats to aquatic ecosystems, the better.\nPublic awareness will help us get funding to meet our aim of\npreserving these ecosystems. This is Roberto, he's working on our\nmangrove research project, which is the first one you'll cover. Man\n2 (Roberto): It's an interesting project, and what's exciting is that\nwe've started using drones to photograph the area with the\nmangroves. So we have some great images you could use.",
+          "explanation": "Trích thoại: \"Aquatic Institute. We're happy you'll be producing content for our\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'To protect aquatic environments'. → (D)"
+        },
+        {
+          "id": 52,
+          "text": "52. What does Roberto say is exciting?",
+          "options": [
+            "(A) The use of some equipment",
+            "(B) The results of a survey",
+            "(C) The public response to a project",
+            "(D) A recent donation to the institute"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 536,
+          "endTime": 611,
+          "group": "50-52",
+          "transcript": "Woman: As director, I'm delighted to welcome you to the Redmond\nAquatic Institute. We're happy you'll be producing content for our\nwebsite.\nMan: I'm looking forward to writing about Redmond's\ninitiatives in marine biology.\nWoman: Yes, the more articles the\npublic can read about threats to aquatic ecosystems, the better.\nPublic awareness will help us get funding to meet our aim of\npreserving these ecosystems. This is Roberto, he's working on our\nmangrove research project, which is the first one you'll cover. Man\n2 (Roberto): It's an interesting project, and what's exciting is that\nwe've started using drones to photograph the area with the\nmangroves. So we have some great images you could use.",
+          "explanation": "Trích thoại: \"mangroves. So we have some great images you could use.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'The use of some equipment'. → (A)"
+        },
+        {
+          "id": 53,
+          "text": "53. What does the man say about some contacts in China?",
+          "options": [
+            "(A) They submitted some preliminary results.",
+            "(B) They requested help with a presentation.",
+            "(C) They are celebrating a holiday.",
+            "(D) They are coming to visit soon."
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 612,
+          "endTime": 687,
+          "group": "53-55",
+          "transcript": "Woman: Matthew, you're not planning to cancel Wednesday's\nbudget meeting, are you?\nMan: I haven't sent out the cancellation\nyet, but our research partners in China are off this week for a\nnational holiday, so there's no point in meeting. Why?\nWoman:\nWell, I've been looking at the draft budget, and we didn't allocate\nfunds for a project leader.\nMan: Uh-oh, I wonder how that\nhappened. You're right, we need to discuss how to fix that.\nWoman:\nYou know, we allocated money for a trip to Singapore to present our\npreliminary findings. We don't really need to do that.",
+          "explanation": "Trích thoại: \"preliminary findings. We don't really need to do that.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'They submitted some preliminary results.'. → (A)"
+        },
+        {
+          "id": 54,
+          "text": "54. What does the woman imply when she says, “we didn’t allocate funds for a project leader”?",
+          "options": [
+            "(A) She thinks a project deadline should be extended.",
+            "(B) She is surprised by a suggestion.",
+            "(C) A scheduled meeting should take place.",
+            "(D) A project leader will not be hired."
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 612,
+          "endTime": 687,
+          "group": "53-55",
+          "transcript": "Woman: Matthew, you're not planning to cancel Wednesday's\nbudget meeting, are you?\nMan: I haven't sent out the cancellation\nyet, but our research partners in China are off this week for a\nnational holiday, so there's no point in meeting. Why?\nWoman:\nWell, I've been looking at the draft budget, and we didn't allocate\nfunds for a project leader.\nMan: Uh-oh, I wonder how that\nhappened. You're right, we need to discuss how to fix that.\nWoman:\nYou know, we allocated money for a trip to Singapore to present our\npreliminary findings. We don't really need to do that.",
+          "explanation": "Trích thoại: \"funds for a project leader.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'A project leader will not be hired.'. → (D)"
+        },
+        {
+          "id": 55,
+          "text": "55. What does the woman say about some travel expenses?",
+          "options": [
+            "(A) They are unnecessary.",
+            "(B) They have been refunded.",
+            "(C) They require receipts.",
+            "(D) They were charged to the company credit card."
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 612,
+          "endTime": 687,
+          "group": "53-55",
+          "transcript": "Woman: Matthew, you're not planning to cancel Wednesday's\nbudget meeting, are you?\nMan: I haven't sent out the cancellation\nyet, but our research partners in China are off this week for a\nnational holiday, so there's no point in meeting. Why?\nWoman:\nWell, I've been looking at the draft budget, and we didn't allocate\nfunds for a project leader.\nMan: Uh-oh, I wonder how that\nhappened. You're right, we need to discuss how to fix that.\nWoman:\nYou know, we allocated money for a trip to Singapore to present our\npreliminary findings. We don't really need to do that.",
+          "explanation": "Trích thoại: \"budget meeting, are you?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'They are unnecessary.'. → (A)"
+        },
+        {
+          "id": 56,
+          "text": "56. Where is the woman calling from?",
+          "options": [
+            "(A) A clothing store",
+            "(B) A furniture store",
+            "(C) A restaurant supply company",
+            "(D) A graphic design firm"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 688,
+          "endTime": 763,
+          "group": "56-58",
+          "transcript": "Man: Hello, you've reached tech support.\nWoman: I'm calling from\nReuben Restaurant Equipment. I recently purchased your software\nto keep track of my warehouse inventory, and I have a question\nabout setting alerts.\nMan: Sure, how can I help?\nWoman: Well,\nwe've been getting an alert whenever the inventory for our deep\nfryers drops below ten, but we usually don't stock many of those\nbecause restaurants don't often need to replace them. So, can I lower\nthe alert level for just those items?\nMan: Yes, in the system, if you\nclick on that product, you'll see a link that says 'set custom alert', and\nyou can set it to any number from there.\nWoman: I see it. Thanks\nfor your help.",
+          "explanation": "Trích thoại: \"Reuben Restaurant Equipment. I recently purchased your software\" → Thông tin đối chiếu trong bài nghe chọn đáp án (C) 'A restaurant supply company'. → (C)"
+        },
+        {
+          "id": 57,
+          "text": "57. What is some software being used for?",
+          "options": [
+            "(A) Inventory management",
+            "(B) Employee performance reviews",
+            "(C) Sales forecasting",
+            "(D) Web site design"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 688,
+          "endTime": 763,
+          "group": "56-58",
+          "transcript": "Man: Hello, you've reached tech support.\nWoman: I'm calling from\nReuben Restaurant Equipment. I recently purchased your software\nto keep track of my warehouse inventory, and I have a question\nabout setting alerts.\nMan: Sure, how can I help?\nWoman: Well,\nwe've been getting an alert whenever the inventory for our deep\nfryers drops below ten, but we usually don't stock many of those\nbecause restaurants don't often need to replace them. So, can I lower\nthe alert level for just those items?\nMan: Yes, in the system, if you\nclick on that product, you'll see a link that says 'set custom alert', and\nyou can set it to any number from there.\nWoman: I see it. Thanks\nfor your help.",
+          "explanation": "Trích thoại: \"to keep track of my warehouse inventory, and I have a question\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Inventory management'. → (A)"
+        },
+        {
+          "id": 58,
+          "text": "58. What does the man help the woman do?",
+          "options": [
+            "(A) Return a purchase",
+            "(B) Customize a setting",
+            "(C) Repair an engine",
+            "(D) Inspect a shipment"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 688,
+          "endTime": 763,
+          "group": "56-58",
+          "transcript": "Man: Hello, you've reached tech support.\nWoman: I'm calling from\nReuben Restaurant Equipment. I recently purchased your software\nto keep track of my warehouse inventory, and I have a question\nabout setting alerts.\nMan: Sure, how can I help?\nWoman: Well,\nwe've been getting an alert whenever the inventory for our deep\nfryers drops below ten, but we usually don't stock many of those\nbecause restaurants don't often need to replace them. So, can I lower\nthe alert level for just those items?\nMan: Yes, in the system, if you\nclick on that product, you'll see a link that says 'set custom alert', and\nyou can set it to any number from there.\nWoman: I see it. Thanks\nfor your help.",
+          "explanation": "Trích thoại: \"Reuben Restaurant Equipment. I recently purchased your software\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Return a purchase'. → (A)"
+        },
+        {
+          "id": 59,
+          "text": "59. Where are the speakers most likely working?",
+          "options": [
+            "(A) At a flower shop",
+            "(B) At a botanical garden",
+            "(C) At a fruit orchard",
+            "(D) At a hardware store"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 764,
+          "endTime": 839,
+          "group": "59-61",
+          "transcript": "Woman: I just spoke to the garden director. He wants us to install\nan irrigation system in the rose garden, as well as the magnolia\ngrove. He wants to be sure the flowers get plenty of water during the\nhot summer months.\nMan: Okay, let's walk over there now and take\nsome measurements. Then we can figure out what materials we'll\nneed.\nWoman: Sure. We have some extra parts left over from when\nwe worked on the cherry trees. I'll check what we have left after we\nfinish measuring the rose garden.",
+          "explanation": "Trích thoại: \"grove. He wants to be sure the flowers get plenty of water during the\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'At a flower shop'. → (A)"
+        },
+        {
+          "id": 60,
+          "text": "60. What have the speakers been asked to do?",
+          "options": [
+            "(A) Arrange some flowers",
+            "(B) Deliver some tools",
+            "(C) Install a watering system",
+            "(D) Repair a lawn mower"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 764,
+          "endTime": 839,
+          "group": "59-61",
+          "transcript": "Woman: I just spoke to the garden director. He wants us to install\nan irrigation system in the rose garden, as well as the magnolia\ngrove. He wants to be sure the flowers get plenty of water during the\nhot summer months.\nMan: Okay, let's walk over there now and take\nsome measurements. Then we can figure out what materials we'll\nneed.\nWoman: Sure. We have some extra parts left over from when\nwe worked on the cherry trees. I'll check what we have left after we\nfinish measuring the rose garden.",
+          "explanation": "Trích thoại: \"grove. He wants to be sure the flowers get plenty of water during the\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Arrange some flowers'. → (A)"
+        },
+        {
+          "id": 61,
+          "text": "61. What does the man offer to do?",
+          "options": [
+            "(A) Look for some materials",
+            "(B) Train an assistant",
+            "(C) Transplant some trees",
+            "(D) Work extra hours"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 764,
+          "endTime": 839,
+          "group": "59-61",
+          "transcript": "Woman: I just spoke to the garden director. He wants us to install\nan irrigation system in the rose garden, as well as the magnolia\ngrove. He wants to be sure the flowers get plenty of water during the\nhot summer months.\nMan: Okay, let's walk over there now and take\nsome measurements. Then we can figure out what materials we'll\nneed.\nWoman: Sure. We have some extra parts left over from when\nwe worked on the cherry trees. I'll check what we have left after we\nfinish measuring the rose garden.",
+          "explanation": "Trích thoại: \"some measurements. Then we can figure out what materials we'll\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Look for some materials'. → (A)"
+        },
+        {
+          "id": 62,
+          "text": "62. Why does the man apologize?",
+          "options": [
+            "(A) He lost a key.",
+            "(B) He arrived late.",
+            "(C) He turned off some equipment.",
+            "(D) He forgot an instruction manual."
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 840,
+          "endTime": 915,
+          "group": "62-64",
+          "transcript": "Woman: Good morning, Ms. Al-Johani. Sorry I'm a little late,\ntraffic was terrible. Woman 2 (Ms. Al-Johani): That's okay, but our\nrental office will be very busy this morning. There's a big education\nconvention in town starting today, and a lot of attendees from out of\ntown have reserved cars to get to the conference center.\nWoman:\nRight. What do you want me to do first?\nWoman 2: I'd like you to\nstart by checking the batteries in our electric cars. We want to be\nsure they're all fully charged.",
+          "explanation": "Trích thoại: \"Woman: Good morning, Ms. Al-Johani. Sorry I'm a little late,\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'He arrived late.'. → (B)",
+          "image": "public/assets/bai-on-2/listening/passages/part3_q62_64.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part3_q62_64.png"
+        },
+        {
+          "id": 63,
+          "text": "63. According to the woman, why will the speakers be very busy today?",
+          "options": [
+            "(A) The agency is offering a discount.",
+            "(B) A new rental office is opening.",
+            "(C) There is a conference in town.",
+            "(D) A sporting event will take place."
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 840,
+          "endTime": 915,
+          "group": "62-64",
+          "transcript": "Woman: Good morning, Ms. Al-Johani. Sorry I'm a little late,\ntraffic was terrible. Woman 2 (Ms. Al-Johani): That's okay, but our\nrental office will be very busy this morning. There's a big education\nconvention in town starting today, and a lot of attendees from out of\ntown have reserved cars to get to the conference center.\nWoman:\nRight. What do you want me to do first?\nWoman 2: I'd like you to\nstart by checking the batteries in our electric cars. We want to be\nsure they're all fully charged.",
+          "explanation": "Trích thoại: \"rental office will be very busy this morning. There's a big education\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'A new rental office is opening.'. → (B)",
+          "image": "public/assets/bai-on-2/listening/passages/part3_q62_64.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part3_q62_64.png"
+        },
+        {
+          "id": 64,
+          "text": "64. Look at the graphic. Where will the man go first?",
+          "options": [
+            "(A) Area 1",
+            "(B) Area 2",
+            "(C) Area 3",
+            "(D) Area 4"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 840,
+          "endTime": 915,
+          "group": "62-64",
+          "transcript": "Woman: Good morning, Ms. Al-Johani. Sorry I'm a little late,\ntraffic was terrible. Woman 2 (Ms. Al-Johani): That's okay, but our\nrental office will be very busy this morning. There's a big education\nconvention in town starting today, and a lot of attendees from out of\ntown have reserved cars to get to the conference center.\nWoman:\nRight. What do you want me to do first?\nWoman 2: I'd like you to\nstart by checking the batteries in our electric cars. We want to be\nsure they're all fully charged.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'Area 1'. → (A)",
+          "image": "public/assets/bai-on-2/listening/passages/part3_q62_64.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part3_q62_64.png"
+        },
+        {
+          "id": 65,
+          "text": "65. Where do the speakers most likely work?",
+          "options": [
+            "(A) At a landscaping company",
+            "(B) At a local government office",
+            "(C) At a garden store",
+            "(D) At a lumber yard"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 916,
+          "endTime": 991,
+          "group": "65-67",
+          "transcript": "Woman: I've been on vacation, so I missed out on department's\nmeeting. Can you give me an update?\nMan: Well, all our public\nprograms and community events are on schedule.\nWoman: Great.\nHow about the Janus Park project? We're still planning on planting\ntrees best suited for residential areas, right?\nMan: That's right. I'm\nworking on the public education part now. There'll be a children's\nposter competition next month, which the city mayor will judge.\nWoman: Interesting. Is there a prize?\nMan: The winner will get a\nribbon, but all participants will get a seedling to plant at home. We'll\nbe giving away the tallest of these four varieties, since it was the\nmost popular in a survey of our residents.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'At a landscaping company'. → (A)",
+          "image": "public/assets/bai-on-2/listening/passages/part3_q65_67.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part3_q65_67.png"
+        },
+        {
+          "id": 66,
+          "text": "66. What does the woman say will take place next month?",
+          "options": [
+            "(A) A seasonal promotion",
+            "(B) A product demonstration",
+            "(C) A poster contest",
+            "(D) A lecture series"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 916,
+          "endTime": 991,
+          "group": "65-67",
+          "transcript": "Woman: I've been on vacation, so I missed out on department's\nmeeting. Can you give me an update?\nMan: Well, all our public\nprograms and community events are on schedule.\nWoman: Great.\nHow about the Janus Park project? We're still planning on planting\ntrees best suited for residential areas, right?\nMan: That's right. I'm\nworking on the public education part now. There'll be a children's\nposter competition next month, which the city mayor will judge.\nWoman: Interesting. Is there a prize?\nMan: The winner will get a\nribbon, but all participants will get a seedling to plant at home. We'll\nbe giving away the tallest of these four varieties, since it was the\nmost popular in a survey of our residents.",
+          "explanation": "Trích thoại: \"poster competition next month, which the city mayor will judge.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (C) 'A poster contest'. → (C)",
+          "image": "public/assets/bai-on-2/listening/passages/part3_q65_67.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part3_q65_67.png"
+        },
+        {
+          "id": 67,
+          "text": "67. Look at the graphic. What kind of seedlings will be given away?",
+          "options": [
+            "(A) Eastern redbud",
+            "(B) Japanese maple",
+            "(C) White fringe tree",
+            "(D) Panicle hydrangea"
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 916,
+          "endTime": 991,
+          "group": "65-67",
+          "transcript": "Woman: I've been on vacation, so I missed out on department's\nmeeting. Can you give me an update?\nMan: Well, all our public\nprograms and community events are on schedule.\nWoman: Great.\nHow about the Janus Park project? We're still planning on planting\ntrees best suited for residential areas, right?\nMan: That's right. I'm\nworking on the public education part now. There'll be a children's\nposter competition next month, which the city mayor will judge.\nWoman: Interesting. Is there a prize?\nMan: The winner will get a\nribbon, but all participants will get a seedling to plant at home. We'll\nbe giving away the tallest of these four varieties, since it was the\nmost popular in a survey of our residents.",
+          "explanation": "Trích thoại: \"trees best suited for residential areas, right?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (C) 'White fringe tree'. → (C)",
+          "image": "public/assets/bai-on-2/listening/passages/part3_q65_67.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part3_q65_67.png"
+        },
+        {
+          "id": 68,
+          "text": "68. Where does the conversation most likely take place?",
+          "options": [
+            "(A) At a café",
+            "(B) At an electronics shop",
+            "(C) At a stationery store",
+            "(D) At a clothing store"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 992,
+          "endTime": 1067,
+          "group": "68-70",
+          "transcript": "Man: Hi, I'd like a large black coffee and an egg and cheese\ncroissant, please.\nWoman: Sure, that'll be $8. Are you a Shelby's\nPreferred Customer?\nMan: Uh, no, I'm not. But I do have an easy\ncash card.\nWoman: Great, let me ring that up for you. By the way,\nI'd like to order breakfast for my team tomorrow morning. Can I\nplace that order ahead of time? Woman (Staff): Sure, would you\nlike to do that now?\nMan: No, I'll call you later today when I know\nwhat everyone wants. Thanks for the information.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (B) 'At an electronics shop'. → (B)",
+          "image": "public/assets/bai-on-2/listening/passages/part3_q68_70.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part3_q68_70.png"
+        },
+        {
+          "id": 69,
+          "text": "69. Look at the graphic. How much will the man save on his purchase?",
+          "options": [
+            "(A) 5%",
+            "(B) 3%",
+            "(C) 7%",
+            "(D) 2%"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 992,
+          "endTime": 1067,
+          "group": "68-70",
+          "transcript": "Man: Hi, I'd like a large black coffee and an egg and cheese\ncroissant, please.\nWoman: Sure, that'll be $8. Are you a Shelby's\nPreferred Customer?\nMan: Uh, no, I'm not. But I do have an easy\ncash card.\nWoman: Great, let me ring that up for you. By the way,\nI'd like to order breakfast for my team tomorrow morning. Can I\nplace that order ahead of time? Woman (Staff): Sure, would you\nlike to do that now?\nMan: No, I'll call you later today when I know\nwhat everyone wants. Thanks for the information.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) '5%'. → (A)",
+          "image": "public/assets/bai-on-2/listening/passages/part3_q68_70.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part3_q68_70.png"
+        },
+        {
+          "id": 70,
+          "text": "70. What does the man say he will do later today?",
+          "options": [
+            "(A) Call a business",
+            "(B) Return some merchandise",
+            "(C) Fill out an online survey",
+            "(D) Hang up some posters PART 4 Directions: You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk. Select the best response to each question and mark the letter (A), (B), (C), or (D) on your answer sheet. The talks will not be printed in your test book and will be spoken only one time."
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết hội thoại",
+          "startTime": 992,
+          "endTime": 1067,
+          "group": "68-70",
+          "transcript": "Man: Hi, I'd like a large black coffee and an egg and cheese\ncroissant, please.\nWoman: Sure, that'll be $8. Are you a Shelby's\nPreferred Customer?\nMan: Uh, no, I'm not. But I do have an easy\ncash card.\nWoman: Great, let me ring that up for you. By the way,\nI'd like to order breakfast for my team tomorrow morning. Can I\nplace that order ahead of time? Woman (Staff): Sure, would you\nlike to do that now?\nMan: No, I'll call you later today when I know\nwhat everyone wants. Thanks for the information.",
+          "explanation": "Trích thoại: \"place that order ahead of time? Woman (Staff): Sure, would you\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'Hang up some posters PART 4 Directions: You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk. Select the best response to each question and mark the letter (A), (B), (C), or on your answer sheet. The talks will not be printed in your test book and will be spoken only one time.'. → (D)",
+          "image": "public/assets/bai-on-2/listening/passages/part3_q68_70.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part3_q68_70.png"
+        }
+      ]
+    },
+    "part4": {
+      "name": "Part 4 - Talks",
+      "description": "Nghe bài nói và trả lời các câu hỏi liên quan.",
+      "questionCount": 30,
+      "audio": "public/assets/bai-on-2/audio/PART 4 - TEST 2.mp3",
+      "questions": [
+        {
+          "id": 71,
+          "text": "71. Who most likely is the speaker?",
+          "options": [
+            "(A) An art gallery owner",
+            "(B) A hairstylist",
+            "(C) A clothing designer",
+            "(D) A jewelry maker"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 50,
+          "endTime": 120,
+          "group": "71-73",
+          "transcript": "Hi Amina. This is Sabine calling from Blue Drop Creations. I just\nput the earrings and necklaces that you ordered from me in the mail.\nBecause you've been a customer for over ten years, I've also\nincluded a special gift in the package for you. It's a case for your\njewelry. This is a new product that I'm starting to offer, so please\ncall me back after you receive it. I'd really like to hear your thoughts\non it.",
+          "explanation": "Trích thoại: \"jewelry. This is a new product that I'm starting to offer, so please\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'An art gallery owner'. → (A)"
+        },
+        {
+          "id": 72,
+          "text": "72. Why did the speaker include a special gift?",
+          "options": [
+            "(A) Because the listener is a new customer",
+            "(B) Because the listener is celebrating a special occasion",
+            "(C) Because the listener is a loyal customer",
+            "(D) Because the listener placed a large order"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 50,
+          "endTime": 120,
+          "group": "71-73",
+          "transcript": "Hi Amina. This is Sabine calling from Blue Drop Creations. I just\nput the earrings and necklaces that you ordered from me in the mail.\nBecause you've been a customer for over ten years, I've also\nincluded a special gift in the package for you. It's a case for your\njewelry. This is a new product that I'm starting to offer, so please\ncall me back after you receive it. I'd really like to hear your thoughts\non it.",
+          "explanation": "Trích thoại: \"Because you've been a customer for over ten years, I've also\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Because the listener is a new customer'. → (A)"
+        },
+        {
+          "id": 73,
+          "text": "73. Why is the listener asked to return a phone call?",
+          "options": [
+            "(A) To give feedback",
+            "(B) To confirm receipt of an order",
+            "(C) To update a payment method",
+            "(D) To provide an address"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 50,
+          "endTime": 120,
+          "group": "71-73",
+          "transcript": "Hi Amina. This is Sabine calling from Blue Drop Creations. I just\nput the earrings and necklaces that you ordered from me in the mail.\nBecause you've been a customer for over ten years, I've also\nincluded a special gift in the package for you. It's a case for your\njewelry. This is a new product that I'm starting to offer, so please\ncall me back after you receive it. I'd really like to hear your thoughts\non it.",
+          "explanation": "Trích thoại: \"put the earrings and necklaces that you ordered from me in the mail.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'To confirm receipt of an order'. → (B)"
+        },
+        {
+          "id": 74,
+          "text": "74. What does the listener want to do?",
+          "options": [
+            "(A) Hire a caterer",
+            "(B) Purchase a painting",
+            "(C) Have a printer repaired",
+            "(D) Have a photograph framed"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 121,
+          "endTime": 191,
+          "group": "74-76",
+          "transcript": "Good morning. This is Brandon from Dakota Framing Company\nreturning your call. We received your voicemail about wanting to\nframe a wedding picture. There is no need to print the photo\nyourself. We prefer that you email us a digital copy. So, to answer\nyour question, you can complete the whole order online. Just visit\nour website, where you'll fill in your choices for photo size and the\nframe, and upload your photo. And for a small extra cost, we'll\nguarantee to replace your frame in case of damage. Please be sure to\ncheck that box when you order.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'Hire a caterer'. → (A)"
+        },
+        {
+          "id": 75,
+          "text": "75. What does the speaker expect the listener to do on a Web site?",
+          "options": [
+            "(A) View a list of prices",
+            "(B) Place an order",
+            "(C) Schedule a time to meet",
+            "(D) Read customer reviews"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 121,
+          "endTime": 191,
+          "group": "74-76",
+          "transcript": "Good morning. This is Brandon from Dakota Framing Company\nreturning your call. We received your voicemail about wanting to\nframe a wedding picture. There is no need to print the photo\nyourself. We prefer that you email us a digital copy. So, to answer\nyour question, you can complete the whole order online. Just visit\nour website, where you'll fill in your choices for photo size and the\nframe, and upload your photo. And for a small extra cost, we'll\nguarantee to replace your frame in case of damage. Please be sure to\ncheck that box when you order.",
+          "explanation": "Trích thoại: \"your question, you can complete the whole order online. Just visit\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'Place an order'. → (B)"
+        },
+        {
+          "id": 76,
+          "text": "76. What is included for an extra fee?",
+          "options": [
+            "(A) Shipping",
+            "(B) An artist’s signature",
+            "(C) A newsletter",
+            "(D) A warranty"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 121,
+          "endTime": 191,
+          "group": "74-76",
+          "transcript": "Good morning. This is Brandon from Dakota Framing Company\nreturning your call. We received your voicemail about wanting to\nframe a wedding picture. There is no need to print the photo\nyourself. We prefer that you email us a digital copy. So, to answer\nyour question, you can complete the whole order online. Just visit\nour website, where you'll fill in your choices for photo size and the\nframe, and upload your photo. And for a small extra cost, we'll\nguarantee to replace your frame in case of damage. Please be sure to\ncheck that box when you order.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'Shipping'. → (A)"
+        },
+        {
+          "id": 77,
+          "text": "77. Who are the listeners?",
+          "options": [
+            "(A) Hotel receptionists",
+            "(B) Health-care staff",
+            "(C) Customer-service representatives",
+            "(D) Fitness trainers"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 192,
+          "endTime": 262,
+          "group": "77-79",
+          "transcript": "Welcome all to this week's training in our series of patient care\nprograms. Our physical therapy center is known for the excellent\ncare we provide to our patients. And that's because of you, our staff.\nThe training today will be about ways to engage the patients who\nreside in our facility through playing games. I've prepared different\ntypes of activities for us to try out, including some games that\ninvolve mental stimulation as well as physical exercises. But, I have\nto let you know that today, I must leave at noon. Next week we'll try\nout more of the games.",
+          "explanation": "Trích thoại: \"care we provide to our patients. And that's because of you, our staff.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'Health-care staff'. → (B)"
+        },
+        {
+          "id": 78,
+          "text": "78. What has the speaker prepared?",
+          "options": [
+            "(A) Activities",
+            "(B) Food",
+            "(C) Certificates",
+            "(D) A video"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 192,
+          "endTime": 262,
+          "group": "77-79",
+          "transcript": "Welcome all to this week's training in our series of patient care\nprograms. Our physical therapy center is known for the excellent\ncare we provide to our patients. And that's because of you, our staff.\nThe training today will be about ways to engage the patients who\nreside in our facility through playing games. I've prepared different\ntypes of activities for us to try out, including some games that\ninvolve mental stimulation as well as physical exercises. But, I have\nto let you know that today, I must leave at noon. Next week we'll try\nout more of the games.",
+          "explanation": "Trích thoại: \"types of activities for us to try out, including some games that\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Activities'. → (A)"
+        },
+        {
+          "id": 79,
+          "text": "79. What does the speaker imply when he says, “I must leave at noon”?",
+          "options": [
+            "(A) He would like permission to leave.",
+            "(B) He cannot join a luncheon.",
+            "(C) A colleague will fill in for him.",
+            "(D) Some material will not be covered today."
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 192,
+          "endTime": 262,
+          "group": "77-79",
+          "transcript": "Welcome all to this week's training in our series of patient care\nprograms. Our physical therapy center is known for the excellent\ncare we provide to our patients. And that's because of you, our staff.\nThe training today will be about ways to engage the patients who\nreside in our facility through playing games. I've prepared different\ntypes of activities for us to try out, including some games that\ninvolve mental stimulation as well as physical exercises. But, I have\nto let you know that today, I must leave at noon. Next week we'll try\nout more of the games.",
+          "explanation": "Trích thoại: \"The training today will be about ways to engage the patients who\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'Some material will not be covered today.'. → (D)"
+        },
+        {
+          "id": 80,
+          "text": "80. What is the purpose of the advertisement?",
+          "options": [
+            "(A) To announce a contest",
+            "(B) To promote an upcoming sale",
+            "(C) To introduce new services",
+            "(D) To recruit employees"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 263,
+          "endTime": 333,
+          "group": "80-82",
+          "transcript": "Are you a certified commercial truck driver? Hoffman Oversized\nHaulers is currently looking for experienced truck drivers to join our\nteam. As our name suggests, we transport oversized cargo\nthroughout the region. With Hoffman, drivers enjoy flexible\nscheduling. In fact, we're the only company in the region that allows\nemployees to determine their own work hours. If you don't have\nexperience working with oversized loads, training is available.\nPlease check out our website to learn more about our open positions.\nWe can't wait to work with you.",
+          "explanation": "Trích thoại: \"employees to determine their own work hours. If you don't have\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'To recruit employees'. → (D)"
+        },
+        {
+          "id": 81,
+          "text": "81. How is the speaker’s company different from its competitors?",
+          "options": [
+            "(A) It is dependable.",
+            "(B) It produces innovative products.",
+            "(C) It offers flexible schedules.",
+            "(D) It pays employees well."
+          ],
+          "answer": "C",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 263,
+          "endTime": 333,
+          "group": "80-82",
+          "transcript": "Are you a certified commercial truck driver? Hoffman Oversized\nHaulers is currently looking for experienced truck drivers to join our\nteam. As our name suggests, we transport oversized cargo\nthroughout the region. With Hoffman, drivers enjoy flexible\nscheduling. In fact, we're the only company in the region that allows\nemployees to determine their own work hours. If you don't have\nexperience working with oversized loads, training is available.\nPlease check out our website to learn more about our open positions.\nWe can't wait to work with you.",
+          "explanation": "Trích thoại: \"throughout the region. With Hoffman, drivers enjoy flexible\" → Thông tin đối chiếu trong bài nghe chọn đáp án (C) 'It offers flexible schedules.'. → (C)"
+        },
+        {
+          "id": 82,
+          "text": "82. What does the speaker encourage the listeners to do?",
+          "options": [
+            "(A) Complete a survey",
+            "(B) Fill out an application",
+            "(C) Place an order",
+            "(D) Get more information"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 263,
+          "endTime": 333,
+          "group": "80-82",
+          "transcript": "Are you a certified commercial truck driver? Hoffman Oversized\nHaulers is currently looking for experienced truck drivers to join our\nteam. As our name suggests, we transport oversized cargo\nthroughout the region. With Hoffman, drivers enjoy flexible\nscheduling. In fact, we're the only company in the region that allows\nemployees to determine their own work hours. If you don't have\nexperience working with oversized loads, training is available.\nPlease check out our website to learn more about our open positions.\nWe can't wait to work with you.",
+          "explanation": "Trích thoại: \"throughout the region. With Hoffman, drivers enjoy flexible\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'Fill out an application'. → (B)"
+        },
+        {
+          "id": 83,
+          "text": "83. What is the message mainly about?",
+          "options": [
+            "(A) Revising a restaurant menu",
+            "(B) Filming for a television show",
+            "(C) Launching an advertising campaign",
+            "(D) Renovating a kitchen"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 334,
+          "endTime": 404,
+          "group": "83-85",
+          "transcript": "Hi Jinyu, I have some exciting news! The Farmers Table television\nprogram wants to feature our restaurant in an upcoming episode.\nThey'll be coming on Wednesday to film everyone at work in the\nkitchen during our dinner service. Since you're the executive chef,\nI'll need you to come in earlier than usual to get everything prepped\nand set up. And just as a reminder, I'm still planning to be out of\ntown next week for the Springdale Pastry and Dessert Festival.\nThanks.",
+          "explanation": "Trích thoại: \"program wants to feature our restaurant in an upcoming episode.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Revising a restaurant menu'. → (A)"
+        },
+        {
+          "id": 84,
+          "text": "84. What does the speaker ask the listener to do on Wednesday?",
+          "options": [
+            "(A) Come to work early",
+            "(B) Experiment with new ingredients",
+            "(C) Train an employee",
+            "(D) Prepare for a safety inspection"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 334,
+          "endTime": 404,
+          "group": "83-85",
+          "transcript": "Hi Jinyu, I have some exciting news! The Farmers Table television\nprogram wants to feature our restaurant in an upcoming episode.\nThey'll be coming on Wednesday to film everyone at work in the\nkitchen during our dinner service. Since you're the executive chef,\nI'll need you to come in earlier than usual to get everything prepped\nand set up. And just as a reminder, I'm still planning to be out of\ntown next week for the Springdale Pastry and Dessert Festival.\nThanks.",
+          "explanation": "Trích thoại: \"They'll be coming on Wednesday to film everyone at work in the\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Come to work early'. → (A)"
+        },
+        {
+          "id": 85,
+          "text": "85. Where will the speaker go next week?",
+          "options": [
+            "(A) To a food festival",
+            "(B) To a cooking class",
+            "(C) To a farmers market",
+            "(D) To a bakery opening"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 334,
+          "endTime": 404,
+          "group": "83-85",
+          "transcript": "Hi Jinyu, I have some exciting news! The Farmers Table television\nprogram wants to feature our restaurant in an upcoming episode.\nThey'll be coming on Wednesday to film everyone at work in the\nkitchen during our dinner service. Since you're the executive chef,\nI'll need you to come in earlier than usual to get everything prepped\nand set up. And just as a reminder, I'm still planning to be out of\ntown next week for the Springdale Pastry and Dessert Festival.\nThanks.",
+          "explanation": "Trích thoại: \"town next week for the Springdale Pastry and Dessert Festival.\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'To a food festival'. → (A)"
+        },
+        {
+          "id": 86,
+          "text": "86. What is the speaker mainly discussing?",
+          "options": [
+            "(A) A job fair",
+            "(B) A factory",
+            "(C) Some traffic patterns",
+            "(D) A prototype electric vehicle"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 405,
+          "endTime": 475,
+          "group": "86-88",
+          "transcript": "Good evening, and thank you for watching Channel 4 News. I'm\nhere in Rockville, a suburb in the metropolitan area. Rockville was\nrecently chosen as the site of a multi-million dollar electric vehicle\nbattery factory. This project promises to bring thousands of jobs,\nboth directly and indirectly, to the surrounding community. At a\nrecent well-attended public comment meeting, residents had a\nchance to voice any opposition to the project. No one made any\ncomments. To learn more about this exciting development, artist-\nrendered images of the project are on display at the City Hall\nbuilding.",
+          "explanation": "Trích thoại: \"recently chosen as the site of a multi-million dollar electric vehicle\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'A prototype electric vehicle'. → (D)"
+        },
+        {
+          "id": 87,
+          "text": "87. What does the speaker imply when he says, \"No one made any comments\"?",
+          "options": [
+            "(A) Few people were in attendance.",
+            "(B) Another meeting will be scheduled.",
+            "(C) A project has community support.",
+            "(D) A public comment period has ended."
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 405,
+          "endTime": 475,
+          "group": "86-88",
+          "transcript": "Good evening, and thank you for watching Channel 4 News. I'm\nhere in Rockville, a suburb in the metropolitan area. Rockville was\nrecently chosen as the site of a multi-million dollar electric vehicle\nbattery factory. This project promises to bring thousands of jobs,\nboth directly and indirectly, to the surrounding community. At a\nrecent well-attended public comment meeting, residents had a\nchance to voice any opposition to the project. No one made any\ncomments. To learn more about this exciting development, artist-\nrendered images of the project are on display at the City Hall\nbuilding.",
+          "explanation": "Trích thoại: \"recent well-attended public comment meeting, residents had a\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'A public comment period has ended.'. → (D)"
+        },
+        {
+          "id": 88,
+          "text": "88. What can the public view at the city hall building?",
+          "options": [
+            "(A) An official contract",
+            "(B) Some images",
+            "(C) A list of companies",
+            "(D) Some facts about local politicians"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 405,
+          "endTime": 475,
+          "group": "86-88",
+          "transcript": "Good evening, and thank you for watching Channel 4 News. I'm\nhere in Rockville, a suburb in the metropolitan area. Rockville was\nrecently chosen as the site of a multi-million dollar electric vehicle\nbattery factory. This project promises to bring thousands of jobs,\nboth directly and indirectly, to the surrounding community. At a\nrecent well-attended public comment meeting, residents had a\nchance to voice any opposition to the project. No one made any\ncomments. To learn more about this exciting development, artist-\nrendered images of the project are on display at the City Hall\nbuilding.",
+          "explanation": "Trích thoại: \"rendered images of the project are on display at the City Hall\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'Some images'. → (B)"
+        },
+        {
+          "id": 89,
+          "text": "89. What type of product is being advertised?",
+          "options": [
+            "(A) A floor lamp",
+            "(B) A bookshelf",
+            "(C) An office chair",
+            "(D) A desk organizer"
+          ],
+          "answer": "D",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 476,
+          "endTime": 546,
+          "group": "89-91",
+          "transcript": "Tired of losing things on your desk because it's too cluttered? If so,\nthe Optimum Space Organizer is the perfect product for you!\nDesigned with office employees like you in mind, this product can\nmake even the messiest of desks look neat again. Best of all, the\norganizer adjusts to any size space you may have on your desk. It\ncan be as narrow or as wide as you need it to be, within seconds. If\nyou call in the next ten minutes, you'll receive a 30% discount!",
+          "explanation": "Trích thoại: \"organizer adjusts to any size space you may have on your desk. It\" → Thông tin đối chiếu trong bài nghe chọn đáp án (D) 'A desk organizer'. → (D)"
+        },
+        {
+          "id": 90,
+          "text": "90. What special feature does the speaker emphasize?",
+          "options": [
+            "(A) It is durable.",
+            "(B) It is adjustable.",
+            "(C) It is easy to assemble.",
+            "(D) It is available in many colors."
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 476,
+          "endTime": 546,
+          "group": "89-91",
+          "transcript": "Tired of losing things on your desk because it's too cluttered? If so,\nthe Optimum Space Organizer is the perfect product for you!\nDesigned with office employees like you in mind, this product can\nmake even the messiest of desks look neat again. Best of all, the\norganizer adjusts to any size space you may have on your desk. It\ncan be as narrow or as wide as you need it to be, within seconds. If\nyou call in the next ten minutes, you'll receive a 30% discount!",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'It is durable.'. → (A)"
+        },
+        {
+          "id": 91,
+          "text": "91. How can the listeners receive a discount?",
+          "options": [
+            "(A) By calling within a time limit",
+            "(B) By entering an e-mail address",
+            "(C) By referring a product to a friend",
+            "(D) By using a mobile phone application"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 476,
+          "endTime": 546,
+          "group": "89-91",
+          "transcript": "Tired of losing things on your desk because it's too cluttered? If so,\nthe Optimum Space Organizer is the perfect product for you!\nDesigned with office employees like you in mind, this product can\nmake even the messiest of desks look neat again. Best of all, the\norganizer adjusts to any size space you may have on your desk. It\ncan be as narrow or as wide as you need it to be, within seconds. If\nyou call in the next ten minutes, you'll receive a 30% discount!",
+          "explanation": "Trích thoại: \"can be as narrow or as wide as you need it to be, within seconds. If\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'By calling within a time limit'. → (A)"
+        },
+        {
+          "id": 92,
+          "text": "92. According to the speaker, what is the purpose of the podcast?",
+          "options": [
+            "(A) To discuss the restaurant industry",
+            "(B) To review new cooking equipment",
+            "(C) To share information about nutrition",
+            "(D) To showcase individual ingredients"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 547,
+          "endTime": 617,
+          "group": "92-94",
+          "transcript": "Thanks for listening to this episode of Fabulous Foods. Every week\nwe discuss a different vegetable and ways to cook with it to\nmaximize flavor. Now, before we get started, I'm excited to\nannounce that I've been collaborating with Cartwell Kitchen\nSupplies to develop a new line of cookware. It'll be released in\nNovember, but it's available for pre-order right now! Keep in mind,\nthis product line will not be available for long. Okay, let's move on\nto our program. With us today is renowned chef, Rebecca Murray,\nto talk about this week's vegetable, eggplant. Rebecca recently\nlaunched a vegetarian restaurant in New York that is getting rave\nreviews so far.",
+          "explanation": "Trích thoại: \"we discuss a different vegetable and ways to cook with it to\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'To discuss the restaurant industry'. → (A)"
+        },
+        {
+          "id": 93,
+          "text": "93. Why does the speaker say, \"this product line will not be available for long\"?",
+          "options": [
+            "(A) To encourage the listeners to place an order",
+            "(B) To apologize to the listeners for a product shortage",
+            "(C) To justify a high price",
+            "(D) To criticize a business decision"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 547,
+          "endTime": 617,
+          "group": "92-94",
+          "transcript": "Thanks for listening to this episode of Fabulous Foods. Every week\nwe discuss a different vegetable and ways to cook with it to\nmaximize flavor. Now, before we get started, I'm excited to\nannounce that I've been collaborating with Cartwell Kitchen\nSupplies to develop a new line of cookware. It'll be released in\nNovember, but it's available for pre-order right now! Keep in mind,\nthis product line will not be available for long. Okay, let's move on\nto our program. With us today is renowned chef, Rebecca Murray,\nto talk about this week's vegetable, eggplant. Rebecca recently\nlaunched a vegetarian restaurant in New York that is getting rave\nreviews so far.",
+          "explanation": "Trích thoại: \"November, but it's available for pre-order right now! Keep in mind,\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'To encourage the listeners to place an order'. → (A)"
+        },
+        {
+          "id": 94,
+          "text": "94. According to the speaker, what did Rebecca Murray recently do?",
+          "options": [
+            "(A) She published a cookbook.",
+            "(B) She launched a culinary training course.",
+            "(C) She opened a restaurant.",
+            "(D) She traveled abroad."
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 547,
+          "endTime": 617,
+          "group": "92-94",
+          "transcript": "Thanks for listening to this episode of Fabulous Foods. Every week\nwe discuss a different vegetable and ways to cook with it to\nmaximize flavor. Now, before we get started, I'm excited to\nannounce that I've been collaborating with Cartwell Kitchen\nSupplies to develop a new line of cookware. It'll be released in\nNovember, but it's available for pre-order right now! Keep in mind,\nthis product line will not be available for long. Okay, let's move on\nto our program. With us today is renowned chef, Rebecca Murray,\nto talk about this week's vegetable, eggplant. Rebecca recently\nlaunched a vegetarian restaurant in New York that is getting rave\nreviews so far.",
+          "explanation": "Trích thoại: \"launched a vegetarian restaurant in New York that is getting rave\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'She launched a culinary training course.'. → (B)"
+        },
+        {
+          "id": 95,
+          "text": "95. Why does the speaker apologize?",
+          "options": [
+            "(A) There is construction noise at the station.",
+            "(B) There are no more seats available on a train.",
+            "(C) A printed schedule has incorrect information.",
+            "(D) A train service has been delayed."
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 618,
+          "endTime": 688,
+          "group": "95-97",
+          "transcript": "Attention passengers, renovation work to upgrade and modernize\nour train station is underway. We apologize for the inconvenience\nthe construction noise may cause. Please note that regional train\nschedules are not affected. Train 133 with service to Washington\nD.C. will be arriving shortly. All passengers to Washington, please\nproceed to track 26B. If you need assistance handling your baggage,\nplease speak to a ticket agent immediately. Train 133's next stop will\nbe Wilmington, followed by Baltimore, and then Washington D.C.",
+          "explanation": "Trích thoại: \"the construction noise may cause. Please note that regional train\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'There is construction noise at the station.'. → (A)",
+          "image": "public/assets/bai-on-2/listening/passages/part4_q95_97.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part4_q95_97.png"
+        },
+        {
+          "id": 96,
+          "text": "96. According to the speaker, why may some listeners need to see an agent?",
+          "options": [
+            "(A) To ask for a refund",
+            "(B) To request baggage service",
+            "(C) To purchase a monthly pass",
+            "(D) To arrange a transfer"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 618,
+          "endTime": 688,
+          "group": "95-97",
+          "transcript": "Attention passengers, renovation work to upgrade and modernize\nour train station is underway. We apologize for the inconvenience\nthe construction noise may cause. Please note that regional train\nschedules are not affected. Train 133 with service to Washington\nD.C. will be arriving shortly. All passengers to Washington, please\nproceed to track 26B. If you need assistance handling your baggage,\nplease speak to a ticket agent immediately. Train 133's next stop will\nbe Wilmington, followed by Baltimore, and then Washington D.C.",
+          "explanation": "Trích thoại: \"schedules are not affected. Train 133 with service to Washington\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'To request baggage service'. → (B)",
+          "image": "public/assets/bai-on-2/listening/passages/part4_q95_97.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part4_q95_97.png"
+        },
+        {
+          "id": 97,
+          "text": "97. Look at the graphic. When is Train 133 scheduled to arrive at its next stop?",
+          "options": [
+            "(A) At 10:45 A.M.",
+            "(B) At 12:05 PM.",
+            "(C) At 1:00 PM.",
+            "(D) At 1:30 PM."
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 618,
+          "endTime": 688,
+          "group": "95-97",
+          "transcript": "Attention passengers, renovation work to upgrade and modernize\nour train station is underway. We apologize for the inconvenience\nthe construction noise may cause. Please note that regional train\nschedules are not affected. Train 133 with service to Washington\nD.C. will be arriving shortly. All passengers to Washington, please\nproceed to track 26B. If you need assistance handling your baggage,\nplease speak to a ticket agent immediately. Train 133's next stop will\nbe Wilmington, followed by Baltimore, and then Washington D.C.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'At 10:45 A.M.'. → (A)",
+          "image": "public/assets/bai-on-2/listening/passages/part4_q95_97.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part4_q95_97.png"
+        },
+        {
+          "id": 98,
+          "text": "98. Who most likely are the listeners?",
+          "options": [
+            "(A) Civil engineers",
+            "(B) Urban planners",
+            "(C) News reporters",
+            "(D) Safety inspectors"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 689,
+          "endTime": 759,
+          "group": "98-100",
+          "transcript": "Hello everyone, I'm Carmen Salazar, the Airport Operations\nDirector, and I wanted to thank you for attending this press\nconference. As of this week, construction on the new regional\nairport is proceeding on schedule for two of the three terminals.\nMinor design adjustments to Terminal A have put the project\nslightly behind schedule, and we anticipate about two months will\nbe added to the construction timeframe as a result. I'd also like to\nmention that we now have a 3D printed model of this project. Please\nfeel free to visit our website so you can view it.",
+          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'Civil engineers'. → (A)",
+          "image": "public/assets/bai-on-2/listening/passages/part4_q98_100.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part4_q98_100.png"
+        },
+        {
+          "id": 99,
+          "text": "99. Look at the graphic. Which of the following companies will be affected by a delay?",
+          "options": [
+            "(A) Selca Air",
+            "(B) Trilco Airlines",
+            "(C) Heathson Airways",
+            "(D) Bluxtin Airlines"
+          ],
+          "answer": "A",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 689,
+          "endTime": 759,
+          "group": "98-100",
+          "transcript": "Hello everyone, I'm Carmen Salazar, the Airport Operations\nDirector, and I wanted to thank you for attending this press\nconference. As of this week, construction on the new regional\nairport is proceeding on schedule for two of the three terminals.\nMinor design adjustments to Terminal A have put the project\nslightly behind schedule, and we anticipate about two months will\nbe added to the construction timeframe as a result. I'd also like to\nmention that we now have a 3D printed model of this project. Please\nfeel free to visit our website so you can view it.",
+          "explanation": "Trích thoại: \"Hello everyone, I'm Carmen Salazar, the Airport Operations\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Selca Air'. → (A)",
+          "image": "public/assets/bai-on-2/listening/passages/part4_q98_100.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part4_q98_100.png"
+        },
+        {
+          "id": 100,
+          "text": "100. What does the speaker invite the listeners to do?",
+          "options": [
+            "(A) Download some designs",
+            "(B) Look at a model",
+            "(C) Take a site tour",
+            "(D) View a Webcam"
+          ],
+          "answer": "B",
+          "category": "Hỏi chi tiết bài nói",
+          "startTime": 689,
+          "endTime": 759,
+          "group": "98-100",
+          "transcript": "Hello everyone, I'm Carmen Salazar, the Airport Operations\nDirector, and I wanted to thank you for attending this press\nconference. As of this week, construction on the new regional\nairport is proceeding on schedule for two of the three terminals.\nMinor design adjustments to Terminal A have put the project\nslightly behind schedule, and we anticipate about two months will\nbe added to the construction timeframe as a result. I'd also like to\nmention that we now have a 3D printed model of this project. Please\nfeel free to visit our website so you can view it.",
+          "explanation": "Trích thoại: \"mention that we now have a 3D printed model of this project. Please\" → Thông tin đối chiếu trong bài nghe chọn đáp án (B) 'Look at a model'. → (B)",
+          "image": "public/assets/bai-on-2/listening/passages/part4_q98_100.png",
+          "passageImage": "public/assets/bai-on-2/listening/passages/part4_q98_100.png"
+        }
+      ]
+    },
+    "part5": {
+      "name": "Part 5 - Incomplete Sentences",
+      "description": "Chon tu thich hop de dien vao cho trong trong cau.",
+      "questionCount": 30,
+      "questions": [
+        {
+          "id": 101,
+          "text": "Before operating your handheld device, please ------- the enclosed cable to charge it.",
+          "options": [
+            "plan",
+            "remain",
+            "use",
+            "finish"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Động từ phù hợp trong ngữ cảnh 'dùng dây cáp để sạc thiết bị' là 'use'. → (C)",
+          "hint": "O trong sau 'please -------' va truoc 'the enclosed cable to charge it'. Can DONG TU nguyen mau (imperative). Nghe: dung day cap de sac thiet bi -> dong tu nao?"
+        },
+        {
+          "id": 102,
+          "text": "Safile's new external hard drive can ------- store up to one terabyte of data.",
+          "options": [
+            "secure",
+            "security",
+            "securely",
+            "secured"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Trạng từ bổ nghĩa cho động từ 'store' → 'securely'. → (C)",
+          "hint": "O trong bo nghia cho dong tu 'store' -> can TRANG TU. Cau noi o dia cung luu tru du lieu -> can luu tru 'mot cach an toan'."
+        },
+        {
+          "id": 103,
+          "text": "Mr. Peterson will travel ------- the Tokyo office for the annual meeting.",
+          "options": [
+            "to",
+            "through",
+            "in",
+            "over"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Travel to [địa điểm]' = đi đến. → (A)",
+          "hint": "'Travel ------- the Tokyo office' -> GIOI TU chi huong den diem den. Travel to = di den."
+        },
+        {
+          "id": 104,
+          "text": "Yong-Soo Cosmetics will not charge for items on back order until ------- have left our warehouse.",
+          "options": [
+            "them",
+            "they",
+            "themselves",
+            "their"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Chủ ngữ mệnh đề phụ sau 'until' thay thế cho 'items' → đại từ ngôi 3 số nhiều chủ ngữ: 'they'. → (B)",
+          "hint": "O trong la chu ngu menh de phu sau 'until': '------- have left our warehouse'. Menh de chu ngu thay the cho 'items' -> DAI TU ngoi 3 so nhieu chu ngu."
+        },
+        {
+          "id": 105,
+          "text": "Our premium day tour takes visitors to historic sites ------- the Aprico River.",
+          "options": [
+            "onto",
+            "since",
+            "inside",
+            "along"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Along the river' = dọc theo con sông. → (D)",
+          "hint": "'Takes visitors to historic sites ------- the Aprico River' -> GIOI TU chi vi tri doc/theo con song. 'Along' = doc theo."
+        },
+        {
+          "id": 106,
+          "text": "Eighty percent of drivers surveyed said they would consider buying a vehicle that runs on -------.",
+          "options": [
+            "electricity",
+            "electrically",
+            "electricians",
+            "electrify"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Sau 'runs on' cần DANH TỪ → 'electricity' (điện). → (A)",
+          "hint": "'A vehicle that runs on -------' -> DANH TU sau 'runs on'. Phuong tien chay bang gi? -> loai nang luong."
+        },
+        {
+          "id": 107,
+          "text": "Xinzhe Zu has ------- Petrin Engineering as the vice president of operations.",
+          "options": [
+            "attached",
+            "resigned",
+            "joined",
+            "combined"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Join [company]' = gia nhập công ty. → (C)",
+          "hint": "'Xinzhe Zu has ------- Petrin Engineering' -> DONG TU phu hop khi mot nguoi gia nhap cong ty. 'Join' = gia nhap."
+        },
+        {
+          "id": 108,
+          "text": "Next month, Barder House Books will be holding ------- third author's hour in Cleveland.",
+          "options": [
+            "it",
+            "itself",
+            "its own",
+            "its"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Tính từ sở hữu bổ nghĩa cho 'third author's hour' → 'its'. → (D)",
+          "hint": "'holding ------- third author's hour' -> TINH TU SO HUU bo nghia cho 'third author's hour'. Chu ngu la 'Barder House Books' -> so huu ngoi 3 so it (cong ty/su vat)."
+        },
+        {
+          "id": 109,
+          "text": "Chester's Tiles ------- expanded to a second location in Turnington.",
+          "options": [
+            "severely",
+            "usually",
+            "recently",
+            "exactly"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Trạng từ phù hợp ngữ cảnh mở rộng kinh doanh → 'recently' (gần đây). → (C)",
+          "hint": "'Chester's Tiles ------- expanded to a second location' -> TRANG TU bo nghia cho 'expanded'. Viec mo rong moi xay ra gan day -> 'recently'."
+        },
+        {
+          "id": 110,
+          "text": "Tabrino's has ------- increased the number of almonds in the Nut Medley snack pack.",
+          "options": [
+            "significant",
+            "significance",
+            "signifies",
+            "significantly"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Trạng từ bổ nghĩa cho động từ 'increased' → 'significantly'. → (D)",
+          "hint": "'Tabrino's has ------- increased' -> TRANG TU bo nghia cho 'increased'. Tang 'dang ke' -> 'significantly'."
+        },
+        {
+          "id": 111,
+          "text": "------- she travels, Jacintha Flores collects samples of local fabrics and patterns.",
+          "options": [
+            "Wherever",
+            "In addition to",
+            "Either",
+            "In contrast to"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Wherever' = bất cứ nơi nào, mở mệnh đề trạng từ chỉ nơi chốn. → (A)",
+          "hint": "O trong dau cau: '------- she travels, Jacintha Flores collects...' -> Menh de trang tu chi noi chon. Tu nao = 'bat cu noi nao'?"
+        },
+        {
+          "id": 112,
+          "text": "Most picture ------- at Glowing Photo Lab go on sale at 3:00 P.M. today.",
+          "options": [
+            "framer",
+            "framing",
+            "framed",
+            "frames"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Danh từ số nhiều làm chủ ngữ: 'frames' (khung ảnh). → (D)",
+          "hint": "'Most picture ------- at Glowing Photo Lab go on sale' -> CHU NGU cau. Cua hang anh ban KHUNG ANH -> 'frames'. So nhieu vi co 'Most'."
+        },
+        {
+          "id": 113,
+          "text": "All students in the business management class hold ------- college degrees.",
+          "options": [
+            "late",
+            "developed",
+            "advanced",
+            "elated"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Advanced college degrees' = bằng cấp cao. → (C)",
+          "hint": "'students... hold ------- college degrees' -> TINH TU bo nghia cho 'college degrees'. 'Advanced degrees' = bang cao cap."
+        },
+        {
+          "id": 114,
+          "text": "We hired Noah Wan of Shengyao Accounting Ltd. ------- our company's financial assets.",
+          "options": [
+            "to evaluate",
+            "to be evaluated",
+            "will be evaluated",
+            "evaluate"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Mục đích thuê: 'to evaluate' = để đánh giá (động từ nguyên mẫu chỉ mục đích). → (A)",
+          "hint": "'We hired Noah Wan... ------- our company's financial assets' -> Muc dich thue: 'de danh gia' -> DONG TU NGUYEN MAU 'to evaluate'."
+        },
+        {
+          "id": 115,
+          "text": "Ms. Charisse is taking on a new account ------- she finishes the Morrison project.",
+          "options": [
+            "with",
+            "going",
+            "after",
+            "between"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'After she finishes' = sau khi bà ấy hoàn thành. → (C)",
+          "hint": "'taking on a new account ------- she finishes the Morrison project' -> LIEN TU chi thoi gian. 'After' = sau khi."
+        },
+        {
+          "id": 116,
+          "text": "Cormet Motors' profits are ------- this year than last year.",
+          "options": [
+            "higher",
+            "high",
+            "highly",
+            "highest"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Cấu trúc so sánh hơn: '... than last year' → 'higher'. → (A)",
+          "hint": "'profits are ------- this year than last year' -> So sanh hon: 'are ------- than' -> can TINH TU dang so sanh hon."
+        },
+        {
+          "id": 117,
+          "text": "In its ------- advertising campaign, Jaymor Tools demonstrates how reliable its products are.",
+          "options": [
+            "current",
+            "relative",
+            "spacious",
+            "collected"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Current advertising campaign' = chiến dịch quảng cáo hiện tại. → (A)",
+          "hint": "'In its ------- advertising campaign' -> TINH TU bo nghia cho 'advertising campaign'. Chien dich hien tai -> 'current'."
+        },
+        {
+          "id": 118,
+          "text": "Remember to submit receipts for reimbursement ------- returning from a business trip.",
+          "options": [
+            "such as",
+            "when",
+            "then",
+            "within"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'When returning' = khi trở về (mệnh đề trạng từ rút gọn). → (B)",
+          "hint": "'submit receipts ------- returning from a business trip' -> LIEN TU/GIOI TU chi thoi gian. 'When returning' = khi tro ve."
+        },
+        {
+          "id": 119,
+          "text": "Patrons will be able to access Westside Library's ------- acquired collection of books on Tuesday.",
+          "options": [
+            "instantly",
+            "newly",
+            "early",
+            "naturally"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Newly acquired' = mới được bổ sung vào bộ sưu tập. → (B)",
+          "hint": "'Westside Library's ------- acquired collection' -> TRANG TU bo nghia cho phan tu 'acquired'. Bộ sưu tập vua moi duoc bo sung -> 'newly'."
+        },
+        {
+          "id": 120,
+          "text": "Please ------- any questions about time sheets to Tabitha Jones in the payroll department.",
+          "options": [
+            "direction",
+            "directive",
+            "directed",
+            "direct"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Direct [câu hỏi] to [người]' = chuyển/gửi câu hỏi đến. → (D)",
+          "hint": "'Please ------- any questions...to Tabitha Jones' -> DONG TU co nghia 'chuyen/gui'. 'Direct questions to sb' = gui cau hoi den."
+        },
+        {
+          "id": 121,
+          "text": "Before signing a delivery -------, be sure to double-check that all the items ordered are in the shipment.",
+          "options": [
+            "decision",
+            "announcement",
+            "receipt",
+            "limit"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Delivery receipt' = biên nhận giao hàng. → (C)",
+          "hint": "'Before signing a delivery -------' -> DANH TU theo sau 'delivery'. 'Delivery receipt' = bien nhan giao hang."
+        },
+        {
+          "id": 122,
+          "text": "Funds have been added to the budget for expenses ------- with the new building.",
+          "options": [
+            "associated",
+            "association",
+            "associate",
+            "associates"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Expenses associated with' = chi phí liên quan đến (phân từ quá khứ làm tính từ). → (A)",
+          "hint": "'expenses ------- with the new building' -> TINH TU/PHAN TU bo nghia cho 'expenses'. 'Associated with' = lien quan den."
+        },
+        {
+          "id": 123,
+          "text": "Ms. Bernard ------- that a deadline was approaching, so she requested some assistance.",
+          "options": [
+            "noticed",
+            "obscured",
+            "withdrew",
+            "appeared"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Notice that' = nhận ra rằng → (A)",
+          "hint": "'Ms. Bernard ------- that a deadline was approaching' -> DONG TU phu hop voi 'that-clause'. 'Notice that' = nhan ra rang."
+        },
+        {
+          "id": 124,
+          "text": "Mr. Moscowitz is ------- that Dr. Tanaka will agree to present the keynote speech at this year's conference.",
+          "options": [
+            "hopes",
+            "hoped",
+            "hopeful",
+            "hopefully"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Be hopeful that' = hy vọng rằng (tính từ sau be). → (C)",
+          "hint": "'Mr. Moscowitz is ------- that Dr. Tanaka will agree' -> TINH TU sau 'be'. 'Be hopeful that' = hy vong rang."
+        },
+        {
+          "id": 125,
+          "text": "Two Australian companies are developing new smartphones, but it is unclear ------- phone will become available first.",
+          "options": [
+            "if",
+            "which",
+            "before",
+            "because"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Mệnh đề danh từ làm tân ngữ: 'unclear which phone will...' = không rõ điện thoại nào. → (B)",
+          "hint": "'it is unclear ------- phone will become available first' -> Menh de DANH TU lam bo ngu cho 'unclear'. Tu hoi la tu gi de hoi chon lua?"
+        },
+        {
+          "id": 126,
+          "text": "Corners Gym offers its members a free lesson in how to use ------- properly.",
+          "options": [
+            "weighs",
+            "weights",
+            "weighty",
+            "weighed"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'How to use weights properly' = cách sử dụng tạ đúng cách. → (B)",
+          "hint": "'a free lesson in how to use ------- properly' -> DANH TU. Phong tap the duc -> 'weights' (ta)."
+        },
+        {
+          "id": 127,
+          "text": "------- the rules, overnight parking is not permitted at the clubhouse facility.",
+          "options": [
+            "Prior to",
+            "Except for",
+            "Instead of",
+            "According to"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'According to the rules' = theo quy định. → (D)",
+          "hint": "'------- the rules, overnight parking is not permitted' -> CUM GIOI TU. 'According to' = theo quy dinh."
+        },
+        {
+          "id": 128,
+          "text": "Once everyone -------, we can begin the conference call.",
+          "options": [
+            "arrived",
+            "is arriving",
+            "to arrive",
+            "has arrived"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "Sau 'once' dùng thì hoàn thành: 'once everyone has arrived'. → (D)",
+          "hint": "'Once everyone -------, we can begin the conference call' -> Sau 'once' dung THI HOAN THANH. 'Once everyone has arrived'."
+        },
+        {
+          "id": 129,
+          "text": "Each summer a motivational video that highlights the past year's ------- is shown to all company employees.",
+          "options": [
+            "preferences",
+            "accomplishments",
+            "communications",
+            "uncertainties"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'Highlights past accomplishments' = nêu bật thành tích. → (B)",
+          "hint": "'video that highlights the past year's -------' -> DANH TU. Video noi bat 'thanh tich' cua nam qua."
+        },
+        {
+          "id": 130,
+          "text": "Employees who wish to attend the retirement dinner ------- Ms. Howell's 30 years of service should contact Mr. Lee.",
+          "options": [
+            "honor",
+            "to honor",
+            "will honor",
+            "will be honored"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "explanation": "'To honor' = để vinh danh (động từ nguyên mẫu chỉ mục đích). → (B)",
+          "hint": "'attend the retirement dinner ------- Ms. Howell's 30 years' -> DONG TU NGUYEN MAU chi muc dich. 'To honor' = de vinh danh."
+        }
+      ]
+    },
+    "part6": {
+      "name": "Part 6 - Text Completion",
+      "description": "Doc doan van va dien tu thich hop vao cho trong.",
+      "questionCount": 16,
+      "questions": [
+        {
+          "id": 131,
+          "group": "131-134",
+          "passageTitle": "Part 6 - Passage 1: Dellwyn Home Store (Câu 131-134)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p131_134.png",
+          "text": "Your ------- order of a red oak dining table and six matching chairs arrived at our store this morning.",
+          "options": [
+            "(A) specially",
+            "(B) specialize",
+            "(C) special",
+            "(D) specializing"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "'Special order' = đơn hàng đặc biệt (tính từ bổ nghĩa cho danh từ 'order'). → (C)",
+          "hint": "O trong truoc 'order' -> can TINH TU bo nghia. 'Special order' = don hang dac biet (dat truoc theo yeu cau rieng)."
+        },
+        {
+          "id": 132,
+          "group": "131-134",
+          "passageTitle": "Part 6 - Passage 1: Dellwyn Home Store (Câu 131-134)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p131_134.png",
+          "text": "We would now like to arrange for the delivery of the -------.",
+          "options": [
+            "(A) furniture",
+            "(B) appliances",
+            "(C) refund",
+            "(D) tools"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Đơn hàng là bàn ăn và ghế → 'furniture' (đồ nội thất). → (A)",
+          "hint": "O trong sau 'delivery of the -------' -> DANH TU. Don hang la ban an va ghe -> loai do noi that la gi?"
+        },
+        {
+          "id": 133,
+          "group": "131-134",
+          "passageTitle": "Part 6 - Passage 1: Dellwyn Home Store (Câu 131-134)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p131_134.png",
+          "text": "Please call us at 517-555-0188 and ask ------- to Coleman Cobb, our delivery manager.",
+          "options": [
+            "(A) speak",
+            "(B) spoken",
+            "(C) is speaking",
+            "(D) to speak"
+          ],
+          "answer": "D",
+          "category": "Part 6 - Text Completion",
+          "explanation": "'Ask to speak to someone' = yêu cầu được nói chuyện với ai. → (D)",
+          "hint": "'ask ------- to Coleman Cobb' -> CUM DONG TU. 'Ask to speak to someone' = yeu cau duoc noi chuyen. 'to speak' = dong tu nguyen mau."
+        },
+        {
+          "id": 134,
+          "group": "131-134",
+          "passageTitle": "Part 6 - Passage 1: Dellwyn Home Store (Câu 131-134)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p131_134.png",
+          "text": "------- [sentence insertion after asking to speak to delivery manager]",
+          "options": [
+            "(A) He can schedule a convenient time.",
+            "(B) He began working here yesterday.",
+            "(C) He can meet you at 11:00 A.M.",
+            "(D) He recently moved to Dellwyn."
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Sau khi yêu cầu nói chuyện với quản lý giao hàng → câu tiếp theo nên đề cập đến việc lên lịch giao hàng tiện lợi. → (A)",
+          "hint": "SENTENCE INSERTION: cau nay den sau 'ask to speak to... delivery manager'. Cau tiep theo nen noi ve viec quan ly giao hang co the lam gi? -> Len lich giao hang tien loi."
+        },
+        {
+          "id": 135,
+          "group": "135-138",
+          "passageTitle": "Part 6 - Passage 2: Keep Cool Service Contractors (Câu 135-138)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p135_138.png",
+          "text": "Keep Cool Service Contractors can bring you peace of mind. As part of an annual contract, we will service your air-conditioning system, ensuring your ------- and comfort.",
+          "options": [
+            "(A) safe",
+            "(B) safely",
+            "(C) safest",
+            "(D) safety"
+          ],
+          "answer": "D",
+          "category": "Part 6 - Text Completion",
+          "explanation": "'Ensuring your safety and comfort' = đảm bảo sự an toàn. Danh từ sau tính từ sở hữu 'your'. → (D)",
+          "hint": "'ensuring your ------- and comfort' -> DANH TU song song voi 'comfort'. 'Safety and comfort' = an toan va thoai mai."
+        },
+        {
+          "id": 136,
+          "group": "135-138",
+          "passageTitle": "Part 6 - Passage 2: Keep Cool Service Contractors (Câu 135-138)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p135_138.png",
+          "text": "This includes inspecting the system, making repairs as needed, and professionally cleaning your air ducts. -------, if necessary, we can replace your old air-conditioning system.",
+          "options": [
+            "(A) On one hand",
+            "(B) Nonetheless",
+            "(C) Furthermore",
+            "(D) And yet"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "'Furthermore' = hơn nữa, thêm vào đó (liên từ chuyển ý bổ sung). → (C)",
+          "hint": "O trong dau cau: '-------, if necessary, we can replace...' -> CUM NOI KET CHUYEN Y bo sung. 'Furthermore' = hon nua."
+        },
+        {
+          "id": 137,
+          "group": "135-138",
+          "passageTitle": "Part 6 - Passage 2: Keep Cool Service Contractors (Câu 135-138)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p135_138.png",
+          "text": "------- [sentence insertion]. We promise you fair prices and professional work, backed by our Keep Cool guarantee.",
+          "options": [
+            "(A) Take advantage of dozens of useful online tools.",
+            "(B) Moreover, the air conditioner you chose is very popular.",
+            "(C) Plus, they are friendly, clean, and knowledgeable.",
+            "(D) Thank you for visiting our contractor showroom."
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Câu tiếp theo đề cập đến 'we promise fair prices' → câu insert phải nói về đặc điểm của nhân viên. 'Plus, they are friendly, clean, and knowledgeable.' → (C)",
+          "hint": "SENTENCE INSERTION: cau tiep theo la 'We promise you fair prices and professional work'. Cau insert phai noi ve tinh cach nhan vien (than thien, gon gang, giau kien thuc) -> (C)."
+        },
+        {
+          "id": 138,
+          "group": "135-138",
+          "passageTitle": "Part 6 - Passage 2: Keep Cool Service Contractors (Câu 135-138)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p135_138.png",
+          "text": "We promise you fair prices and professional work, ------- by our Keep Cool guarantee.",
+          "options": [
+            "(A) backed",
+            "(B) backs",
+            "(C) backing",
+            "(D) back"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "'Backed by our guarantee' = được bảo đảm bởi (phân từ quá khứ dùng bị động). → (A)",
+          "hint": "'professional work, ------- by our Keep Cool guarantee' -> PHAN TU QUA KHU lam tinh tu. 'Backed by' = duoc bao dam boi."
+        },
+        {
+          "id": 139,
+          "group": "139-142",
+          "passageTitle": "Part 6 - Passage 3: Light Idea Price Increase Notice (Câu 139-142)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p139_142.png",
+          "text": "Light Idea is enacting a price increase on select energy-efficient products, effective April 17. Specific product pricing will -------.",
+          "options": [
+            "(A) agree",
+            "(B) vary",
+            "(C) wait",
+            "(D) decline"
+          ],
+          "answer": "B",
+          "category": "Part 6 - Text Completion",
+          "explanation": "'Specific product pricing will vary' = giá cụ thể sẽ khác nhau. → (B)",
+          "hint": "'Specific product pricing will -------' -> DONG TU dien ta su thay doi. Gia san pham se 'thay doi' -> 'vary'."
+        },
+        {
+          "id": 140,
+          "group": "139-142",
+          "passageTitle": "Part 6 - Passage 3: Light Idea Price Increase Notice (Câu 139-142)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p139_142.png",
+          "text": "All orders ------- after this date will follow the new price list.",
+          "options": [
+            "(A) receiving",
+            "(B) having received",
+            "(C) received",
+            "(D) will be received"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "'Orders received after this date' = đơn hàng nhận sau ngày này (phân từ quá khứ rút gọn mệnh đề quan hệ). → (C)",
+          "hint": "'All orders ------- after this date' -> PHAN TU rut gon menh de quan he. Don hang 'duoc nhan' sau ngay do -> Past Participle."
+        },
+        {
+          "id": 141,
+          "group": "139-142",
+          "passageTitle": "Part 6 - Passage 3: Light Idea Price Increase Notice (Câu 139-142)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p139_142.png",
+          "text": "-------. Customers will be able to find this on our Web site.",
+          "options": [
+            "(A) The updated price list will be available on March 20.",
+            "(B) We apologize for this inconvenience.",
+            "(C) Your orders will be shipped after April 17.",
+            "(D) We are increasing prices because of rising costs."
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Câu kế tiếp: 'Customers will find this on Web site' → 'this' ám chỉ bảng giá mới. Câu insert phải thông báo khi nào có bảng giá → (A)",
+          "hint": "SENTENCE INSERTION: cau tiep theo 'Customers will be able to find this on our Web site'. 'this' am chi gi? -> Bang gia moi. Cau insert phai cho biet khi nao co bang gia moi."
+        },
+        {
+          "id": 142,
+          "group": "139-142",
+          "passageTitle": "Part 6 - Passage 3: Light Idea Price Increase Notice (Câu 139-142)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p139_142.png",
+          "text": "We will continue to provide quality products and ------- service to our valued customers.",
+          "options": [
+            "(A) exceptionally",
+            "(B) exception",
+            "(C) exceptional",
+            "(D) exceptionalism"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "'Exceptional service' = dịch vụ xuất sắc (tính từ bổ nghĩa cho danh từ 'service'). → (C)",
+          "hint": "'quality products and ------- service' -> TINH TU bo nghia cho 'service'. 'Exceptional service' = dich vu xuat sac."
+        },
+        {
+          "id": 143,
+          "group": "143-146",
+          "passageTitle": "Part 6 - Passage 4: Okim Jewelry Email (Câu 143-146)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p143_146.png",
+          "text": "Thank you for the shipment last month of 80 units of your jewelry pieces. I am happy to report that they have been selling very well in my shop. My ------- love the colourful designs as well as the quality of your workmanship.",
+          "options": [
+            "(A) patients",
+            "(B) students",
+            "(C) customers",
+            "(D) teammates"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Người mua hàng ở shop → 'customers'. → (C)",
+          "hint": "'My ------- love the colourful designs' -> DANH TU chi nguoi mua hang tai cua hang. Ai yeu thich san pham cua ban ban?"
+        },
+        {
+          "id": 144,
+          "group": "143-146",
+          "passageTitle": "Part 6 - Passage 4: Okim Jewelry Email (Câu 143-146)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p143_146.png",
+          "text": "------- [sentence insertion after 'customers love the designs and quality'].",
+          "options": [
+            "(A) If you need more time, please let me know.",
+            "(B) Unfortunately, I do not have adequate shelf space at this time.",
+            "(C) I would like to show you some of my own designs.",
+            "(D) The reasonable prices also make your pieces a great value."
+          ],
+          "answer": "D",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Câu tiếp đề cập tăng số lượng đặt hàng → câu insert bổ sung thêm lý do khách thích (giá hợp lý). → (D)",
+          "hint": "SENTENCE INSERTION: cau tiep theo la 'Would you be able to double my order?' -> Truoc khi yeu cau tang don hang, nguoi viet nen them LY DO/KET QUA nua. Ly do la gi? -> Gia hop ly."
+        },
+        {
+          "id": 145,
+          "group": "143-146",
+          "passageTitle": "Part 6 - Passage 4: Okim Jewelry Email (Câu 143-146)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p143_146.png",
+          "text": "I would like to increase the number of units I order from you. Would you be able to ------- my order for the September shipment?",
+          "options": [
+            "(A) include",
+            "(B) double",
+            "(C) repeat",
+            "(D) insure"
+          ],
+          "answer": "B",
+          "category": "Part 6 - Text Completion",
+          "explanation": "'Double my order' = tăng gấp đôi đơn hàng. → (B)",
+          "hint": "'Would you be able to ------- my order?' -> DONG TU co nghia tang gap doi. 'Double' = tang gap doi."
+        },
+        {
+          "id": 146,
+          "group": "143-146",
+          "passageTitle": "Part 6 - Passage 4: Okim Jewelry Email (Câu 143-146)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part6_p143_146.png",
+          "text": "I believe that I could reach your target audience best and that the agreement would serve ------- both very well.",
+          "options": [
+            "(A) us",
+            "(B) you",
+            "(C) we",
+            "(D) these"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "explanation": "Tân ngữ gián tiếp của 'serve': 'serve us both' = phục vụ cho cả hai chúng ta. Người viết thư = 'us'. → (A)",
+          "hint": "'the agreement would serve ------- both very well' -> DAI TU TAM NGU. Nguoi viet = Kenneth Okim + nguoi nhan = Jang-Ho -> 'us' = chung ta (ca hai)."
+        }
+      ]
+    },
+    "part7": {
+      "name": "Part 7 - Reading Comprehension",
+      "description": "Doc cac doan van va tra loi cau hoi lien quan.",
+      "questionCount": 54,
+      "questions": [
+        {
+          "id": 147,
+          "group": "147-148",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 147-148)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q147_148.png",
+          "text": "What is true about the Savan Business Center?",
+          "options": [
+            "(A) It works with small businesses.",
+            "(B) It publishes a weekly newsletter.",
+            "(C) It recently launched a new Web site.",
+            "(D) It is seeking suggestions for webinar topics."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đoạn 1: 'The Savan Business Center offers support for business owners' → làm việc với doanh nghiệp nhỏ. → (A)",
+          "hint": "Cau hoi: WHAT IS TRUE ABOUT Savan Business Center? -> Scan tim thong tin ve to chuc nay. Doan 1: 'offers support for business owners' -> lam viec voi loai doanh nghiep nao?"
+        },
+        {
+          "id": 148,
+          "group": "147-148",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 147-148)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q147_148.png",
+          "text": "What is indicated about the webinar?",
+          "options": [
+            "(A) It begins at 11:00 A.M.",
+            "(B) It features advice on creating promotional content.",
+            "(C) It is being offered every month.",
+            "(D) It requires a small fee to attend."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đoạn 2: 'topics related to making your business stand out' = nội dung về quảng bá. → (B)",
+          "hint": "Cau hoi ve WEBINAR: Scan tim thong tin ve 'webinar, Focus Your Social Media Presence'. Noi dung webinar la gi? -> 'topics related to making your business stand out'."
+        },
+        {
+          "id": 149,
+          "group": "149-150",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 149-150)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q149_150.png",
+          "text": "What is mentioned about Dine Out Darville?",
+          "options": [
+            "(A) It lasts for one week.",
+            "(B) It is held in a different location each year.",
+            "(C) It is being held for the first time.",
+            "(D) It includes both lunch and dinner."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Câu đầu: 'which runs this year from June 22 to 28' = 7 ngày = một tuần. → (A)",
+          "hint": "Cau hoi: WHAT IS MENTIONED ABOUT Dine Out Darville? -> Tim cac thong tin duoc neu ro trong thong bao. 'June 22 to 28' = bao nhieu ngay?"
+        },
+        {
+          "id": 150,
+          "group": "149-150",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 149-150)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q149_150.png",
+          "text": "What is NOT included in the reduced-price meals?",
+          "options": [
+            "(A) A cup of soup",
+            "(B) A salad",
+            "(C) A dessert",
+            "(D) A beverage"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'A four-course dinner including a cup of soup, a salad, a main course, and a dessert' → 'beverage' (đồ uống) không có trong danh sách. → (D)",
+          "hint": "Cau hoi: NOT INCLUDED -> Tim danh sach mon an trong 'four-course dinner'. Mon khong co trong danh sach la dap an."
+        },
+        {
+          "id": 151,
+          "group": "151-152",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 151-152)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q151_152.png",
+          "text": "What does Rainsy LLC do?",
+          "options": [
+            "(A) It stores and analyzes consumer information.",
+            "(B) It sells technology products online.",
+            "(C) It processes credit card payments for retailers.",
+            "(D) It develops computer software programs."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'A data storage and analytics firm... helps businesses manage and understand their customer data' → (A)",
+          "hint": "Cau hoi: WHAT DOES RAINSY LLC DO? -> Scan tim mo ta dich vu: 'data storage and analytics firm'. Ho giup khach hang lam gi?"
+        },
+        {
+          "id": 152,
+          "group": "151-152",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 151-152)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q151_152.png",
+          "text": "Who will be based in Dade?",
+          "options": [
+            "(A) Rainsy's chief technology officer",
+            "(B) The entire Rainsy executive team",
+            "(C) About half of Rainsy's employees",
+            "(D) The Rainsy account management team"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'approximately 50 percent of the company's workforce' = khoảng một nửa nhân viên. → (C)",
+          "hint": "Cau hoi: WHO WILL BE BASED IN DADE? -> Tim cau co 'Dade location', 'work there', 'relocate'. Bao nhieu phan tram nhan vien chuyen den Dade?"
+        },
+        {
+          "id": 153,
+          "group": "153-154",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 153-154)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q153_154.png",
+          "text": "What is suggested about the paper Mr. Liu is shopping for?",
+          "options": [
+            "(A) It is light blue.",
+            "(B) It is expensive.",
+            "(C) It is sold exclusively at Biz Plus.",
+            "(D) It has been discontinued."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Jana nói 'I really need blue' → paper hiện ra của mình là màu xanh nhạt. Các màu khác tại Biz Plus là yellow, green, pink → paper bà cần màu xanh dương. Đây là hàng hết hàng tại Biz Plus. Nhưng xét kỹ: paper bà cần = light blue (vì bà nói 'I really need blue'). → (A)",
+          "hint": "Cau hoi: WHAT IS SUGGESTED ABOUT PAPER? -> Doc tin nhan Jana Bhat: 'I really need blue'. Biz Plus co mau xanh khong? -> Het hang mau xanh nhat ma ba can."
+        },
+        {
+          "id": 154,
+          "group": "153-154",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 153-154)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q153_154.png",
+          "text": "At 9:49 A.M., what does Ms. Bhat most likely mean when she writes, 'OK, forget it'?",
+          "options": [
+            "(A) She wants to check her budget.",
+            "(B) She thinks Mr. Liu should not purchase paper at Biz Plus.",
+            "(C) She believes Mr. Liu should not place an order this week.",
+            "(D) She plans to cancel her order."
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Sau khi biết màu xanh khác đắt hơn → 'OK, forget it. I'll place an order online' = bỏ qua Biz Plus, tự đặt hàng online. → (D)",
+          "hint": "Cau hoi ve 'OK, forget it' luc 9:49: Doc tin nhan ngay truoc do. Michael noi gi ve mau xanh khac? Jana quyet dinh lam gi? -> 'I'll place an order online'."
+        },
+        {
+          "id": 155,
+          "group": "155-157",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 155-157)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q155_157.png",
+          "text": "Why did Ms. Otney write the letter?",
+          "options": [
+            "(A) To welcome a new library director",
+            "(B) To register for an SFMA finance course",
+            "(C) To confirm some educational credentials",
+            "(D) To reply to a question from Mr. Croft"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Câu mở đầu: 'I have read your inquiry about offering financial management courses' → đây là thư trả lời. → (D)",
+          "hint": "Cau hoi: WHY DID MS. OTNEY WRITE? -> Doc cau mo dau: 'I have read your inquiry about...' -> Day la thu PHAN HOI yeu cau cua ai?"
+        },
+        {
+          "id": 156,
+          "group": "155-157",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 155-157)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q155_157.png",
+          "text": "What is one thing Ms. Otney requested?",
+          "options": [
+            "(A) A library membership",
+            "(B) A list of course instructors",
+            "(C) The locations of some libraries",
+            "(D) Mr. Croft's telephone number"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đoạn 3: 'If you have a list of library branches that would host the first series of events...' → yêu cầu danh sách địa điểm thư viện. → (C)",
+          "hint": "Cau hoi: WHAT DID MS. OTNEY REQUEST? -> Scan tim doan co 'If you have a list...' hoac 'Could you provide...'"
+        },
+        {
+          "id": 157,
+          "group": "155-157",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 155-157)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q155_157.png",
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'This is something I would be happy to arrange.'",
+          "options": [
+            "(A) [1]",
+            "(B) [2]",
+            "(C) [3]",
+            "(D) [4]"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Câu insert: 'happy to arrange' = sẵn lòng sắp xếp → đứng sau đề xuất về việc SFMA members lead courses ([2]). → (B)",
+          "hint": "Cau hoi INSERTION: 'This is something I would be happy to arrange.' -> 'This' am chi hanh dong gi? -> Sap xep gi do (facilitators, courses). Tim vi tri de cau nay ket noi tu nhien."
+        },
+        {
+          "id": 158,
+          "group": "158-160",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 158-160)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q158_160.png",
+          "text": "Why most likely was the advertisement created?",
+          "options": [
+            "(A) To draw attention to an underused professional service",
+            "(B) To publicize the benefits of a warranty policy",
+            "(C) To announce the opening of new store locations",
+            "(D) To promote a temporary price discount"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'50% off all eyeglass frames through 30 September' = giảm giá tạm thời. → (D)",
+          "hint": "Cau hoi: PURPOSE OF ADVERTISEMENT? -> Tim uu dai chinh: '50% off through 30 September'. Day la loai quang cao nao?"
+        },
+        {
+          "id": 159,
+          "group": "158-160",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 158-160)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q158_160.png",
+          "text": "What is stated about Claro Vision stores?",
+          "options": [
+            "(A) They are larger than competitors' stores.",
+            "(B) They accept all major credit cards.",
+            "(C) They are located next to shopping malls.",
+            "(D) They provide eyeglass fittings at no cost."
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Free eyeglass fittings and adjustments' = không tính tiền. → (D)",
+          "hint": "Cau hoi: WHAT IS STATED ABOUT CLARO VISION STORES? -> Doc danh sach 'advantages': 'Free eyeglass fittings and adjustments' -> Co tinh phi khong?"
+        },
+        {
+          "id": 160,
+          "group": "158-160",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 158-160)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q158_160.png",
+          "text": "What is stated about vision checkups?",
+          "options": [
+            "(A) They are completed by a partner company.",
+            "(B) They are performed by a certified professional.",
+            "(C) They should be done every ten months.",
+            "(D) They are offered on a limited number of days."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Low-cost vision checkups by licensed opticians' = do chuyên gia có giấy phép thực hiện. → (B)",
+          "hint": "Cau hoi ve VISION CHECKUPS: Tim cau co 'vision checkups'. Ai thuc hien? -> 'licensed opticians' = chuyen gia co giay phep."
+        },
+        {
+          "id": 161,
+          "group": "161-163",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 161-163)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q161_163.png",
+          "text": "What is the purpose of the letter?",
+          "options": [
+            "(A) To explain the fees for equipment installation",
+            "(B) To offer a discount on a service",
+            "(C) To provide information about a lease agreement",
+            "(D) To request a change to a property amenity"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'This is a reminder that the one-year lease for your space will end on 30 April' → cung cấp thông tin về hợp đồng thuê. → (C)",
+          "hint": "Cau hoi: PURPOSE OF LETTER? -> Doc chu de thu: lenh nho ve hop dong thue sap het han. Muc dich chinh la gi?"
+        },
+        {
+          "id": 162,
+          "group": "161-163",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 161-163)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q161_163.png",
+          "text": "According to the letter, what must Ms. Balakrishnan pay for each month?",
+          "options": [
+            "(A) Furniture rental",
+            "(B) Office supplies",
+            "(C) An inspection fee",
+            "(D) A parking space"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Bảng phí: 'Parking space fee S$50.00' = phí đỗ xe hàng tháng. → (D)",
+          "hint": "Cau hoi: WHAT MUST MS. BALAKRISHNAN PAY EACH MONTH? -> Xem bang phi. Tim khoan phi hang thang. 'Parking space fee' = phi do xe."
+        },
+        {
+          "id": 163,
+          "group": "161-163",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 161-163)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q161_163.png",
+          "text": "Who most likely is Ms. Tan?",
+          "options": [
+            "(A) A repair person",
+            "(B) A property manager",
+            "(C) A cleaning person",
+            "(D) A security company employee"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Please contact my office at 1555 0124 to make an appointment to renew your lease' → Ms. Tan là người quản lý bất động sản. → (B)",
+          "hint": "Cau hoi: WHO IS MS. TAN? -> Tim cau co 'Contact my office'. Nguoi co van phong de dat lich gia han hop dong thue la ai?"
+        },
+        {
+          "id": 164,
+          "group": "164-167",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 164-167)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q164_167.png",
+          "text": "Why did Mr. Hagel write the e-mail?",
+          "options": [
+            "(A) To report damage to an item",
+            "(B) To finalize a purchase",
+            "(C) To request a product sample",
+            "(D) To negotiate a contract"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Thank you for forwarding your proposed revisions to the contract... I am out of the office... would you be available to meet?' → đàm phán hợp đồng. → (D)",
+          "hint": "Cau hoi: WHY DID MR. HAGEL WRITE? -> Doc chu de email: 'Your proposed changes'. Ong ay dang phan hoi ve dieu gi? -> Sua doi hop dong."
+        },
+        {
+          "id": 165,
+          "group": "164-167",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 164-167)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q164_167.png",
+          "text": "What is indicated about Qualiview Ltd.?",
+          "options": [
+            "(A) It sells its products online.",
+            "(B) It makes windows for cars.",
+            "(C) It has paid penalty fees in the past.",
+            "(D) It recently redesigned its shipping crates."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'contract for Qualiview Ltd. to be your wholesale supplier of automotive window glass' = làm kính ô tô. → (B)",
+          "hint": "Cau hoi: WHAT IS INDICATED ABOUT QUALIVIEW? -> Tim cau mo ta san pham/dich vu: 'wholesale supplier of automotive window glass'."
+        },
+        {
+          "id": 166,
+          "group": "164-167",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 164-167)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q164_167.png",
+          "text": "The word 'address' in paragraph 2, line 2, is closest in meaning to",
+          "options": [
+            "(A) respond to",
+            "(B) think about",
+            "(C) greet",
+            "(D) deliver"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'I am not sure what more we can do to address your concerns' = address = giải quyết/phản hồi. → (A)",
+          "hint": "Cau hoi TU VUNG: 'address' trong doan 2. Doc nguyen cau: 'what more we can do to address your concerns'. 'Address concerns' = giai quyet moi quan ngai."
+        },
+        {
+          "id": 167,
+          "group": "164-167",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 164-167)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q164_167.png",
+          "text": "When is Mr. Hagel available next week?",
+          "options": [
+            "(A) On Monday morning",
+            "(B) On Tuesday afternoon",
+            "(C) On Wednesday morning",
+            "(D) On Thursday afternoon"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'I will be out of the office through Tuesday afternoon. Would you be available to meet before 11:00 A.M. on either Wednesday or Thursday?' → Thứ Tư buổi sáng (trước 11:00 A.M.). → (C)",
+          "hint": "Cau hoi: WHEN IS MR. HAGEL AVAILABLE? -> Tim cau 'I will be out of the office through... Would you be available before 11:00 A.M. on either Wednesday or Thursday?' -> Ong ay ranh khi nao?"
+        },
+        {
+          "id": 168,
+          "group": "168-171",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 168-171)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q168_171.png",
+          "text": "What is mentioned about shipping containers?",
+          "options": [
+            "(A) They come in different sizes.",
+            "(B) They are in short supply.",
+            "(C) They are made from a variety of materials.",
+            "(D) They can be used for long-term storage."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'The demand for international freight space has been outpacing the availability of shipping containers' → khan hiếm. → (B)",
+          "hint": "Cau hoi: WHAT IS MENTIONED ABOUT SHIPPING CONTAINERS? -> Doan 1: 'demand has been outpacing the availability' -> tinh trang khan hiem. Dap an nao mo ta tinh trang nay?"
+        },
+        {
+          "id": 169,
+          "group": "168-171",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 168-171)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q168_171.png",
+          "text": "What does Mr. Lam say is needed to resolve the situation?",
+          "options": [
+            "(A) A sharp increase in the number of customers",
+            "(B) A relaxation of government restrictions",
+            "(C) The development of new technologies",
+            "(D) Communication between affected groups"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'It's going to take total cooperation of all stakeholders' = hợp tác giữa các bên liên quan. → (D)",
+          "hint": "Cau hoi: WHAT DOES MR. LAM SAY IS NEEDED? -> Tim trich dan cua 'Henry Lam, a spokesperson'. Ong noi can gi de giai quyet?"
+        },
+        {
+          "id": 170,
+          "group": "168-171",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 168-171)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q168_171.png",
+          "text": "What type of clothing does Fezker produce?",
+          "options": [
+            "(A) Rain jackets",
+            "(B) Sportswear",
+            "(C) Business suits",
+            "(D) Work uniforms"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Fezker, the producer of athletic apparel and footwear' = quần áo thể thao. → (B)",
+          "hint": "Cau hoi: WHAT DOES FEZKER PRODUCE? -> Tim cau mo ta Fezker: 'producer of athletic apparel and footwear' = quan ao/giay the thao."
+        },
+        {
+          "id": 171,
+          "group": "168-171",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 168-171)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q168_171.png",
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'These markets are supplied using more readily available truck and train transportation.'",
+          "options": [
+            "(A) [1]",
+            "(B) [2]",
+            "(C) [3]",
+            "(D) [4]"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Câu nói về phương tiện vận chuyển thay thế trong thị trường nội địa/khu vực → đứng sau đoạn đề cập Fezker chuyển sang thị trường nội địa [4]. → (D)",
+          "hint": "Cau hoi INSERTION: 'These markets are supplied using more readily available truck and train transportation.' -> 'These markets' am chi thi truong nao? -> Thi truong noi dia va khu vuc (sau khi Fezker chuyen huong). Tim vi tri sau doan do."
+        },
+        {
+          "id": 172,
+          "group": "172-175",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 172-175)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q172_175.png",
+          "text": "In what industry do the writers most likely work?",
+          "options": [
+            "(A) Construction",
+            "(B) Energy",
+            "(C) Manufacturing",
+            "(D) Travel"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Đề cập 'concrete finisher', 'Phase B of the Palisade project', 'pour the concrete' → ngành xây dựng. → (A)",
+          "hint": "Cau hoi: WHAT INDUSTRY? -> Tim tu khoa: 'concrete finisher', 'Phase B', 'pour the concrete', 'building materials' -> Nganh nao su dung nhung tu nay?"
+        },
+        {
+          "id": 173,
+          "group": "172-175",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 172-175)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q172_175.png",
+          "text": "Why did Mr. Wendel begin the discussion?",
+          "options": [
+            "(A) To plan a client meeting",
+            "(B) To discuss a weather forecast",
+            "(C) To obtain an update on some work",
+            "(D) To change the start date of an event"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Can you share the current status of your projects?' = cập nhật tiến độ công việc. → (C)",
+          "hint": "Cau hoi: WHY DID MR. WENDEL BEGIN? -> Tin nhan dau tien: 'Can you share the current status of your projects?' -> Muc dich la gi?"
+        },
+        {
+          "id": 174,
+          "group": "172-175",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 172-175)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q172_175.png",
+          "text": "What is indicated about the Riverview project?",
+          "options": [
+            "(A) It has had several delays.",
+            "(B) It is being managed by Ms. Yu.",
+            "(C) It will be completed in November.",
+            "(D) Its clients are happy with the progress."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'The rain last week delayed pouring the concrete... The Riverview project is already behind schedule because of equipment problems and late delivery of building materials' → nhiều lần trễ. → (A)",
+          "hint": "Cau hoi: WHAT IS INDICATED ABOUT RIVERVIEW? -> Tim thong tin ve du an nay: 'rain last week delayed', 'behind schedule', 'equipment problems and late delivery'. Du an co van de gi?"
+        },
+        {
+          "id": 175,
+          "group": "172-175",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 172-175)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q172_175.png",
+          "text": "At 7:58 A.M., what does Mr. Zuniga most likely mean when he writes, 'Will do'?",
+          "options": [
+            "(A) He will revise a delivery schedule.",
+            "(B) He will purchase more equipment.",
+            "(C) He will hire workers to help at a site.",
+            "(D) He will share the outcome of a meeting."
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Mr. Wendel: 'Keep me posted'... Mr. Zuniga: 'Actually, I'm meeting Nathan at the site this morning... 'Will do'' = sẽ thông báo sau cuộc gặp. → (D)",
+          "hint": "Cau hoi ve 'Will do' luc 7:58: Mr. Wendel vua yeu cau gi? -> 'Keep me posted' = thong bao cho toi biet. Mr. Zuniga se lam gi? -> Thong bao ket qua cuoc gap."
+        },
+        {
+          "id": 176,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 176-180)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q176_180.png",
+          "text": "What does the e-mail indicate about Karabel Industries ice cream?",
+          "options": [
+            "(A) It is currently sold in four flavors.",
+            "(B) Its coloring can be changed easily.",
+            "(C) Its popularity has declined recently.",
+            "(D) It is sold in Karabel Industries stores."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'we can easily adjust that in the laboratory' = có thể thay đổi màu sắc dễ dàng. → (B)",
+          "hint": "Cau hoi: WHAT DOES E-MAIL INDICATE ABOUT KARABEL ICE CREAM? -> Tim cau co 'we can easily adjust' hoac mo ta dac diem san pham co the thay doi."
+        },
+        {
+          "id": 177,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 176-180)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q176_180.png",
+          "text": "What does Ms. Kerluke state that she wants to do?",
+          "options": [
+            "(A) Visit a laboratory",
+            "(B) Hold a team meeting",
+            "(C) Contact a grocery store",
+            "(D) Write new survey questions"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'I would like to meet at 9 A.M. on Monday... to figure out how to proceed' = tổ chức cuộc họp nhóm. → (B)",
+          "hint": "Cau hoi: WHAT DOES MS. KERLUKE WANT TO DO? -> Doc doan cuoi: 'I would like to meet at 9 A.M. on Monday...to figure out how to proceed' -> Muon lam gi?"
+        },
+        {
+          "id": 178,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 176-180)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q176_180.png",
+          "text": "What is suggested about Fatior Labs?",
+          "options": [
+            "(A) It has 92 employees.",
+            "(B) It manufactures food colorings.",
+            "(C) It will perform another taste test for Karabel Industries.",
+            "(D) It supplies ice cream to Preston Grocers."
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'We will also need to get some new flavours to Fatior Labs no later than 1 March' → sẽ thực hiện thêm thử nghiệm hương vị. → (C)",
+          "hint": "Cau hoi: WHAT IS SUGGESTED ABOUT FATIOR LABS? -> Tim cau co 'Fatior Labs' trong email. 'We will also need to get some new flavours to Fatior Labs' -> Ho se lam gi?"
+        },
+        {
+          "id": 179,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 176-180)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q176_180.png",
+          "text": "Based on the survey form, what flavor will Karabel Industries most likely make adjustments to?",
+          "options": [
+            "(A) Lemon",
+            "(B) Mango",
+            "(C) Salted Caramel",
+            "(D) Peanut Brittle"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Email: 'none of them received high enough ratings' nhưng đặc biệt đề cập 'colour in testing phase' → Lemon score Colour = 4 nhưng Taste = 2. Ms. Kerluke lo ngại về Taste < 3 → Lemon, Salted Caramel. Nhưng email nói 'best' là Peanut Brittle → loại trừ. Lemon Taste = 2 thấp nhất → cần điều chỉnh nhất. → (A)",
+          "hint": "Cau hoi: WHAT FLAVOR WILL BE ADJUSTED? -> Xem email: lo ngai ve vi nao? Xem bang khao sat: hang nao co diem Taste thap nhat (< 3)? -> Lemon = 2."
+        },
+        {
+          "id": 180,
+          "group": "176-180",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 176-180)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q176_180.png",
+          "text": "What can be concluded about participant number 54?",
+          "options": [
+            "(A) The participant purchased several containers of ice cream.",
+            "(B) The participant is between the ages of 25 and 40.",
+            "(C) The participant regularly takes consumer surveys.",
+            "(D) The participant prefers fruit-flavored ice cream."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Email: 'our target market of consumers ages 25 through 40' + participant số 54 là khách hàng mục tiêu → 25-40 tuổi. → (B)",
+          "hint": "Cau hoi ve PARTICIPANT 54: Email noi gi ve doi tuong khao sat? -> 'target market of consumers ages 25 through 40'. Participant 54 thuoc nhom nao?"
+        },
+        {
+          "id": 181,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 181-185)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q181_185.png",
+          "text": "According to the Web page, what will the job recipient be able to do?",
+          "options": [
+            "(A) Work remotely",
+            "(B) Manage a team",
+            "(C) Travel internationally",
+            "(D) Relocate to Canada"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'remote work is permitted for copywriters, residence in Canada is not required' → có thể làm việc từ xa. → (A)",
+          "hint": "Cau hoi: WHAT CAN JOB RECIPIENT DO? -> Tim dieu kien cua cong viec: 'remote work is permitted... residence in Canada is not required' -> Lam duoc gi?"
+        },
+        {
+          "id": 182,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 181-185)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q181_185.png",
+          "text": "On the Web page, the word 'suit' in paragraph 2, line 4, is closest in meaning to",
+          "options": [
+            "(A) adapt",
+            "(B) determine",
+            "(C) invest",
+            "(D) satisfy"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'brand strategies that suit customer needs' = phù hợp/thỏa mãn nhu cầu. 'Satisfy' = đáp ứng. → (D)",
+          "hint": "Cau hoi TU VUNG: 'suit' trong doan 2, dong 4. Doc cau: 'brand strategies that suit customer needs'. 'Suit' = phu hop/thoa man."
+        },
+        {
+          "id": 183,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 181-185)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q181_185.png",
+          "text": "What is indicated about Ms. Smith?",
+          "options": [
+            "(A) She has already met Ms. Benjamin.",
+            "(B) She has worked as a copywriter.",
+            "(C) She missed an application deadline.",
+            "(D) She forgot to submit a required document."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'I believe I would be a valuable addition to your team' → Thực tế: 'as an expert fashion designer who also has writing experience' → đã có kinh nghiệm viết. Tuy nhiên đáp án (B): thư viết 'I believe I would be a valuable addition' không nói rõ. Cần đọc kỹ: bà viết blog thời trang → has worked as a writer. → (B)",
+          "hint": "Cau hoi: WHAT IS INDICATED ABOUT MS. SMITH? -> Doc thu cua ba: 'expert fashion designer who also has writing experience'. Tim dieu nao duoc chung minh trong thu."
+        },
+        {
+          "id": 184,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 181-185)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q181_185.png",
+          "text": "According to the letter, what is one of Ms. Smith's responsibilities at MODA?",
+          "options": [
+            "(A) Hiring fashion designers",
+            "(B) Writing drafts of advertisements",
+            "(C) Managing a production process",
+            "(D) Researching sustainable clothing options"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'I oversee the design production process from initial market research to finished product' → quản lý quy trình sản xuất. → (C)",
+          "hint": "Cau hoi ve TRACH NHIEM TAI MODA: Tim cau mo ta cong viec: 'I oversee the design production process from initial market research to finished product'."
+        },
+        {
+          "id": 185,
+          "group": "181-185",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 181-185)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q181_185.png",
+          "text": "What most likely is Medesheen?",
+          "options": [
+            "(A) A brand of cosmetics",
+            "(B) A fashion blog",
+            "(C) An online magazine",
+            "(D) An advertising agency"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'I have been maintaining my own blog... Visit www.medesheen.com for examples of my writing' → Medesheen là blog. → (B)",
+          "hint": "Cau hoi: WHAT IS MEDESHEEN? -> Tim cau co 'medesheen.com'. 'I have been maintaining my own blog' -> medesheen la gi?"
+        },
+        {
+          "id": 186,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 186-190)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q186_190.png",
+          "text": "Why did Mr. Nakashima send the e-mail?",
+          "options": [
+            "(A) He did not receive an item he ordered.",
+            "(B) He was mistakenly charged twice for an item.",
+            "(C) He received a receipt that was not detailed enough.",
+            "(D) He did not get a confirmation e-mail for a purchase he made."
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'I received an e-mail receipt, but the costs are not itemized on it... Could you e-mail me such a receipt?' → biên lai không chi tiết. → (C)",
+          "hint": "Cau hoi: WHY DID MR. NAKASHIMA SEND EMAIL? -> Doc cau dau: 'I received an e-mail receipt, but the costs are not itemized on it. Could you e-mail me such a receipt?' -> Van de la gi?"
+        },
+        {
+          "id": 187,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 186-190)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q186_190.png",
+          "text": "According to the second e-mail, what will Mr. Nakashima receive with his next order?",
+          "options": [
+            "(A) A catalog",
+            "(B) A free pen",
+            "(C) A printed receipt",
+            "(D) A price discount"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'We will provide you with 10 percent off the total price of your next order' → giảm giá. → (D)",
+          "hint": "Cau hoi: WHAT WILL MR. NAKASHIMA RECEIVE? -> Tim cau trong email thu 2: 'we will provide you with...' -> Khach nhan gi cho don hang tiep theo?"
+        },
+        {
+          "id": 188,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 186-190)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q186_190.png",
+          "text": "For what item does Mr. Higgins suggest that Mr. Nakashima select 'Recurring Order'?",
+          "options": [
+            "(A) Printer paper",
+            "(B) Toner",
+            "(C) Gel pens",
+            "(D) Staples"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Hóa đơn có 1 toner → 'I noticed that included in each of your last few orders was an identical order for ten of a particular item' → mặt hàng đặt lặp lại. Toner = 1 cartridge = mặt hàng đặt nhiều lần. → (B)",
+          "hint": "Cau hoi: WHAT ITEM FOR 'RECURRING ORDER'? -> Doc email thu 2: 'I noticed that included in each of your last few orders was an identical order for ten of a particular item'. Xem hoa don -> mat hang nao lap lai?"
+        },
+        {
+          "id": 189,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 186-190)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q186_190.png",
+          "text": "What will Mr. Higgins ask the technical team to look into?",
+          "options": [
+            "(A) Improving the Web site's response rate",
+            "(B) Providing an option to send receipts to multiple e-mail addresses",
+            "(C) Placing a link to customers' order history on the home page",
+            "(D) Making return labels printable from any device"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'confirmations for future orders could possibly be sent to more than one e-mail address... I will share the idea with our technical team' → khả năng gửi đến nhiều email. → (B)",
+          "hint": "Cau hoi: WHAT WILL MR. HIGGINS ASK TECH TEAM? -> Tim cau co 'I will share the idea with our technical team'. Y tuong do la gi? -> Gui bien nhan den nhieu dia chi email."
+        },
+        {
+          "id": 190,
+          "group": "186-190",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 186-190)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q186_190.png",
+          "text": "What is needed to return an item at a Fowler Office Supplies store?",
+          "options": [
+            "(A) The original receipt",
+            "(B) A credit card number",
+            "(C) A confirmation e-mail",
+            "(D) The order number"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'bring the item and the order number to any Fowler Office Supplies location' → số đơn hàng. → (D)",
+          "hint": "Cau hoi: WHAT IS NEEDED TO RETURN AN ITEM? -> Xem Return Policy o cuoi hoa don: 'bring the item and the ___ to any Fowler Office Supplies location'."
+        },
+        {
+          "id": 191,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 191-195)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q191_195.png",
+          "text": "What is the purpose of the article?",
+          "options": [
+            "(A) To compare locally made products",
+            "(B) To announce store openings",
+            "(C) To list changes to a Web site",
+            "(D) To review a café"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Crawford and Duval Opens Brick-and-Mortar Stores... celebrated the grand opening of boutique stores' → thông báo mở cửa hàng. → (B)",
+          "hint": "Cau hoi: PURPOSE OF ARTICLE? -> Doc tieu de bai bao: 'Crawford and Duval Opens Brick-and-Mortar Stores'. Day la thong bao mo cua hang."
+        },
+        {
+          "id": 192,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 191-195)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q191_195.png",
+          "text": "What does the Web site indicate about Crawford and Duval?",
+          "options": [
+            "(A) It has store locations around the world.",
+            "(B) It has been in business for ten years.",
+            "(C) It employs interior designers.",
+            "(D) It offers free parking at all of its stores."
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Each location has an interior designer on staff' → có nhà thiết kế nội thất. → (C)",
+          "hint": "Cau hoi: WHAT DOES WEB SITE INDICATE? -> Doc noi dung trang web. Tim thong tin doc dao ve Crawford and Duval: 'Each location has an interior designer on staff'."
+        },
+        {
+          "id": 193,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 191-195)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q191_195.png",
+          "text": "According to the receipt, what is indicated about the blanket?",
+          "options": [
+            "(A) It can be washed by machine.",
+            "(B) It is made of cotton.",
+            "(C) It is queen-sized.",
+            "(D) It comes in a set with pillows."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Hóa đơn: 'Machine-washable wool blanket HK$2,000.00' → có thể giặt máy. → (A)",
+          "hint": "Cau hoi ve CHIEC CHAN: Xem hoa don. Tim ten mat hang va dac diem: 'Machine-washable wool blanket'."
+        },
+        {
+          "id": 194,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 191-195)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q191_195.png",
+          "text": "Where most likely did Ms. Fong make her purchase?",
+          "options": [
+            "(A) On a Web site",
+            "(B) In a boutique shop",
+            "(C) At a café",
+            "(D) In a department store"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Hóa đơn: 'Bamboo table lamp, Decorative cushions' + tên Crawford and Duval boutique → mua tại cửa hàng boutique. → (B)",
+          "hint": "Cau hoi: WHERE DID MS. FONG PURCHASE? -> Xem hoa don: ten cua hang la gi? Crawford and Duval boutique -> loai cua hang nao?"
+        },
+        {
+          "id": 195,
+          "group": "191-195",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 191-195)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q191_195.png",
+          "text": "What is suggested about Ms. Fong?",
+          "options": [
+            "(A) She often buys food from Crawford and Duval.",
+            "(B) She is a member of the Frequent Purchase Club.",
+            "(C) She applied a gift card to her purchase.",
+            "(D) She shopped during a grand-opening event."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Web site: 'Members of our online Frequent Purchase Club will receive the same benefits... including a 10 percent discount on purchases of HK$500 or more' + hóa đơn có 'Less 10%' = HK$450 → là thành viên. → (B)",
+          "hint": "Cau hoi: WHAT IS SUGGESTED ABOUT MS. FONG? -> Hoa don co 'Less 10%' -> co giam gia. Trang web noi ai duoc giam gia? -> Thanh vien Frequent Purchase Club."
+        },
+        {
+          "id": 196,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 196-200)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q196_200.png",
+          "text": "What does the first Web page indicate about the Scavenger Hunt?",
+          "options": [
+            "(A) It requires participants to rent a camera.",
+            "(B) It concludes with prizes for participants.",
+            "(C) It is a suitable activity for indoors.",
+            "(D) It takes three hours to complete."
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Scavenger Hunt—An outdoor game... Group size: 10-50 people. Time: 3 hours.' → mất 3 giờ. → (D)",
+          "hint": "Cau hoi ve SCAVENGER HUNT: Tim 'Scavenger Hunt' trong trang web. Doc dac diem: 'Group size: 10-50 people. Time: 3 hours.' -> Mat bao nhieu thoi gian?"
+        },
+        {
+          "id": 197,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 196-200)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q196_200.png",
+          "text": "What event is best for a group of more than 200 people?",
+          "options": [
+            "(A) Game Day",
+            "(B) Team Painting",
+            "(C) Robot Building",
+            "(D) All Chocolate"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'Game Day—... Group size: 20-500 people.' = phù hợp nhóm lớn nhất. → (A)",
+          "hint": "Cau hoi: BEST EVENT FOR 200+ PEOPLE? -> Xem Group size cua tung hoat dong. Tim hoat dong co so luong nguoi toi da lon nhat."
+        },
+        {
+          "id": 198,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 196-200)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q196_200.png",
+          "text": "What is suggested about Ms. Peterson?",
+          "options": [
+            "(A) She has joined the Building Robots event in the past.",
+            "(B) She will receive a discount on an event.",
+            "(C) She recently started a job at Whitten Tech.",
+            "(D) She used to be an event planner."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Web site: 'Book an event in October and receive 15 percent off' → Ms. Peterson đặt vào tháng 10 (October 15) → nhận giảm giá. → (B)",
+          "hint": "Cau hoi: WHAT IS SUGGESTED ABOUT MS. PETERSON? -> Trang web: 'Book an event in October and receive 15 percent off'. Form cua ba dat khi nao?"
+        },
+        {
+          "id": 199,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 196-200)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q196_200.png",
+          "text": "What can be concluded about Whitten Tech?",
+          "options": [
+            "(A) It changed its number of event participants.",
+            "(B) It provided its staff with free passes to museums.",
+            "(C) It was unable to schedule its first-choice activity.",
+            "(D) It was not able to hold its event outside."
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "Form: Ms. Peterson chọn 1. Game Day, 2. Scavenger Hunt, 3. Team Painting. Web: Scavenger Hunt = Group 10-50, Game Day = 20-500. Whitten Tech có 28 người → phù hợp Scavenger Hunt nhưng Review chê là phải đi bộ nhiều → 'would have been helpful to have an idea of the walking distances'. Thực ra Review nói về Scavenger Hunt. Câu hỏi: không thể đặt lịch lựa chọn đầu tiên → Game Day (ngoài trời nhưng khách muốn outdoor → tuy nhiên review chê walking) → suy luận: lựa chọn đầu tiên Game Day không phù hợp → Scavenger Hunt được chọn. Whitten Tech chọn Scavenger Hunt (lựa chọn 2) → không đặt được lựa chọn đầu tiên. → (C)",
+          "hint": "Cau hoi: WHAT CAN BE CONCLUDED ABOUT WHITTEN TECH? -> Ms. Peterson chon 1. Game Day, 2. Scavenger Hunt. Review noi gi? -> Phai di bo nhieu. Cuoi cung ho chon Scavenger Hunt (lua chon 2) -> Khong dat duoc lua chon dau tien."
+        },
+        {
+          "id": 200,
+          "group": "196-200",
+          "passageTitle": "Part 7 - Reading Comprehension (Cau 196-200)",
+          "passageImage": "public/assets/bai-on-2/reading/passages/part7_q196_200.png",
+          "text": "According to the review, what was disappointing about the event?",
+          "options": [
+            "(A) The focus on local history",
+            "(B) The lack of information about walking distances",
+            "(C) The difficulty in keeping the group together",
+            "(D) The uninteresting facilitator"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "explanation": "'It would have been helpful to have an idea of the walking distances so we could have been fully prepared.' → thiếu thông tin về quãng đường đi bộ. → (B)",
+          "hint": "Cau hoi: WHAT WAS DISAPPOINTING? -> Doc review cua Whitten Tech (Posted on October 20). Tim noi phan nan: 'It would have been helpful to have an idea of the walking distances'."
+        }
+      ]
+    }
+  }
+}

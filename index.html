@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ôn Tập TOEIC – Luyện Thi Chuẩn 7 Parts</title>
+  <meta name="description" content="Website ôn luyện và thi thử TOEIC chuẩn 7 phần – Bài ôn 1, 2, 3, 4 với nghe audio từng câu hỏi, phân tích kết quả chi tiết." />
+  <link rel="stylesheet" href="css/styles.css?v=2.4.0" />
+</head>
+
+<!-- ═══════════════════════════════════════════════════════════
+     PAGE 1: HOME – Test selection
+     ═══════════════════════════════════════════════════════════ -->
+<div class="page-view active" id="viewHome">
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="logo">
+      <div class="logo-mark">
+        <span class="cham">Ôn Tập</span>
+        <span class="toeic"> TOEIC</span>
+      </div>
+      <div class="logo-sub">Luyện Thi Chuẩn 7 Parts</div>
+    </div>
+    <nav class="site-nav">
+      <a href="#" class="nav-link active">Bài ôn luyện</a>
+      <a href="#" class="nav-link">Hướng dẫn</a>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero-banner">
+    <div class="hero-inner">
+      <h1>Ôn Luyện TOEIC <span>Hiệu Quả</span></h1>
+      <p>Hệ thống đề thi chuẩn cấu trúc TOEIC 2024 với 7 phần, audio từng câu, phân tích kết quả chi tiết.</p>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <span class="hero-stat-val">4</span>
+          <span class="hero-stat-label">Bài ôn</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-val">800</span>
+          <span class="hero-stat-label">Câu hỏi</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-val">7</span>
+          <span class="hero-stat-label">Parts / bài</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-val">120'</span>
+          <span class="hero-stat-label">Thi thử</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Test Cards -->
+  <section class="tests-section">
+    <div class="section-header">
+      <div class="section-title"><span></span>Chọn bài ôn luyện</div>
+    </div>
+    <div class="test-grid" id="testGrid">
+      <!-- Cards rendered by JS -->
+    </div>
+  </section>
+
+</div><!-- /viewHome -->
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     MODAL: Test Setup (Practice / Exam)
+     ═══════════════════════════════════════════════════════════ -->
+<div class="modal-overlay hidden" id="setupModal">
+  <div class="modal-box">
+
+    <div class="modal-header">
+      <div>
+        <h2 id="modalTestTitle">Bài Ôn Tập 1</h2>
+        <p>Chọn chế độ và cấu hình bài làm</p>
+      </div>
+      <button class="modal-close" onclick="closeSetupModal()">✕</button>
+    </div>
+
+    <div class="modal-tabs">
+      <button class="modal-tab active" id="tabModePractice">🎯 Luyện tập</button>
+      <button class="modal-tab"        id="tabModeExam">📋 Thi thử</button>
+    </div>
+
+    <div class="modal-body">
+
+      <!-- Practice Panel -->
+      <div id="panelPracticeSetup">
+        <div class="modal-section-label">Chọn phần thi</div>
+        <div class="modal-select-actions">
+          <span class="link-select" id="btnSelectAll">✓ Chọn tất cả</span>
+          <span class="link-clear"  id="btnClearAll">✕ Bỏ chọn</span>
+        </div>
+        <div class="parts-grid" id="partsContainer">
+          <!-- Rendered by JS -->
+        </div>
+
+        <div class="timer-row">
+          <span class="timer-label">⏱️ Thời gian</span>
+          <select class="form-select" id="timerSelect">
+            <option value="120">120 phút (Full test)</option>
+            <option value="60">60 phút</option>
+            <option value="45">45 phút</option>
+            <option value="30">30 phút</option>
+            <option value="15">15 phút</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Exam Panel -->
+      <div id="panelExamSetup" style="display:none;">
+        <div class="exam-info-box">
+          <h3>📋 Chế độ Kiểm tra – Full Mock Test</h3>
+          <ul>
+            <li>Thi full 7 phần (200 câu)</li>
+            <li>Thời gian làm bài: <strong>120 phút</strong></li>
+            <li>Nên dùng trình duyệt Chrome, kết nối mạng ổn định</li>
+            <li>Dùng tai nghe tốt cho phần Listening</li>
+            <li>Listening: Mỗi câu chỉ nghe 1 lần (không tua lại)</li>
+            <li>Hết giờ sẽ tự động nộp bài</li>
+            <li>Không chuyển tab trong khi làm bài</li>
+            <li>Màn hình khuyến nghị từ 13 inch trở lên</li>
+          </ul>
+        </div>
+      </div>
+
+    </div><!-- /modal-body -->
+
+    <div class="modal-footer">
+      <button class="btn-cancel" onclick="closeSetupModal()">Hủy</button>
+      <button class="btn-start-practice hidden" id="btnStartPractice">🎯 Bắt đầu luyện tập</button>
+      <button class="btn-start-exam hidden"     id="btnStartExam">📋 Bắt đầu kiểm tra</button>
+    </div>
+
+  </div>
+</div><!-- /setupModal -->
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     PAGE 2: TEST WORKSPACE
+     ═══════════════════════════════════════════════════════════ -->
+<div class="page-view" id="viewWorkspace">
+
+  <!-- Test Navbar -->
+  <nav class="test-navbar">
+    <div class="tnav-left">
+      <div class="tnav-logo">Ôn Tập<small>TOEIC</small></div>
+      <div class="timer-display">
+        ⏱️ <span id="timerDisplay">00:00:00</span>
+      </div>
+    </div>
+
+    <div class="tnav-center">
+      <button class="btn-nav-part" id="btnPrevPart" title="Part trước">‹</button>
+      <button class="btn-nav-part" id="btnNextPart" title="Part sau">›</button>
+      <span class="part-pill" id="currentPartPill">Part 1</span>
+    </div>
+
+    <div class="tnav-right">
+      <button class="btn-submit-test" id="btnSubmitTest">NỘPBÀI</button>
+      <button class="btn-exit-test"   id="btnExitTest"   title="Thoát">↩</button>
+    </div>
+  </nav>
+
+  <!-- Audio Bar -->
+  <div style="max-width:1400px; margin:0 auto; padding:12px 16px 0;">
+    <div class="audio-bar" id="audioBar">
+      <button class="audio-btn" id="audioPlayBtn">▶</button>
+      <input  type="range" class="audio-seek" id="audioSeekbar" min="0" max="100" value="0" step="0.1" />
+      <span class="audio-time" id="audioTimeDisplay">00:00 / 00:00</span>
+      <select class="audio-speed" id="audioSpeedSelect">
+        <option value="0.8">0.8x</option>
+        <option value="1.0" selected>1.0x</option>
+        <option value="1.2">1.2x</option>
+        <option value="1.5">1.5x</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- 3-Column Workspace -->
+  <div class="workspace-container">
+    <!-- Left: Image / Passage -->
+    <div class="media-panel" id="mediaPanel">
+      <div class="no-media-placeholder">
+        <div class="icon">🎵</div>
+        <div>Chọn phần thi để bắt đầu</div>
+      </div>
+    </div>
+
+    <!-- Center: Questions -->
+    <div class="questions-panel" id="questionsPanel">
+      <!-- Rendered by JS -->
+    </div>
+
+    <!-- Right: Palette -->
+    <aside class="palette-panel">
+      <div class="palette-status" id="paletteStatus">Đã trả lời: 0/0</div>
+      <div id="paletteContainer"><!-- Rendered by JS --></div>
+    </aside>
+  </div>
+
+</div><!-- /viewWorkspace -->
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     PAGE 3: RESULT DASHBOARD
+     ═══════════════════════════════════════════════════════════ -->
+<div class="page-view" id="viewResult">
+
+  <div class="result-container">
+
+    <!-- Hero Score Card -->
+    <div class="result-hero">
+      <h1 class="result-hero-title" id="resTitle">Bài Ôn Tập 1</h1>
+      <div class="result-hero-meta">
+        <span id="resElapsed">⏱️ 00:00</span>
+        <span id="resDate">📅 --</span>
+      </div>
+
+      <div class="score-grid">
+        <div class="score-box">
+          <div class="score-box-label">Tổng câu</div>
+          <div class="score-box-val total" id="resTotal">0</div>
+        </div>
+        <div class="score-box">
+          <div class="score-box-label">🟢 Đúng</div>
+          <div class="score-box-val right" id="resCorrect">0</div>
+        </div>
+        <div class="score-box">
+          <div class="score-box-label">🔴 Sai</div>
+          <div class="score-box-val wrong" id="resWrong">0</div>
+        </div>
+        <div class="score-box">
+          <div class="score-box-label">⚪ Bỏ qua</div>
+          <div class="score-box-val skip"  id="resSkipped">0</div>
+        </div>
+      </div>
+
+      <div class="accuracy-row">
+        <span class="accuracy-label">Độ chính xác</span>
+        <div class="accuracy-bar-track">
+          <div class="accuracy-bar-fill" id="resFill" style="width:0%"></div>
+        </div>
+        <span class="accuracy-pct" id="resPct">0%</span>
+      </div>
+
+      <div class="result-cta">
+        <p>💡 Nhấn vào số câu bên dưới để xem giải thích, hoặc dùng trang Review để ôn lại câu sai.</p>
+        <div class="result-cta-btns">
+          <button class="btn-review-wrong" id="btnReviewWrong">📖 Ôn lại câu sai / bỏ qua</button>
+          <button class="btn-back-home" id="btnBackHome">🏠 Về trang chủ</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Category Breakdown -->
+    <div class="result-table-card">
+      <div class="result-table-card-header">📊 Phân tích theo dạng câu hỏi</div>
+      <table class="cat-table">
+        <thead>
+          <tr>
+            <th>Dạng câu hỏi</th>
+            <th>Đúng</th>
+            <th>Sai</th>
+            <th>Bỏ qua</th>
+            <th>Danh sách câu</th>
+          </tr>
+        </thead>
+        <tbody id="catTableBody">
+          <!-- Rendered by JS -->
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</div><!-- /viewResult -->
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     PAGE 4: REVIEW – Xem lại câu sai / bỏ qua
+     ═══════════════════════════════════════════════════════════ -->
+<div class="page-view" id="viewReview">
+
+  <!-- Review Navbar -->
+  <nav class="review-navbar">
+    <button class="btn-review-back" id="btnReviewBack">← Kết quả</button>
+    <div class="review-navbar-title">
+      <span id="reviewNavTitle">📖 Ôn lại câu sai</span>
+    </div>
+    <div class="review-progress" id="reviewProgress">0 / 0</div>
+  </nav>
+
+  <!-- Review Filters -->
+  <div class="review-filters-bar">
+    <div class="review-filter-group">
+      <span class="review-filter-label">Lọc:</span>
+      <button class="review-filter-btn active" id="rfAll" onclick="setReviewFilter('all')">Tất cả</button>
+      <button class="review-filter-btn wrong" id="rfWrong" onclick="setReviewFilter('wrong')">🔴 Sai</button>
+      <button class="review-filter-btn skip" id="rfSkip" onclick="setReviewFilter('skip')">⚪ Bỏ qua</button>
+    </div>
+    <div class="review-filter-group">
+      <span class="review-filter-label">Part:</span>
+      <div class="review-part-tabs" id="reviewPartTabs">
+        <!-- rendered by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Review Body: two-column layout -->
+  <div class="review-body">
+    <!-- Left: passage/image -->
+    <div class="review-media-panel" id="reviewMediaPanel">
+      <div class="review-media-placeholder">
+        <div>📄</div>
+        <div>Chọn câu để xem passage</div>
+      </div>
+    </div>
+
+    <!-- Right: question list + detail -->
+    <div class="review-content-panel">
+      <!-- Question list (scrollable) -->
+      <div class="review-qlist" id="reviewQList">
+        <!-- rendered by JS -->
+      </div>
+      <!-- Question detail -->
+      <div class="review-qdetail" id="reviewQDetail">
+        <div class="review-qdetail-placeholder">
+          <div style="font-size:40px;margin-bottom:8px;">👆</div>
+          <div>Chọn một câu bên trên để xem chi tiết</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /viewReview -->
+
+
+<!-- Loading Spinner -->
+<div id="loadingSpinner" class="hidden" style="
+  position:fixed; inset:0; background:rgba(255,255,255,.85); 
+  z-index:9999; display:flex; align-items:center; justify-content:center;
+  flex-direction:column; gap:16px;">
+  <div style="
+    width:48px; height:48px; border:4px solid #e2e8f0;
+    border-top-color:#2563eb; border-radius:50%;
+    animation:spin .8s linear infinite;"></div>
+  <p style="font-weight:700; color:#64748b;">Đang tải dữ liệu đề thi...</p>
+</div>
+<style>
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+
+<script src="js/audio-player.js?v=2.4.0"></script>
+<script src="js/app.js?v=2.4.0"></script>
+
+</body>
+</html>

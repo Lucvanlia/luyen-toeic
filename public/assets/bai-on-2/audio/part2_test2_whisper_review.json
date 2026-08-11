@@ -1,0 +1,152 @@
+[
+  {
+    "question_number": 7,
+    "startTime": 27.7,
+    "endTime": 49.4,
+    "whisper_text": "number 7. Number 7. Have the machines on the factory floor being cleaned? A. No, not yet. B. It's in the shipping container. C. I just put it in the trash bin."
+  },
+  {
+    "question_number": 8,
+    "startTime": 49.4,
+    "endTime": 68.3,
+    "whisper_text": "Number 8. How much will the budget increase next year? A. About 10%. B. Three hours, I think. C. At the bank's main branch."
+  },
+  {
+    "question_number": 9,
+    "startTime": 68.3,
+    "endTime": 86.8,
+    "whisper_text": "Number 9. You are going to water the plants before you leave, aren't you? A. I walked the whole way. B. Yes, right after lunch. C. In the break room."
+  },
+  {
+    "question_number": 10,
+    "startTime": 86.8,
+    "endTime": 107.6,
+    "whisper_text": "Number 10. Aren't you going to schedule an eye doctor appointment? A. Those glasses look nice on you. B. I already scheduled one. C. The seminar is three days long."
+  },
+  {
+    "question_number": 11,
+    "startTime": 107.6,
+    "endTime": 127.2,
+    "whisper_text": "Number 11. I'm going to try to fix this printer. A. You're right, it doesn't fit. B. Double -sided copies. C. Are you sure it can be repaired?"
+  },
+  {
+    "question_number": 12,
+    "startTime": 127.2,
+    "endTime": 146.2,
+    "whisper_text": "Number 12. What should we do with these brochures? A. A trip to the seashore. B. Yes, I found it already. C. I'll leave them at the front desk."
+  },
+  {
+    "question_number": 13,
+    "startTime": 146.2,
+    "endTime": 168.5,
+    "whisper_text": "Number 13. Has the policy meeting been rescheduled? A. We have lots of desk calendar designs. B. Yes, it's happening tomorrow instead. C. This soup I ordered is delicious. Number"
+  },
+  {
+    "question_number": 14,
+    "startTime": 168.5,
+    "endTime": 190.3,
+    "whisper_text": "Number 14. Why don't we stop by the office cafeteria on our way to the workshop? A. Sure, we have time for that. B. Of full service buffet. C. The topic is professional networking."
+  },
+  {
+    "question_number": 15,
+    "startTime": 190.3,
+    "endTime": 210.1,
+    "whisper_text": "Number 15. Have you tried our famous pasta dish? A. We need a table for five. B. Yes, it was delicious. C. I'll try to make it on time."
+  },
+  {
+    "question_number": 16,
+    "startTime": 210.1,
+    "endTime": 229.7,
+    "whisper_text": "Number 16. Who's the opening act at tonight's concert? A. Could you turn up the volume? B. A jazz singer from France. C. The position has been felt."
+  },
+  {
+    "question_number": 17,
+    "startTime": 229.7,
+    "endTime": 251.7,
+    "whisper_text": "Number 17. When do the product demonstrations start? A. The schedule was emailed last Friday. B. Some innovative features. C. In room 202, I think. Number"
+  },
+  {
+    "question_number": 18,
+    "startTime": 251.7,
+    "endTime": 271.7,
+    "whisper_text": "Number 18. I tried updating the website, but it didn't work. A. That date works for me. B. Usually, our online reviews. C. Just send me the changes you want."
+  },
+  {
+    "question_number": 19,
+    "startTime": 271.7,
+    "endTime": 292.6,
+    "whisper_text": "Number 19. Did you hire a new welding specialist? A. The pot's back -ordered. B. Yes, he starts tomorrow. C. No, it should be higher."
+  },
+  {
+    "question_number": 20,
+    "startTime": 292.6,
+    "endTime": 311.5,
+    "whisper_text": "Number 20. How was the color palette for the lobby chosen? A. Blue and orange. B. It was fine, thanks. C. I wasn't involved."
+  },
+  {
+    "question_number": 21,
+    "startTime": 311.5,
+    "endTime": 330.4,
+    "whisper_text": "Number 21. When are we ordering more supplies for the office? A. In the storage closet. B. Next week on Monday. C. The new desk looks great. Number"
+  },
+  {
+    "question_number": 22,
+    "startTime": 330.4,
+    "endTime": 352.7,
+    "whisper_text": "Number 22. The battery for the water pump is going to be solar powered, right? A. We're still in the planning stages. B. $140 per year. C. Yes, I'd love a glass of water."
+  },
+  {
+    "question_number": 23,
+    "startTime": 352.7,
+    "endTime": 372.3,
+    "whisper_text": "Number 23. Where can I buy a charger for this laptop? A. Around 3 o 'clock. B. I can order one for you. C. A limited return policy."
+  },
+  {
+    "question_number": 24,
+    "startTime": 372.3,
+    "endTime": 392.3,
+    "whisper_text": "Number 24. Do I need to reserve a meeting room? A. Yes, let me show you how. B. The service is good. C. My slide presentation. Number"
+  },
+  {
+    "question_number": 25,
+    "startTime": 392.3,
+    "endTime": 413.8,
+    "whisper_text": "Number 25. When's the new department director supposed to start? A. It's an hour long. B. Ms. Pavlova isn't retiring for several weeks. C. No, that department's upstairs."
+  },
+  {
+    "question_number": 26,
+    "startTime": 413.8,
+    "endTime": 434.0,
+    "whisper_text": "Number 26. Should I deliver these pizzas? Or will you? A. No thanks. I'm not hungry. B. $10 for two. C. They're being picked up."
+  },
+  {
+    "question_number": 27,
+    "startTime": 434.0,
+    "endTime": 453.8,
+    "whisper_text": "Number 27. This month's shipment schedule has been revised. A. I couldn't find them either. B. Which dates have been changed? C. $2 per pound."
+  },
+  {
+    "question_number": 28,
+    "startTime": 453.8,
+    "endTime": 474.4,
+    "whisper_text": "Number 28. How much will the repairs cost? A. The work is covered under the warranty plan. B. Yes, it's also available in red. C. In about two weeks. Number"
+  },
+  {
+    "question_number": 29,
+    "startTime": 474.4,
+    "endTime": 495.3,
+    "whisper_text": "Number 29. Why don't we provide more samples of the wallpaper patterns? A. The newspaper is delivered daily. B. An interior design course. C. There are plenty in the binders."
+  },
+  {
+    "question_number": 30,
+    "startTime": 495.3,
+    "endTime": 516.8,
+    "whisper_text": "Number 30. Can you give me a tour of the property this afternoon? A. Sorry, I won't have time until tomorrow. B. It has a very modern design. C. A house on Maple Street. Number"
+  },
+  {
+    "question_number": 31,
+    "startTime": 516.8,
+    "endTime": 541.8,
+    "whisper_text": "Number 31. Who's scheduled to test the product today? A. We're waiting for confirmation. B. It's a great album, right? C. About six weeks ago."
+  }
+]

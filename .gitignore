@@ -1,0 +1,48 @@
+# ============================================================
+# TOEIC-ONTAP – .gitignore
+# Loại bỏ file không cần thiết cho GitHub Pages
+# ============================================================
+
+# ── Thư mục scratch / temp (dùng khi build, không cần deploy) ──
+scratch/
+generated/
+template-img/
+
+# ── Tài liệu gốc PDF + audio dùng để build ─────────────────
+# (đã được xử lý và đưa vào public/assets)
+document/
+
+# ── Script helper và dữ liệu trung gian ─────────────────────
+scripts/
+*.backup.json
+toeic_part2_tts.json
+toeic_part2_test2_tts.json
+toeic_part34_tts.json
+support.md
+pdf-review.html
+
+# ── Agent config (chỉ dùng khi dev local) ───────────────────
+.agents/
+AGENTS.md
+
+# ── Python cache ─────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# ── OS files ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor ───────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Gemini / AI agent local files ────────────────────────────
+.gemini/

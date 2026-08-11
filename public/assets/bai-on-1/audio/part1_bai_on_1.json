@@ -1,0 +1,104 @@
+[
+  {
+    "part": "Part 1 – Photographs",
+    "id": 1,
+    "startTime": 95,
+    "endTime": 125,
+    "duration_fmt": "01:35 → 02:05",
+    "question": "(Xem hình ảnh)",
+    "options": {
+      "A": "The person is walking outside.",
+      "B": "The person is handling an object.",
+      "C": "The person is sitting on a chair.",
+      "D": "The furniture is placed against the wall."
+    },
+    "image": "public/assets/bai-on-1/listening/part1_q1.png",
+    "answer": "B",
+    "explanation": "Quan sát hình ảnh câu 1 và chọn mô tả đúng nhất."
+  },
+  {
+    "part": "Part 1 – Photographs",
+    "id": 2,
+    "startTime": 125,
+    "endTime": 155,
+    "duration_fmt": "02:05 → 02:35",
+    "question": "(Xem hình ảnh)",
+    "options": {
+      "A": "The person is walking outside.",
+      "B": "The person is handling an object.",
+      "C": "The person is sitting on a chair.",
+      "D": "The furniture is placed against the wall."
+    },
+    "image": "public/assets/bai-on-1/listening/part1_q2.png",
+    "answer": "A",
+    "explanation": "Quan sát hình ảnh câu 2 và chọn mô tả đúng nhất."
+  },
+  {
+    "part": "Part 1 – Photographs",
+    "id": 3,
+    "startTime": 155,
+    "endTime": 185,
+    "duration_fmt": "02:35 → 03:05",
+    "question": "(Xem hình ảnh)",
+    "options": {
+      "A": "The person is walking outside.",
+      "B": "The person is handling an object.",
+      "C": "The person is sitting on a chair.",
+      "D": "The furniture is placed against the wall."
+    },
+    "image": "public/assets/bai-on-1/listening/part1_q3.png",
+    "answer": "C",
+    "explanation": "Quan sát hình ảnh câu 3 và chọn mô tả đúng nhất."
+  },
+  {
+    "part": "Part 1 – Photographs",
+    "id": 4,
+    "startTime": 185,
+    "endTime": 215,
+    "duration_fmt": "03:05 → 03:35",
+    "question": "(Xem hình ảnh)",
+    "options": {
+      "A": "The person is walking outside.",
+      "B": "The person is handling an object.",
+      "C": "The person is sitting on a chair.",
+      "D": "The furniture is placed against the wall."
+    },
+    "image": "public/assets/bai-on-1/listening/part1_q4.png",
+    "answer": "D",
+    "explanation": "Quan sát hình ảnh câu 4 và chọn mô tả đúng nhất."
+  },
+  {
+    "part": "Part 1 – Photographs",
+    "id": 5,
+    "startTime": 215,
+    "endTime": 245,
+    "duration_fmt": "03:35 → 04:05",
+    "question": "(Xem hình ảnh)",
+    "options": {
+      "A": "The person is walking outside.",
+      "B": "The person is handling an object.",
+      "C": "The person is sitting on a chair.",
+      "D": "The furniture is placed against the wall."
+    },
+    "image": "public/assets/bai-on-1/listening/part1_q5.png",
+    "answer": "A",
+    "explanation": "Quan sát hình ảnh câu 5 và chọn mô tả đúng nhất."
+  },
+  {
+    "part": "Part 1 – Photographs",
+    "id": 6,
+    "startTime": 245,
+    "endTime": 275,
+    "duration_fmt": "04:05 → 04:35",
+    "question": "(Xem hình ảnh)",
+    "options": {
+      "A": "The person is walking outside.",
+      "B": "The person is handling an object.",
+      "C": "The person is sitting on a chair.",
+      "D": "The furniture is placed against the wall."
+    },
+    "image": "public/assets/bai-on-1/listening/part1_q6.png",
+    "answer": "B",
+    "explanation": "Quan sát hình ảnh câu 6 và chọn mô tả đúng nhất."
+  }
+]

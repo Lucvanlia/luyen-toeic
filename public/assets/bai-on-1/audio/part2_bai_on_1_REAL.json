@@ -1,0 +1,227 @@
+[
+  {
+    "id": 7,
+    "startTime": 80,
+    "endTime": 92,
+    "duration_fmt": "01:20 -> 01:32",
+    "transcript_real": "assignment here. C. It came from the tenants in B23. Number 10. Will you contact the vendor about changing",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 8,
+    "startTime": 94,
+    "endTime": 106,
+    "duration_fmt": "01:34 -> 01:46",
+    "transcript_real": "changing our delivery date? A. Of course, I'll take care of it. B. An email receipt. C. Could I get change for a dollar?",
+    "answer": "B",
+    "status": "OK"
+  },
+  {
+    "id": 9,
+    "startTime": 108,
+    "endTime": 120,
+    "duration_fmt": "01:48 -> 02:00",
+    "transcript_real": "Number 11. Why was the maintenance worker here? A. No, he didn't. B. From 3 o 'clock until 4.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 10,
+    "startTime": 122,
+    "endTime": 134,
+    "duration_fmt": "02:02 -> 02:14",
+    "transcript_real": "C. Because a light needed to be fixed. Number 12. Did management make a hiring decision yet?",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 11,
+    "startTime": 136,
+    "endTime": 148,
+    "duration_fmt": "02:16 -> 02:28",
+    "transcript_real": "A. Put it on the highest shelf. B. The personnel department. C. Yes, they chose Jacob Borgman.",
+    "answer": "B",
+    "status": "OK"
+  },
+  {
+    "id": 12,
+    "startTime": 150,
+    "endTime": 162,
+    "duration_fmt": "02:30 -> 02:42",
+    "transcript_real": "Number 13. Do you want to eat here in our cafeteria or go out? A. He went there yesterday. B. Well, maybe a sandwich.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 13,
+    "startTime": 164,
+    "endTime": 176,
+    "duration_fmt": "02:44 -> 02:56",
+    "transcript_real": "C. Let's eat here. Number 14. Didn't you email the employment contract to Mr. Patel yesterday?",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 14,
+    "startTime": 178,
+    "endTime": 190,
+    "duration_fmt": "02:58 -> 03:10",
+    "transcript_real": "A. Yes, I would agree. B. No, I'll send it now. C. Check the employee manual.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 15,
+    "startTime": 192,
+    "endTime": 204,
+    "duration_fmt": "03:12 -> 03:24",
+    "transcript_real": "Number 15. Our division's picnic is this Saturday, right? A. There's a lot of rain in the forecast. B. Sure, I like salad.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 16,
+    "startTime": 206,
+    "endTime": 218,
+    "duration_fmt": "03:26 -> 03:38",
+    "transcript_real": "salad. C. At the end of this corridor. Number 16. Would you like coffee or tea? A.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 17,
+    "startTime": 220,
+    "endTime": 232,
+    "duration_fmt": "03:40 -> 03:52",
+    "transcript_real": "Just water, please. B. For a few dollars more. C. A 15 -minute break. Number",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 18,
+    "startTime": 234,
+    "endTime": 246,
+    "duration_fmt": "03:54 -> 04:06",
+    "transcript_real": "Number 17. We achieved our sales targets this month. A. That's excellent news. B. A few times a day. C. To the end of April.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 19,
+    "startTime": 248,
+    "endTime": 260,
+    "duration_fmt": "04:08 -> 04:20",
+    "transcript_real": "Number 18. How often do you travel for your job? A. It turned out well. B.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 20,
+    "startTime": 262,
+    "endTime": 274,
+    "duration_fmt": "04:22 -> 04:34",
+    "transcript_real": "Yes, I did find one. C. About once a month. Number 19. We should hike the Wildflower",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 21,
+    "startTime": 276,
+    "endTime": 288,
+    "duration_fmt": "04:36 -> 04:48",
+    "transcript_real": "Wildflower Trail today. A. This seat is available. B. I didn't bring boots. C. At the visitor's center.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 22,
+    "startTime": 290,
+    "endTime": 302,
+    "duration_fmt": "04:50 -> 05:02",
+    "transcript_real": "Number 20. You have booked a hotel in London, haven't you? A. Very enjoyable, thanks. B. He usually takes the train.",
+    "answer": "B",
+    "status": "OK"
+  },
+  {
+    "id": 23,
+    "startTime": 304,
+    "endTime": 316,
+    "duration_fmt": "05:04 -> 05:16",
+    "transcript_real": "C. Yes, I made a reservation last week. Number 21. Are there any tickets left for tonight's concert?",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 24,
+    "startTime": 318,
+    "endTime": 330,
+    "duration_fmt": "05:18 -> 05:30",
+    "transcript_real": "A. It's sold out. B. He's a concert violinist. C. They already left.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 25,
+    "startTime": 332,
+    "endTime": 344,
+    "duration_fmt": "05:32 -> 05:44",
+    "transcript_real": "Number 22. Haven't you used this software before? A. Can I take your order? B. I haven't had the chance. C.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 26,
+    "startTime": 346,
+    "endTime": 358,
+    "duration_fmt": "05:46 -> 05:58",
+    "transcript_real": "About $40. Number 23. When is the new blender going to be released? A. Only with fruits and",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 27,
+    "startTime": 360,
+    "endTime": 372,
+    "duration_fmt": "06:00 -> 06:12",
+    "transcript_real": "and vegetables. B. In the kitchen cabinet. C. The prototype is still being tested. Number 24.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 28,
+    "startTime": 374,
+    "endTime": 386,
+    "duration_fmt": "06:14 -> 06:26",
+    "transcript_real": "24. Who's picking up our clients at the airport? A. They decided to drive. B. At terminal two. C. It's a marketing position.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 29,
+    "startTime": 388,
+    "endTime": 400,
+    "duration_fmt": "06:28 -> 06:40",
+    "transcript_real": "position. Number 25. Where are the red roses that came in this morning? A. About three litres of water.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 30,
+    "startTime": 402,
+    "endTime": 414,
+    "duration_fmt": "06:42 -> 06:54",
+    "transcript_real": "B. No, I didn't check out the sale. C. I needed some for a large bouquet. A. Number 26.",
+    "answer": "A",
+    "status": "OK"
+  },
+  {
+    "id": 31,
+    "startTime": 416,
+    "endTime": 428,
+    "duration_fmt": "06:56 -> 07:08",
+    "transcript_real": "26. This film has been nominated for several awards. A. Why don't we go see it? B. After the announcement. C. He made a great",
+    "answer": "A",
+    "status": "OK"
+  }
+]

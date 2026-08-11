@@ -1,0 +1,542 @@
+[
+  {
+    "part": "Part 4 – Talks",
+    "id": 71,
+    "group": "71-73",
+    "startTime": 50,
+    "endTime": 120,
+    "duration_fmt": "00:50 → 02:00",
+    "question": "Where is the announcement being made?",
+    "transcript": "(Bài nói nhóm 71-73)\nThông báo delay chuyến bay tại sân bay.",
+    "options": {
+      "A": "At a subway station",
+      "B": "At an airport",
+      "C": "At a bus terminal",
+      "D": "At a shopping mall"
+    },
+    "answer": "B",
+    "explanation": "Xem bài nói 71-73: Thông báo delay chuyến bay tại sân bay."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 72,
+    "group": "71-73",
+    "startTime": 50,
+    "endTime": 120,
+    "duration_fmt": "00:50 → 02:00",
+    "question": "What is the cause of the delay?",
+    "transcript": "(Bài nói nhóm 71-73)\nThông báo delay chuyến bay tại sân bay.",
+    "options": {
+      "A": "Weather conditions",
+      "B": "Technical maintenance",
+      "C": "Staff shortage",
+      "D": "Security screening"
+    },
+    "answer": "B",
+    "explanation": "Xem bài nói 71-73: Thông báo delay chuyến bay tại sân bay."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 73,
+    "group": "71-73",
+    "startTime": 50,
+    "endTime": 120,
+    "duration_fmt": "00:50 → 02:00",
+    "question": "What are passengers asked to do?",
+    "transcript": "(Bài nói nhóm 71-73)\nThông báo delay chuyến bay tại sân bay.",
+    "options": {
+      "A": "Proceed to another gate",
+      "B": "Claim their baggage",
+      "C": "Wait for further updates",
+      "D": "Contact customer service"
+    },
+    "answer": "C",
+    "explanation": "Xem bài nói 71-73: Thông báo delay chuyến bay tại sân bay."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 74,
+    "group": "74-76",
+    "startTime": 121,
+    "endTime": 191,
+    "duration_fmt": "02:01 → 03:11",
+    "question": "Who is the intended audience?",
+    "transcript": "(Bài nói nhóm 74-76)\nBuổi định hướng nhân viên mới.",
+    "options": {
+      "A": "New employees",
+      "B": "Senior managers",
+      "C": "External clients",
+      "D": "Department heads"
+    },
+    "answer": "A",
+    "explanation": "Xem bài nói 74-76: Buổi định hướng nhân viên mới."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 75,
+    "group": "74-76",
+    "startTime": 121,
+    "endTime": 191,
+    "duration_fmt": "02:01 → 03:11",
+    "question": "What is the main topic of the talk?",
+    "transcript": "(Bài nói nhóm 74-76)\nBuổi định hướng nhân viên mới.",
+    "options": {
+      "A": "Company history",
+      "B": "Employee benefits",
+      "C": "Office safety procedures",
+      "D": "Onboarding orientation"
+    },
+    "answer": "D",
+    "explanation": "Xem bài nói 74-76: Buổi định hướng nhân viên mới."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 76,
+    "group": "74-76",
+    "startTime": 121,
+    "endTime": 191,
+    "duration_fmt": "02:01 → 03:11",
+    "question": "What will happen after the talk?",
+    "transcript": "(Bài nói nhóm 74-76)\nBuổi định hướng nhân viên mới.",
+    "options": {
+      "A": "A tour of the building",
+      "B": "A written test",
+      "C": "A Q&A session",
+      "D": "A meet-and-greet"
+    },
+    "answer": "C",
+    "explanation": "Xem bài nói 74-76: Buổi định hướng nhân viên mới."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 77,
+    "group": "77-79",
+    "startTime": 192,
+    "endTime": 262,
+    "duration_fmt": "03:12 → 04:22",
+    "question": "What product is being advertised?",
+    "transcript": "(Bài nói nhóm 77-79)\nQuảng cáo ứng dụng tập thể dục.",
+    "options": {
+      "A": "A kitchen appliance",
+      "B": "A financial service",
+      "C": "A fitness app",
+      "D": "A cleaning product"
+    },
+    "answer": "C",
+    "explanation": "Xem bài nói 77-79: Quảng cáo ứng dụng tập thể dục."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 78,
+    "group": "77-79",
+    "startTime": 192,
+    "endTime": 262,
+    "duration_fmt": "03:12 → 04:22",
+    "question": "What special offer is mentioned?",
+    "transcript": "(Bài nói nhóm 77-79)\nQuảng cáo ứng dụng tập thể dục.",
+    "options": {
+      "A": "A free trial period",
+      "B": "A discounted annual plan",
+      "C": "A buy-one-get-one deal",
+      "D": "A loyalty reward"
+    },
+    "answer": "A",
+    "explanation": "Xem bài nói 77-79: Quảng cáo ứng dụng tập thể dục."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 79,
+    "group": "77-79",
+    "startTime": 192,
+    "endTime": 262,
+    "duration_fmt": "03:12 → 04:22",
+    "question": "How can listeners sign up?",
+    "transcript": "(Bài nói nhóm 77-79)\nQuảng cáo ứng dụng tập thể dục.",
+    "options": {
+      "A": "Via the company website",
+      "B": "By calling a hotline",
+      "C": "At a retail store",
+      "D": "Through a mobile app"
+    },
+    "answer": "D",
+    "explanation": "Xem bài nói 77-79: Quảng cáo ứng dụng tập thể dục."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 80,
+    "group": "80-82",
+    "startTime": 263,
+    "endTime": 333,
+    "duration_fmt": "04:23 → 05:33",
+    "question": "What department is giving this report?",
+    "transcript": "(Bài nói nhóm 80-82)\nBáo cáo thành tích doanh số xuất sắc.",
+    "options": {
+      "A": "Sales",
+      "B": "HR",
+      "C": "Finance",
+      "D": "Marketing"
+    },
+    "answer": "A",
+    "explanation": "Xem bài nói 80-82: Báo cáo thành tích doanh số xuất sắc."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 81,
+    "group": "80-82",
+    "startTime": 263,
+    "endTime": 333,
+    "duration_fmt": "04:23 → 05:33",
+    "question": "What is the overall performance trend?",
+    "transcript": "(Bài nói nhóm 80-82)\nBáo cáo thành tích doanh số xuất sắc.",
+    "options": {
+      "A": "Declining sales in Q2",
+      "B": "Steady growth year-over-year",
+      "C": "A significant drop in profits",
+      "D": "Record-breaking results"
+    },
+    "answer": "D",
+    "explanation": "Xem bài nói 80-82: Báo cáo thành tích doanh số xuất sắc."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 82,
+    "group": "80-82",
+    "startTime": 263,
+    "endTime": 333,
+    "duration_fmt": "04:23 → 05:33",
+    "question": "What will the speaker focus on next quarter?",
+    "transcript": "(Bài nói nhóm 80-82)\nBáo cáo thành tích doanh số xuất sắc.",
+    "options": {
+      "A": "Expanding to new markets",
+      "B": "Reducing operating costs",
+      "C": "Improving customer service",
+      "D": "Launching a new product"
+    },
+    "answer": "A",
+    "explanation": "Xem bài nói 80-82: Báo cáo thành tích doanh số xuất sắc."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 83,
+    "group": "83-85",
+    "startTime": 334,
+    "endTime": 404,
+    "duration_fmt": "05:34 → 06:44",
+    "question": "What is the purpose of this voicemail?",
+    "transcript": "(Bài nói nhóm 83-85)\nTin nhắn thoại hẹn giờ trao đổi báo giá.",
+    "options": {
+      "A": "To schedule a meeting",
+      "B": "To confirm an order",
+      "C": "To request a callback",
+      "D": "To inform about a cancellation"
+    },
+    "answer": "C",
+    "explanation": "Xem bài nói 83-85: Tin nhắn thoại hẹn giờ trao đổi báo giá."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 84,
+    "group": "83-85",
+    "startTime": 334,
+    "endTime": 404,
+    "duration_fmt": "05:34 → 06:44",
+    "question": "What time is convenient for the caller?",
+    "transcript": "(Bài nói nhóm 83-85)\nTin nhắn thoại hẹn giờ trao đổi báo giá.",
+    "options": {
+      "A": "Before 10 AM",
+      "B": "Between 1 and 4 PM",
+      "C": "After 5 PM",
+      "D": "Any time on Friday"
+    },
+    "answer": "B",
+    "explanation": "Xem bài nói 83-85: Tin nhắn thoại hẹn giờ trao đổi báo giá."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 85,
+    "group": "83-85",
+    "startTime": 334,
+    "endTime": 404,
+    "duration_fmt": "05:34 → 06:44",
+    "question": "What information does the caller request?",
+    "transcript": "(Bài nói nhóm 83-85)\nTin nhắn thoại hẹn giờ trao đổi báo giá.",
+    "options": {
+      "A": "Product availability",
+      "B": "Delivery options",
+      "C": "Pricing details",
+      "D": "Store location"
+    },
+    "answer": "C",
+    "explanation": "Xem bài nói 83-85: Tin nhắn thoại hẹn giờ trao đổi báo giá."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 86,
+    "group": "86-88",
+    "startTime": 405,
+    "endTime": 475,
+    "duration_fmt": "06:45 → 07:55",
+    "question": "Where does this talk take place?",
+    "transcript": "(Bài nói nhóm 86-88)\nKêu gọi thực hiện bảo vệ môi trường.",
+    "options": {
+      "A": "A hospital",
+      "B": "A museum",
+      "C": "A university lecture",
+      "D": "A corporate conference"
+    },
+    "answer": "D",
+    "explanation": "Xem bài nói 86-88: Kêu gọi thực hiện bảo vệ môi trường."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 87,
+    "group": "86-88",
+    "startTime": 405,
+    "endTime": 475,
+    "duration_fmt": "06:45 → 07:55",
+    "question": "What field does the speaker work in?",
+    "transcript": "(Bài nói nhóm 86-88)\nKêu gọi thực hiện bảo vệ môi trường.",
+    "options": {
+      "A": "Technology",
+      "B": "Medicine",
+      "C": "Environmental science",
+      "D": "Finance"
+    },
+    "answer": "C",
+    "explanation": "Xem bài nói 86-88: Kêu gọi thực hiện bảo vệ môi trường."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 88,
+    "group": "86-88",
+    "startTime": 405,
+    "endTime": 475,
+    "duration_fmt": "06:45 → 07:55",
+    "question": "What is the speaker asking the audience to do?",
+    "transcript": "(Bài nói nhóm 86-88)\nKêu gọi thực hiện bảo vệ môi trường.",
+    "options": {
+      "A": "Support a funding campaign",
+      "B": "Volunteer for a research project",
+      "C": "Adopt eco-friendly practices",
+      "D": "Sign a petition"
+    },
+    "answer": "C",
+    "explanation": "Xem bài nói 86-88: Kêu gọi thực hiện bảo vệ môi trường."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 89,
+    "group": "89-91",
+    "startTime": 476,
+    "endTime": 546,
+    "duration_fmt": "07:56 → 09:06",
+    "question": "Who is the primary speaker?",
+    "transcript": "(Bài nói nhóm 89-91)\nChương trình phát thanh địa phương.",
+    "options": {
+      "A": "A store manager",
+      "B": "A radio host",
+      "C": "A customer service rep",
+      "D": "A news reporter"
+    },
+    "answer": "B",
+    "explanation": "Xem bài nói 89-91: Chương trình phát thanh địa phương."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 90,
+    "group": "89-91",
+    "startTime": 476,
+    "endTime": 546,
+    "duration_fmt": "07:56 → 09:06",
+    "question": "What topic is being introduced?",
+    "transcript": "(Bài nói nhóm 89-91)\nChương trình phát thanh địa phương.",
+    "options": {
+      "A": "Local traffic updates",
+      "B": "A cooking show segment",
+      "C": "A news interview",
+      "D": "Community events"
+    },
+    "answer": "D",
+    "explanation": "Xem bài nói 89-91: Chương trình phát thanh địa phương."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 91,
+    "group": "89-91",
+    "startTime": 476,
+    "endTime": 546,
+    "duration_fmt": "07:56 → 09:06",
+    "question": "What is mentioned about the upcoming weekend?",
+    "transcript": "(Bài nói nhóm 89-91)\nChương trình phát thanh địa phương.",
+    "options": {
+      "A": "A music festival",
+      "B": "A farmers market",
+      "C": "A charity run",
+      "D": "An art exhibition"
+    },
+    "answer": "A",
+    "explanation": "Xem bài nói 89-91: Chương trình phát thanh địa phương."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 92,
+    "group": "92-94",
+    "startTime": 547,
+    "endTime": 617,
+    "duration_fmt": "09:07 → 10:17",
+    "question": "What is the main reason for this announcement?",
+    "transcript": "(Bài nói nhóm 92-94)\nThông báo bảo trì nâng cấp phần mềm.",
+    "options": {
+      "A": "A new branch opening",
+      "B": "A policy change",
+      "C": "A system upgrade",
+      "D": "An upcoming inspection"
+    },
+    "answer": "C",
+    "explanation": "Xem bài nói 92-94: Thông báo bảo trì nâng cấp phần mềm."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 93,
+    "group": "92-94",
+    "startTime": 547,
+    "endTime": 617,
+    "duration_fmt": "09:07 → 10:17",
+    "question": "When will the system be unavailable?",
+    "transcript": "(Bài nói nhóm 92-94)\nThông báo bảo trì nâng cấp phần mềm.",
+    "options": {
+      "A": "This evening",
+      "B": "Over the weekend",
+      "C": "Next Monday morning",
+      "D": "During lunch hours"
+    },
+    "answer": "B",
+    "explanation": "Xem bài nói 92-94: Thông báo bảo trì nâng cấp phần mềm."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 94,
+    "group": "92-94",
+    "startTime": 547,
+    "endTime": 617,
+    "duration_fmt": "09:07 → 10:17",
+    "question": "What should employees do before the maintenance window?",
+    "transcript": "(Bài nói nhóm 92-94)\nThông báo bảo trì nâng cấp phần mềm.",
+    "options": {
+      "A": "Save all open files",
+      "B": "Log out of their accounts",
+      "C": "Backup their data",
+      "D": "Report any issues"
+    },
+    "answer": "C",
+    "explanation": "Xem bài nói 92-94: Thông báo bảo trì nâng cấp phần mềm."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 95,
+    "group": "95-97",
+    "startTime": 618,
+    "endTime": 688,
+    "duration_fmt": "10:18 → 11:28",
+    "question": "What type of facility is being described?",
+    "transcript": "(Bài nói nhóm 95-97)\nQuyên góp xây dựng nhà cộng đồng.",
+    "options": {
+      "A": "A library",
+      "B": "A community center",
+      "C": "A school cafeteria",
+      "D": "An office building"
+    },
+    "answer": "B",
+    "explanation": "Xem bài nói 95-97: Quyên góp xây dựng nhà cộng đồng."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 96,
+    "group": "95-97",
+    "startTime": 618,
+    "endTime": 688,
+    "duration_fmt": "10:18 → 11:28",
+    "question": "What renovation is planned?",
+    "transcript": "(Bài nói nhóm 95-97)\nQuyên góp xây dựng nhà cộng đồng.",
+    "options": {
+      "A": "Adding a swimming pool",
+      "B": "Expanding the parking lot",
+      "C": "Installing solar panels",
+      "D": "Building a new wing"
+    },
+    "answer": "D",
+    "explanation": "Xem bài nói 95-97: Quyên góp xây dựng nhà cộng đồng."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 97,
+    "group": "95-97",
+    "startTime": 618,
+    "endTime": 688,
+    "duration_fmt": "10:18 → 11:28",
+    "question": "How was the renovation funded?",
+    "transcript": "(Bài nói nhóm 95-97)\nQuyên góp xây dựng nhà cộng đồng.",
+    "options": {
+      "A": "Government grants",
+      "B": "Private donations",
+      "C": "City bonds",
+      "D": "Membership fees"
+    },
+    "answer": "B",
+    "explanation": "Xem bài nói 95-97: Quyên góp xây dựng nhà cộng đồng."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 98,
+    "group": "98-100",
+    "startTime": 689,
+    "endTime": 759,
+    "duration_fmt": "11:29 → 12:39",
+    "question": "What is the speaker introducing?",
+    "transcript": "(Bài nói nhóm 98-100)\nGiới thiệu diễn giả công nghệ.",
+    "options": {
+      "A": "A new company policy",
+      "B": "A guest speaker",
+      "C": "A product demonstration",
+      "D": "An award ceremony"
+    },
+    "answer": "B",
+    "explanation": "Xem bài nói 98-100: Giới thiệu diễn giả công nghệ."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 99,
+    "group": "98-100",
+    "startTime": 689,
+    "endTime": 759,
+    "duration_fmt": "11:29 → 12:39",
+    "question": "What field is the guest expert known for?",
+    "transcript": "(Bài nói nhóm 98-100)\nGiới thiệu diễn giả công nghệ.",
+    "options": {
+      "A": "Technology innovation",
+      "B": "Supply chain management",
+      "C": "International trade",
+      "D": "Human psychology"
+    },
+    "answer": "A",
+    "explanation": "Xem bài nói 98-100: Giới thiệu diễn giả công nghệ."
+  },
+  {
+    "part": "Part 4 – Talks",
+    "id": 100,
+    "group": "98-100",
+    "startTime": 689,
+    "endTime": 759,
+    "duration_fmt": "11:29 → 12:39",
+    "question": "What does the speaker encourage the audience to do?",
+    "transcript": "(Bài nói nhóm 98-100)\nGiới thiệu diễn giả công nghệ.",
+    "options": {
+      "A": "Ask questions during the Q&A",
+      "B": "Connect on social media",
+      "C": "Purchase the speaker's book",
+      "D": "Register for a follow-up session"
+    },
+    "answer": "A",
+    "explanation": "Xem bài nói 98-100: Giới thiệu diễn giả công nghệ."
+  }
+]
