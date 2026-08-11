@@ -646,6 +646,11 @@ function renderQuestionCard(q, idx, allQs) {
           : opt;
       }
 
+      // Nếu displayText trùng với A, B, C, D (như trong Part 1) -> để trống để tránh trùng 'A  A'
+      if (typeof displayText === 'string' && (['A','B','C','D'].includes(displayText.trim().toUpperCase()) || displayText.trim().toUpperCase() === displayLetter)) {
+        displayText = '';
+      }
+
       // isSelected: user chọn display letter này
       const isSelected = answered === displayLetter;
       let cls = 'q-option';
