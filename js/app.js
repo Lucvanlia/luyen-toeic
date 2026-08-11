@@ -796,7 +796,7 @@ function parseP2Transcript(transcript) {
   const optTexts = {};
   let questionLines = [];
   for (const line of lines) {
-    const m = line.match(/^([A-D])[.)\s]\s*(.+)$/i);
+    const m = line.match(/^[\(\[]?([A-D])[\)\]\.\s]\s*(.+)$/i);
     if (m) {
       optTexts[m[1].toUpperCase()] = m[2].trim();
     } else {
