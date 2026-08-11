@@ -623,15 +623,8 @@ function renderQuestionCard(q, idx, allQs) {
     displayQText = q.text ? q.text.replace(/^\d+\.\s*/, '') : `Câu hỏi ${q.id}`;
   }
 
-  // ── Shuffle options cho Reading parts (Part 5/6/7) trong practice mode ────
-  const isReadingForShuffle = ['part5','part6','part7'].includes(S.activePart);
-  // Tạo shuffle map khi lần đầu (practice, chưa submit)
-  if (isReadingForShuffle && S.mode === 'practice' && !S.shuffleMap[q.id]) {
-    getShuffleMap(q.id, (q.options || []).length);
-  }
-  // shuffleIndices: dùng map đã tạo nếu đang practice mode (kể cả sau submit để giữ thứ tự)
-  const shuffleIndices = (isReadingForShuffle && S.mode === 'practice' && S.shuffleMap[q.id])
-    ? S.shuffleMap[q.id] : null;
+  // Options rendering: luôn giữ nguyên thứ tự A, B, C, D từ dữ liệu chuẩn
+  const shuffleIndices = null;
   const optCount = (q.options || []).length;
 
   // Build options
@@ -699,20 +692,8 @@ function renderQuestionCard(q, idx, allQs) {
   // ── Rich explanation panel (practice mode when answered OR after submit) ──
   let explanationHtml = '';
   if ((S.submitted || (S.mode === 'practice' && answered)) && (q.explanation || q.transcript)) {
-    const userAns  = S.answers[q.id] || null;
-
-    // Khi shuffle đang active: userAns là display letter → cần map về orig letter
-    // để so sánh với q.answer
-    let userOrigLetter = userAns; // mặc định không shuffle
-    if (shuffleIndices && userAns) {
-      const displayIdx = ['A','B','C','D'].indexOf(userAns);
-      if (displayIdx >= 0) {
-        const origIdx = shuffleIndices[displayIdx];
-        userOrigLetter = ['A','B','C','D'][origIdx] || userAns;
-      }
-    }
-
-    const isCorrect = userOrigLetter === q.answer;
+    const userAns = S.answers[q.id] || null;
+    const isCorrect = userAns === q.answer;
     const statusClass = !userAns ? 'skip' : isCorrect ? 'right' : 'wrong';
     const statusLabel = !userAns ? '⚪ Bỏ qua' : isCorrect ? '✅ Đúng!' : '❌ Bạn chọn chưa đúng!';
 
@@ -729,7 +710,7 @@ function renderQuestionCard(q, idx, allQs) {
           : opt;
       }
       const isAnswer  = letter === q.answer;
-      const isChosen  = letter === userOrigLetter;
+      const isChosen  = letter === userAns;
       let rowClass = 'exp-opt-row';
       if (isAnswer) rowClass += ' exp-opt-correct';
       else if (isChosen && !isAnswer) rowClass += ' exp-opt-wrong';
@@ -1045,21 +1026,10 @@ function submitTest() {
 
       const ua = S.answers[q.id];
 
-      // Map display letter → original letter (nếu đang shuffle reading parts)
-      const isReadingQ = ['part5','part6','part7'].includes(pKey);
-      let origLetter = ua; // mặc định không shuffle
-      if (ua && isReadingQ && S.shuffleMap[q.id]) {
-        const displayIdx = ['A','B','C','D'].indexOf(ua);
-        if (displayIdx >= 0) {
-          const origIdx = S.shuffleMap[q.id][displayIdx];
-          origLetter = ['A','B','C','D'][origIdx] || ua;
-        }
-      }
-
       if (!ua) {
         skipped++; catStats[cat].skipped++;
         catStats[cat].qs.push({ id: q.id, status: 'skip' });
-      } else if (origLetter === q.answer) {
+      } else if (ua === q.answer) {
         correct++; catStats[cat].correct++;
         catStats[cat].qs.push({ id: q.id, status: 'right' });
       } else {
