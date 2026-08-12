@@ -564,6 +564,7 @@ function buildTranscriptPanel(part, currentQ, labelText) {
 
 function renderQuestionCard(q, idx, allQs) {
   const isListening = ['part1','part2','part3','part4'].includes(S.activePart);
+  const isPart1 = S.activePart === 'part1';
   const isPart2 = S.activePart === 'part2';
   const hasSeg = isListening && q.startTime !== undefined && q.endTime !== undefined;
   const isFlagged = S.flagged.has(q.id);
@@ -611,14 +612,20 @@ function renderQuestionCard(q, idx, allQs) {
     : '';
 
   // Part 2: show parsed question text from transcript; others use q.text
-  // Part 6/7: dùng placeholder thay vì hiển thị đoạn văn dài
+  // Part 6/7: hiển thị câu hỏi thật (nếu có) + ảnh passage bên trái
   const isP67 = ['part6','part7'].includes(S.activePart);
   let displayQText;
   if (isPart2 && p2Parsed && p2Parsed.questionText) {
     displayQText = p2Parsed.questionText;
   } else if (isP67) {
-    // Part 6/7: câu hỏi nằm trong ảnh bên trái → chỉ hiện gợi ý
-    displayQText = `<span class="p67-placeholder-text">📖 Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái</span>`;
+    // Part 6/7: hiển thị câu hỏi thật nếu text không phải placeholder cũ
+    const rawText = q.text || '';
+    const isOldPlaceholder = rawText.includes('Vui lòng đọc câu hỏi') || rawText.startsWith('[');
+    if (!isOldPlaceholder && rawText.length > 5) {
+      displayQText = rawText.replace(/^\d+\.\s*/, '');
+    } else {
+      displayQText = `<span class="p67-placeholder-text">📖 Vui lòng đọc câu hỏi từ hình ảnh bên trái</span>`;
+    }
   } else {
     displayQText = q.text ? q.text.replace(/^\d+\.\s*/, '') : `Câu hỏi ${q.id}`;
   }
@@ -1226,10 +1233,14 @@ function renderReviewQDetail(item) {
   const ua = S.answers[q.id];   // user's answer (may be undefined)
   const correct = q.answer;      // correct answer letter
 
-  // Question text (Part 6/7 dùng text là toàn bộ đoạn, quá dài → tóm tắt)
-  const displayText = (q.text && q.text.length > 300)
-    ? q.text.substring(0, 300) + '…'
-    : (q.text || '(Xem passage bên trái)');
+  // Question text (Part 6/7: câu hỏi thật nếu có, không truncate passage)
+  const isP67 = item.pKey && ['part6','part7'].includes(item.pKey);
+  const isOldPlaceholderText = !q.text || q.text.includes('Vui lòng đọc') || q.text.startsWith('[');
+  const displayText = isP67 && !isOldPlaceholderText
+    ? q.text.replace(/^\d+\.\s*/, '')
+    : (q.text && q.text.length > 300
+      ? q.text.substring(0, 300) + '…'
+      : (q.text || '(Xem passage bên trái)'));
 
   // Build options HTML
   const letters = ['A','B','C','D'];

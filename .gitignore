@@ -15,6 +15,7 @@ document/
 # ── Script helper và dữ liệu trung gian ─────────────────────
 scripts/
 *.backup.json
+questions_dump.txt
 toeic_part2_tts.json
 toeic_part2_test2_tts.json
 toeic_part34_tts.json

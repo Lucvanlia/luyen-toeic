@@ -2432,7 +2432,7 @@
           "group": "147-148",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 147-148)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q147_148.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "Where is the information most likely found?",
           "options": [
             "(A) On a door",
             "(B) On a receipt",
@@ -2449,7 +2449,7 @@
           "group": "147-148",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 147-148)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q147_148.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What kind of item is most likely discussed?",
           "options": [
             "(A) A desktop computer",
             "(B) A piece of furniture",
@@ -2467,7 +2467,7 @@
           "group": "149-150",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 149-150)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q149_150.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is suggested by the schedule?",
           "options": [
             "(A) A conference has been scheduled.",
             "(B) A firm has offices in two time zones.",
@@ -2484,7 +2484,7 @@
           "group": "149-150",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 149-150)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q149_150.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is indicated about 11:00 A.M. Winnipeg time?",
           "options": [
             "(A) It is when the Winnipeg office closes for lunch.",
             "(B) It is when staff in Toulouse begin their workday.",
@@ -2501,7 +2501,7 @@
           "group": "151-152",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 151-152)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q151_152.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is indicated about the Bryant Foyer?",
           "options": [
             "(A) It is located on the shores of a lake.",
             "(B) It has recently been renovated.",
@@ -2518,7 +2518,7 @@
           "group": "151-152",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 151-152)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q151_152.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is suggested about Andito's?",
           "options": [
             "(A) It was started by an international chef.",
             "(B) It offers limited menu options.",
@@ -2536,14 +2536,14 @@
           "group": "153-154",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 153-154)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q153_154.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "At 1:00 P.M., what does Ms. Chi most likely mean when she writes, \"Sure thing, Mina\"?",
           "options": [
             "(A) She will bring lunch for Ms. Evers.",
             "(B) She can provide a tool that Ms. Evers needs.",
             "(C) Some site coordinates are correct.",
             "(D) Some measurements must be double-checked."
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Ms. Evers yêu cầu một công cụ đo đạc → 'Sure thing' xác nhận sẽ cung cấp. → (B)",
           "hint": "Câu hỏi về nghĩa của 'Sure thing, Mina' lúc 1:00 P.M.: Đọc các tin nhắn xung quanh 1:00 P.M. Ms. Evers đang hỏi/yêu cầu gì? → 'Sure thing' là lời xác nhận."
@@ -2553,12 +2553,12 @@
           "group": "153-154",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 153-154)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q153_154.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What will happen next?",
           "options": [
-            "(A) Ms. Chi will go to lunch.",
-            "(B) Mr. Lim will join Ms. Evers at the site.",
-            "(C) Ms. Evers will revise the site coordinates.",
-            "(D) Ms. Chi will contact the office."
+            "(A) Ms. Chi will get new site coordinates.",
+            "(B) Ms. Chi and Ms. Lim will be out for a while.",
+            "(C) Ms. Evers will share a recipe.",
+            "(D) Ms. Lim will begin taking measurements."
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
@@ -2570,14 +2570,14 @@
           "group": "155-157",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 155-157)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q155_157.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "For whom is the notice most likely intended?",
           "options": [
-            "(A) A new agricultural technology",
-            "(B) A food donation program",
-            "(C) A farmers market event",
-            "(D) A government subsidy for growers"
+            "(A) Farmers",
+            "(B) Professional chefs",
+            "(C) Truck drivers",
+            "(D) Supermarket managers"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Thông báo kêu gọi quyên góp nông sản dư thừa cho các tổ chức cộng đồng → chương trình quyên góp thực phẩm. → (B)",
           "hint": "Câu hỏi: WHAT IS THE NOTICE ABOUT? → Đọc câu chủ đề (thường ở đầu). Tìm từ khóa: 'donate', 'surplus', 'community'. Chủ đề chính là gì?"
@@ -2587,14 +2587,14 @@
           "group": "155-157",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 155-157)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q155_157.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What does the notice indicate about the weather?",
           "options": [
-            "(A) To purchase farm products online",
-            "(B) To find drop-off locations for donations",
-            "(C) To register as a volunteer truck driver",
-            "(D) To learn about farming subsidies"
+            "(A) It caused transportation delays.",
+            "(B) It included heavier rain than usual.",
+            "(C) It was frequently a topic in the local news.",
+            "(D) It was beneficial for crops."
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'visiting Vosey Farm and Garden's Web site (www.vfgrdn.org), where you will find our list of drop-off locations' → tìm địa điểm giao hàng. → (B)",
           "hint": "Câu hỏi về web site: Tìm đề cập đến 'Vosey Farm and Garden's Web site' hoặc URL. Câu đó nói trang web dùng để làm gì?"
@@ -2604,12 +2604,12 @@
           "group": "155-157",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 155-157)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q155_157.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What service does the notice mention?",
           "options": [
-            "(A) They work for Vosey Farm and Garden.",
-            "(B) They deliver food donations to community groups.",
-            "(C) They are paid by the government.",
-            "(D) They transport products to the farmers market."
+            "(A) Staffing for local businesses",
+            "(B) Food collection and distribution",
+            "(C) Farm machinery repair",
+            "(D) Gardening workshops"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
@@ -2622,12 +2622,12 @@
           "group": "158-160",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 158-160)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q158_160.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "Where most likely is the notice posted?",
           "options": [
             "(A) In an airplane",
-            "(B) At a concert hall",
-            "(C) In a hotel lobby",
-            "(D) At a sports stadium"
+            "(B) In a concert hall",
+            "(C) At a restaurant",
+            "(D) At a post office"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
@@ -2639,14 +2639,14 @@
           "group": "158-160",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 158-160)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q158_160.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is stated about large bags?",
           "options": [
-            "(A) Bring bags into the venue",
-            "(B) Use their phones during the show",
-            "(C) Make a recording of the performance",
-            "(D) Store items in a locker"
+            "(A) They can be put in a locked box for a fee.",
+            "(B) They must be left outside the building.",
+            "(C) They will be inspected by an attendant.",
+            "(D) They must be stored under a seat."
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'audience members are not allowed to make an audio or visual recording of the performance'. → (C)",
           "hint": "Câu hỏi: NOT ALLOWED TO DO? → Tìm câu có 'not allowed' hoặc câu cấm trong passage. Đáp án sai là những điều được phép làm.",
@@ -2657,14 +2657,14 @@
           "group": "158-160",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 158-160)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q158_160.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Please refrain from making phone calls or texting at all times.\"",
           "options": [
             "(A) [1]",
             "(B) [2]",
             "(C) [3]",
             "(D) [4]"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Câu 'Please turn them off completely' liên quan đến điện thoại/thiết bị điện tử → đặt sau câu yêu cầu đặt thiết bị im lặng ở vị trí [1]. → (A)",
           "hint": "Câu hỏi điền câu: 'Please turn them off completely before the performance begins.' → 'them' ám chỉ gì? Tìm vị trí đề cập đến thiết bị điện tử cần tắt."
@@ -2674,7 +2674,7 @@
           "group": "161-164",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 161-164)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q161_164.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is the main purpose of the e-mail?",
           "options": [
             "(A) To request confirmation of an order",
             "(B) To adjust some delivery dates",
@@ -2691,7 +2691,7 @@
           "group": "161-164",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 161-164)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q161_164.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is suggested about Ms. Ayala?",
           "options": [
             "(A) She is receiving a professional award.",
             "(B) She has worked as a pastry chef.",
@@ -2708,7 +2708,7 @@
           "group": "161-164",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 161-164)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q161_164.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is indicated about the multilayer cake?",
           "options": [
             "(A) It has been a best-selling product with clients.",
             "(B) It is the most expensive cake at Sweeter Specialties.",
@@ -2725,7 +2725,7 @@
           "group": "161-164",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 161-164)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q161_164.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "The word \"judged\" in paragraph 2, line 3, is closest in meaning to",
           "options": [
             "(A) criticized",
             "(B) settled",
@@ -2742,7 +2742,7 @@
           "group": "165-167",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 165-167)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q165_167.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "Why did Ms. Yakovleva choose the Dish Magic 300 dishwasher?",
           "options": [
             "(A) It was less expensive than most models.",
             "(B) It was the largest model available.",
@@ -2759,7 +2759,7 @@
           "group": "165-167",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 165-167)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q165_167.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "The word \"running\" in paragraph 1, line 7, is closest in meaning to",
           "options": [
             "(A) adjusting",
             "(B) controlling",
@@ -2776,7 +2776,7 @@
           "group": "165-167",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 165-167)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q165_167.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is indicated about Ms. Yakovleva?",
           "options": [
             "(A) She cares about saving water.",
             "(B) She recently moved to a new home.",
@@ -2793,14 +2793,14 @@
           "group": "168-171",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q168_171.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "For whom is the information intended?",
           "options": [
             "(A) Skyler Airlines employees",
-            "(B) Prospective travelers",
-            "(C) Airline industry analysts",
-            "(D) Corporate travel managers"
+            "(B) Skyler Airlines customers",
+            "(C) Potential journal subscribers",
+            "(D) Current job seekers"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'Skyler Airlines employs more than 20,000 people... there's probably a place for you on our team' → nhắm đến ứng viên/nhân viên tiềm năng. → (A)",
           "hint": "Câu hỏi: FOR WHOM IS THE INFO INTENDED? → Đọc đoạn đầu. Văn bản đang nói chuyện với ai? ('there's probably a place for you on our team')"
@@ -2810,12 +2810,12 @@
           "group": "168-171",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q168_171.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "In the information, what is NOT mentioned as being offered to employees?",
           "options": [
-            "(A) Free flights to any destination",
-            "(B) Discounted flights to company destinations",
-            "(C) Subsidized housing near airports",
-            "(D) Free meals during work shifts"
+            "(A) Payment for educational expenses",
+            "(B) Free airline tickets",
+            "(C) Opportunities for mentoring",
+            "(D) Paid days off"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
@@ -2828,14 +2828,14 @@
           "group": "168-171",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q168_171.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is mentioned about Skyler Airlines?",
           "options": [
             "(A) It flies to the most destinations around the world.",
-            "(B) It has been ranked the best airline for three consecutive years.",
-            "(C) It recently opened a new hub.",
-            "(D) It offers the lowest ticket prices in the industry."
+            "(B) It is planning to merge with another airline.",
+            "(C) It has been praised by a trade publication.",
+            "(D) It has replaced its seats with more comfortable ones."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'Skyler Airlines was named Best Airline to Work For by Travel Vista Journal three years in a row' → được vinh danh 3 năm liên tiếp. → (B)",
           "hint": "Câu hỏi: WHAT IS MENTIONED ABOUT SKYLER? → Tìm đoạn đề cập giải thưởng/danh hiệu. Bao nhiêu năm liên tiếp?"
@@ -2845,14 +2845,14 @@
           "group": "168-171",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q168_171.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Our openings cover a broad range of skill sets.\"",
           "options": [
             "(A) [1]",
             "(B) [2]",
             "(C) [3]",
             "(D) [4]"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Câu về đầu tư vào sự nghiệp phù hợp ngay sau đề cập 'tuition reimbursement, mentorship program' tại vị trí [3]. → (C)",
           "hint": "Câu hỏi điền câu: 'You can count on us to invest in your career.' → Câu này nói về đầu tư sự nghiệp. Tìm vị trí trong bài đề cập đến học bổng, mentor, đào tạo.",
@@ -2863,7 +2863,7 @@
           "group": "172-175",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 172-175)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q172_175.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is indicated about a presentation?",
           "options": [
             "(A) It will be expensive to produce.",
             "(B) It will highlight some best-selling products.",
@@ -2880,7 +2880,7 @@
           "group": "172-175",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 172-175)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q172_175.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "At 9:22 A.M., what does Ms. Lorenz imply when she writes, \"let's not overlook that\"?",
           "options": [
             "(A) More staff should attend a meeting.",
             "(B) Information from the user studies is important.",
@@ -2897,14 +2897,14 @@
           "group": "172-175",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 172-175)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q172_175.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "Who most likely is Mr. Harven?",
           "options": [
             "(A) A store manager",
             "(B) An amateur athlete",
-            "(C) A product designer",
-            "(D) A research analyst"
+            "(C) A product researcher",
+            "(D) An advertising executive"
           ],
-          "answer": "D",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Mr. Harven được đề nghị liên hệ để lấy 'report from the research and development office' → ông làm việc trong bộ phận nghiên cứu. → (D)",
           "hint": "Câu hỏi: WHO MOST LIKELY IS MR. HARVEN? → Tìm câu đề cập Mr. Harven. Ông làm việc ở bộ phận nào? Có liên quan đến nghiên cứu không?"
@@ -2914,14 +2914,14 @@
           "group": "172-175",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 172-175)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q172_175.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "When do the writers plan to meet to review a slide presentation?",
           "options": [
-            "(A) Revise the presentation slides",
-            "(B) Contact Mr. Harven",
-            "(C) Visit the partner stores",
-            "(D) Reschedule the Wednesday meeting"
+            "(A) On Monday",
+            "(B) On Wednesday",
+            "(C) On Thursday",
+            "(D) On Friday"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Ms. Lorenz nói 'if you're concerned about the report not arriving by Wednesday, please contact Matt Harven' → bà sẽ liên hệ Mr. Harven. → (B)",
           "hint": "Câu hỏi: WHAT WILL MS. LORENZ DO NEXT? → Đọc tin nhắn cuối cùng của Ms. Lorenz. Bà đề nghị làm gì? Gợi ý: 'contact Matt Harven'."
@@ -2931,7 +2931,7 @@
           "group": "176-180",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q176_180.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is the purpose of the press release?",
           "options": [
             "(A) To promote the opening of a restaurant",
             "(B) To announce a business partnership",
@@ -2948,7 +2948,7 @@
           "group": "176-180",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q176_180.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "In the press release, the word \"reflects\" in paragraph 1, line 4, is closest in meaning to",
           "options": [
             "(A) results in",
             "(B) changes",
@@ -2966,7 +2966,7 @@
           "group": "176-180",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q176_180.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is indicated about Kitchen Swifts?",
           "options": [
             "(A) It raised its prices for all customers.",
             "(B) It revised its delivery schedule.",
@@ -2984,7 +2984,7 @@
           "group": "176-180",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q176_180.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is most likely true about Ms. Guan?",
           "options": [
             "(A) She went to Mr. Cordero's restaurant.",
             "(B) She recently went to Sydney for a vacation.",
@@ -3002,7 +3002,7 @@
           "group": "176-180",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q176_180.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What did Ms. Guan suggest about Enriqua's in the review?",
           "options": [
             "(A) It has a limited lunch menu.",
             "(B) It takes dinner reservations.",
@@ -3020,12 +3020,12 @@
           "group": "181-185",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q181_185.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is the purpose of the e-mail?",
           "options": [
-            "(A) It is made by hand.",
-            "(B) It is imported from another country.",
-            "(C) It is sold only at local markets.",
-            "(D) It is fragile and must be packed carefully."
+            "(A) To finalize a plan",
+            "(B) To accept an invitation",
+            "(C) To promote a new service",
+            "(D) To request feedback on a policy"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
@@ -3037,14 +3037,14 @@
           "group": "181-185",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q181_185.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "Why will Mr. Boyle travel from Stranraer to Kirkcolm?",
           "options": [
-            "(A) He prefers to use air transport.",
-            "(B) He delivers items personally when feasible.",
-            "(C) He uses a standard postal service.",
-            "(D) He charges extra for remote areas."
+            "(A) To make a delivery",
+            "(B) To attend a meeting",
+            "(C) To drop off a rental car",
+            "(D) To visit with family members"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'my policy is to deliver items personally whenever feasible or hire a ground- or sea-based courier service I trust' → giao hàng trực tiếp khi có thể. → (B)",
           "hint": "Câu hỏi về chính sách giao hàng: Tìm đoạn đề cập 'my policy is to...'. Ông giao hàng bằng cách nào khi có thể?",
@@ -3055,14 +3055,14 @@
           "group": "181-185",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q181_185.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is indicated in the e-mail?",
           "options": [
             "(A) Mr. Boyle's sister is a cofounder of Ceoleire Classics.",
             "(B) Mr. Boyle has been disappointed by air- and train-freight companies.",
-            "(C) Ms. Savard has purchased items from Mr. Boyle before.",
-            "(D) The ferry will depart from Stranraer."
+            "(C) Ms. Savard has purchased items from Mr. Boyle in the past.",
+            "(D) Ms. Savard prefers a specific brand of luggage."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'I've seen too much damage done by inattentive baggage handlers' → thất vọng với vận chuyển hàng không/đường sắt. → (B)",
           "hint": "Câu hỏi: WHAT IS INDICATED? → Tìm câu đề cập đến kinh nghiệm với công ty vận chuyển hàng không/đường sắt. 'Too much damage done by inattentive baggage handlers'."
@@ -3072,14 +3072,14 @@
           "group": "181-185",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q181_185.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is most likely true about Ms. Savard?",
           "options": [
-            "(A) Belfast",
-            "(B) Stranraer",
-            "(C) Cairnryan",
-            "(D) Kirkcolm"
+            "(A) She often travels for her job.",
+            "(B) She paid extra to have items hand delivered.",
+            "(C) She recently purchased musical instruments.",
+            "(D) She will meet Mr. Boyle at the rental car office."
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Ticket: 'Docking at Cairnryan: Friday, 5 June, 3:20 PM' → ông đến cảng Cairnryan. → (C)",
           "hint": "Câu hỏi về điểm đến ngày 5/6: Tìm trong ferry ticket (vé phà). 'Docking at ___' → cảng đến là gì?"
@@ -3089,7 +3089,7 @@
           "group": "181-185",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q181_185.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "How is Mr. Boyle traveling to Cairnryan on June 5?",
           "options": [
             "(A) By car",
             "(B) By train",
@@ -3106,12 +3106,12 @@
           "group": "186-190",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q186_190.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is indicated about TTA?",
           "options": [
             "(A) It was founded by a graphic designer.",
             "(B) It publishes its own online newsletter.",
             "(C) It offers classes led by industry professionals.",
-            "(D) It has classroom facilities in cities across Africa."
+            "(D) It has classroom facilities in cities across West Africa."
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
@@ -3123,14 +3123,14 @@
           "group": "186-190",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q186_190.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "According to the advertisement, what does TTA provide to students who finish a class?",
           "options": [
             "(A) A résumé-writing workshop",
             "(B) A discount on a follow-up class",
             "(C) An official Certificate of Training",
-            "(D) A free subscription to the newsletter"
+            "(D) A certification document"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'you will receive an official Certificate of Training, a valuable addition to any résumé' → chứng chỉ đào tạo chính thức. → (C)",
           "hint": "Câu hỏi: WHAT DOES TTA PROVIDE AFTER CLASS? → Tìm câu đề cập đến 'Certificate' hoặc phần thưởng sau khi hoàn thành khóa học."
@@ -3140,14 +3140,14 @@
           "group": "186-190",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q186_190.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is most likely true about Mr. Egbe?",
           "options": [
-            "(A) It recently opened a second location.",
-            "(B) It is looking for new employees.",
-            "(C) It sells both food and cooking supplies.",
-            "(D) It offers several different types of cuisine."
+            "(A) He helped design a discussion forum.",
+            "(B) He has previously taken a TTA class.",
+            "(C) He develops videoconferencing software.",
+            "(D) He recently sold a bakery food truck."
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Outline Egbe's Bakery gồm: 'Explore our menu and price list', 'Browse photos of our delicious treats', 'View lists of ingredients' → bán cả thực phẩm và nguyên liệu. → (C)",
           "hint": "Câu hỏi về Egbe's Bakery: Đọc outline 4 section của Egbe. Section 4 là 'View lists of ingredients' → có bán nguyên liệu không?"
@@ -3157,7 +3157,7 @@
           "group": "186-190",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q186_190.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What TTA class is Mr. Egbe enrolled in?",
           "options": [
             "(A) Introduction to Social Media Marketing",
             "(B) Become a Successful Freelance Writer",
@@ -3174,7 +3174,7 @@
           "group": "186-190",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 186-190)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q186_190.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What section did Mr. Egbe most likely add to the outline after speaking with Mr. Akpan?",
           "options": [
             "(A) Section 1",
             "(B) Section 2",
@@ -3191,14 +3191,14 @@
           "group": "191-195",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q191_195.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What does the article mention about Orange Bay Kitchen?",
           "options": [
             "(A) It is currently hiring servers.",
             "(B) It is located on a quiet street.",
             "(C) It has another location in Jamaica.",
             "(D) It opened six months ago."
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'Orange Bay Kitchen has been serving up an infusion of Jamaican flavours... for six months now' → đã hoạt động 6 tháng, và bài báo đề cập đến Jamaica. → (C)",
           "hint": "Câu hỏi về Orange Bay Kitchen: Tìm trong bài báo. Nhà hàng đặt ở Nottingham nhưng phục vụ ẩm thực Jamaica. Có liên hệ đến Jamaica?"
@@ -3208,7 +3208,7 @@
           "group": "191-195",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q191_195.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "According to the article, what is the most popular menu item at Orange Bay Kitchen?",
           "options": [
             "(A) Red snapper",
             "(B) Oxtail soup",
@@ -3225,7 +3225,7 @@
           "group": "191-195",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q191_195.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is suggested about Ms. Peterkin's visit to Orange Bay Kitchen?",
           "options": [
             "(A) She was there on a Friday.",
             "(B) She dined alone.",
@@ -3242,14 +3242,14 @@
           "group": "191-195",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q191_195.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is a purpose of the e-mail?",
           "options": [
-            "(A) To cancel a reservation",
-            "(B) To complain about service",
-            "(C) To respond to a review",
-            "(D) To request a refund"
+            "(A) To answer a question",
+            "(B) To offer an apology",
+            "(C) To ask for feedback",
+            "(D) To confirm a reservation"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Email từ nhà hàng phản hồi review của Ms. Peterkin → đáp lại đánh giá. → (C)",
           "hint": "Câu hỏi về email: Email từ nhà hàng gửi đến khách sau khi đọc review → đây là loại email gì? Reply/apology/response?"
@@ -3259,14 +3259,14 @@
           "group": "191-195",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q191_195.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "Whom did Ms. Peterkin meet at Orange Bay Kitchen?",
           "options": [
-            "(A) He came to Ms. Peterkin's table to apologize.",
-            "(B) He prepared a special dish for Ms. Peterkin.",
-            "(C) He will personally contact Ms. Peterkin.",
-            "(D) He was not present the night Ms. Peterkin dined."
+            "(A) Ms. Roats",
+            "(B) Mr. Deslandes",
+            "(C) Mr. Brown",
+            "(D) Ms. Smith"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'The head chef came out to apologise and was extremely nice' → đầu bếp trưởng ra xin lỗi trực tiếp. → (A)",
           "hint": "Câu hỏi về đầu bếp trưởng: Đọc trong email phản hồi. Đầu bếp trưởng đã làm gì khi Ms. Peterkin còn ở nhà hàng?"
@@ -3276,7 +3276,7 @@
           "group": "196-200",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q196_200.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What does the invoice suggest about Green Canyon?",
           "options": [
             "(A) It does landscaping projects.",
             "(B) It designs highways.",
@@ -3293,14 +3293,14 @@
           "group": "196-200",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q196_200.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "Why most likely did Green Canyon receive a discount on its order dated June 10?",
           "options": [
             "(A) It is a charitable organization.",
             "(B) It belongs to the Frequent Buyer Club.",
-            "(C) It placed an order of more than 84,000.",
-            "(D) It is located within 5 miles of a supply center."
+            "(C) It spent more than $4,000 on merchandise.",
+            "(D) It is located near an Orbys Distributors supply center."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Thông báo Orbys ghi: '10% discount for orders of more than 84,000' nhưng đơn hàng chỉ là 4,650 → không đạt ngưỡng đó. Thư đề cập 'Frequent Buyer Club' → đây là lý do. → (B)",
           "hint": "Câu hỏi: WHY DID GREEN CANYON GET A DISCOUNT? → Đọc điều kiện giảm giá trong thông báo Orbys. So sánh với số tiền hóa đơn. Orbys có chương trình thành viên không?",
@@ -3311,14 +3311,14 @@
           "group": "196-200",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q196_200.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "According to the notice, what is changing at Orbys Distributors?",
           "options": [
-            "(A) It is raising its prices.",
-            "(B) It is switching to electronic invoicing.",
-            "(C) It is expanding its product line.",
-            "(D) It is opening new supply centers."
+            "(A) Its e-mail address",
+            "(B) Its list of incentives",
+            "(C) Its invoicing system",
+            "(D) Its delivery schedule"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'we are switching to electronic invoicing. Starting August 1, invoices will be generated automatically each month' → chuyển sang hóa đơn điện tử. → (B)",
           "hint": "Câu hỏi: WHAT CHANGE IS ORBYS MAKING? → Đọc thông báo. 'Switching to electronic invoicing' → thay đổi gì?",
@@ -3329,12 +3329,12 @@
           "group": "196-200",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q196_200.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What is suggested about Mr. Tesoriero?",
           "options": [
             "(A) He asked to meet with Mr. Singh.",
             "(B) He is interested in employment at Orbys Distributors.",
-            "(C) He recently retired from Orbys Distributors.",
-            "(D) He manages Green Canyon's billing department."
+            "(C) He recently placed an order for some construction machinery.",
+            "(D) He has been a customer of Orbys Distributors for about twenty years."
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
@@ -3346,14 +3346,14 @@
           "group": "196-200",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
           "passageImage": "public/assets/bai-on-1/reading/passages/part7_q196_200.png",
-          "text": "[Vui lòng đọc câu hỏi và các lựa chọn từ hình ảnh bên trái]",
+          "text": "What does Mr. Singh ask Ms. Peterson to do?",
           "options": [
-            "(A) She will close Green Canyon's account.",
-            "(B) She is requesting payment for an overdue invoice.",
-            "(C) She will contact Mr. Singh by telephone.",
-            "(D) She has confirmed the new invoicing arrangement."
+            "(A) Make a bill payment",
+            "(B) Solve a problem",
+            "(C) Confirm an order",
+            "(D) Update an account number"
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Email phản hồi xác nhận việc chuyển đổi sang hóa đơn điện tử đã được hiểu và chấp thuận. → (D)",
           "hint": "Câu hỏi về Ms. Peterson: Đọc email của Ms. Peterson (người nhận là Taevir Singh). Bà xác nhận điều gì?"

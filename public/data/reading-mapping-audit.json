@@ -1,0 +1,842 @@
+[
+  {
+    "test": 1,
+    "part": 6,
+    "groupId": "P6-131-134",
+    "questions": "131-134",
+    "pdfPages": [
+      9
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part6_p131_134.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 6,
+    "groupId": "P6-135-138",
+    "questions": "135-138",
+    "pdfPages": [
+      10
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part6_p135_138.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 6,
+    "groupId": "P6-139-142",
+    "questions": "139-142",
+    "pdfPages": [
+      11
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part6_p139_142.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 6,
+    "groupId": "P6-143-146",
+    "questions": "143-146",
+    "pdfPages": [
+      12
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part6_p143_146.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-147-148",
+    "questions": "147-148",
+    "pdfPages": [
+      14
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q147_148.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-149-150",
+    "questions": "149-150",
+    "pdfPages": [
+      15
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q149_150.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-151-152",
+    "questions": "151-152",
+    "pdfPages": [
+      16
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q151_152.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-153-154",
+    "questions": "153-154",
+    "pdfPages": [
+      17
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q153_154.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-155-157",
+    "questions": "155-157",
+    "pdfPages": [
+      18
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q155_157.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-158-160",
+    "questions": "158-160",
+    "pdfPages": [
+      19
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q158_160.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-161-163",
+    "questions": "161-163",
+    "pdfPages": [
+      20
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q161_163.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-164-167",
+    "questions": "164-167",
+    "pdfPages": [
+      21
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q164_167.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-168-171",
+    "questions": "168-171",
+    "pdfPages": [
+      22
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q168_171.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-172-175",
+    "questions": "172-175",
+    "pdfPages": [
+      23
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q172_175.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-176-180",
+    "questions": "176-180",
+    "pdfPages": [
+      24
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q176_180.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-181-185",
+    "questions": "181-185",
+    "pdfPages": [
+      25
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q181_185.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-186-190",
+    "questions": "186-190",
+    "pdfPages": [
+      26,
+      27
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q186_190.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-191-195",
+    "questions": "191-195",
+    "pdfPages": [
+      28
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q191_195.png",
+    "status": "OK"
+  },
+  {
+    "test": 1,
+    "part": 7,
+    "groupId": "P7-196-200",
+    "questions": "196-200",
+    "pdfPages": [
+      29
+    ],
+    "assetPath": "public/assets/bai-on-1/reading/passages/part7_q196_200.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 6,
+    "groupId": "P6-131-134",
+    "questions": "131-134",
+    "pdfPages": [
+      9
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part6_p131_134.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 6,
+    "groupId": "P6-135-138",
+    "questions": "135-138",
+    "pdfPages": [
+      10
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part6_p135_138.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 6,
+    "groupId": "P6-139-142",
+    "questions": "139-142",
+    "pdfPages": [
+      11
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part6_p139_142.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 6,
+    "groupId": "P6-143-146",
+    "questions": "143-146",
+    "pdfPages": [
+      12
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part6_p143_146.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-147-148",
+    "questions": "147-148",
+    "pdfPages": [
+      14
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q147_148.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-149-150",
+    "questions": "149-150",
+    "pdfPages": [
+      15
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q149_150.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-151-152",
+    "questions": "151-152",
+    "pdfPages": [
+      16
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q151_152.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-153-154",
+    "questions": "153-154",
+    "pdfPages": [
+      17
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q153_154.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-155-157",
+    "questions": "155-157",
+    "pdfPages": [
+      18
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q155_157.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-158-160",
+    "questions": "158-160",
+    "pdfPages": [
+      19
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q158_160.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-161-163",
+    "questions": "161-163",
+    "pdfPages": [
+      20
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q161_163.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-164-167",
+    "questions": "164-167",
+    "pdfPages": [
+      21
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q164_167.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-168-171",
+    "questions": "168-171",
+    "pdfPages": [
+      22
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q168_171.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-172-175",
+    "questions": "172-175",
+    "pdfPages": [
+      23
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q172_175.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-176-180",
+    "questions": "176-180",
+    "pdfPages": [
+      24
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q176_180.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-181-185",
+    "questions": "181-185",
+    "pdfPages": [
+      25
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q181_185.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-186-190",
+    "questions": "186-190",
+    "pdfPages": [
+      26,
+      27
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q186_190.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-191-195",
+    "questions": "191-195",
+    "pdfPages": [
+      28
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q191_195.png",
+    "status": "OK"
+  },
+  {
+    "test": 2,
+    "part": 7,
+    "groupId": "P7-196-200",
+    "questions": "196-200",
+    "pdfPages": [
+      29
+    ],
+    "assetPath": "public/assets/bai-on-2/reading/passages/part7_q196_200.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 6,
+    "groupId": "P6-131-134",
+    "questions": "131-134",
+    "pdfPages": [
+      9
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part6_p131_134.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 6,
+    "groupId": "P6-135-138",
+    "questions": "135-138",
+    "pdfPages": [
+      10
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part6_p135_138.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 6,
+    "groupId": "P6-139-142",
+    "questions": "139-142",
+    "pdfPages": [
+      11
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part6_p139_142.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 6,
+    "groupId": "P6-143-146",
+    "questions": "143-146",
+    "pdfPages": [
+      12
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part6_p143_146.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-147-148",
+    "questions": "147-148",
+    "pdfPages": [
+      14
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q147_148.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-149-150",
+    "questions": "149-150",
+    "pdfPages": [
+      15
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q149_150.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-151-152",
+    "questions": "151-152",
+    "pdfPages": [
+      16
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q151_152.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-153-154",
+    "questions": "153-154",
+    "pdfPages": [
+      17
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q153_154.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-155-157",
+    "questions": "155-157",
+    "pdfPages": [
+      18
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q155_157.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-158-160",
+    "questions": "158-160",
+    "pdfPages": [
+      19
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q158_160.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-161-163",
+    "questions": "161-163",
+    "pdfPages": [
+      20
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q161_163.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-164-167",
+    "questions": "164-167",
+    "pdfPages": [
+      21
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q164_167.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-168-171",
+    "questions": "168-171",
+    "pdfPages": [
+      22
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q168_171.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-172-175",
+    "questions": "172-175",
+    "pdfPages": [
+      23
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q172_175.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-176-180",
+    "questions": "176-180",
+    "pdfPages": [
+      24
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q176_180.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-181-185",
+    "questions": "181-185",
+    "pdfPages": [
+      25
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q181_185.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-186-190",
+    "questions": "186-190",
+    "pdfPages": [
+      26,
+      27
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q186_190.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-191-195",
+    "questions": "191-195",
+    "pdfPages": [
+      28
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q191_195.png",
+    "status": "OK"
+  },
+  {
+    "test": 3,
+    "part": 7,
+    "groupId": "P7-196-200",
+    "questions": "196-200",
+    "pdfPages": [
+      29
+    ],
+    "assetPath": "public/assets/bai-on-3/reading/passages/part7_q196_200.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 6,
+    "groupId": "P6-131-134",
+    "questions": "131-134",
+    "pdfPages": [
+      9
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part6_p131_134.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 6,
+    "groupId": "P6-135-138",
+    "questions": "135-138",
+    "pdfPages": [
+      10
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part6_p135_138.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 6,
+    "groupId": "P6-139-142",
+    "questions": "139-142",
+    "pdfPages": [
+      11
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part6_p139_142.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 6,
+    "groupId": "P6-143-146",
+    "questions": "143-146",
+    "pdfPages": [
+      12
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part6_p143_146.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-147-148",
+    "questions": "147-148",
+    "pdfPages": [
+      14
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q147_148.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-149-150",
+    "questions": "149-150",
+    "pdfPages": [
+      15
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q149_150.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-151-152",
+    "questions": "151-152",
+    "pdfPages": [
+      16
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q151_152.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-153-154",
+    "questions": "153-154",
+    "pdfPages": [
+      17
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q153_154.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-155-157",
+    "questions": "155-157",
+    "pdfPages": [
+      18
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q155_157.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-158-160",
+    "questions": "158-160",
+    "pdfPages": [
+      19
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q158_160.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-161-163",
+    "questions": "161-163",
+    "pdfPages": [
+      20
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q161_163.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-164-167",
+    "questions": "164-167",
+    "pdfPages": [
+      21
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q164_167.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-168-171",
+    "questions": "168-171",
+    "pdfPages": [
+      22
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q168_171.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-172-175",
+    "questions": "172-175",
+    "pdfPages": [
+      23
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q172_175.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-176-180",
+    "questions": "176-180",
+    "pdfPages": [
+      24
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q176_180.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-181-185",
+    "questions": "181-185",
+    "pdfPages": [
+      25
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q181_185.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-186-190",
+    "questions": "186-190",
+    "pdfPages": [
+      26,
+      27
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q186_190.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-191-195",
+    "questions": "191-195",
+    "pdfPages": [
+      28
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q191_195.png",
+    "status": "OK"
+  },
+  {
+    "test": 4,
+    "part": 7,
+    "groupId": "P7-196-200",
+    "questions": "196-200",
+    "pdfPages": [
+      29
+    ],
+    "assetPath": "public/assets/bai-on-4/reading/passages/part7_q196_200.png",
+    "status": "OK"
+  }
+]

@@ -1,0 +1,971 @@
+{
+  "title": "TOEIC Reading Approved Dataset",
+  "totalTests": 4,
+  "totalApprovedGroups": 76,
+  "groups": [
+    {
+      "groupId": "Test1-P6-131-134",
+      "testNumber": 1,
+      "part": 6,
+      "questions": [
+        131,
+        132,
+        133,
+        134
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part6_p131_134.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P6-135-138",
+      "testNumber": 1,
+      "part": 6,
+      "questions": [
+        135,
+        136,
+        137,
+        138
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part6_p135_138.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P6-139-142",
+      "testNumber": 1,
+      "part": 6,
+      "questions": [
+        139,
+        140,
+        141,
+        142
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part6_p139_142.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P6-143-146",
+      "testNumber": 1,
+      "part": 6,
+      "questions": [
+        143,
+        144,
+        145,
+        146
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part6_p143_146.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-147-148",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        147,
+        148
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q147_148.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-149-150",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        149,
+        150
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q149_150.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-151-152",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        151,
+        152
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q151_152.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-153-154",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        153,
+        154
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q153_154.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-155-157",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        155,
+        156,
+        157
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q155_157.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-158-160",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        158,
+        159,
+        160
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q158_160.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-161-163",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        161,
+        162,
+        163
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q161_163.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-164-167",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        164,
+        165,
+        166,
+        167
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q164_167.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-168-171",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        168,
+        169,
+        170,
+        171
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q168_171.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-172-175",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        172,
+        173,
+        174,
+        175
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q172_175.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-176-180",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q176_180.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-181-185",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        181,
+        182,
+        183,
+        184,
+        185
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q181_185.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-186-190",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        186,
+        187,
+        188,
+        189,
+        190
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q186_190.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-191-195",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        191,
+        192,
+        193,
+        194,
+        195
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q191_195.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test1-P7-196-200",
+      "testNumber": 1,
+      "part": 7,
+      "questions": [
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "asset": "public/assets/bai-on-1/reading/passages/part7_q196_200.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P6-131-134",
+      "testNumber": 2,
+      "part": 6,
+      "questions": [
+        131,
+        132,
+        133,
+        134
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part6_p131_134.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P6-135-138",
+      "testNumber": 2,
+      "part": 6,
+      "questions": [
+        135,
+        136,
+        137,
+        138
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part6_p135_138.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P6-139-142",
+      "testNumber": 2,
+      "part": 6,
+      "questions": [
+        139,
+        140,
+        141,
+        142
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part6_p139_142.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P6-143-146",
+      "testNumber": 2,
+      "part": 6,
+      "questions": [
+        143,
+        144,
+        145,
+        146
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part6_p143_146.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-147-148",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        147,
+        148
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q147_148.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-149-150",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        149,
+        150
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q149_150.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-151-152",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        151,
+        152
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q151_152.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-153-154",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        153,
+        154
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q153_154.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-155-157",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        155,
+        156,
+        157
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q155_157.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-158-160",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        158,
+        159,
+        160
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q158_160.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-161-163",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        161,
+        162,
+        163
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q161_163.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-164-167",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        164,
+        165,
+        166,
+        167
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q164_167.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-168-171",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        168,
+        169,
+        170,
+        171
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q168_171.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-172-175",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        172,
+        173,
+        174,
+        175
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q172_175.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-176-180",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q176_180.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-181-185",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        181,
+        182,
+        183,
+        184,
+        185
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q181_185.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-186-190",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        186,
+        187,
+        188,
+        189,
+        190
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q186_190.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-191-195",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        191,
+        192,
+        193,
+        194,
+        195
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q191_195.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test2-P7-196-200",
+      "testNumber": 2,
+      "part": 7,
+      "questions": [
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "asset": "public/assets/bai-on-2/reading/passages/part7_q196_200.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P6-131-134",
+      "testNumber": 3,
+      "part": 6,
+      "questions": [
+        131,
+        132,
+        133,
+        134
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part6_p131_134.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P6-135-138",
+      "testNumber": 3,
+      "part": 6,
+      "questions": [
+        135,
+        136,
+        137,
+        138
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part6_p135_138.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P6-139-142",
+      "testNumber": 3,
+      "part": 6,
+      "questions": [
+        139,
+        140,
+        141,
+        142
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part6_p139_142.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P6-143-146",
+      "testNumber": 3,
+      "part": 6,
+      "questions": [
+        143,
+        144,
+        145,
+        146
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part6_p143_146.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-147-148",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        147,
+        148
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q147_148.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-149-150",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        149,
+        150
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q149_150.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-151-152",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        151,
+        152
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q151_152.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-153-154",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        153,
+        154
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q153_154.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-155-157",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        155,
+        156,
+        157
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q155_157.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-158-160",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        158,
+        159,
+        160
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q158_160.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-161-163",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        161,
+        162,
+        163
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q161_163.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-164-167",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        164,
+        165,
+        166,
+        167
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q164_167.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-168-171",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        168,
+        169,
+        170,
+        171
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q168_171.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-172-175",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        172,
+        173,
+        174,
+        175
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q172_175.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-176-180",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q176_180.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-181-185",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        181,
+        182,
+        183,
+        184,
+        185
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q181_185.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-186-190",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        186,
+        187,
+        188,
+        189,
+        190
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q186_190.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-191-195",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        191,
+        192,
+        193,
+        194,
+        195
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q191_195.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test3-P7-196-200",
+      "testNumber": 3,
+      "part": 7,
+      "questions": [
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "asset": "public/assets/bai-on-3/reading/passages/part7_q196_200.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P6-131-134",
+      "testNumber": 4,
+      "part": 6,
+      "questions": [
+        131,
+        132,
+        133,
+        134
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part6_p131_134.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P6-135-138",
+      "testNumber": 4,
+      "part": 6,
+      "questions": [
+        135,
+        136,
+        137,
+        138
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part6_p135_138.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P6-139-142",
+      "testNumber": 4,
+      "part": 6,
+      "questions": [
+        139,
+        140,
+        141,
+        142
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part6_p139_142.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P6-143-146",
+      "testNumber": 4,
+      "part": 6,
+      "questions": [
+        143,
+        144,
+        145,
+        146
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part6_p143_146.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-147-148",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        147,
+        148
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q147_148.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-149-150",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        149,
+        150
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q149_150.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-151-152",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        151,
+        152
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q151_152.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-153-154",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        153,
+        154
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q153_154.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-155-157",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        155,
+        156,
+        157
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q155_157.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-158-160",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        158,
+        159,
+        160
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q158_160.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-161-163",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        161,
+        162,
+        163
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q161_163.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-164-167",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        164,
+        165,
+        166,
+        167
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q164_167.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-168-171",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        168,
+        169,
+        170,
+        171
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q168_171.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-172-175",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        172,
+        173,
+        174,
+        175
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q172_175.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-176-180",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q176_180.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-181-185",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        181,
+        182,
+        183,
+        184,
+        185
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q181_185.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-186-190",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        186,
+        187,
+        188,
+        189,
+        190
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q186_190.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-191-195",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        191,
+        192,
+        193,
+        194,
+        195
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q191_195.png",
+      "status": "APPROVED"
+    },
+    {
+      "groupId": "Test4-P7-196-200",
+      "testNumber": 4,
+      "part": 7,
+      "questions": [
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "asset": "public/assets/bai-on-4/reading/passages/part7_q196_200.png",
+      "status": "APPROVED"
+    }
+  ]
+}
