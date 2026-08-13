@@ -394,7 +394,7 @@ function renderMediaPanel(part, targetQId) {
       <img src="${imgSrc}" alt="Hình ảnh ${labelText}" 
            onclick="openImageFull('${imgSrc}')" 
            style="cursor:zoom-in; width:100%; border-radius:8px; box-shadow:0 2px 12px rgba(0,0,0,.12);" 
-           onerror="this.parentElement.innerHTML='<div class=\'no-media-placeholder\'><div class=\'icon\'>⚠️</div><div>Không tải được hình ảnh</div></div>'" />
+           onerror="this.parentElement.innerHTML='<div class=&quot;no-media-placeholder&quot;><div class=&quot;icon&quot;>⚠️</div><div>Không tải được hình ảnh</div></div>'" />
       ${zoomHint}
     `;
   } else {
