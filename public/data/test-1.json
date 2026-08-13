@@ -15,96 +15,96 @@
           "id": 1,
           "image": "public/assets/bai-on-1/listening/part1_q1.png",
           "options": [
-            "A",
-            "B",
-            "C",
-            "D"
+            "She's eating in a picnic area.",
+            "She's waiting in line at a food truck.",
+            "She's wiping off a bench.",
+            "She's throwing away a plate."
           ],
           "answer": "B",
           "category": "Tranh tả một người",
           "startTime": 95,
           "endTime": 125,
-          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "transcript": "A. She's eating in a picnic area.\nB. She's waiting in line at a food truck.\nC. She's wiping off a bench.\nD. She's throwing away a plate.",
           "explanation": "Quan sát hình ảnh câu 1 và chọn mô tả đúng nhất."
         },
         {
           "id": 2,
           "image": "public/assets/bai-on-1/listening/part1_q2.png",
           "options": [
-            "A",
-            "B",
-            "C",
-            "D"
+            "The man is brushing snow off the roof of a car.",
+            "The man is standing in the snow beside a car.",
+            "The man is shoveling snow from a walkway.",
+            "The man is running through the snow."
           ],
           "answer": "A",
           "category": "Tranh tả nhiều người",
           "startTime": 125,
           "endTime": 155,
-          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "transcript": "A. The man is brushing snow off the roof of a car.\nB. The man is standing in the snow beside a car.\nC. The man is shoveling snow from a walkway.\nD. The man is running through the snow.",
           "explanation": "Quan sát hình ảnh câu 2 và chọn mô tả đúng nhất."
         },
         {
           "id": 3,
           "image": "public/assets/bai-on-1/listening/part1_q3.png",
           "options": [
-            "A",
-            "B",
-            "C",
-            "D"
+            "Some workers are hanging art in a gallery.",
+            "Two of the people are having a conversation.",
+            "One of the men is rearranging cushions on a sofa.",
+            "One of the men is painting a picture."
           ],
           "answer": "C",
           "category": "Tranh tả nhiều người",
           "startTime": 155,
           "endTime": 185,
-          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "transcript": "A. Some workers are hanging art in a gallery.\nB. Two of the people are having a conversation.\nC. One of the men is rearranging cushions on a sofa.\nD. One of the men is painting a picture.",
           "explanation": "Quan sát hình ảnh câu 3 và chọn mô tả đúng nhất."
         },
         {
           "id": 4,
           "image": "public/assets/bai-on-1/listening/part1_q4.png",
           "options": [
-            "A",
-            "B",
-            "C",
-            "D"
+            "Vehicles are entering a parking garage.",
+            "Clothes hangers are scattered on the floor.",
+            "Empty racks are lined up next to a building.",
+            "Clothing is being displayed under a tent."
           ],
           "answer": "D",
           "category": "Tranh tả vật",
           "startTime": 185,
           "endTime": 215,
-          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "transcript": "A. Vehicles are entering a parking garage.\nB. Clothes hangers are scattered on the floor.\nC. Empty racks are lined up next to a building.\nD. Clothing is being displayed under a tent.",
           "explanation": "Quan sát hình ảnh câu 4 và chọn mô tả đúng nhất."
         },
         {
           "id": 5,
           "image": "public/assets/bai-on-1/listening/part1_q5.png",
           "options": [
-            "A",
-            "B",
-            "C",
-            "D"
+            "Potted plants have been suspended from a ceiling.",
+            "Chairs have been stacked in front of an entranceway.",
+            "A computer station has been set up on a desk.",
+            "A rug has been rolled up against a wall."
           ],
           "answer": "A",
           "category": "Tranh tả một người",
           "startTime": 215,
           "endTime": 245,
-          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "transcript": "A. Potted plants have been suspended from a ceiling.\nB. Chairs have been stacked in front of an entranceway.\nC. A computer station has been set up on a desk.\nD. A rug has been rolled up against a wall.",
           "explanation": "Quan sát hình ảnh câu 5 và chọn mô tả đúng nhất."
         },
         {
           "id": 6,
           "image": "public/assets/bai-on-1/listening/part1_q6.png",
           "options": [
-            "A",
-            "B",
-            "C",
-            "D"
+            "One of the men is sweeping a patio.",
+            "One of the men is replacing some flooring.",
+            "A door has been taken off its frame.",
+            "A light fixture has been left on the ground."
           ],
           "answer": "B",
           "category": "Tranh tả vật",
           "startTime": 245,
           "endTime": 275,
-          "transcript": "A. The person is walking outside.\nB. The person is handling an object.\nC. The person is sitting on a chair.\nD. The furniture is placed against the wall.",
+          "transcript": "A. One of the men is sweeping a patio.\nB. One of the men is replacing some flooring.\nC. A door has been taken off its frame.\nD. A light fixture has been left on the ground.",
           "explanation": "Quan sát hình ảnh câu 6 và chọn mô tả đúng nhất."
         }
       ]
@@ -122,13 +122,13 @@
             "About 10 years old.",
             "Company offices, I think."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 26.1,
           "endTime": 47.1,
           "text": "How old is this building?",
           "transcript": "How old is this building?\nA. To ship some materials.\nB. About 10 years old.\nC. Company offices, I think.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an B: About 10 years old. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 8,
@@ -137,13 +137,13 @@
             "Mostly just local musicians.",
             "Sure, I'll be there."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 47.1,
           "endTime": 68.1,
           "text": "Can you come to my jazz performance tonight?",
           "transcript": "Can you come to my jazz performance tonight?\nA. I'm sorry I was late for the meeting.\nB. Mostly just local musicians.\nC. Sure, I'll be there.",
-          "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: Sure, I'll be there. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 9,
@@ -152,13 +152,13 @@
             "Submit your assignment here.",
             "It came from the tenants in B23."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 68.1,
           "endTime": 89.2,
           "text": "Which apartment submitted a work order?",
           "transcript": "Which apartment submitted a work order?\nA. It's what you did for a living.\nB. Submit your assignment here.\nC. It came from the tenants in B23.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: It came from the tenants in B23. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 10,
@@ -173,7 +173,7 @@
           "endTime": 109.1,
           "text": "Will you contact the vendor about changing our delivery date?",
           "transcript": "Will you contact the vendor about changing our delivery date?\nA. Of course, I'll take care of it.\nB. An email receipt.\nC. Could I get change for a dollar?",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an A: Of course, I'll take care of it. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 11,
@@ -182,13 +182,13 @@
             "From 3 o'clock until 4.",
             "Because a light needed to be fixed."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 109.1,
           "endTime": 129.3,
           "text": "Why was the maintenance worker here?",
           "transcript": "Why was the maintenance worker here?\nA. No, he didn't.\nB. From 3 o'clock until 4.\nC. Because a light needed to be fixed.",
-          "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: Because a light needed to be fixed. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 12,
@@ -197,13 +197,13 @@
             "The personnel department.",
             "Yes, they chose Jacob Borgman."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 129.3,
           "endTime": 150.3,
           "text": "Did management make a hiring decision yet?",
           "transcript": "Did management make a hiring decision yet?\nA. Put it on the highest shelf.\nB. The personnel department.\nC. Yes, they chose Jacob Borgman.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: Yes, they chose Jacob Borgman. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 13,
@@ -212,13 +212,13 @@
             "Well, maybe a sandwich.",
             "Let's eat here."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 150.3,
           "endTime": 170.5,
           "text": "Do you want to eat here in our cafeteria or go out?",
           "transcript": "Do you want to eat here in our cafeteria or go out?\nA. He went there yesterday.\nB. Well, maybe a sandwich.\nC. Let's eat here.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: Let's eat here. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 14,
@@ -227,13 +227,13 @@
             "No, I'll send it now.",
             "Check the employee manual."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 170.5,
           "endTime": 192.5,
           "text": "Didn't you email the employment contract to Mr. Patel yesterday?",
           "transcript": "Didn't you email the employment contract to Mr. Patel yesterday?\nA. Yes, I would agree.\nB. No, I'll send it now.\nC. Check the employee manual.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an B: No, I'll send it now. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 15,
@@ -248,22 +248,22 @@
           "endTime": 213.3,
           "text": "Our division's picnic is this Saturday, right?",
           "transcript": "Our division's picnic is this Saturday, right?\nA. There's a lot of rain in the forecast.\nB. Sure, I like salad.\nC. At the end of this corridor.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an A: There's a lot of rain in the forecast. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 16,
           "options": [
             "Just water, please.",
             "For a few dollars more.",
-            "A 15-minute break."
+            "A 15 minute break."
           ],
           "answer": "A",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 213.3,
           "endTime": 232.5,
           "text": "Would you like coffee or tea?",
-          "transcript": "Would you like coffee or tea?\nA. Just water, please.\nB. For a few dollars more.\nC. A 15-minute break.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "transcript": "Would you like coffee or tea?\nA. Just water, please.\nB. For a few dollars more.\nC. A 15 minute break.",
+          "explanation": "Dap an A: Just water, please. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 17,
@@ -278,7 +278,7 @@
           "endTime": 251.7,
           "text": "We achieved our sales targets this month.",
           "transcript": "We achieved our sales targets this month.\nA. That's excellent news.\nB. A few times a day.\nC. To the end of April.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an A: That's excellent news. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 18,
@@ -287,28 +287,28 @@
             "Yes, I did find one.",
             "About once a month."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 251.7,
           "endTime": 271.7,
           "text": "How often do you travel for your job?",
           "transcript": "How often do you travel for your job?\nA. It turned out well.\nB. Yes, I did find one.\nC. About once a month.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: About once a month. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 19,
           "options": [
             "This seat is available.",
             "I didn't bring boots.",
-            "At the visitor's center."
+            "At the visitors center."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 271.7,
           "endTime": 290.8,
           "text": "We should hike the wildflower trail today.",
-          "transcript": "We should hike the wildflower trail today.\nA. This seat is available.\nB. I didn't bring boots.\nC. At the visitor's center.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "transcript": "We should hike the wildflower trail today.\nA. This seat is available.\nB. I didn't bring boots.\nC. At the visitors center.",
+          "explanation": "Dap an B: I didn't bring boots. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 20,
@@ -317,13 +317,13 @@
             "He usually takes the train.",
             "Yes, I made a reservation last week."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 290.8,
           "endTime": 311.7,
           "text": "You've booked a hotel in London, haven't you?",
           "transcript": "You've booked a hotel in London, haven't you?\nA. Very enjoyable, thanks.\nB. He usually takes the train.\nC. Yes, I made a reservation last week.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: Yes, I made a reservation last week. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 21,
@@ -338,22 +338,22 @@
           "endTime": 332.2,
           "text": "Are there any tickets left for tonight's concert?",
           "transcript": "Are there any tickets left for tonight's concert?\nA. It's sold out.\nB. He's a concert violinist.\nC. They already left.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an A: It's sold out. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 22,
           "options": [
             "Can I take your order?",
             "I haven't had the chance.",
-            "About $40."
+            "About 40 dollars."
           ],
           "answer": "B",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 332.2,
           "endTime": 351.1,
           "text": "Haven't you used this software before?",
-          "transcript": "Haven't you used this software before?\nA. Can I take your order?\nB. I haven't had the chance.\nC. About $40.",
-          "explanation": "Đáp án B: Lựa chọn phù hợp nhất với câu hỏi."
+          "transcript": "Haven't you used this software before?\nA. Can I take your order?\nB. I haven't had the chance.\nC. About 40 dollars.",
+          "explanation": "Dap an B: I haven't had the chance. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 23,
@@ -362,19 +362,19 @@
             "In the kitchen cabinet.",
             "The prototype is still being tested."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 351.1,
           "endTime": 371.7,
           "text": "When is the new blender going to be released?",
           "transcript": "When is the new blender going to be released?\nA. Only with fruits and vegetables.\nB. In the kitchen cabinet.\nC. The prototype is still being tested.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: The prototype is still being tested. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 24,
           "options": [
             "They decided to drive.",
-            "At Terminal 2.",
+            "At terminal 2.",
             "It's a marketing position."
           ],
           "answer": "A",
@@ -382,8 +382,8 @@
           "startTime": 371.7,
           "endTime": 392.6,
           "text": "Who's picking up our clients at the airport?",
-          "transcript": "Who's picking up our clients at the airport?\nA. They decided to drive.\nB. At Terminal 2.\nC. It's a marketing position.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "transcript": "Who's picking up our clients at the airport?\nA. They decided to drive.\nB. At terminal 2.\nC. It's a marketing position.",
+          "explanation": "Dap an A: They decided to drive. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 25,
@@ -392,13 +392,13 @@
             "No, I didn't check out the sale.",
             "I needed some for a large bouquet."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 392.6,
           "endTime": 413.7,
           "text": "Where are the red roses that came in this morning?",
           "transcript": "Where are the red roses that came in this morning?\nA. About 3 liters of water.\nB. No, I didn't check out the sale.\nC. I needed some for a large bouquet.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: I needed some for a large bouquet. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 26,
@@ -413,7 +413,7 @@
           "endTime": 434.4,
           "text": "This film has been nominated for several awards.",
           "transcript": "This film has been nominated for several awards.\nA. Why don't we go see it?\nB. After the announcement.\nC. He made a great speech.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an A: Why don't we go see it? la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 27,
@@ -422,19 +422,19 @@
             "Clara's already organizing one.",
             "It's a very interesting article."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 434.4,
           "endTime": 456.5,
           "text": "Who's interested in starting a carpool program?",
           "transcript": "Who's interested in starting a carpool program?\nA. Thanks, but I can't swim.\nB. Clara's already organizing one.\nC. It's a very interesting article.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an B: Clara's already organizing one. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 28,
           "options": [
             "We just sent an email to all instructors.",
-            "5 to 7 months.",
+            "Five to seven months.",
             "Yes, it's a beautiful building."
           ],
           "answer": "A",
@@ -442,8 +442,8 @@
           "startTime": 456.5,
           "endTime": 477.5,
           "text": "Where will I teach my workshop this month?",
-          "transcript": "Where will I teach my workshop this month?\nA. We just sent an email to all instructors.\nB. 5 to 7 months.\nC. Yes, it's a beautiful building.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "transcript": "Where will I teach my workshop this month?\nA. We just sent an email to all instructors.\nB. Five to seven months.\nC. Yes, it's a beautiful building.",
+          "explanation": "Dap an A: We just sent an email to all instructors. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 29,
@@ -452,13 +452,13 @@
             "Yes, they come in other colors.",
             "Our spring merchandise is arriving soon."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 477.5,
           "endTime": 499.1,
           "text": "Why are we moving these sweaters to the back of the store?",
           "transcript": "Why are we moving these sweaters to the back of the store?\nA. In the new shopping mall.\nB. Yes, they come in other colors.\nC. Our spring merchandise is arriving soon.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: Our spring merchandise is arriving soon. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 30,
@@ -467,13 +467,13 @@
             "A contact lens prescription.",
             "I have very limited time."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 499.1,
           "endTime": 520.5,
           "text": "Would you be interested in working on some of these contracts?",
           "transcript": "Would you be interested in working on some of these contracts?\nA. Thank you for meeting me.\nB. A contact lens prescription.\nC. I have very limited time.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an C: I have very limited time. la cau tra loi phu hop nhat voi cau hoi."
         },
         {
           "id": 31,
@@ -482,13 +482,13 @@
             "I really like working with computers.",
             "Just a resume is needed."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 520.5,
           "endTime": 540.0,
           "text": "What type of job are you looking for?",
           "transcript": "What type of job are you looking for?\nA. No, at 10 AM.\nB. I really like working with computers.\nC. Just a resume is needed.",
-          "explanation": "Đáp án A: Lựa chọn phù hợp nhất với câu hỏi."
+          "explanation": "Dap an B: I really like working with computers. la cau tra loi phu hop nhat voi cau hoi."
         }
       ]
     },
