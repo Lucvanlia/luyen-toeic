@@ -1349,6 +1349,39 @@ ul { list-style: none; }
 .exp-badge.correct { background: var(--green); color: white; }
 .exp-badge.wrong   { background: var(--danger); color: white; }
 
+/* Question Header Result Badges */
+.q-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+.q-result-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  border-radius: var(--r-sm);
+  font-size: 13px;
+  font-weight: 700;
+}
+.q-result-badge.right {
+  background: var(--green-bg);
+  color: var(--green);
+  border: 1px solid #bbf7d0;
+}
+.q-result-badge.wrong {
+  background: var(--danger-bg);
+  color: var(--danger);
+  border: 1px solid #fecaca;
+}
+.q-result-badge.skip {
+  background: #f1f5f9;
+  color: #64748b;
+  border: 1px solid #e2e8f0;
+}
+
 .exp-vi-text {
   background: white;
   border: 1px solid #e0e7ff;

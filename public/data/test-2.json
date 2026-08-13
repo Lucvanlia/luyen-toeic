@@ -20,12 +20,12 @@
             "She's gripping the handle of a drawer.",
             "She's tacking a notice onto the wall."
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Tranh tả một người",
           "startTime": 95,
           "endTime": 125,
-          "transcript": "A. She's inserting a cord into an outlet.\nB. She's pressing a button on a machine.\nC. She's gripping the handle of a drawer.\nD. She's tacking a notice onto the wall.",
-          "explanation": "Quan sát hình ảnh câu 1 và chọn mô tả đúng nhất."
+          "transcript": "She's inserting a cord into an outlet.",
+          "explanation": "Hình ảnh hiển thị người phụ nữ đang cắm dây điện vào ổ cắm. → (A)"
         },
         {
           "id": 2,
@@ -36,12 +36,12 @@
             "An outdoor table is being cleared off.",
             "Some wooden boards are being painted."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Tranh tả nhiều người",
           "startTime": 125,
           "endTime": 155,
-          "transcript": "A. Some window shutters are being replaced.\nB. A pillow is being arranged on a seat.\nC. An outdoor table is being cleared off.\nD. Some wooden boards are being painted.",
-          "explanation": "Quan sát hình ảnh câu 2 và chọn mô tả đúng nhất."
+          "transcript": "A pillow is being arranged on a seat.",
+          "explanation": "Gối đang được sắp xếp ngay ngắn trên ghế. → (B)"
         },
         {
           "id": 3,
@@ -56,8 +56,8 @@
           "category": "Tranh tả nhiều người",
           "startTime": 155,
           "endTime": 185,
-          "transcript": "A. Some workers are hanging art in a gallery.\nB. Two of the people are having a conversation.\nC. One of the men is rearranging cushions on a sofa.\nD. One of the men is painting a picture.",
-          "explanation": "Quan sát hình ảnh câu 3 và chọn mô tả đúng nhất."
+          "transcript": "One of the men is rearranging cushions on a sofa.",
+          "explanation": "Một người đàn ông đang sắp xếp lại đệm ghế sofa. → (C)"
         },
         {
           "id": 4,
@@ -72,8 +72,8 @@
           "category": "Tranh tả vật",
           "startTime": 185,
           "endTime": 215,
-          "transcript": "A. A man is chopping some wood into pieces.\nB. Leaves are scattered across the grass.\nC. A man is closing a window.\nD. Wood is piled near a fence.",
-          "explanation": "Quan sát hình ảnh câu 4 và chọn mô tả đúng nhất."
+          "transcript": "Wood is piled near a fence.",
+          "explanation": "Gỗ được xếp thành đống gần hàng rào. → (D)"
         },
         {
           "id": 5,
@@ -84,12 +84,12 @@
             "Tents have been set up in a parking area.",
             "A worker is putting up a canopy."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Tranh tả một người",
           "startTime": 215,
           "endTime": 245,
-          "transcript": "A. People are standing in line in a lobby.\nB. Items are being loaded into shopping bags.\nC. Tents have been set up in a parking area.\nD. A worker is putting up a canopy.",
-          "explanation": "Quan sát hình ảnh câu 5 và chọn mô tả đúng nhất."
+          "transcript": "Tents have been set up in a parking area.",
+          "explanation": "Các lều bạt đã được dựng lên trong khu vực bãi đỗ xe. → (C)"
         },
         {
           "id": 6,
@@ -100,12 +100,12 @@
             "Some suitcases are displayed in a shop window.",
             "A luggage rack has two levels."
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Tranh tả vật",
           "startTime": 245,
           "endTime": 275,
-          "transcript": "A. Some luggage is stacked next to an escalator.\nB. A suitcase is being lifted onto a shuttle bus.\nC. Some suitcases are displayed in a shop window.\nD. A luggage rack has two levels.",
-          "explanation": "Quan sát hình ảnh câu 6 và chọn mô tả đúng nhất."
+          "transcript": "A luggage rack has two levels.",
+          "explanation": "Giá để hành lý có cấu tạo hai tầng. → (D)"
         }
       ]
     },
@@ -507,7 +507,7 @@
             "(C) At a factory",
             "(D) At an airport"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 80,
           "endTime": 155,
@@ -592,7 +592,7 @@
             "(C) Provide a tour",
             "(D) Look at a schedule"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 156,
           "endTime": 231,
@@ -626,7 +626,7 @@
             "(C) Take some measurements",
             "(D) Investigate a problem"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 232,
           "endTime": 307,
@@ -643,7 +643,7 @@
             "(C) An important event is approaching.",
             "(D) A client is in town for a limited time."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 232,
           "endTime": 307,
@@ -711,7 +711,7 @@
             "(C) His experiment was successful.",
             "(D) His research funding was extended."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 384,
           "endTime": 459,
@@ -745,7 +745,7 @@
             "(C) Replace some furniture",
             "(D) Gain management experience"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 384,
           "endTime": 459,
@@ -779,7 +779,7 @@
             "(C) He opened a new facility.",
             "(D) He competed in a sports event."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 460,
           "endTime": 535,
@@ -864,7 +864,7 @@
             "(C) They are celebrating a holiday.",
             "(D) They are coming to visit soon."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 612,
           "endTime": 687,
@@ -881,7 +881,7 @@
             "(C) A scheduled meeting should take place.",
             "(D) A project leader will not be hired."
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 612,
           "endTime": 687,
@@ -949,7 +949,7 @@
             "(C) Repair an engine",
             "(D) Inspect a shipment"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 688,
           "endTime": 763,
@@ -966,7 +966,7 @@
             "(C) At a fruit orchard",
             "(D) At a hardware store"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 764,
           "endTime": 839,
@@ -983,7 +983,7 @@
             "(C) Install a watering system",
             "(D) Repair a lawn mower"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 764,
           "endTime": 839,
@@ -1036,7 +1036,7 @@
             "(C) There is a conference in town.",
             "(D) A sporting event will take place."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 840,
           "endTime": 915,
@@ -1055,13 +1055,13 @@
             "(C) Area 3",
             "(D) Area 4"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 840,
           "endTime": 915,
           "group": "62-64",
           "transcript": "Woman: Good morning, Ms. Al-Johani. Sorry I'm a little late,\ntraffic was terrible. Woman 2 (Ms. Al-Johani): That's okay, but our\nrental office will be very busy this morning. There's a big education\nconvention in town starting today, and a lot of attendees from out of\ntown have reserved cars to get to the conference center.\nWoman:\nRight. What do you want me to do first?\nWoman 2: I'd like you to\nstart by checking the batteries in our electric cars. We want to be\nsure they're all fully charged.",
-          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'Area 1'. → (A)",
+          "explanation": "Chọn Area 2 (B) vì nhân vật nam được giao đi kiểm tra pin xe điện đầu tiên, khu vực xe điện nằm ở góc Area 2. → (B)",
           "image": "public/assets/bai-on-2/listening/passages/part3_q62_64.png",
           "passageImage": "public/assets/bai-on-2/listening/passages/part3_q62_64.png"
         },
@@ -1074,7 +1074,7 @@
             "(C) At a garden store",
             "(D) At a lumber yard"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 916,
           "endTime": 991,
@@ -1112,13 +1112,13 @@
             "(C) White fringe tree",
             "(D) Panicle hydrangea"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 916,
           "endTime": 991,
           "group": "65-67",
           "transcript": "Woman: I've been on vacation, so I missed out on department's\nmeeting. Can you give me an update?\nMan: Well, all our public\nprograms and community events are on schedule.\nWoman: Great.\nHow about the Janus Park project? We're still planning on planting\ntrees best suited for residential areas, right?\nMan: That's right. I'm\nworking on the public education part now. There'll be a children's\nposter competition next month, which the city mayor will judge.\nWoman: Interesting. Is there a prize?\nMan: The winner will get a\nribbon, but all participants will get a seedling to plant at home. We'll\nbe giving away the tallest of these four varieties, since it was the\nmost popular in a survey of our residents.",
-          "explanation": "Trích thoại: \"trees best suited for residential areas, right?\" → Thông tin đối chiếu trong bài nghe chọn đáp án (C) 'White fringe tree'. → (C)",
+          "explanation": "Chọn loại cây Eastern redbud (9 mét) (A) vì người nói cho biết họ sẽ tặng loại cây cao nhất. → (A)",
           "image": "public/assets/bai-on-2/listening/passages/part3_q65_67.png",
           "passageImage": "public/assets/bai-on-2/listening/passages/part3_q65_67.png"
         },
@@ -1131,7 +1131,7 @@
             "(C) At a stationery store",
             "(D) At a clothing store"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 992,
           "endTime": 1067,
@@ -1150,13 +1150,13 @@
             "(C) 7%",
             "(D) 2%"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 992,
           "endTime": 1067,
           "group": "68-70",
           "transcript": "Man: Hi, I'd like a large black coffee and an egg and cheese\ncroissant, please.\nWoman: Sure, that'll be $8. Are you a Shelby's\nPreferred Customer?\nMan: Uh, no, I'm not. But I do have an easy\ncash card.\nWoman: Great, let me ring that up for you. By the way,\nI'd like to order breakfast for my team tomorrow morning. Can I\nplace that order ahead of time? Woman (Staff): Sure, would you\nlike to do that now?\nMan: No, I'll call you later today when I know\nwhat everyone wants. Thanks for the information.",
-          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) '5%'. → (A)",
+          "explanation": "Chọn giảm giá 2% (D) vì nhân vật nam sử dụng thẻ thanh toán EZ-Cash. → (D)",
           "image": "public/assets/bai-on-2/listening/passages/part3_q68_70.png",
           "passageImage": "public/assets/bai-on-2/listening/passages/part3_q68_70.png"
         },
@@ -1169,7 +1169,7 @@
             "(C) Fill out an online survey",
             "(D) Hang up some posters PART 4 Directions: You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk. Select the best response to each question and mark the letter (A), (B), (C), or (D) on your answer sheet. The talks will not be printed in your test book and will be spoken only one time."
           ],
-          "answer": "D",
+          "answer": "A",
           "category": "Hỏi chi tiết hội thoại",
           "startTime": 992,
           "endTime": 1067,
@@ -1196,7 +1196,7 @@
             "(C) A clothing designer",
             "(D) A jewelry maker"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 50,
           "endTime": 120,
@@ -1213,7 +1213,7 @@
             "(C) Because the listener is a loyal customer",
             "(D) Because the listener placed a large order"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 50,
           "endTime": 120,
@@ -1230,7 +1230,7 @@
             "(C) To update a payment method",
             "(D) To provide an address"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 50,
           "endTime": 120,
@@ -1247,7 +1247,7 @@
             "(C) Have a printer repaired",
             "(D) Have a photograph framed"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 121,
           "endTime": 191,
@@ -1281,7 +1281,7 @@
             "(C) A newsletter",
             "(D) A warranty"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 121,
           "endTime": 191,
@@ -1383,7 +1383,7 @@
             "(C) Place an order",
             "(D) Get more information"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 263,
           "endTime": 333,
@@ -1400,7 +1400,7 @@
             "(C) Launching an advertising campaign",
             "(D) Renovating a kitchen"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 334,
           "endTime": 404,
@@ -1451,7 +1451,7 @@
             "(C) Some traffic patterns",
             "(D) A prototype electric vehicle"
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 405,
           "endTime": 475,
@@ -1468,7 +1468,7 @@
             "(C) A project has community support.",
             "(D) A public comment period has ended."
           ],
-          "answer": "D",
+          "answer": "C",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 405,
           "endTime": 475,
@@ -1519,7 +1519,7 @@
             "(C) It is easy to assemble.",
             "(D) It is available in many colors."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 476,
           "endTime": 546,
@@ -1553,7 +1553,7 @@
             "(C) To share information about nutrition",
             "(D) To showcase individual ingredients"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 547,
           "endTime": 617,
@@ -1587,7 +1587,7 @@
             "(C) She opened a restaurant.",
             "(D) She traveled abroad."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 547,
           "endTime": 617,
@@ -1642,13 +1642,13 @@
             "(C) At 1:00 PM.",
             "(D) At 1:30 PM."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 618,
           "endTime": 688,
           "group": "95-97",
           "transcript": "Attention passengers, renovation work to upgrade and modernize\nour train station is underway. We apologize for the inconvenience\nthe construction noise may cause. Please note that regional train\nschedules are not affected. Train 133 with service to Washington\nD.C. will be arriving shortly. All passengers to Washington, please\nproceed to track 26B. If you need assistance handling your baggage,\nplease speak to a ticket agent immediately. Train 133's next stop will\nbe Wilmington, followed by Baltimore, and then Washington D.C.",
-          "explanation": "Nội dung bài nghe cho thấy đáp án đúng là (A) 'At 10:45 A.M.'. → (A)",
+          "explanation": "Chọn ga kế tiếp là Wilmington lúc 12:05 PM (B) dựa trên bảng giờ tàu chạy. → (B)",
           "image": "public/assets/bai-on-2/listening/passages/part4_q95_97.png",
           "passageImage": "public/assets/bai-on-2/listening/passages/part4_q95_97.png"
         },
@@ -1661,7 +1661,7 @@
             "(C) News reporters",
             "(D) Safety inspectors"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi chi tiết bài nói",
           "startTime": 689,
           "endTime": 759,
@@ -1686,7 +1686,7 @@
           "endTime": 759,
           "group": "98-100",
           "transcript": "Hello everyone, I'm Carmen Salazar, the Airport Operations\nDirector, and I wanted to thank you for attending this press\nconference. As of this week, construction on the new regional\nairport is proceeding on schedule for two of the three terminals.\nMinor design adjustments to Terminal A have put the project\nslightly behind schedule, and we anticipate about two months will\nbe added to the construction timeframe as a result. I'd also like to\nmention that we now have a 3D printed model of this project. Please\nfeel free to visit our website so you can view it.",
-          "explanation": "Trích thoại: \"Hello everyone, I'm Carmen Salazar, the Airport Operations\" → Thông tin đối chiếu trong bài nghe chọn đáp án (A) 'Selca Air'. → (A)",
+          "explanation": "Chọn hãng hàng không Selca Air ở Terminal A (A) vì người nói thông báo việc chậm trễ xảy ra ở Terminal A. → (A)",
           "image": "public/assets/bai-on-2/listening/passages/part4_q98_100.png",
           "passageImage": "public/assets/bai-on-2/listening/passages/part4_q98_100.png"
         },

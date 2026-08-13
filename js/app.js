@@ -687,9 +687,8 @@ function renderQuestionCard(q, idx, allQs) {
     ? `<div class="reading-focus-note">💡 Hãy chú ý đoạn văn — không cần để ý câu hỏi trong hình</div>`
     : '';
 
-  // ── Hint button (only shown BEFORE submit, for reading parts) ────────────
-  const isReading = ['part5','part6','part7'].includes(S.activePart);
-  const hintHtml = (!S.submitted && isReading && q.hint)
+  // ── Hint button (shown BEFORE submit, for all parts with hint) ──────────
+  const hintHtml = (!S.submitted && q.hint)
     ? `<div class="q-hint-container">
          <button class="q-hint-btn" id="hintbtn-${q.id}" onclick="toggleHint(${q.id})">
            <span class="hint-icon">💡</span> Gợi ý cách làm
@@ -701,66 +700,19 @@ function renderQuestionCard(q, idx, allQs) {
        </div>`
     : '';
 
-  // ── Rich explanation panel (practice mode when answered OR after submit) ──
+  // ── Badge đúng/sai nhỏ hiện ngay trên header (không tạo khung riêng bên dưới) ──
+  let resultBadge = '';
   let explanationHtml = '';
-  if ((S.submitted || (S.mode === 'practice' && answered)) && (q.explanation || q.transcript)) {
+  if (S.submitted || (S.mode === 'practice' && answered)) {
     const userAns = S.answers[q.id] || null;
     const isCorrect = userAns === q.answer;
-    const statusClass = !userAns ? 'skip' : isCorrect ? 'right' : 'wrong';
-    const statusLabel = !userAns ? '⚪ Bỏ qua' : isCorrect ? '✅ Đúng!' : '❌ Bạn chọn chưa đúng!';
-
-    // Option analysis rows – luôn hiển thị theo thứ tự GỐC A B C D (không shuffle)
-    const optLetters = ['A','B','C','D'];
-    const optAnalysis = (q.options || []).map((opt, i) => {
-      const letter = optLetters[i] || 'A';
-      let displayText;
-      if (p2Parsed && p2Parsed.optTexts[letter]) {
-        displayText = p2Parsed.optTexts[letter];
-      } else {
-        displayText = typeof opt === 'string'
-          ? opt.replace(/^\([A-D]\)\s*/i, '').replace(/^[A-D][\.\)]\s*/i, '')
-          : opt;
-      }
-      const isAnswer  = letter === q.answer;
-      const isChosen  = letter === userAns;
-      let rowClass = 'exp-opt-row';
-      if (isAnswer) rowClass += ' exp-opt-correct';
-      else if (isChosen && !isAnswer) rowClass += ' exp-opt-wrong';
-      const badge = isAnswer
-        ? `<span class="exp-badge correct">✓ Đáp án đúng</span>`
-        : (isChosen ? `<span class="exp-badge wrong">✗ Lựa chọn của bạn</span>` : '');
-      return `<div class="${rowClass}">
-        <span class="exp-opt-letter">${letter}</span>
-        <span class="exp-opt-text">${displayText}</span>
-        ${badge}
-      </div>`;
-    }).join('');
-
-    // Format transcript
-    const formattedTranscript = q.transcript
-      ? q.transcript.replace(/\n/g, '<br>')
-      : '';
-
-    explanationHtml = `
-    <div class="q-explanation rich-explanation">
-      <div class="exp-header">
-        <span class="exp-status ${statusClass}">${statusLabel}</span>
-        <span class="exp-answer-label">Đáp án đúng: <strong>(${q.answer})</strong></span>
-      </div>
-      <div class="exp-section">
-        <div class="exp-section-title">📋 Phân tích đáp án</div>
-        <div class="exp-options-list">${optAnalysis}</div>
-      </div>
-      <div class="exp-section">
-        <div class="exp-section-title">💡 Giải thích chi tiết (Tiếng Việt)</div>
-        <div class="exp-vi-text">${q.explanation || ''}</div>
-      </div>
-      ${q.hint ? `
-      <div class="exp-section exp-hint-recap">
-        <div class="exp-section-title">🎯 Chiến lược giải</div>
-        <div class="exp-vi-text hint-recap-text">${q.hint}</div>
-      </div>` : ''}
-    </div>`;
+    if (!userAns) {
+      resultBadge = `<span class="q-result-badge skip">⚪ Bỏ qua · Đáp án: (${q.answer})</span>`;
+    } else if (isCorrect) {
+      resultBadge = `<span class="q-result-badge right">✅ Đúng! · (${q.answer})</span>`;
+    } else {
+      resultBadge = `<span class="q-result-badge wrong">❌ Sai · Đúng: (${q.answer})</span>`;
+    }
   }
 
   return `
@@ -768,6 +720,7 @@ function renderQuestionCard(q, idx, allQs) {
     <div class="q-card ${S.activeQId === q.id ? 'current' : ''}" id="qcard-${q.id}">
       <div class="q-card-header">
         <div class="q-num-badge">${q.id}</div>
+        ${resultBadge}
         <button class="q-flag-btn ${isFlagged ? 'flagged' : ''}" id="flag-${q.id}"
                 onclick="toggleFlag(${q.id})" title="Đánh dấu câu này">🚩</button>
       </div>
@@ -779,7 +732,6 @@ function renderQuestionCard(q, idx, allQs) {
       ${readingFocusNote}
       ${hintHtml}
       <div class="q-options" id="opts-${q.id}">${optionsHtml}</div>
-      ${explanationHtml}
     </div>`;
 }
 
