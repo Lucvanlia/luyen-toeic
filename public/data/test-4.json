@@ -15,12 +15,12 @@
           "id": 1,
           "image": "public/assets/bai-on-4/listening/part1_q1.png",
           "options": [
-            "She's cleaning an oven.",
-            "She's moving a pot.",
-            "She's opening a cabinet.",
-            "She's holding a towel."
+            "(A) He's cleaning the floor.",
+            "(B) He's setting a plant on a shelf.",
+            "(C) He's pouring some liquid into a cup.",
+            "(D) He's ironing a shirt."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Tranh tả một người",
           "startTime": 95,
           "endTime": 125,
@@ -31,12 +31,12 @@
           "id": 2,
           "image": "public/assets/bai-on-4/listening/part1_q2.png",
           "options": [
-            "They're putting trash in a bag.",
-            "They're taking off their jackets.",
-            "They're facing a shelving unit.",
-            "They're painting a room."
+            "(A) They're glancing at a monitor.",
+            "(B) They're putting pens in a jar.",
+            "(C) They're wiping off a desk.",
+            "(D) They're examining a document."
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Tranh tả nhiều người",
           "startTime": 125,
           "endTime": 155,
@@ -47,12 +47,12 @@
           "id": 3,
           "image": "public/assets/bai-on-4/listening/part1_q3.png",
           "options": [
-            "One of the men is removing his hat.",
-            "A line of customers extends out a door.",
-            "Some workers are installing a sign.",
-            "Musicians have gathered in a circle."
+            "(A) Some people are taking a ride on a boat.",
+            "(B) A boat is floating under a bridge.",
+            "(C) A boat is being loaded with cargo.",
+            "(D) Some people are rowing a boat past a lighthouse."
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Tranh tả nhiều người",
           "startTime": 155,
           "endTime": 185,
@@ -63,12 +63,12 @@
           "id": 4,
           "image": "public/assets/bai-on-4/listening/part1_q4.png",
           "options": [
-            "Some tools have been left on a chair.",
-            "Some tool sets have been laid out.",
-            "A cup of coffee has spilled.",
-            "A table leg is being repaired."
+            "(A) There's a fire burning in a fireplace.",
+            "(B) There's a guitar beside a fireplace.",
+            "(C) Some cables have been left on the ground in a pile.",
+            "(D) A television is being packed into a box."
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Tranh tả vật",
           "startTime": 185,
           "endTime": 215,
@@ -79,12 +79,12 @@
           "id": 5,
           "image": "public/assets/bai-on-4/listening/part1_q5.png",
           "options": [
-            "A railing is being removed.",
-            "A roof is under construction.",
-            "Some workers are carrying a ladder.",
-            "Some workers are holding sheets of metal."
+            "(A) Some people are riding bicycles through a field.",
+            "(B) Some people are moving a picnic table.",
+            "(C) There are some mountains in the distance.",
+            "(D) A bicycle has fallen over on the ground."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Tranh tả một người",
           "startTime": 215,
           "endTime": 245,
@@ -95,12 +95,12 @@
           "id": 6,
           "image": "public/assets/bai-on-4/listening/part1_q6.png",
           "options": [
-            "A ladder has been leaned against a tree.",
-            "There are piles of tree branches discarded in a field.",
-            "Wooden benches have been arranged in a circle.",
-            "A wooden structure has been built near some trees."
+            "(A) Some couches have been pushed against a wall.",
+            "(B) Some lights have been hung from the ceiling.",
+            "(C) Some cushions have been stacked on the floor.",
+            "(D) Some flowers have been arranged in a vase."
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Tranh tả vật",
           "startTime": 245,
           "endTime": 275,
@@ -137,7 +137,7 @@
             "From a supplier in California.",
             "That umbrella is a nice color. Number"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 47.9,
           "endTime": 67.5,
@@ -167,7 +167,7 @@
             "It's just under the desk.",
             "Sure, I can do that for you. Number"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 87.8,
           "endTime": 107.9,
@@ -182,7 +182,7 @@
             "She teaches an exercise class.",
             "Yes, they're on the lower floor. Number"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 107.9,
           "endTime": 128.2,
@@ -197,7 +197,7 @@
             "You can hang your vest on that hook.",
             "No, I'm certain about that. Number"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 128.2,
           "endTime": 148.9,
@@ -212,7 +212,7 @@
             "A free continental breakfast.",
             "Yes, of course. Number"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 148.9,
           "endTime": 171.0,
@@ -227,7 +227,7 @@
             "A pair of earrings.",
             "At a store in the city centre. Number"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 171.0,
           "endTime": 191.0,
@@ -242,7 +242,7 @@
             "That office is on the corner.",
             "I have the train schedule here. Number"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 191.0,
           "endTime": 210.3,
@@ -332,7 +332,7 @@
             "The fitness center is across from the reception desk.",
             "I'll be eating breakfast in my room. Number"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 315.0,
           "endTime": 337.4,
@@ -347,7 +347,7 @@
             "This is my new laptop.",
             "It's on the other shelf. Number"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 337.4,
           "endTime": 357.3,
@@ -362,7 +362,7 @@
             "Tungy updated the memo.",
             "Registration closed yesterday. B."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 357.3,
           "endTime": 378.3,
@@ -377,7 +377,7 @@
             "Yes, any available position.",
             "I'm still waiting. B."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 378.3,
           "endTime": 398.0,
@@ -392,7 +392,7 @@
             "At 730 sharp.",
             "I'll buy mine at the door. Number"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 398.0,
           "endTime": 419.7,
@@ -482,7 +482,7 @@
             "We do have a significant budget surplus.",
             ""
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Hỏi thông tin giao tiếp",
           "startTime": 521.0,
           "endTime": 536.0,
