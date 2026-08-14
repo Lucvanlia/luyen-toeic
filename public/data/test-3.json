@@ -1688,423 +1688,423 @@
       "questions": [
         {
           "id": 101,
-          "text": "Former Sendai Company CEO Ken Nakata spoke about ------- career experiences.",
+          "text": "your order is being processed, please call customer service with any questions.",
           "options": [
-            "he",
-            "his",
-            "him",
-            "himself"
-          ],
-          "answer": "B",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Bổ nghĩa cho cụm danh từ 'career experiences' cần tính từ sở hữu 'his' -> (B)",
-          "hint": "Gợi ý cách làm: Bổ nghĩa cho cụm danh từ 'career experiences' cần tính từ sở hữu 'his' -> (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
-        },
-        {
-          "id": 102,
-          "text": "Passengers who will be taking a ------- domestic flight should go to Terminal A.",
-          "options": [
-            "connectivity",
-            "connects",
-            "connect",
-            "connecting"
-          ],
-          "answer": "D",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Bổ nghĩa cho cụm 'domestic flight' cần tính từ/hiện tại phân từ 'connecting' -> (D)",
-          "hint": "Ô trống đứng sau từ hạn định/tính từ sở hữu và trước danh từ 'danh từ' → cần TÍNH TỪ bổ nghĩa. Chọn từ loại phù hợp."
-        },
-        {
-          "id": 103,
-          "text": "Fresh and ------- apple-cider donuts are available at Oakcrest Orchard's retail shop for £6 per dozen.",
-          "options": [
-            "eaten",
-            "open",
-            "tasty",
-            "free"
+            "Still",
+            "Either",
+            "While",
+            "Also"
           ],
           "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Tính từ hòa hợp ý nghĩa chỉ tính chất thơm ngon của món ăn 'tasty' -> (C)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Gợi ý cách làm: Bổ nghĩa cho cụm danh từ 'career experiences' cần tính từ sở hữu 'his' -> (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Bổ nghĩa cho cụm danh từ 'career experiences' cần tính từ sở hữu 'his' -> (B)"
         },
         {
-          "id": 104,
-          "text": "Zahn Flooring has the widest selection of ------- in the United Kingdom.",
+          "id": 102,
+          "text": "ABC Truck Supplies has the ------- selection of mufflers in the state.",
           "options": [
-            "paints",
-            "tiles",
-            "furniture",
-            "curtains"
+            "natural",
+            "widest",
+            "overall",
+            "positive"
           ],
           "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Doanh nghiệp dịch vụ lát sàn 'Zahn Flooring' cung cấp mẫu 'tiles' (gạch lát) phong phú nhất -> (B)",
-          "hint": "Gợi ý cách làm: Doanh nghiệp dịch vụ lát sàn 'Zahn Flooring' cung cấp mẫu 'tiles' (gạch lát) phong phú nhất -> (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
+          "hint": "Ô trống đứng sau từ hạn định/tính từ sở hữu và trước danh từ 'danh từ' → cần TÍNH TỪ bổ nghĩa. Chọn từ loại phù hợp.",
+          "explanation": "Bổ nghĩa cho cụm 'domestic flight' cần tính từ/hiện tại phân từ 'connecting' -> (D)"
+        },
+        {
+          "id": 103,
+          "text": "Sharswood Landscaping has received dozens of five-star ------- for its work.",
+          "options": [
+            "reviews",
+            "reviewer",
+            "reviewed",
+            "reviewing"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Tính từ hòa hợp ý nghĩa chỉ tính chất thơm ngon của món ăn 'tasty' -> (C)"
+        },
+        {
+          "id": 104,
+          "text": "Dr. Cho will visit the Teledarr Lab during the annual open house, since ------- may not have another chance to see it.",
+          "options": [
+            "hers",
+            "she",
+            "her",
+            "herself"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Gợi ý cách làm: Doanh nghiệp dịch vụ lát sàn 'Zahn Flooring' cung cấp mẫu 'tiles' (gạch lát) phong phú nhất -> (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Doanh nghiệp dịch vụ lát sàn 'Zahn Flooring' cung cấp mẫu 'tiles' (gạch lát) phong phú nhất -> (B)"
         },
         {
           "id": 105,
-          "text": "One responsibility of the IT department is to ensure that the company is using ------- software.",
+          "text": "Dorn Department Store decided to ------- its already large selection of housewares.",
           "options": [
-            "update",
-            "updating",
-            "updates",
-            "updated"
+            "create",
+            "enforce",
+            "apply",
+            "expand"
           ],
           "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Phần mềm đã được cập nhật 'updated software' thể quá khứ phân từ -> (D)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Phần mềm đã được cập nhật 'updated software' thể quá khứ phân từ -> (D)"
         },
         {
           "id": 106,
-          "text": "It is wise to check a company's dress code ------- visiting its head office.",
+          "text": "We ------- that you bring a portfolio of work samples to the interview.",
           "options": [
-            "so",
-            "how",
-            "like",
+            "was asking",
+            "having asked",
+            "ask",
+            "asks"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Giới từ chỉ thời điểm trước khi làm gì 'before + V-ing' -> (D)"
+        },
+        {
+          "id": 107,
+          "text": "Members of the Bold Stone Farm Store receive ------- discounts on all purchases.",
+          "options": [
+            "depth",
+            "deepen",
+            "deep",
+            "deeply"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Gợi ý cách làm: Mốc thời gian 'yesterday afternoon' quá khứ đơn -> submitted (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Mốc thời gian 'yesterday afternoon' quá khứ đơn -> submitted (B)"
+        },
+        {
+          "id": 108,
+          "text": "If your plans change, please contact us at least 24 hours before the time of your -------.",
+          "options": [
+            "reserved",
+            "reservation",
+            "reservable",
+            "reserve"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Gợi ý cách làm: Cấu trúc make it + adj -> easier (A). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Cấu trúc make it + adj -> easier (A)"
+        },
+        {
+          "id": 109,
+          "text": "Hold the tomato seedling gently by the stem in order to avoid harming ------- roots.",
+          "options": [
+            "its",
+            "at",
+            "that",
+            "in"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Gợi ý cách làm: Hạn chót trễ nhất vào thứ Sáu -> by (A). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Hạn chót trễ nhất vào thứ Sáu -> by (A)"
+        },
+        {
+          "id": 110,
+          "text": "At the registration table, be sure to collect your name tag ------- entering the conference.",
+          "options": [
+            "very",
+            "often",
+            "always",
             "before"
           ],
           "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Giới từ chỉ thời điểm trước khi làm gì 'before + V-ing' -> (D)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
-        },
-        {
-          "id": 107,
-          "text": "Mr. Tanaka ------- the revised budget proposal to the board members yesterday afternoon.",
-          "options": [
-            "submit",
-            "submitted",
-            "submission",
-            "submitting"
-          ],
-          "answer": "B",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Mốc thời gian 'yesterday afternoon' quá khứ đơn -> submitted (B)",
-          "hint": "Gợi ý cách làm: Mốc thời gian 'yesterday afternoon' quá khứ đơn -> submitted (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
-        },
-        {
-          "id": 108,
-          "text": "The new software update makes it ------- for employees to access client files securely.",
-          "options": [
-            "easier",
-            "easily",
-            "ease",
-            "easiest"
-          ],
-          "answer": "A",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Cấu trúc make it + adj -> easier (A)",
-          "hint": "Gợi ý cách làm: Cấu trúc make it + adj -> easier (A). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
-        },
-        {
-          "id": 109,
-          "text": "Please return the signed agreement ------- Friday to confirm your registration.",
-          "options": [
-            "by",
-            "until",
-            "inside",
-            "during"
-          ],
-          "answer": "A",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Hạn chót trễ nhất vào thứ Sáu -> by (A)",
-          "hint": "Gợi ý cách làm: Hạn chót trễ nhất vào thứ Sáu -> by (A). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
-        },
-        {
-          "id": 110,
-          "text": "Ms. Vance will be promoted to senior analyst because of her ------- work ethic.",
-          "options": [
-            "exception",
-            "exceptional",
-            "exceptionally",
-            "except"
-          ],
-          "answer": "B",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Tính từ bổ nghĩa cho danh từ 'work ethic' -> exceptional (B)",
-          "hint": "Ô trống đứng sau từ hạn định/tính từ sở hữu và trước danh từ 'danh từ' → cần TÍNH TỪ bổ nghĩa. Chọn từ loại phù hợp."
+          "hint": "Ô trống đứng sau từ hạn định/tính từ sở hữu và trước danh từ 'danh từ' → cần TÍNH TỪ bổ nghĩa. Chọn từ loại phù hợp.",
+          "explanation": "Tính từ bổ nghĩa cho danh từ 'work ethic' -> exceptional (B)"
         },
         {
           "id": 111,
-          "text": "Neither the manager ------- the team members were aware of the schedule change.",
+          "text": "Maihama vehicles include an extended ------- to cover engine repairs.",
           "options": [
-            "or",
-            "nor",
-            "and",
-            "with"
-          ],
-          "answer": "B",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Cấu trúc tương quan Neither... nor... -> (B)",
-          "hint": "Gợi ý cách làm: Cấu trúc tương quan Neither... nor... -> (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
-        },
-        {
-          "id": 112,
-          "text": "The marketing team is ------- a new digital advertising strategy for next season.",
-          "options": [
-            "developing",
-            "developed",
-            "develops",
-            "development"
-          ],
-          "answer": "A",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Thì hiện tại tiếp diễn is + V-ing -> developing (A)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
-        },
-        {
-          "id": 113,
-          "text": "Project Earth Group is ------- for ways to reduce transport-related greenhouse gas emissions.",
-          "options": [
-            "looking",
-            "seeing",
-            "driving",
-            "leaning"
-          ],
-          "answer": "A",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Cụm động từ 'looking for' = tìm kiếm giải pháp -> (A)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
-        },
-        {
-          "id": 114,
-          "text": "Our skilled tailors are happy to design a custom-made suit that fits your style and budget -------.",
-          "options": [
-            "perfect",
-            "perfects",
-            "perfectly",
-            "perfection"
-          ],
-          "answer": "C",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Trạng từ bổ nghĩa cho động từ 'fits' -> perfectly (C)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
-        },
-        {
-          "id": 115,
-          "text": "Project manager Hannah Chung has proved to be very ------- with completing company projects.",
-          "options": [
-            "helpfulness",
-            "help",
-            "helpful",
-            "helpfully"
-          ],
-          "answer": "C",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Tính từ đứng sau to be very -> helpful (C)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
-        },
-        {
-          "id": 116,
-          "text": "Lehua Vacation Club members will receive double points ------- the month of August at participating hotels.",
-          "options": [
-            "onto",
-            "above",
-            "during",
-            "between"
-          ],
-          "answer": "C",
-          "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Giới từ chỉ trong suốt khoảng thời gian 'during' -> (C)",
-          "hint": "Gợi ý cách làm: Giới từ chỉ trong suốt khoảng thời gian 'during' -> (C). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
-        },
-        {
-          "id": 117,
-          "text": "The costumes were not received ------- enough to be used in the first dress rehearsal.",
-          "options": [
-            "far",
-            "very",
-            "almost",
-            "soon"
+            "record",
+            "operation",
+            "budget",
+            "warranty"
           ],
           "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Trạng từ 'soon enough' = đủ sớm -> (D)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Gợi ý cách làm: Cấu trúc tương quan Neither... nor... -> (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Cấu trúc tương quan Neither... nor... -> (B)"
+        },
+        {
+          "id": 112,
+          "text": "The hotel’s new Web site features an ------- collection of high-quality images.",
+          "options": [
+            "absolute",
+            "efficient",
+            "impressive",
+            "undefeated"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Thì hiện tại tiếp diễn is + V-ing -> developing (A)"
+        },
+        {
+          "id": 113,
+          "text": "On behalf of everyone at Uniontown Bank, we ------- thank you for your continued patronage.",
+          "options": [
+            "deservedly",
+            "commonly",
+            "sincerely",
+            "perfectly"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Cụm động từ 'looking for' = tìm kiếm giải pháp -> (A)"
+        },
+        {
+          "id": 114,
+          "text": "Fragile equipment must be stored in a secure location so that nothing is ------- damaged.",
+          "options": [
+            "accident",
+            "accidents",
+            "accidental",
+            "accidentally"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Trạng từ bổ nghĩa cho động từ 'fits' -> perfectly (C)"
+        },
+        {
+          "id": 115,
+          "text": "Ms. Sampson will not arrive at the convention ------- after our team’s presentation.",
+          "options": [
+            "until",
+            "lately",
+            "from",
+            "when"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Tính từ đứng sau to be very -> helpful (C)"
+        },
+        {
+          "id": 116,
+          "text": "The community picnic will be held ------- the park behind the Seltzer Public Library.",
+          "options": [
+            "in",
+            "all",
+            "for",
+            "here"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Gợi ý cách làm: Giới từ chỉ trong suốt khoảng thời gian 'during' -> (C). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Giới từ chỉ trong suốt khoảng thời gian 'during' -> (C)"
+        },
+        {
+          "id": 117,
+          "text": "The new hires ------- for an orientation on May 10 at 9:00 a.m.",
+          "options": [
+            "to be gathering",
+            "will gather",
+            "gathering",
+            "to gather"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Trạng từ 'soon enough' = đủ sớm -> (D)"
         },
         {
           "id": 118,
-          "text": "As a former publicist for several renowned orchestras, Mr. Wu would excel in the role of event -------.",
+          "text": "When Mr. Young approached the desk, the receptionist ------- offered him a seat in the waiting room.",
           "options": [
-            "organized",
-            "organizer",
-            "organize",
-            "organization"
+            "politely",
+            "polite",
+            "politeness",
+            "politest"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Danh từ chỉ người 'event organizer' -> (B)",
-          "hint": "Gợi ý cách làm: Danh từ chỉ người 'event organizer' -> (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
+          "hint": "Gợi ý cách làm: Danh từ chỉ người 'event organizer' -> (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Danh từ chỉ người 'event organizer' -> (B)"
         },
         {
           "id": 119,
-          "text": "------- the bad weather, the construction work was completed on time.",
+          "text": "Members of the Marvale marketing team claimed that ------- was the best design for the new corporate logo.",
           "options": [
-            "Despite",
-            "Although",
-            "However",
-            "Even if"
+            "they",
+            "them",
+            "theirs",
+            "their"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Despite + Cụm danh từ -> Despite (A)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Despite + Cụm danh từ -> Despite (A)"
         },
         {
           "id": 120,
-          "text": "Mr. Harrison requested that all department files be stored -------.",
+          "text": "The new Kitsuna video camera is currently on sale for $375, not ------- tax.",
           "options": [
-            "secure",
-            "securely",
-            "security",
-            "securing"
+            "excepting",
+            "alongside",
+            "within",
+            "including"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Trạng từ bổ nghĩa động từ bị động 'be stored' -> securely (B)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Trạng từ bổ nghĩa động từ bị động 'be stored' -> securely (B)"
         },
         {
           "id": 121,
-          "text": "Customers are advised to ------- their order status on our mobile application.",
+          "text": "All associates are ------- to follow the standard operating procedures outlined in the handbook.",
           "options": [
-            "track",
-            "tracking",
-            "tracked",
-            "tracks"
+            "concerned",
+            "tended",
+            "maintained",
+            "expected"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Sau to dùng V nguyên mẫu -> track (A)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Sau to dùng V nguyên mẫu -> track (A)"
         },
         {
           "id": 122,
-          "text": "The sales department reported a significant ------- in revenue this quarter.",
+          "text": "This month Framley Publishing House is embarking on its ------- expansion so far.",
           "options": [
-            "increase",
-            "increasing",
-            "increasingly",
-            "increased"
+            "ambitiously",
+            "most ambitiously",
+            "ambition",
+            "most ambitious"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Danh từ đứng sau tính từ 'significant' -> increase (A)",
-          "hint": "Gợi ý cách làm: Danh từ đứng sau tính từ 'significant' -> increase (A). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
+          "hint": "Gợi ý cách làm: Danh từ đứng sau tính từ 'significant' -> increase (A). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Danh từ đứng sau tính từ 'significant' -> increase (A)"
         },
         {
           "id": 123,
-          "text": "The board members were not ------- informed about the budget deficit.",
+          "text": "After months of collaboration, Matricks Technology's software developers ------- released a top-quality product.",
           "options": [
-            "full",
-            "fully",
-            "fullness",
-            "fuller"
+            "profoundly",
+            "overly",
+            "finally",
+            "intensely"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Trạng từ bổ nghĩa cho tính từ/phân từ 'informed' -> fully (B)",
-          "hint": "Gợi ý cách làm: Trạng từ bổ nghĩa cho tính từ/phân từ 'informed' -> fully (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
+          "hint": "Gợi ý cách làm: Trạng từ bổ nghĩa cho tính từ/phân từ 'informed' -> fully (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Trạng từ bổ nghĩa cho tính từ/phân từ 'informed' -> fully (B)"
         },
         {
           "id": 124,
-          "text": "Customer ------- is the top priority for our customer service team.",
+          "text": "Tickets are valid for one-time access and do not allow for ------- into the venue.",
           "options": [
-            "satisfy",
-            "satisfaction",
-            "satisfying",
-            "satisfied"
+            "duplication",
+            "reentry",
+            "permission",
+            "turnover"
           ],
           "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Cụm danh từ 'Customer satisfaction' -> satisfaction (B)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Cụm danh từ 'Customer satisfaction' -> satisfaction (B)"
         },
         {
           "id": 125,
-          "text": "The proposal was rejected ------- the lack of detailed supporting financial data.",
+          "text": "We hired Okafor Construction to do the renovation ------- it was not the lowest bidder on the project.",
           "options": [
-            "due to",
-            "because",
-            "as a result",
-            "therefore"
+            "if only",
+            "alternatively",
+            "whereas",
+            "even though"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "due to + Noun phrase -> due to (A)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "due to + Noun phrase -> due to (A)"
         },
         {
           "id": 126,
-          "text": "Employees ------- a minimum of two years of experience are eligible for promotion.",
+          "text": "The first ------- of the training will introduce staff to certain workplace responsibilities.",
           "options": [
-            "with",
-            "who has",
-            "whose",
-            "which have"
+            "part",
+            "parted",
+            "parting",
+            "partial"
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Giới từ 'with' mang nghĩa sở hữu kinh nghiệm -> with (A)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Giới từ 'with' mang nghĩa sở hữu kinh nghiệm -> with (A)"
         },
         {
           "id": 127,
-          "text": "The report must be ------- before the deadline on Friday afternoon.",
+          "text": "According to industry -------, Ghira Company plans to relocate its headquarters to Australia.",
           "options": [
-            "finalize",
-            "finalized",
-            "finalizing",
-            "finalization"
+            "reported",
+            "reportedly",
+            "reporter",
+            "reports"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Bị động must be + V3 -> finalized (B)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Bị động must be + V3 -> finalized (B)"
         },
         {
           "id": 128,
-          "text": "The company offers its staff a comprehensive ------- package.",
+          "text": "Next month, the Kneath House will host an exhibition of ------- furniture and clothing from the eighteenth century.",
           "options": [
-            "benefit",
-            "benefits",
-            "beneficial",
-            "benefiting"
+            "authentic",
+            "authentically",
+            "authenticate",
+            "authenticity"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Cụm danh từ 'benefits package' -> benefits (B)",
-          "hint": "Gợi ý cách làm: Cụm danh từ 'benefits package' -> benefits (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
+          "hint": "Gợi ý cách làm: Cụm danh từ 'benefits package' -> benefits (B). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Cụm danh từ 'benefits package' -> benefits (B)"
         },
         {
           "id": 129,
-          "text": "The new system is designed to be more ------- than the legacy software.",
+          "text": "PKTM’s regional managers serve ------- the direction of the vice president.",
           "options": [
-            "efficient",
-            "efficiency",
-            "efficiently",
-            "efficiencies"
+            "among",
+            "under",
+            "behind",
+            "opposite"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Tính từ đứng sau more -> efficient (A)",
-          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp."
+          "hint": "Ô trống đứng sau động từ to-be → cần TÍNH TỪ hoặc PHÂN TỪ bổ nghĩa chủ ngữ. Chọn dạng từ phù hợp.",
+          "explanation": "Tính từ đứng sau more -> efficient (A)"
         },
         {
           "id": 130,
-          "text": "Please ------- the attached PDF file for complete project specifications.",
+          "text": "a recent surge in demand, Vanita’s Catering is hiring four additional servers.",
           "options": [
-            "refer to",
-            "refer on",
-            "referred to",
-            "referring to"
+            "Everywhere",
+            "Possibly",
+            "In total",
+            "Owing to"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Cụm động từ nguyên mẫu 'refer to' -> (A)",
-          "hint": "Gợi ý cách làm: Cụm động từ nguyên mẫu 'refer to' -> (A). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp."
+          "hint": "Gợi ý cách làm: Cụm động từ nguyên mẫu 'refer to' -> (A). Phân tích ngữ cảnh và chọn từ loại/dạng từ phù hợp.",
+          "explanation": "Cụm động từ nguyên mẫu 'refer to' -> (A)"
         }
       ]
     },
@@ -2125,7 +2125,7 @@
             "(C) Ms. Shawn was the first director of human",
             "(D) The first project will be the creation of a"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 6 - Text Completion",
           "explanation": "Bị động are + V3 -> required (B)"
         },
@@ -2141,7 +2141,7 @@
             "(C) Ms. Shawn was the first director of human",
             "(D) The first project will be the creation of a"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 6 - Text Completion",
           "explanation": "Trạng từ bổ sung ý tích cực -> Additionally (C)"
         },
@@ -2173,7 +2173,7 @@
             "(C) Ms. Shawn was the first director of human",
             "(D) The first project will be the creation of a"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 6 - Text Completion",
           "explanation": "Từ nghi vấn/điều kiện 'any questions' -> any (A)"
         },
@@ -2189,7 +2189,7 @@
             "(C) They will be closed for the summer but",
             "(D) Therefore, they can help you with all"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 6 - Text Completion",
           "explanation": "Danh từ đếm được đứng sau an -> update (A)"
         },
@@ -2205,7 +2205,7 @@
             "(C) They will be closed for the summer but",
             "(D) Therefore, they can help you with all"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 6 - Text Completion",
           "explanation": "Hiện tại hoàn thành has + V3 -> completed (C)"
         },
@@ -2221,7 +2221,7 @@
             "(C) They will be closed for the summer but",
             "(D) Therefore, they can help you with all"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 6 - Text Completion",
           "explanation": "Cụm cố định 'on schedule' -> on (A)"
         },
@@ -2253,7 +2253,7 @@
             "(C) Please fill out the paperwork before",
             "(D) Your responses will help us serve you"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 6 - Text Completion",
           "explanation": "Động từ nguyên mẫu to + V -> notify (A)"
         },
@@ -2269,7 +2269,7 @@
             "(C) Please fill out the paperwork befc",
             "(D) Your responses will help us serve"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 6 - Text Completion",
           "explanation": "take + khoảng thời gian -> take (A)"
         },
@@ -2301,7 +2301,7 @@
             "(C) management",
             "(D) managing"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 6 - Text Completion",
           "explanation": "Danh từ ghép 'management office' -> management (C)"
         },
@@ -2317,7 +2317,7 @@
             "(C) profitable",
             "(D) comfortable"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 6 - Text Completion",
           "explanation": "Tính từ đứng sau is -> available (A)"
         },
@@ -2333,7 +2333,7 @@
             "(C) profitable",
             "(D) comfortable"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 6 - Text Completion",
           "explanation": "Tính từ song song với dependable -> fast (A)"
         },
@@ -2404,7 +2404,7 @@
             "(C) It is located next to a medical center.",
             "(D) It allows customers to make"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Thời điểm bắt đầu được ghi rõ trong thông báo vào sáng thứ Hai tuần tới."
         },
@@ -2420,7 +2420,7 @@
             "(C) To schedule a meeting",
             "(D) To inform colleagues of an absence"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Email mô tả về giải pháp phần mềm quản lý kế toán."
         },
@@ -2484,7 +2484,7 @@
             "(C) Nationwide delivery",
             "(D) Free installation services"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Quảng cáo nhấn mạnh vật liệu gạch lát thân thiện với môi trường."
         },
@@ -2500,7 +2500,7 @@
             "(C) By requesting a coupon from the captain",
             "(D) By mentioning a confirmation code"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Đăng ký tài khoản trên trang web để nhận mã ưu đãi."
         },
@@ -2516,7 +2516,7 @@
             "(C) By requesting a coupon from the captain",
             "(D) By mentioning a confirmation code"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Bài viết về sáng kiến cắt giảm khí thải giao thông của Project Earth Group."
         },
@@ -2532,7 +2532,7 @@
             "(C) Check on an arrival time",
             "(D) Revise a design proposal"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Đưa vào vận hành đội xe van giao hàng điện năng."
         },
@@ -2548,7 +2548,7 @@
             "(C) Check on an arri'",
             "(D) Revise a design"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Quản lý dự án Hannah Chung được nhắc tên trong bài."
         },
@@ -2564,7 +2564,7 @@
             "(C) To submit an expense reimbursement claim",
             "(D) To reserve a conference room"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Mẫu đăng ký chương trình khách hàng thân thiết Lehua Vacation Club."
         },
@@ -2580,7 +2580,7 @@
             "(C) Late checkout options",
             "(D) Complimentary breakfast"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Nhận x2 điểm thưởng trong suốt tháng 8."
         },
@@ -2596,7 +2596,7 @@
             "(C) They include discounts on certain",
             "(D) They can be used to buy personal"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Yêu cầu điền số định danh thành viên Member ID."
         },
@@ -2612,7 +2612,7 @@
             "(C) statement",
             "(D) answer"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Ứng tuyển vị trí truyền thông sự kiện dựa trên kinh nghiệm cựu publicist."
         },
@@ -2644,7 +2644,7 @@
             "(C) statement",
             "(D) answer"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Đính kèm sơ yếu lý lịch cập nhật (resume)."
         },
@@ -2660,7 +2660,7 @@
             "(C) Coordinating dress rehearsal costumes",
             "(D) Booking hotel accommodations"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Thảo luận về việc nhận trang phục cho buổi tổng duyệt đầu tiên."
         },
@@ -2676,7 +2676,7 @@
             "(C) Courier delivery mix-up",
             "(D) Budget approval delays"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Chậm trễ do thiếu hụt vật liệu từ nhà cung cấp."
         },
@@ -2692,7 +2692,7 @@
             "(C) It is expected to run for a full year.",
             "(D) It rewards both new and existing"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Thời gian xe giao hàng dự kiến đến lúc 11:30 A.M."
         },
@@ -2708,7 +2708,7 @@
             "(C) $45.00",
             "(D) $60.00"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Trực tiếp mở kiểm tra số lượng thùng trang phục khi giao đến."
         },
@@ -2756,7 +2756,7 @@
             "(C) A customer of Sarah’s Catering",
             "(D) An assistant at a marketing firm"
           ],
-          "answer": "D",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Đội ngũ kiểm soát tuân thủ nội bộ tiến hành đánh giá."
         },
@@ -2772,7 +2772,7 @@
             "(C) A customer of Sarah’s Catering",
             "(D) An assistant at a marketing firm"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Đánh giá lại giao thức an ninh mạng vào tháng 11."
         },
@@ -2820,7 +2820,7 @@
             "(C) Attend a meeting with Ms. Luong",
             "(D) Reschedule a video conference"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Lịch họp diễn ra lúc 12 giờ trưa thứ Năm."
         },
@@ -2836,7 +2836,7 @@
             "(C) Attend a meeting with Ms. Luong",
             "(D) Reschedule a video conference"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Xuất trình giấy tờ tùy thân có ảnh khi check-in qua cổng bảo vệ."
         },
@@ -2852,7 +2852,7 @@
             "(C) At 2:30 p.m. on Saturday",
             "(D) At 6:30 p.m. on Saturday"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Bán bánh donut táo tươi với giá £6 mỗi tá tại cửa hàng bán lẻ."
         },
@@ -2868,7 +2868,7 @@
             "(C) At 2:30 p.m. on Saturday",
             "(D) At 6:30 p.m. on Saturday"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Bánh donut táo tươi được giảm giá khuyến mãi."
         },
@@ -2884,7 +2884,7 @@
             "(C) At 2:30 p.m. on Saturday",
             "(D) At 6:30 p.m. on Saturday"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Liên hệ trực tiếp quản lý kinh doanh Mr. Tanaka."
         },
@@ -2900,7 +2900,7 @@
             "(C) At 2:30 p.m. on Saturday",
             "(D) At 6:30 p.m. on Saturday"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Chiết khấu 10% cho các đơn hàng bán sỉ trên £50."
         },
@@ -2916,7 +2916,7 @@
             "(C) At 2:30 p.m. on Saturday",
             "(D) At 6:30 p.m. on Saturday"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Giao hàng miễn phí nội vùng cho đơn hàng từ £30."
         },
@@ -2932,7 +2932,7 @@
             "(C) It is in the process of hiring more staff.",
             "(D) It prioritizes improvements in customer"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Cập nhật hướng dẫn di chuyển hàng không nội địa đến Terminal A."
         },
@@ -2948,7 +2948,7 @@
             "(C) It is in the process of hiring more staff.",
             "(D) It prioritizes improvements in customer"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Hành khách các chuyến bay nội địa tập trung tại Terminal A."
         },
@@ -2964,7 +2964,7 @@
             "(C) It is in the process of hiring more staff.",
             "(D) It prioritizes improvements in customer"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Yêu cầu quét mã vạch trên thẻ hành lý."
         },
@@ -2980,7 +2980,7 @@
             "(C) It is in the process of hiring more staff.",
             "(D) It prioritizes improvements in customer"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Liên hệ bộ phận điều hành di chuyển doanh nghiệp khi đổi lịch."
         },
@@ -2996,7 +2996,7 @@
             "(C) It is in the process of hiring more staff.",
             "(D) It prioritizes improvements in customer"
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Phí đỗ xe buýt trung chuyển sân bay được hoàn trả theo quy định."
         },
@@ -3012,7 +3012,7 @@
             "(C) It was easy to read in the time",
             "(D) It inspired her to explore an old interest."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Dịch vụ may đo bộ suit thiết kế theo phong cách và ngân sách riêng."
         },
@@ -3028,7 +3028,7 @@
             "(C) It was easy to read in the time",
             "(D) It inspired her to explore an old interest."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Tay nghề may đo thủ công tinh xảo, chất lượng cao."
         },
@@ -3044,7 +3044,7 @@
             "(C) It was easy to read in the time",
             "(D) It inspired her to explore an old interest."
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Chất liệu vải len tổng hợp cao cấp nhập khẩu từ Ý."
         },
@@ -3060,7 +3060,7 @@
             "(C) It was easy to read in the time",
             "(D) It inspired her to explore an old interest."
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Lịch hẹn thử đồ diễn ra vào 2:30 P.M. chiều thứ Năm."
         },
@@ -3076,7 +3076,7 @@
             "(C) It was easy to read in the time",
             "(D) It inspired her to explore an old interest."
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Nhận ưu đãi 15% dành cho khách hàng trải nghiệm lần đầu."
         },
@@ -3092,7 +3092,7 @@
             "(C) Its start time has chan _",
             "(D) It will be larger than expected."
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Danh mục tổng hợp các mẫu gạch lát sàn Zahn Flooring tại Vương Quốc Anh."
         },
@@ -3124,7 +3124,7 @@
             "(C) Its start time has chan _",
             "(D) It will be larger than expected."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Trụ sở chính đặt tại thủ đô London, Vương Quốc Anh."
         },
@@ -3140,7 +3140,7 @@
             "(C) Its start time has changed.",
             "(D) It will be larger than expected."
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Giao mẫu thử nghiệm tận nhà và tư vấn thiết kế miễn phí."
         },
@@ -3156,7 +3156,7 @@
             "(C) Its start time has chan _",
             "(D) It will be larger than expected."
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Điền biểu mẫu kích thước thông số trực tuyến trên trang web."
         },
@@ -3172,7 +3172,7 @@
             "(C) She will be helping to collect feedback.",
             "(D) She works in the production department."
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Chiến dịch toàn diện về giải pháp giao thông xanh của Project Earth Group."
         },
@@ -3204,7 +3204,7 @@
             "(C) She will be helping to collect feedback.",
             "(D) She works in the production department."
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Bản ghi nhớ nội bộ do Quản lý dự án Hannah Chung phát hành."
         },
@@ -3220,7 +3220,7 @@
             "(C) She will be helping to collect feedback.",
             "(D) She works in the production department."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Buổi chạy thử nghiệm thực tế các dòng xe giao vận chạy điện mới."
         },
@@ -3236,7 +3236,7 @@
             "(C) She will be helping to collect feedback.",
             "(D) She works in the production department."
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Đóng góp các ý kiến giải pháp bảo vệ môi trường cho ban điều hành."
         }
