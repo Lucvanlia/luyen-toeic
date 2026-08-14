@@ -9,7 +9,7 @@
       "questions": [
         {
           "id": 101,
-          "text": "I need you to finish those reports _______ next Thursday.",
+          "text": "I need you to finish those reports ______ next Thursday.",
           "options": [
             "then",
             "by",
@@ -23,7 +23,7 @@
         },
         {
           "id": 102,
-          "text": "Nowadays, _______ households in the developed world have at least one computer.",
+          "text": "Nowadays, ______ households in the developed world have at least one computer.",
           "options": [
             "most",
             "every",
@@ -37,7 +37,7 @@
         },
         {
           "id": 103,
-          "text": "The company hadn't experienced _______ high call volumes before and were ill-equipped to handle them all.",
+          "text": "The company hadn’t experienced ______ high call volumes before and were ill-equipped to handle them all.",
           "options": [
             "so",
             "a lot",
@@ -51,7 +51,7 @@
         },
         {
           "id": 104,
-          "text": "The Hoverton Commercial Committee _______ advertising and marketing methods in the region.",
+          "text": "The Hoverton Commercial Committee ______ advertising and marketing methods in the region.",
           "options": [
             "refuses",
             "insists",
@@ -65,21 +65,21 @@
         },
         {
           "id": 105,
-          "text": "This program is _______ harder to get accustomed to than the old one.",
+          "text": "This program is ______ harder to get accustomed to than the old one.",
           "options": [
             "such",
             "so",
             "very",
             "much"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
           "explanation": "Very + tinh tu so sanh -> very much harder. O day cac options chi co 'very'. -> (C)",
           "hint": "O trong dung truoc tinh tu so sanh 'harder' -> can trung tu bo nghia cho tinh tu so sanh. Cac options nao co the dung truoc comparative adjective?"
         },
         {
           "id": 106,
-          "text": "When the manager arrived at the office, she was relieved to see that the technician _______ her computer.",
+          "text": "When the manager arrived at the office, she was relieved to see that the technician ______ her computer.",
           "options": [
             "fix",
             "fixes",
@@ -93,7 +93,7 @@
         },
         {
           "id": 107,
-          "text": "Many of the product samples brought for demonstration at the convention _______ on the plane ride.",
+          "text": "Many of the product samples brought for demonstration at the convention ______ on the plane ride.",
           "options": [
             "lose",
             "lost",
@@ -107,7 +107,7 @@
         },
         {
           "id": 108,
-          "text": "Even after the terrible fiscal year they had, there was still $1.5 million in _______.",
+          "text": "Even after the terrible fiscal year they had, there was still $1.5 million in ______.",
           "options": [
             "profitably",
             "profitable",
@@ -121,7 +121,7 @@
         },
         {
           "id": 109,
-          "text": "_______ this problem before, the maintenance technician knew exactly which tool to use to fix the appliance.",
+          "text": "______ this problem before, the maintenance technician knew exactly which tool to use to fix the appliance.",
           "options": [
             "Seen",
             "Seeing",
@@ -135,7 +135,7 @@
         },
         {
           "id": 110,
-          "text": "In addition to English, the vice-president can fluently _______ in both French and Spanish.",
+          "text": "In addition to English, the vice-president can fluently ______ in both French and Spanish.",
           "options": [
             "convene",
             "convey",
@@ -149,7 +149,7 @@
         },
         {
           "id": 111,
-          "text": "Though at first glance the products seem very much alike, they are _______ in many ways.",
+          "text": "Though at first glance the products seem very much alike, they are ______ in many ways.",
           "options": [
             "different",
             "difficult",
@@ -163,7 +163,7 @@
         },
         {
           "id": 112,
-          "text": "The law firm is looking for a new office building that is neither old _______ located outside of town.",
+          "text": "The law firm is looking for a new office building that is neither old ______ located outside of town.",
           "options": [
             "or",
             "nor",
@@ -177,7 +177,7 @@
         },
         {
           "id": 113,
-          "text": "Please do not cross the yellow line on the platform _______ the train has come to a complete stop.",
+          "text": "Please do not cross the yellow line on the platform ______ the train has come to a complete stop.",
           "options": [
             "by",
             "until",
@@ -191,7 +191,7 @@
         },
         {
           "id": 114,
-          "text": "Although Janet and Sam are both excellent managers, there are slight _______ in the way they do their jobs.",
+          "text": "Although Janet and Sam are both excellent managers, there are slight ______ in the way they do their jobs.",
           "options": [
             "variations",
             "varieties",
@@ -205,7 +205,7 @@
         },
         {
           "id": 115,
-          "text": "_______ business successfully internationally, we must learn the importance of respecting cultural differences.",
+          "text": "______ business successfully internationally, we must learn the importance of respecting cultural differences.",
           "options": [
             "To do",
             "Does",
@@ -219,7 +219,7 @@
         },
         {
           "id": 116,
-          "text": "If you require further _______, please feel free to contact us at 555-3333.",
+          "text": "If you require further ______, please feel free to contact us at 555-3333.",
           "options": [
             "informational",
             "informed",
@@ -233,21 +233,21 @@
         },
         {
           "id": 117,
-          "text": "It has not rained for weeks, _______ my boss brings an umbrella to work every day.",
+          "text": "It has not rained for weeks, ______ my boss brings an umbrella to work every day.",
           "options": [
             "yet",
             "so",
             "because",
             "since"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
           "explanation": "Because = vi; giai thich ly do mang o du khong mua. -> (C)",
           "hint": "O trong ket noi hai menh de: 'It has not rained for weeks' + 'my boss brings an umbrella'. Moi quan he giua 2 y nay la gi?"
         },
         {
           "id": 118,
-          "text": "The customer was not satisfied with the service and asked to talk to the manager _______.",
+          "text": "The customer was not satisfied with the service and asked to talk to the manager ______.",
           "options": [
             "instantly",
             "internally",
@@ -261,7 +261,7 @@
         },
         {
           "id": 119,
-          "text": "Most people who are elected to government positions come from _______ families.",
+          "text": "Most people who are elected to government positions come from ______ families.",
           "options": [
             "respect",
             "respecting",
@@ -275,7 +275,7 @@
         },
         {
           "id": 120,
-          "text": "This is the third time this week that each photocopier _______ broken down.",
+          "text": "This is the third time this week that each photocopier ______ broken down.",
           "options": [
             "are",
             "has",
@@ -289,7 +289,7 @@
         },
         {
           "id": 121,
-          "text": "The electrical wires _______ by the terrible windstorm last night, leaving hundreds of customers without power.",
+          "text": "The electrical wires ______ by the terrible windstorm last night, leaving hundreds of customers without power.",
           "options": [
             "are damaged",
             "were damaged",
@@ -303,21 +303,21 @@
         },
         {
           "id": 122,
-          "text": "This was his fourth time taking his accounting certification exam, and he wanted _______ this time.",
+          "text": "This was his fourth time taking his accounting certification exam, and he wanted ______ this time.",
           "options": [
             "to not fail",
             "not to fail",
             "failing to not",
             "failing not to"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
           "explanation": "Wanted + to V; phu dinh: to not fail (phu tu not dat truoc dong tu nguyen mau). -> (A)",
           "hint": "O trong + dong tu 'fail' -> can cau truc: 'want + [o trong] + to do sth' hay 'want + to + [o trong]'? Vi tri cua 'not' o dau?"
         },
         {
           "id": 123,
-          "text": "_______ the research uncovered some problems, the company decided to stop the project.",
+          "text": "______ the research uncovered some problems, the company decided to stop the project.",
           "options": [
             "Since",
             "Therefore",
@@ -331,7 +331,7 @@
         },
         {
           "id": 124,
-          "text": "We need greater cooperation from everyone involved in order to meet the _______.",
+          "text": "We need greater cooperation from everyone involved in order to meet the ______.",
           "options": [
             "deadline",
             "termination",
@@ -345,7 +345,7 @@
         },
         {
           "id": 125,
-          "text": "With just a little more work, he _______ well-prepared for his sales presentation on Friday.",
+          "text": "With just a little more work, he ______ well-prepared for his sales presentation on Friday.",
           "options": [
             "will be",
             "was being",
@@ -359,7 +359,7 @@
         },
         {
           "id": 126,
-          "text": "Every time I need to use the photocopier, I find it needs _______.",
+          "text": "Every time I need to use the photocopier, I find it needs ______.",
           "options": [
             "to fix",
             "fixes",
@@ -373,7 +373,7 @@
         },
         {
           "id": 127,
-          "text": "Because of the partnership, Bob and Miles phone _______ several times a day.",
+          "text": "Because of the partnership, Bob and Miles phone ______ several times a day.",
           "options": [
             "theirs",
             "them",
@@ -387,7 +387,7 @@
         },
         {
           "id": 128,
-          "text": "Let's take another _______ at the sales figures.",
+          "text": "Let’s take another ______ at the sales figures.",
           "options": [
             "view",
             "scene",
@@ -401,7 +401,7 @@
         },
         {
           "id": 129,
-          "text": "It is reported that the boat _______ about 60 miles off the coast of South Africa last week.",
+          "text": "It is reported that the boat ______ about 60 miles off the coast of South Africa last week.",
           "options": [
             "disappeared",
             "was disappeared",
@@ -415,7 +415,7 @@
         },
         {
           "id": 130,
-          "text": "Since this is our slow season, I am considering _______ to vacation next month.",
+          "text": "Since this is our slow season, I am considering ______ to vacation next month.",
           "options": [
             "to go",
             "going",
@@ -616,7 +616,7 @@
             "(C) Those with special dietary restrictions are asked to mention their preference on their RSVP.",
             "(D) Dinner will be held in the outdoor terrace beginning at 8 p.m."
           ],
-          "answer": "D",
+          "answer": "C",
           "category": "Part 6 - Text Completion",
           "explanation": "Sau trang phuc, can thong tin ve dia diem/thoi gian an toi -> Dinner will be held at outdoor terrace at 8 pm. -> (D)",
           "hint": "SENTENCE INSERTION: Cau [141] dung sau 'Dress is formal attire.' va truoc 'The proceeds from this will go toward the library expansion project.' Can cau nao ket noi tu nhien?"
@@ -878,7 +878,7 @@
             "(C) [3]",
             "(D) [4]"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Cau giai thich ly do chuyen bay bi huy -> dung o [1] truoc khi giai thich lich bay moi. -> (A)",
           "hint": "SENTENCE INSERTION: 'My flight to California has been canceled because of bad weather.' -> Cau nay giai thich ly do tai sao. Vi tri nao can giai thich truoc khi neu lich bay moi?"
@@ -895,7 +895,7 @@
             "(C) August 16",
             "(D) August 17"
           ],
-          "answer": "D",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'reschedule our meetings for the day after I get there, the 17th' -> den noi ngay 17/8. -> (D)",
           "hint": "Cau hoi: WHEN will Mr. Brown arrive? -> Tim ngay cu the trong email. 'the day after I get there, the 17th' -> ngay 17 la ngay nao?"
@@ -1099,7 +1099,7 @@
             "(C) [3]",
             "(D) [4]"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Cau khuyen khich dat som -> dung o [2] truoc khi giai thich gia cu the. -> (B)",
           "hint": "SENTENCE INSERTION: 'If you book now, you can get away for even less.' -> Cau nay khuyen khich dat som. Vi tri nao phu hop truoc khi giai thich gia?"
@@ -1235,7 +1235,7 @@
             "(C) Constructing an ice rink",
             "(D) Installing a new pond"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'Snow blowers will enable Mendez Park to stay open all year round' -> giu mo cua quanh nam. -> (B)",
           "hint": "Cau hoi: What CHANGE is planned? -> Tim thong tin ve ke hoach thay doi trong cong vien."
@@ -1371,7 +1371,7 @@
             "(C) Work on ideas for marketing trips to young people",
             "(D) Think of ways to market Spanish vacations"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Email: Olivia nham target B (younger visitors within Britain) -> Work on ideas for marketing trips to young people. -> (C)",
           "hint": "Cau hoi: What will Olivia Benn DO this week? -> Scan email tim ke hoach hanh dong cu the cua Olivia."
@@ -1456,7 +1456,7 @@
             "(C) It involves performing world-famous plays.",
             "(D) It is expected to draw a large audience."
           ],
-          "answer": "D",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'last time it was standing-room only' -> lan truoc het cho, du kien lan nay cung dong. -> (D)",
           "hint": "Cau hoi: What is SUGGESTED about the event? -> Tim thong tin gian tiep (implied). 'standing-room only' co nghia gi?"
@@ -1473,7 +1473,7 @@
             "(C) It can be delivered quickly.",
             "(D) People’s wages have risen."
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'over the next five years, we will be offering substantial subsidies to farmers who plant coffee' -> coffee. -> (B)",
           "hint": "Cau hoi: Which product is expected to INCREASE MOST? -> Tim san pham duoc ho tro nhat trong ke hoach tuong lai."
@@ -1524,7 +1524,7 @@
             "(C) It can be delivered quickly.",
             "(D) People’s wages have risen."
           ],
-          "answer": "D",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "'With more leisure time, better education, and higher incomes...' -> thu nhap tang. -> (D)",
           "hint": "Cau hoi: WHY has beef become popular? -> Scan van ban tim ly do lien quan den thu nhap/loi song."
@@ -1558,7 +1558,7 @@
             "(C) Letterhead paper",
             "(D) Envelopes"
           ],
-          "answer": "D",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
           "explanation": "Memo liet ke quy trinh tai che giay chung; email khen HR lang phi it nhat. Loai bi cac lua chon duoc de cap ro -> envelopes it bi de cap nhat = lang phi it nhat. -> (D)",
           "hint": "Cau hoi: Which type of paper was wasted the LEAST? -> Memo liet ke nhieu loai giay. Loai nao KHONG duoc de cap la loai bi lang phi?"
