@@ -2098,3 +2098,255 @@ ul { list-style: none; }
   box-shadow: 0 4px 16px rgba(211,47,47,.3); transition: all .2s;
 }
 .btn-review-wrong:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(211,47,47,.4); }
+
+/* ============================================================
+   RESPONSIVE – Mobile-First Breakpoints
+   Tablet  : max-width 900px
+   Mobile  : max-width 640px
+   Small   : max-width 480px
+   ============================================================ */
+
+/* ── Tablet (≤ 900px) ─────────────────────────────────────── */
+@media (max-width: 900px) {
+
+  /* Header */
+  .site-header { padding: 0 16px; }
+  .site-nav { gap: 8px; }
+  .nav-link { font-size: 13px; padding: 6px 12px; }
+
+  /* Hero */
+  .hero-banner { padding: 32px 16px; }
+  .hero-inner h1 { font-size: clamp(24px, 5vw, 36px); }
+  .hero-stats { gap: 12px; }
+  .hero-stat-val { font-size: 28px; }
+
+  /* Test grid */
+  .test-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; padding: 0 16px 32px; }
+
+  /* Workspace: stack 3 columns → 1 column on small */
+  .workspace-container {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    height: auto;
+    overflow: visible;
+  }
+  .media-panel {
+    max-height: 320px;
+    overflow-y: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+  }
+  .palette-panel {
+    border-left: none;
+    border-top: 1px solid var(--border);
+    max-height: 200px;
+    overflow-y: auto;
+  }
+  #paletteContainer { display: flex; flex-wrap: wrap; gap: 4px; padding: 8px; }
+
+  /* Test navbar */
+  .test-navbar { padding: 0 12px; }
+  .tnav-logo { font-size: 14px; }
+  .btn-submit-test { font-size: 12px; padding: 8px 14px; }
+
+  /* Result */
+  .score-grid { grid-template-columns: repeat(2, 1fr); }
+
+  /* Review */
+  .review-body {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+  .review-media-panel {
+    max-height: 280px;
+    overflow-y: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+  }
+}
+
+/* ── Mobile (≤ 640px) ─────────────────────────────────────── */
+@media (max-width: 640px) {
+
+  /* Header */
+  .site-header { height: auto; padding: 10px 14px; flex-wrap: wrap; gap: 8px; }
+  .logo-mark { font-size: 16px; }
+  .logo-sub { font-size: 11px; }
+  .site-nav { width: 100%; justify-content: center; }
+  .nav-link { font-size: 12px; padding: 5px 10px; }
+
+  /* Hero */
+  .hero-banner { padding: 24px 14px; text-align: center; }
+  .hero-inner h1 { font-size: clamp(20px, 6vw, 28px); }
+  .hero-inner p { font-size: 13px; }
+  .hero-stats { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+  .hero-stat { padding: 12px 8px; }
+  .hero-stat-val { font-size: 24px; }
+  .hero-stat-label { font-size: 11px; }
+
+  /* Tests section */
+  .tests-section { padding: 0 12px; }
+  .test-grid { grid-template-columns: 1fr; gap: 12px; padding: 0 0 24px; }
+  .test-card { padding: 18px; }
+  .test-card-title { font-size: 16px; }
+
+  /* Modal */
+  .modal-box { margin: 8px; max-height: calc(100vh - 16px); border-radius: var(--r-md); }
+  .modal-header { padding: 14px 16px; }
+  .modal-header h2 { font-size: 17px; }
+  .modal-body { padding: 14px 16px; max-height: calc(100vh - 200px); overflow-y: auto; }
+  .modal-footer { padding: 12px 16px; flex-wrap: wrap; gap: 8px; }
+  .modal-footer button { flex: 1; min-width: 120px; }
+  .parts-grid { grid-template-columns: repeat(2, 1fr) !important; gap: 8px; }
+  .part-chip { padding: 10px 8px; font-size: 12px; }
+
+  /* Test navbar */
+  .test-navbar { height: auto; padding: 8px 12px; flex-wrap: wrap; gap: 6px; }
+  .tnav-left { gap: 8px; }
+  .tnav-logo { display: none; }
+  .timer-display { font-size: 13px; }
+  .tnav-center { gap: 6px; }
+  .part-pill { font-size: 12px; padding: 4px 10px; }
+  .btn-nav-part { width: 30px; height: 30px; font-size: 18px; }
+  .tnav-right { gap: 8px; }
+  .btn-submit-test { font-size: 12px; padding: 7px 12px; }
+  .btn-exit-test { width: 32px; height: 32px; font-size: 16px; }
+
+  /* Audio bar */
+  .audio-bar { padding: 8px 12px; gap: 8px; flex-wrap: wrap; }
+  .audio-btn { width: 34px; height: 34px; font-size: 15px; }
+  .audio-seek { flex: 1; min-width: 100px; }
+  .audio-time { font-size: 11px; white-space: nowrap; }
+  .audio-speed { font-size: 12px; padding: 4px 6px; }
+
+  /* Workspace */
+  .workspace-container { gap: 0; }
+  .media-panel {
+    max-height: 260px;
+    padding: 10px;
+  }
+  .questions-panel { padding: 12px; }
+  .palette-panel { padding: 8px 12px; }
+  .palette-status { font-size: 12px; margin-bottom: 8px; }
+
+  /* Question cards */
+  .q-card { padding: 14px; margin-bottom: 14px; }
+  .q-card-header { flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+  .q-num { font-size: 15px; min-width: 26px; }
+  .q-cat-badge { font-size: 10px; padding: 3px 8px; }
+  .q-text { font-size: 14px; line-height: 1.65; }
+  .q-options { gap: 8px; margin-top: 10px; }
+  .q-option-label { padding: 10px 12px; font-size: 13.5px; gap: 8px; }
+  .q-option-letter { width: 26px; height: 26px; font-size: 12px; }
+
+  /* Hint / Explanation */
+  .q-hint-btn { font-size: 12px; padding: 7px 12px; }
+  .rich-explanation { padding: 12px; gap: 10px; }
+  .exp-section { padding: 10px 12px; }
+
+  /* Result */
+  .result-container { padding: 0 12px 24px; }
+  .result-hero { padding: 20px 16px; }
+  .result-hero-title { font-size: 20px; }
+  .score-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+  .score-box { padding: 14px 10px; }
+  .score-box-val { font-size: 28px; }
+  .accuracy-row { flex-wrap: wrap; gap: 6px; }
+  .result-cta-btns { flex-direction: column; align-items: stretch; }
+  .btn-review-wrong, .btn-back-home { width: 100%; text-align: center; justify-content: center; }
+
+  /* Category table */
+  .cat-table { font-size: 12px; }
+  .cat-table th, .cat-table td { padding: 8px 6px; }
+  .result-table-card { padding: 0; }
+  .result-table-card-header { padding: 12px 14px; font-size: 14px; }
+
+  /* Review */
+  .review-navbar { padding: 0 12px; height: auto; min-height: 52px; flex-wrap: wrap; gap: 6px; padding: 8px 12px; }
+  .btn-review-back { font-size: 12px; padding: 6px 10px; }
+  .review-navbar-title { font-size: 14px; }
+  .review-filters-bar { padding: 10px 12px; flex-direction: column; gap: 8px; }
+  .review-filter-btn { font-size: 12px; padding: 5px 10px; }
+  .review-media-panel { max-height: 220px; padding: 10px; }
+  .review-content-panel { min-height: auto; }
+  .review-qlist { padding: 10px 12px; gap: 6px; }
+  .review-q-chip { font-size: 12px; padding: 5px 10px; }
+  .review-qdetail { padding: 12px; }
+  .review-detail-card { border-radius: var(--r-md); }
+  .review-detail-header { padding: 10px 14px; gap: 8px; }
+  .review-detail-qnum { font-size: 17px; }
+  .review-detail-body { padding: 12px 14px; gap: 10px; }
+  .review-qtext { font-size: 13.5px; padding: 9px 12px; }
+  .review-opt-row { padding: 8px 10px; font-size: 13px; }
+
+  /* Part 6/7 reading note */
+  .reading-focus-note { font-size: 12px; padding: 8px 12px; }
+  .p67-placeholder-text { font-size: 13px; padding: 12px; }
+
+  /* Shuffle badge */
+  .shuffle-badge { font-size: 11px; padding: 5px 10px; }
+}
+
+/* ── Small phones (≤ 480px) ───────────────────────────────── */
+@media (max-width: 480px) {
+
+  /* Header: hide subtitle */
+  .logo-sub { display: none; }
+  .site-nav .nav-link:not(.active) { display: none; }
+
+  /* Hero compact */
+  .hero-inner h1 { font-size: 20px; }
+  .hero-stats { grid-template-columns: repeat(4, 1fr); gap: 4px; }
+  .hero-stat { padding: 8px 4px; }
+  .hero-stat-val { font-size: 20px; }
+  .hero-stat-label { font-size: 10px; }
+
+  /* Test grid */
+  .test-grid { padding: 0; }
+  .test-card-meta { flex-wrap: wrap; }
+
+  /* Modal full-screen on very small */
+  .modal-box {
+    margin: 0;
+    border-radius: 0;
+    max-height: 100vh;
+    height: 100vh;
+  }
+
+  /* Score grid: 2 col */
+  .score-grid { gap: 6px; }
+  .score-box-val { font-size: 24px; }
+  .score-box-label { font-size: 11px; }
+
+  /* Palette: smaller numbers */
+  .palette-btn { width: 30px; height: 30px; font-size: 11px; }
+
+  /* No-media placeholder compact */
+  .no-media-placeholder { padding: 20px; }
+  .no-media-placeholder .icon { font-size: 28px; }
+
+  /* Part label */
+  .part-section-label { font-size: 12px; padding: 6px 10px; }
+}
+
+/* ── Touch-friendly tap targets ─────────────────────────────── */
+@media (hover: none) and (pointer: coarse) {
+  /* Bigger tap areas on touch devices */
+  .q-option-label { min-height: 48px; padding: 12px 14px; }
+  .btn-nav-part { min-width: 44px; min-height: 44px; }
+  .btn-exit-test { min-width: 44px; min-height: 44px; }
+  .audio-btn { min-width: 44px; min-height: 44px; }
+  .review-q-chip { min-height: 40px; }
+  .palette-btn { min-width: 36px; min-height: 36px; }
+  button, [role="button"] { -webkit-tap-highlight-color: transparent; }
+}
+
+/* ── Landscape phone fix ─────────────────────────────────────── */
+@media (max-height: 500px) and (orientation: landscape) {
+  .modal-box { max-height: 100vh; border-radius: 0; margin: 0; }
+  .modal-body { max-height: calc(100vh - 160px); }
+  .hero-banner { padding: 16px; }
+  .workspace-container { height: auto; }
+  .media-panel { max-height: 200px; }
+}
+
