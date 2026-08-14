@@ -2350,3 +2350,59 @@ ul { list-style: none; }
   .media-panel { max-height: 200px; }
 }
 
+/* ============================================================
+   FLOATING PASSAGE BUTTON (mobile Part 6/7)
+   ============================================================ */
+
+/* Hidden by default on desktop */
+#floatPassageBtn {
+  display: none;
+}
+
+/* Show only on mobile (<=900px) */
+@media (max-width: 900px) {
+  #floatPassageBtn {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 500;
+
+    /* Style */
+    background: linear-gradient(135deg, #2563eb, #1d4ed8);
+    color: #fff;
+    border: none;
+    border-radius: 9999px;
+    padding: 13px 28px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+    box-shadow: 0 6px 24px rgba(37,99,235,.45);
+    white-space: nowrap;
+
+    /* Bounce-in animation */
+    animation: floatBtnAppear .3s cubic-bezier(.34,1.56,.64,1) both;
+
+    /* Glass shimmer on tap */
+    transition: transform .12s, box-shadow .12s;
+  }
+
+  #floatPassageBtn:active {
+    transform: translateX(-50%) scale(.95);
+    box-shadow: 0 3px 12px rgba(37,99,235,.35);
+  }
+}
+
+@keyframes floatBtnAppear {
+  from { opacity: 0; transform: translateX(-50%) translateY(16px) scale(.85); }
+  to   { opacity: 1; transform: translateX(-50%) translateY(0)    scale(1);   }
+}
+
+/* ============================================================
+   LIGHTBOX OVERLAY ANIMATION
+   ============================================================ */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}

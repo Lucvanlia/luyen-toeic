@@ -410,6 +410,23 @@ function renderMediaPanel(part, targetQId) {
       </div>
     `;
   }
+
+  // ── Floating passage button for mobile (Part 6/7 only) ──────────────
+  // Inject/update a sticky floating button at bottom of screen
+  const isMobilePassagePart = ['part6','part7'].includes(S.activePart) && imgSrc;
+  let floatBtn = document.getElementById('floatPassageBtn');
+  if (isMobilePassagePart) {
+    if (!floatBtn) {
+      floatBtn = document.createElement('button');
+      floatBtn.id = 'floatPassageBtn';
+      floatBtn.innerHTML = '\uD83D\uDCD6 Xem \u0111o\u1EA1n v\u0103n';
+      document.getElementById('viewWorkspace').appendChild(floatBtn);
+    }
+    floatBtn.onclick = () => openImageFull(imgSrc);
+    floatBtn.style.display = '';
+  } else {
+    if (floatBtn) floatBtn.style.display = 'none';
+  }
 }
 
 /**
@@ -874,8 +891,35 @@ function playSegment(qId, start, end) {
 }
 
 function openImageFull(src) {
-  const w = window.open();
-  if (w) w.document.write(`<img src="${src}" style="max-width:100%;"/>`);
+  // In-page lightbox (works on mobile without losing context)
+  let overlay = document.getElementById('imgLightbox');
+  if (!overlay) {
+    overlay = document.createElement('div');
+    overlay.id = 'imgLightbox';
+    overlay.style.cssText = [
+      'position:fixed','inset:0','z-index:9998',
+      'background:rgba(0,0,0,.92)',
+      'display:flex','align-items:center','justify-content:center',
+      'flex-direction:column','gap:12px',
+      'padding:16px','cursor:zoom-out',
+      'animation:fadeIn .15s ease'
+    ].join(';');
+    overlay.innerHTML = `
+      <div style="position:absolute;top:14px;right:18px;z-index:1">
+        <button onclick="document.getElementById('imgLightbox').remove()" style="
+          background:rgba(255,255,255,.15);border:none;color:#fff;
+          width:40px;height:40px;border-radius:50%;font-size:20px;
+          cursor:pointer;display:flex;align-items:center;justify-content:center;
+          backdrop-filter:blur(4px);">✕</button>
+      </div>
+      <div id="imgLightboxHint" style="color:rgba(255,255,255,.55);font-size:12px;font-family:Inter,sans-serif">Pinch to zoom &nbsp;·&nbsp; Tap outside to close</div>
+      <img id="imgLightboxImg" style="max-width:100%;max-height:calc(100vh - 80px);object-fit:contain;border-radius:8px;touch-action:pinch-zoom;" />
+    `;
+    overlay.addEventListener('click', e => { if (e.target === overlay) overlay.remove(); });
+    document.body.appendChild(overlay);
+  }
+  document.getElementById('imgLightboxImg').src = src;
+  overlay.style.display = 'flex';
 }
 
 /* ── Palette ────────────────────────────────────────────── */
