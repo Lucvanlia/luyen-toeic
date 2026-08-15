@@ -47,17 +47,17 @@
           "id": 3,
           "image": "public/assets/bai-on-2/listening/part1_q3.png",
           "options": [
-            "Some workers are hanging art in a gallery.",
-            "Two of the people are having a conversation.",
-            "One of the men is rearranging cushions on a sofa.",
-            "One of the men is painting a picture."
+            "Some utensils have been discarded in a bin.",
+            "Some bottles are being emptied into a sink.",
+            "A rolling chair has been placed next to a counter.",
+            "Some drawers have been left open."
           ],
           "answer": "C",
-          "category": "Tranh tả nhiều người",
+          "category": "Tranh tả vật",
           "startTime": 155,
           "endTime": 185,
-          "transcript": "One of the men is rearranging cushions on a sofa.",
-          "explanation": "Một người đàn ông đang sắp xếp lại đệm ghế sofa. → (C)"
+          "transcript": "A rolling chair has been placed next to a counter.",
+          "explanation": "Chiếc ghế xoay có bánh xe được đặt cạnh quầy/tủ. → (C)"
         },
         {
           "id": 4,
