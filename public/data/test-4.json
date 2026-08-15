@@ -117,378 +117,378 @@
       "questions": [
         {
           "id": 7,
+          "text": "Does the shop open on Sundays?",
           "options": [
-            "Yes, at 1 o 'clock.",
+            "Yes, at 1 o'clock.",
             "Because we drove.",
-            "I'd like to return this item, please. Number 8."
+            "I'd like to return this item, please."
           ],
           "answer": "A",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 23.1,
           "endTime": 47.9,
-          "text": "Does the shop open on Sundays",
-          "transcript": "Does the shop open on Sundays\nA. Yes, at 1 o 'clock.\nB. Because we drove.\nC. I'd like to return this item, please. Number 8.",
-          "explanation": "Dap an A: No, not yet. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Does the shop open on Sundays?\nA. Yes, at 1 o'clock.\nB. Because we drove.\nC. I'd like to return this item, please.",
+          "explanation": "Đáp án (A) trả lời trực tiếp về thời gian mở cửa vào Chủ nhật (\"Yes, at 1 o'clock\"). → (A)"
         },
         {
           "id": 8,
+          "text": "Where did these oranges come from?",
           "options": [
             "Here's a basket you can use.",
             "From a supplier in California.",
-            "That umbrella is a nice color. Number"
+            "That umbrella is a nice color."
           ],
-          "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "B",
+          "category": "Part 2 - Question-Response",
           "startTime": 47.9,
           "endTime": 67.5,
-          "text": "Where did these oranges come from?",
-          "transcript": "Where did these oranges come from?\nA. Here's a basket you can use.\nB. From a supplier in California.\nC. That umbrella is a nice color. Number",
-          "explanation": "Dap an A: About 10 percent. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Where did these oranges come from?\nA. Here's a basket you can use.\nB. From a supplier in California.\nC. That umbrella is a nice color.",
+          "explanation": "Đáp án (B) trả lời trực tiếp nguồn gốc xuất xứ của quả cam (\"From a supplier in California\"). → (B)"
         },
         {
           "id": 9,
+          "text": "Should I make the dinner reservation for Friday or Saturday?",
           "options": [
             "The beach side bistro.",
             "Saturday is better.",
-            "A large plate of pasta. Number 10."
+            "A large plate of pasta."
           ],
           "answer": "B",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 67.5,
           "endTime": 87.8,
-          "text": "Should I make the dinner reservation for Friday or Saturday?",
-          "transcript": "Should I make the dinner reservation for Friday or Saturday?\nA. The beach side bistro.\nB. Saturday is better.\nC. A large plate of pasta. Number 10.",
-          "explanation": "Dap an B: Yes, right after lunch. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Should I make the dinner reservation for Friday or Saturday?\nA. The beach side bistro.\nB. Saturday is better.\nC. A large plate of pasta.",
+          "explanation": "Đáp án (B) đưa ra lựa chọn ngày phù hợp giữa thứ Sáu và thứ Bảy (\"Saturday is better\"). → (B)"
         },
         {
           "id": 10,
+          "text": "Will Dr. Ivanova be late today?",
           "options": [
             "No, you shouldn't have to wait long.",
             "It's just under the desk.",
-            "Sure, I can do that for you. Number"
+            "Sure, I can do that for you."
           ],
           "answer": "A",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 87.8,
           "endTime": 107.9,
-          "text": "Will Doctor even over be late today?",
-          "transcript": "Will Doctor even over be late today?\nA. No, you shouldn't have to wait long.\nB. It's just under the desk.\nC. Sure, I can do that for you. Number",
-          "explanation": "Dap an B: I already scheduled one. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Will Dr. Ivanova be late today?\nA. No, you shouldn't have to wait long.\nB. It's just under the desk.\nC. Sure, I can do that for you.",
+          "explanation": "Đáp án (A) trả lời trực tiếp rằng bạn sẽ không phải đợi lâu vì bác sĩ không đến muộn (\"No, you shouldn't have to wait long\"). → (A)"
         },
         {
           "id": 11,
+          "text": "Aren't there locker rooms at this gym?",
           "options": [
             "These socks are quite comfortable.",
             "She teaches an exercise class.",
-            "Yes, they're on the lower floor. Number"
+            "Yes, they're on the lower floor."
           ],
-          "answer": "B",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "C",
+          "category": "Part 2 - Question-Response",
           "startTime": 107.9,
           "endTime": 128.2,
-          "text": "Aren't there locker rooms at this gym?",
-          "transcript": "Aren't there locker rooms at this gym?\nA. These socks are quite comfortable.\nB. She teaches an exercise class.\nC. Yes, they're on the lower floor. Number",
-          "explanation": "Dap an C: Are you sure it can be repaired? la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Aren't there locker rooms at this gym?\nA. These socks are quite comfortable.\nB. She teaches an exercise class.\nC. Yes, they're on the lower floor.",
+          "explanation": "Đáp án (C) xác nhận có phòng thay đồ và chỉ rõ vị trí ở tầng dưới (\"Yes, they're on the lower floor\"). → (C)"
         },
         {
           "id": 12,
+          "text": "Who needs a copy of my safety training certificate?",
           "options": [
             "Maxim does.",
             "You can hang your vest on that hook.",
-            "No, I'm certain about that. Number"
+            "No, I'm certain about that."
           ],
           "answer": "A",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 128.2,
           "endTime": 148.9,
-          "text": "Who needs a copy of my safety training certificate?",
-          "transcript": "Who needs a copy of my safety training certificate?\nA. Maxim does.\nB. You can hang your vest on that hook.\nC. No, I'm certain about that. Number",
-          "explanation": "Dap an C: I'll leave them at the front desk. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Who needs a copy of my safety training certificate?\nA. Maxim does.\nB. You can hang your vest on that hook.\nC. No, I'm certain about that.",
+          "explanation": "Đáp án (A) trả lời câu hỏi \"Who\" bằng tên người phụ trách (\"Maxim does\"). → (A)"
         },
         {
           "id": 13,
+          "text": "Could you phone Mr. Ferras and let him know we're in the hotel lobby?",
           "options": [
             "Thank you. It was just renovated.",
             "A free continental breakfast.",
-            "Yes, of course. Number"
+            "Yes, of course."
           ],
           "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 148.9,
           "endTime": 171.0,
-          "text": "Could you phone Mr. Ferras and let him know we're in the hotel lobby?",
-          "transcript": "Could you phone Mr. Ferras and let him know we're in the hotel lobby?\nA. Thank you. It was just renovated.\nB. A free continental breakfast.\nC. Yes, of course. Number",
-          "explanation": "Dap an B: Yes, it's happening tomorrow instead. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Could you phone Mr. Ferras and let him know we're in the hotel lobby?\nA. Thank you. It was just renovated.\nB. A free continental breakfast.\nC. Yes, of course.",
+          "explanation": "Đáp án (C) đồng ý thực hiện yêu cầu gọi điện (\"Yes, of course\"). → (C)"
         },
         {
           "id": 14,
+          "text": "Where does she sell her handmade jewelry?",
           "options": [
             "They'll give you a discount.",
             "A pair of earrings.",
-            "At a store in the city centre. Number"
+            "At a store in the city centre."
           ],
           "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 171.0,
           "endTime": 191.0,
-          "text": "Where does she sell her handmade jewelry?",
-          "transcript": "Where does she sell her handmade jewelry?\nA. They'll give you a discount.\nB. A pair of earrings.\nC. At a store in the city centre. Number",
-          "explanation": "Dap an A: Sure, we have time for that. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Where does she sell her handmade jewelry?\nA. They'll give you a discount.\nB. A pair of earrings.\nC. At a store in the city centre.",
+          "explanation": "Đáp án (C) trả lời trực tiếp câu hỏi vị trí \"Where\" (\"At a store in the city centre\"). → (C)"
         },
         {
           "id": 15,
+          "text": "You're taking a business class in the afternoon, aren't you?",
           "options": [
             "Actually, it's in the morning.",
             "That office is on the corner.",
-            "I have the train schedule here. Number"
+            "I have the train schedule here."
           ],
-          "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "A",
+          "category": "Part 2 - Question-Response",
           "startTime": 191.0,
           "endTime": 210.3,
-          "text": "You're taking a business class in the afternoon, aren't you?",
-          "transcript": "You're taking a business class in the afternoon, aren't you?\nA. Actually, it's in the morning.\nB. That office is on the corner.\nC. I have the train schedule here. Number",
-          "explanation": "Dap an B: Yes, it was delicious. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "You're taking a business class in the afternoon, aren't you?\nA. Actually, it's in the morning.\nB. That office is on the corner.\nC. I have the train schedule here.",
+          "explanation": "Đáp án (A) đính chính lại thời gian của lớp học là vào buổi sáng (\"Actually, it's in the morning\"). → (A)"
         },
         {
           "id": 16,
+          "text": "Could I see some sample floral arrangements before I order?",
           "options": [
             "It's for an award ceremony.",
             "A charge for expedited delivery.",
-            "Certainly. I have some right here. A."
+            "Certainly. I have some right here."
           ],
-          "answer": "B",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "C",
+          "category": "Part 2 - Question-Response",
           "startTime": 210.3,
           "endTime": 232.9,
-          "text": "Could I see some sample floral arrangements before I order?",
-          "transcript": "Could I see some sample floral arrangements before I order?\nA. It's for an award ceremony.\nB. A charge for expedited delivery.\nC. Certainly. I have some right here. A.",
-          "explanation": "Dap an B: A jazz singer from France. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Could I see some sample floral arrangements before I order?\nA. It's for an award ceremony.\nB. A charge for expedited delivery.\nC. Certainly. I have some right here.",
+          "explanation": "Đáp án (C) đồng ý cho xem mẫu cắm hoa ngay tại chỗ (\"Certainly. I have some right here\"). → (C)"
         },
         {
           "id": 17,
+          "text": "Don't you want to buy the black sofa?",
           "options": [
             "Some customer reviews.",
             "We already have one.",
-            "I take my coffee with sugar. A."
+            "I take my coffee with sugar."
           ],
-          "answer": "A",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "B",
+          "category": "Part 2 - Question-Response",
           "startTime": 232.9,
           "endTime": 252.1,
-          "text": "Don't you want to buy the black sofa?",
-          "transcript": "Don't you want to buy the black sofa?\nA. Some customer reviews.\nB. We already have one.\nC. I take my coffee with sugar. A.",
-          "explanation": "Dap an A: The schedule was emailed last Friday. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Don't you want to buy the black sofa?\nA. Some customer reviews.\nB. We already have one.\nC. I take my coffee with sugar.",
+          "explanation": "Đáp án (B) đưa ra lý do không mua vì nhà đã có một chiếc sofa rồi (\"We already have one\"). → (B)"
         },
         {
           "id": 18,
+          "text": "Do you have this jacket in a larger size?",
           "options": [
             "Oh, I'm not a sales associate.",
             "I've read the information packet.",
-            "A very large uniform. Number"
+            "A very large uniform."
           ],
-          "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "A",
+          "category": "Part 2 - Question-Response",
           "startTime": 252.1,
           "endTime": 274.1,
-          "text": "Do you have this jacket in a larger size?",
-          "transcript": "Do you have this jacket in a larger size?\nA. Oh, I'm not a sales associate.\nB. I've read the information packet.\nC. A very large uniform. Number",
-          "explanation": "Dap an C: Just send me the changes you want. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Do you have this jacket in a larger size?\nA. Oh, I'm not a sales associate.\nB. I've read the information packet.\nC. A very large uniform.",
+          "explanation": "Đáp án (A) trả lời gián tiếp rằng mình không phải nhân viên bán hàng nên không thể kiểm tra size (\"Oh, I'm not a sales associate\"). → (A)"
         },
         {
           "id": 19,
+          "text": "Where did you first learn about the job opening?",
           "options": [
-            "Are there any outdoor tables available",
+            "Are there any outdoor tables available?",
             "The door to the building is still open.",
-            "I read an online newspaper every morning. Number"
+            "I read an online newspaper every morning."
           ],
-          "answer": "B",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "C",
+          "category": "Part 2 - Question-Response",
           "startTime": 274.1,
           "endTime": 296.2,
-          "text": "Where did you first learn about the job opening?",
-          "transcript": "Where did you first learn about the job opening?\nA. Are there any outdoor tables available\nB. The door to the building is still open.\nC. I read an online newspaper every morning. Number",
-          "explanation": "Dap an B: Yes, he starts tomorrow. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Where did you first learn about the job opening?\nA. Are there any outdoor tables available?\nB. The door to the building is still open.\nC. I read an online newspaper every morning.",
+          "explanation": "Đáp án (C) chỉ ra nguồn đọc được thông tin tuyển dụng qua báo điện tử (\"I read an online newspaper every morning\"). → (C)"
         },
         {
           "id": 20,
+          "text": "Should I bring anything to the meeting?",
           "options": [
             "Probably in the conference room.",
             "They were hired by our manager.",
-            "Do we have enough handouts? C."
+            "Do we have enough handouts?"
           ],
           "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 296.2,
           "endTime": 315.0,
-          "text": "Should I bring anything to the meeting?",
-          "transcript": "Should I bring anything to the meeting?\nA. Probably in the conference room.\nB. They were hired by our manager.\nC. Do we have enough handouts? C.",
-          "explanation": "Dap an C: I wasn't involved. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Should I bring anything to the meeting?\nA. Probably in the conference room.\nB. They were hired by our manager.\nC. Do we have enough handouts?",
+          "explanation": "Đáp án (C) hỏi lại về số lượng tài liệu phát tay, ngụ ý mang thêm nếu chưa đủ (\"Do we have enough handouts?\"). → (C)"
         },
         {
           "id": 21,
+          "text": "What was the total charge for the hotel stay?",
           "options": [
             "I'd have to look at the receipt.",
             "The fitness center is across from the reception desk.",
-            "I'll be eating breakfast in my room. Number"
+            "I'll be eating breakfast in my room."
           ],
           "answer": "A",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 315.0,
           "endTime": 337.4,
-          "text": "What was the total charge for the hotel stay?",
-          "transcript": "What was the total charge for the hotel stay?\nA. I'd have to look at the receipt.\nB. The fitness center is across from the reception desk.\nC. I'll be eating breakfast in my room. Number",
-          "explanation": "Dap an B: Next week on Monday. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "What was the total charge for the hotel stay?\nA. I'd have to look at the receipt.\nB. The fitness center is across from the reception desk.\nC. I'll be eating breakfast in my room.",
+          "explanation": "Đáp án (A) cho biết cần xem hóa đơn mới biết tổng chi phí lưu trú (\"I'd have to look at the receipt\"). → (A)"
         },
         {
           "id": 22,
+          "text": "Why did you pursue a career in video game design?",
           "options": [
             "Because I have a talent for it.",
             "This is my new laptop.",
-            "It's on the other shelf. Number"
+            "It's on the other shelf."
           ],
-          "answer": "B",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "A",
+          "category": "Part 2 - Question-Response",
           "startTime": 337.4,
           "endTime": 357.3,
-          "text": "Why did you pursue a career in video game design?",
-          "transcript": "Why did you pursue a career in video game design?\nA. Because I have a talent for it.\nB. This is my new laptop.\nC. It's on the other shelf. Number",
-          "explanation": "Dap an A: We're still in the planning stages. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Why did you pursue a career in video game design?\nA. Because I have a talent for it.\nB. This is my new laptop.\nC. It's on the other shelf.",
+          "explanation": "Đáp án (A) đưa ra lý do đam mê/năng khiếu cho câu hỏi Why (\"Because I have a talent for it\"). → (A)"
         },
         {
           "id": 23,
+          "text": "I'd like to attend the job fair next month.",
           "options": [
             "The speech was inspiring.",
-            "Tungy updated the memo.",
-            "Registration closed yesterday. B."
+            "Tung updated the memo.",
+            "Registration closed yesterday."
           ],
           "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 357.3,
           "endTime": 378.3,
-          "text": "I'd like to attend the job fair next month.",
-          "transcript": "I'd like to attend the job fair next month.\nA. The speech was inspiring.\nB. Tungy updated the memo.\nC. Registration closed yesterday. B.",
-          "explanation": "Dap an B: I can order one for you. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "I'd like to attend the job fair next month.\nA. The speech was inspiring.\nB. Tung updated the memo.\nC. Registration closed yesterday.",
+          "explanation": "Đáp án (C) phản hồi lại ý định tham gia hội chợ việc làm bằng việc thông báo đã hết hạn đăng ký (\"Registration closed yesterday\"). → (C)"
         },
         {
           "id": 24,
+          "text": "Hasn't anyone called you back for the second interview yet?",
           "options": [
             "A new phone number.",
             "Yes, any available position.",
-            "I'm still waiting. B."
+            "I'm still waiting."
           ],
-          "answer": "B",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "C",
+          "category": "Part 2 - Question-Response",
           "startTime": 378.3,
           "endTime": 398.0,
-          "text": "Hasn't anyone called you back for the second interview yet?",
-          "transcript": "Hasn't anyone called you back for the second interview yet?\nA. A new phone number.\nB. Yes, any available position.\nC. I'm still waiting. B.",
-          "explanation": "Dap an A: Yes, let me show you how. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "Hasn't anyone called you back for the second interview yet?\nA. A new phone number.\nB. Yes, any available position.\nC. I'm still waiting.",
+          "explanation": "Đáp án (C) trả lời trực tiếp rằng vẫn đang chờ cuộc gọi phỏng vấn vòng 2 (\"I'm still waiting\"). → (C)"
         },
         {
           "id": 25,
+          "text": "How many tickets do we need for tonight's concert?",
           "options": [
             "The theater is on Johnson Avenue.",
-            "At 730 sharp.",
-            "I'll buy mine at the door. Number"
+            "At 7:30 sharp.",
+            "I'll buy mine at the door."
           ],
-          "answer": "A",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "C",
+          "category": "Part 2 - Question-Response",
           "startTime": 398.0,
           "endTime": 419.7,
-          "text": "How many tickets do we need for tonight's concert?",
-          "transcript": "How many tickets do we need for tonight's concert?\nA. The theater is on Johnson Avenue.\nB. At 730 sharp.\nC. I'll buy mine at the door. Number",
-          "explanation": "Dap an B: Miss Pavlova isn't retiring for several weeks. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "How many tickets do we need for tonight's concert?\nA. The theater is on Johnson Avenue.\nB. At 7:30 sharp.\nC. I'll buy mine at the door.",
+          "explanation": "Đáp án (C) trả lời gián tiếp là sẽ tự mua vé tại cổng nên không cần mua giúp (\"I'll buy mine at the door\"). → (C)"
         },
         {
           "id": 26,
+          "text": "When are they going to decide who to hire?",
           "options": [
             "A much higher salary.",
             "A lot of good resumes have come in.",
-            "In the building across the street. C."
+            "In the building across the street."
           ],
-          "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "B",
+          "category": "Part 2 - Question-Response",
           "startTime": 419.7,
           "endTime": 439.8,
-          "text": "What are they going to decide who to hire?",
-          "transcript": "What are they going to decide who to hire?\nA. A much higher salary.\nB. A lot of good resumes have come in.\nC. In the building across the street. C.",
-          "explanation": "Dap an C: They're being picked up. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "When are they going to decide who to hire?\nA. A much higher salary.\nB. A lot of good resumes have come in.\nC. In the building across the street.",
+          "explanation": "Đáp án (B) giải thích lý do việc quyết định cần thêm thời gian vì có rất nhiều hồ sơ tốt gửi đến (\"A lot of good resumes have come in\"). → (B)"
         },
         {
           "id": 27,
+          "text": "I had a chance to look over the contract this morning.",
           "options": [
             "Their contact information.",
             "Early next week.",
-            "What did you think of it? A."
+            "What did you think of it?"
           ],
-          "answer": "B",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "C",
+          "category": "Part 2 - Question-Response",
           "startTime": 439.8,
           "endTime": 459.8,
-          "text": "I had a chance to look over the contract this morning.",
-          "transcript": "I had a chance to look over the contract this morning.\nA. Their contact information.\nB. Early next week.\nC. What did you think of it? A.",
-          "explanation": "Dap an B: Which dates have been changed? la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "I had a chance to look over the contract this morning.\nA. Their contact information.\nB. Early next week.\nC. What did you think of it?",
+          "explanation": "Đáp án (C) hỏi ý kiến đánh giá về bản hợp đồng vừa xem (\"What did you think of it?\"). → (C)"
         },
         {
           "id": 28,
+          "text": "How are the database updates coming along?",
           "options": [
             "I've been really busy with the Williams account.",
             "Some customer addresses.",
-            "She arrives on Wednesday. A."
+            "She arrives on Wednesday."
           ],
           "answer": "A",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 459.8,
           "endTime": 481.2,
-          "text": "How are the database updates coming along?",
-          "transcript": "How are the database updates coming along?\nA. I've been really busy with the Williams account.\nB. Some customer addresses.\nC. She arrives on Wednesday. A.",
-          "explanation": "Dap an A: The work is covered under the warranty plan. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "How are the database updates coming along?\nA. I've been really busy with the Williams account.\nB. Some customer addresses.\nC. She arrives on Wednesday.",
+          "explanation": "Đáp án (A) giải thích tiến độ cơ sở dữ liệu bị chậm do đang bận xử lý tài khoản Williams (\"I've been really busy with the Williams account\"). → (A)"
         },
         {
           "id": 29,
+          "text": "When can I bring these boxes into the warehouse?",
           "options": [
             "Ten in a package.",
             "Thanks. I just bought it.",
-            "We'll need to clear some space. C."
+            "We'll need to clear some space."
           ],
           "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "category": "Part 2 - Question-Response",
           "startTime": 481.2,
           "endTime": 501.8,
-          "text": "When can I bring these boxes into the warehouse?",
-          "transcript": "When can I bring these boxes into the warehouse?\nA. Ten in a package.\nB. Thanks. I just bought it.\nC. We'll need to clear some space. C.",
-          "explanation": "Dap an C: There are plenty in the binders. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "When can I bring these boxes into the warehouse?\nA. Ten in a package.\nB. Thanks. I just bought it.\nC. We'll need to clear some space.",
+          "explanation": "Đáp án (C) trả lời về điều kiện thời gian: cần dọn dẹp khoảng trống trong kho trước (\"We'll need to clear some space\"). → (C)"
         },
         {
           "id": 30,
+          "text": "The market on 5th street is closed for a week.",
           "options": [
             "Some new clothes.",
-            "Is there another one nearby",
-            "The price has been marked down. C."
+            "Is there another one nearby?",
+            "The price has been marked down."
           ],
-          "answer": "A",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "B",
+          "category": "Part 2 - Question-Response",
           "startTime": 501.8,
           "endTime": 521.0,
-          "text": "The market on 5th street is closed for a week.",
-          "transcript": "The market on 5th street is closed for a week.\nA. Some new clothes.\nB. Is there another one nearby\nC. The price has been marked down. C.",
-          "explanation": "Dap an A: Sorry, I won't have time until tomorrow. la cau tra loi phu hop nhat voi cau hoi."
+          "transcript": "The market on 5th street is closed for a week.\nA. Some new clothes.\nB. Is there another one nearby?\nC. The price has been marked down.",
+          "explanation": "Đáp án (B) phản hồi câu thông báo chợ đóng cửa bằng cách hỏi xem có khu chợ nào khác ở gần không (\"Is there another one nearby?\"). → (B)"
         },
         {
           "id": 31,
+          "text": "Does the company pay for professional development courses?",
           "options": [
             "Insook helped develop a new product.",
             "We do have a significant budget surplus.",
-            ""
+            "He's always so professional."
           ],
-          "answer": "C",
-          "category": "Hỏi thông tin giao tiếp",
+          "answer": "B",
+          "category": "Part 2 - Question-Response",
           "startTime": 521.0,
-          "endTime": 536.0,
-          "text": "Does the company pay for professional development courses?",
-          "transcript": "Does the company pay for professional development courses?\nA. Insook helped develop a new product.\nB. We do have a significant budget surplus.\nC. ",
-          "explanation": "Dap an A: We're waiting for confirmation. la cau tra loi phu hop nhat voi cau hoi."
+          "endTime": 541.5,
+          "transcript": "Does the company pay for professional development courses?\nA. Insook helped develop a new product.\nB. We do have a significant budget surplus.\nC. He's always so professional.",
+          "explanation": "Đáp án (B) trả lời gián tiếp khẳng định công ty có thể chi trả vì ngân sách đang thặng dư (\"We do have a significant budget surplus\"). → (B)"
         }
       ]
     },
