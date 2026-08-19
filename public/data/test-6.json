@@ -1,0 +1,1072 @@
+{
+  "id": "test-6",
+  "title": "Bài Ôn Tập 6 – Reading Mock Test",
+  "parts": {
+    "part5": {
+      "name": "Part 5 – Incomplete Sentences",
+      "description": "Hoàn thành câu (Câu 101-120)",
+      "questionCount": 20,
+      "questions": [
+        {
+          "id": 101,
+          "text": "Former Sendai Company CEO Ken Nakata spoke about ------- career experiences.",
+          "options": [
+            "he",
+            "his",
+            "him",
+            "himself"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: he / his / him / himself?",
+          "explanation": "Đáp án đúng: (B) his. → (B)"
+        },
+        {
+          "id": 102,
+          "text": "Our premium day tour takes visitors to historic sites ------- the Aprico River.",
+          "options": [
+            "onto",
+            "since",
+            "inside",
+            "along"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: onto / since / inside / along?",
+          "explanation": "Đáp án đúng: (D) along. → (D)"
+        },
+        {
+          "id": 103,
+          "text": "Mr. Louden was offered a full-time position at Fortelio Corporation ------- a division manager.",
+          "options": [
+            "about",
+            "as",
+            "to",
+            "around"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: about / as / to / around?",
+          "explanation": "Đáp án đúng: (B) as. → (B)"
+        },
+        {
+          "id": 104,
+          "text": "ABC Truck Supplies has the ------- selection of mufflers in the state.",
+          "options": [
+            "natural",
+            "widest",
+            "overall",
+            "positive"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: natural / widest / overall / positive?",
+          "explanation": "Đáp án đúng: (B) widest. → (B)"
+        },
+        {
+          "id": 105,
+          "text": "Growth in the home entertainment industry has been ------- this quarter.",
+          "options": [
+            "separate",
+            "limited",
+            "willing",
+            "assorted"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: separate / limited / willing / assorted?",
+          "explanation": "Đáp án đúng: (B) limited. → (B)"
+        },
+        {
+          "id": 106,
+          "text": "Eighty percent of drivers surveyed said they would consider buying a vehicle that runs on -------.",
+          "options": [
+            "electricity",
+            "electrically",
+            "electricians",
+            "electrify"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: electricity / electrically / electricians / electrify?",
+          "explanation": "Đáp án đúng: (A) electricity. → (A)"
+        },
+        {
+          "id": 107,
+          "text": "Mr. Telguld submitted the ------- surveys before the monthly board meeting.",
+          "options": [
+            "completely",
+            "completed",
+            "completing",
+            "completes"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: completely / completed / completing / completes?",
+          "explanation": "Đáp án đúng: (B) completed. → (B)"
+        },
+        {
+          "id": 108,
+          "text": "Hawson Furniture will be making ------- on the east side of town on Thursday.",
+          "options": [
+            "deliveries",
+            "delivered",
+            "deliver",
+            "deliverable"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: deliveries / delivered / deliver / deliverable?",
+          "explanation": "Đáp án đúng: (A) deliveries. → (A)"
+        },
+        {
+          "id": 109,
+          "text": "The community picnic will be held ------- the park behind the Seltzer Public Library.",
+          "options": [
+            "in",
+            "all",
+            "for",
+            "here"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: in / all / for / here?",
+          "explanation": "Đáp án đúng: (A) in. → (A)"
+        },
+        {
+          "id": 110,
+          "text": "Chester's Tiles ------- expanded to a second location in Turnington.",
+          "options": [
+            "severely",
+            "usually",
+            "recently",
+            "exactly"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: severely / usually / recently / exactly?",
+          "explanation": "Đáp án đúng: (C) recently. → (C)"
+        },
+        {
+          "id": 111,
+          "text": "Ms. Okada is ------- a new social media campaign at the request of our office manager.",
+          "options": [
+            "organize",
+            "organized",
+            "organizing",
+            "organization"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: organize / organized / organizing / organization?",
+          "explanation": "Đáp án đúng: (C) organizing. → (C)"
+        },
+        {
+          "id": 112,
+          "text": "Anyone who still ------- to take the fire safety training should do so before the end of the month.",
+          "options": [
+            "needing",
+            "needs",
+            "has needed",
+            "were needing"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: needing / needs / has needed / were needing?",
+          "explanation": "Đáp án đúng: (B) needs. → (B)"
+        },
+        {
+          "id": 113,
+          "text": "All students in the business management class hold ------- college degrees.",
+          "options": [
+            "late",
+            "developed",
+            "advanced",
+            "elated"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: late / developed / advanced / elated?",
+          "explanation": "Đáp án đúng: (C) advanced. → (C)"
+        },
+        {
+          "id": 114,
+          "text": "The new Kitsuna video camera is currently on sale for $375, not ------- tax.",
+          "options": [
+            "excepting",
+            "alongside",
+            "within",
+            "including"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: excepting / alongside / within / including?",
+          "explanation": "Đáp án đúng: (D) including. → (D)"
+        },
+        {
+          "id": 115,
+          "text": "To ------- that its facilities are cleaned every day, the Selboa Company has hired more janitors.",
+          "options": [
+            "ensure",
+            "affect",
+            "provide",
+            "secure"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: ensure / affect / provide / secure?",
+          "explanation": "Đáp án đúng: (A) ensure. → (A)"
+        },
+        {
+          "id": 116,
+          "text": "The project ------- the collaboration of several teams across the company.",
+          "options": [
+            "passed",
+            "decided",
+            "required",
+            "performed"
+          ],
+          "answer": "C",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: passed / decided / required / performed?",
+          "explanation": "Đáp án đúng: (C) required. → (C)"
+        },
+        {
+          "id": 117,
+          "text": "All associates are ------- to follow the standard operating procedures outlined in the handbook.",
+          "options": [
+            "concerned",
+            "tended",
+            "maintained",
+            "expected"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: concerned / tended / maintained / expected?",
+          "explanation": "Đáp án đúng: (D) expected. → (D)"
+        },
+        {
+          "id": 118,
+          "text": "Remember to submit receipts for reimbursement ------- returning from a business trip.",
+          "options": [
+            "such as",
+            "when",
+            "then",
+            "within"
+          ],
+          "answer": "B",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: such as / when / then / within?",
+          "explanation": "Đáp án đúng: (B) when. → (B)"
+        },
+        {
+          "id": 119,
+          "text": "An Oswald Hardware associate will ------- place an order for customers who need larger quantities than what is in stock.",
+          "options": [
+            "slightly",
+            "wholly",
+            "busily",
+            "gladly"
+          ],
+          "answer": "D",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: slightly / wholly / busily / gladly?",
+          "explanation": "Đáp án đúng: (D) gladly. → (D)"
+        },
+        {
+          "id": 120,
+          "text": "Next month, the Kneath House will host an exhibition of ------- furniture and clothing from the eighteenth century.",
+          "options": [
+            "authentic",
+            "authentically",
+            "authenticate",
+            "authenticity"
+          ],
+          "answer": "A",
+          "category": "Part 5 - Incomplete Sentences",
+          "hint": "Xác định từ loại cần điền: ô trống trong câu → xem ngữ cảnh xung quanh. Phân biệt: authentic / authentically / authenticate / authenticity?",
+          "explanation": "Đáp án đúng: (A) authentic. → (A)"
+        }
+      ]
+    },
+    "part6": {
+      "name": "Part 6 – Text Completion",
+      "description": "Hoàn thành đoạn văn (Câu 121-132)",
+      "questionCount": 12,
+      "questions": [
+        {
+          "id": 121,
+          "group": "121-124",
+          "passageTitle": "Part 6 - Passage 1: Maxley Heights Horticulture (Câu 121-124)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q121_124.png",
+          "text": "Come to the Maxley Heights Center for Horticulture and learn how to create a beautiful, eco-friendly garden for your home or business. [121] We will teach you how to plant a rain garden, which is simply a shallow sunken garden [122] a special soil mix to filter pollutants from rainwater flowing from nearby roads and rooftops. These gardens can be landscaped with native plants and flowers. [123], rain gardens are always beneficial to the local environment. Among other things, [124] improve drainage and protect rivers and streams. To register, visit www.maxley-horticulture.org.",
+          "options": [
+            "(A) Children of all ages will enjoy the new exhibits.",
+            "(B) Learn about rainfall patterns across the region.",
+            "(C) Build a set of simple patio furniture with easy-to-acquire materials.",
+            "(D) Next Saturday at 4 P.M., we are hosting a free workshop for the public."
+          ],
+          "answer": "D",
+          "category": "Part 6 - Text Completion",
+          "hint": "SENTENCE INSERTION: đọc câu trước/sau ô trống để tìm câu kết nối logic nhất.",
+          "explanation": "Đáp án đúng: (D) (D) Next Saturday at 4 P.M., we are hosting a free workshop for the public.. → (D)"
+        },
+        {
+          "id": 122,
+          "group": "121-124",
+          "passageTitle": "Part 6 - Passage 1: Maxley Heights Horticulture (Câu 121-124)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q121_124.png",
+          "text": "Come to the Maxley Heights Center for Horticulture and learn how to create a beautiful, eco-friendly garden for your home or business. [121] We will teach you how to plant a rain garden, which is simply a shallow sunken garden [122] a special soil mix to filter pollutants from rainwater flowing from nearby roads and rooftops. These gardens can be landscaped with native plants and flowers. [123], rain gardens are always beneficial to the local environment. Among other things, [124] improve drainage and protect rivers and streams. To register, visit www.maxley-horticulture.org.",
+          "options": [
+            "(A) to use",
+            "(B) used to",
+            "(C) by using",
+            "(D) that uses"
+          ],
+          "answer": "D",
+          "category": "Part 6 - Text Completion",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) that uses. → (D)"
+        },
+        {
+          "id": 123,
+          "group": "121-124",
+          "passageTitle": "Part 6 - Passage 1: Maxley Heights Horticulture (Câu 121-124)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q121_124.png",
+          "text": "Come to the Maxley Heights Center for Horticulture and learn how to create a beautiful, eco-friendly garden for your home or business. [121] We will teach you how to plant a rain garden, which is simply a shallow sunken garden [122] a special soil mix to filter pollutants from rainwater flowing from nearby roads and rooftops. These gardens can be landscaped with native plants and flowers. [123], rain gardens are always beneficial to the local environment. Among other things, [124] improve drainage and protect rivers and streams. To register, visit www.maxley-horticulture.org.",
+          "options": [
+            "(A) Best of all",
+            "(B) For example",
+            "(C) In any event",
+            "(D) As a matter of fact"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) Best of all. → (A)"
+        },
+        {
+          "id": 124,
+          "group": "121-124",
+          "passageTitle": "Part 6 - Passage 1: Maxley Heights Horticulture (Câu 121-124)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q121_124.png",
+          "text": "Come to the Maxley Heights Center for Horticulture and learn how to create a beautiful, eco-friendly garden for your home or business. [121] We will teach you how to plant a rain garden, which is simply a shallow sunken garden [122] a special soil mix to filter pollutants from rainwater flowing from nearby roads and rooftops. These gardens can be landscaped with native plants and flowers. [123], rain gardens are always beneficial to the local environment. Among other things, [124] improve drainage and protect rivers and streams. To register, visit www.maxley-horticulture.org.",
+          "options": [
+            "(A) we",
+            "(B) they",
+            "(C) both",
+            "(D) yours"
+          ],
+          "answer": "B",
+          "category": "Part 6 - Text Completion",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) they. → (B)"
+        },
+        {
+          "id": 125,
+          "group": "125-128",
+          "passageTitle": "Part 6 - Passage 2: Dellwyn Home Store Order Update (Câu 125-128)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q125_128.png",
+          "text": "To: Myung-Hee Hahn\nFrom: Dellwyn Home Store\nDate: January 15\nSubject: Order update\nDear Ms. Hahn,\nYour [125] order of a red oak dining table and six matching chairs arrived at our store this morning. We would now like to arrange for the delivery of the [126]. Please call us at 517-555-0188 and ask [127] to Coleman Cobb, our delivery manager. [128].\nCustomer Service, Dellwyn Home Store",
+          "options": [
+            "(A) specially",
+            "(B) specialize",
+            "(C) special",
+            "(D) specializing"
+          ],
+          "answer": "C",
+          "category": "Part 6 - Text Completion",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) special. → (C)"
+        },
+        {
+          "id": 126,
+          "group": "125-128",
+          "passageTitle": "Part 6 - Passage 2: Dellwyn Home Store Order Update (Câu 125-128)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q125_128.png",
+          "text": "To: Myung-Hee Hahn\nFrom: Dellwyn Home Store\nDate: January 15\nSubject: Order update\nDear Ms. Hahn,\nYour [125] order of a red oak dining table and six matching chairs arrived at our store this morning. We would now like to arrange for the delivery of the [126]. Please call us at 517-555-0188 and ask [127] to Coleman Cobb, our delivery manager. [128].\nCustomer Service, Dellwyn Home Store",
+          "options": [
+            "(A) furniture",
+            "(B) appliances",
+            "(C) refund",
+            "(D) tools"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) furniture. → (A)"
+        },
+        {
+          "id": 127,
+          "group": "125-128",
+          "passageTitle": "Part 6 - Passage 2: Dellwyn Home Store Order Update (Câu 125-128)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q125_128.png",
+          "text": "To: Myung-Hee Hahn\nFrom: Dellwyn Home Store\nDate: January 15\nSubject: Order update\nDear Ms. Hahn,\nYour [125] order of a red oak dining table and six matching chairs arrived at our store this morning. We would now like to arrange for the delivery of the [126]. Please call us at 517-555-0188 and ask [127] to Coleman Cobb, our delivery manager. [128].\nCustomer Service, Dellwyn Home Store",
+          "options": [
+            "(A) speak",
+            "(B) spoken",
+            "(C) is speaking",
+            "(D) to speak"
+          ],
+          "answer": "D",
+          "category": "Part 6 - Text Completion",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) to speak. → (D)"
+        },
+        {
+          "id": 128,
+          "group": "125-128",
+          "passageTitle": "Part 6 - Passage 2: Dellwyn Home Store Order Update (Câu 125-128)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q125_128.png",
+          "text": "To: Myung-Hee Hahn\nFrom: Dellwyn Home Store\nDate: January 15\nSubject: Order update\nDear Ms. Hahn,\nYour [125] order of a red oak dining table and six matching chairs arrived at our store this morning. We would now like to arrange for the delivery of the [126]. Please call us at 517-555-0188 and ask [127] to Coleman Cobb, our delivery manager. [128].\nCustomer Service, Dellwyn Home Store",
+          "options": [
+            "(A) He can schedule a convenient time.",
+            "(B) He began working here yesterday.",
+            "(C) He can meet you at 11:00 A.M.",
+            "(D) He recently moved to Dellwyn."
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "hint": "SENTENCE INSERTION: đọc câu trước/sau ô trống để tìm câu kết nối logic nhất.",
+          "explanation": "Đáp án đúng: (A) (A) He can schedule a convenient time.. → (A)"
+        },
+        {
+          "id": 129,
+          "group": "129-132",
+          "passageTitle": "Part 6 - Passage 3: Droplight Studio Photography (Câu 129-132)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q129_132.png",
+          "text": "April 7\nNaomi Burwell\n43 Waymire Road\nSouth Portland, ME 04109\nDear Ms. Burwell,\nI am Omar Ridha, the manager of Droplight Studio. [129] We offer a full range of photography services for real estate professionals like you. We take pride in composing interior and exterior shots that make a property look its best. Droplight Studio spares no effort in [130] superior digital images. [131], our professional-grade equipment, lighting, and staging techniques allow us to highlight the best features of a property. And once the photo shoot is over, every image [132] expert editing. All these services come standard in every package.\nPlease visit our Web site to view our work as well as our pricing and scheduling information. We are happy to work with you to customize orders.\nSincerely,\nOmar Ridha, Droplight Studio",
+          "options": [
+            "(A) I would like to introduce you to our business.",
+            "(B) Great photographs can make your property stand out.",
+            "(C) We are looking forward to your visit.",
+            "(D) It was the first studio of its kind to open in this area."
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "hint": "SENTENCE INSERTION: đọc câu trước/sau ô trống để tìm câu kết nối logic nhất.",
+          "explanation": "Đáp án đúng: (A) (A) I would like to introduce you to our business.. → (A)"
+        },
+        {
+          "id": 130,
+          "group": "129-132",
+          "passageTitle": "Part 6 - Passage 3: Droplight Studio Photography (Câu 129-132)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q129_132.png",
+          "text": "April 7\nNaomi Burwell\n43 Waymire Road\nSouth Portland, ME 04109\nDear Ms. Burwell,\nI am Omar Ridha, the manager of Droplight Studio. [129] We offer a full range of photography services for real estate professionals like you. We take pride in composing interior and exterior shots that make a property look its best. Droplight Studio spares no effort in [130] superior digital images. [131], our professional-grade equipment, lighting, and staging techniques allow us to highlight the best features of a property. And once the photo shoot is over, every image [132] expert editing. All these services come standard in every package.\nPlease visit our Web site to view our work as well as our pricing and scheduling information. We are happy to work with you to customize orders.\nSincerely,\nOmar Ridha, Droplight Studio",
+          "options": [
+            "(A) researching",
+            "(B) creating",
+            "(C) purchasing",
+            "(D) displaying"
+          ],
+          "answer": "B",
+          "category": "Part 6 - Text Completion",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) creating. → (B)"
+        },
+        {
+          "id": 131,
+          "group": "129-132",
+          "passageTitle": "Part 6 - Passage 3: Droplight Studio Photography (Câu 129-132)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q129_132.png",
+          "text": "April 7\nNaomi Burwell\n43 Waymire Road\nSouth Portland, ME 04109\nDear Ms. Burwell,\nI am Omar Ridha, the manager of Droplight Studio. [129] We offer a full range of photography services for real estate professionals like you. We take pride in composing interior and exterior shots that make a property look its best. Droplight Studio spares no effort in [130] superior digital images. [131], our professional-grade equipment, lighting, and staging techniques allow us to highlight the best features of a property. And once the photo shoot is over, every image [132] expert editing. All these services come standard in every package.\nPlease visit our Web site to view our work as well as our pricing and scheduling information. We are happy to work with you to customize orders.\nSincerely,\nOmar Ridha, Droplight Studio",
+          "options": [
+            "(A) If not",
+            "(B) By comparison",
+            "(C) Otherwise",
+            "(D) Indeed"
+          ],
+          "answer": "D",
+          "category": "Part 6 - Text Completion",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) Indeed. → (D)"
+        },
+        {
+          "id": 132,
+          "group": "129-132",
+          "passageTitle": "Part 6 - Passage 3: Droplight Studio Photography (Câu 129-132)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part6_q129_132.png",
+          "text": "April 7\nNaomi Burwell\n43 Waymire Road\nSouth Portland, ME 04109\nDear Ms. Burwell,\nI am Omar Ridha, the manager of Droplight Studio. [129] We offer a full range of photography services for real estate professionals like you. We take pride in composing interior and exterior shots that make a property look its best. Droplight Studio spares no effort in [130] superior digital images. [131], our professional-grade equipment, lighting, and staging techniques allow us to highlight the best features of a property. And once the photo shoot is over, every image [132] expert editing. All these services come standard in every package.\nPlease visit our Web site to view our work as well as our pricing and scheduling information. We are happy to work with you to customize orders.\nSincerely,\nOmar Ridha, Droplight Studio",
+          "options": [
+            "(A) receives",
+            "(B) is receiving",
+            "(C) had received",
+            "(D) had to receive"
+          ],
+          "answer": "A",
+          "category": "Part 6 - Text Completion",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) receives. → (A)"
+        }
+      ]
+    },
+    "part7": {
+      "name": "Part 7 – Reading Comprehension",
+      "description": "Đọc hiểu (Câu 133-165)",
+      "questionCount": 33,
+      "questions": [
+        {
+          "id": 133,
+          "group": "133-134",
+          "passageTitle": "Part 7 - Advertisement: Medillo Shoes (Câu 133-134)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q133_134.png",
+          "text": "What will happen at Medillo Shoes on May 10?",
+          "options": [
+            "(A) All shoes will be discounted.",
+            "(B) Shop assistants will be hired.",
+            "(C) A shoe style will be discontinued.",
+            "(D) Operational hours will be extended."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) All shoes will be discounted.. → (A)"
+        },
+        {
+          "id": 134,
+          "group": "133-134",
+          "passageTitle": "Part 7 - Advertisement: Medillo Shoes (Câu 133-134)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q133_134.png",
+          "text": "What is indicated about Medillo Shoes?",
+          "options": [
+            "(A) It has been in business for ten years.",
+            "(B) It specializes in athletic footwear.",
+            "(C) It is located next to a medical center.",
+            "(D) It allows customers to make appointments."
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) It allows customers to make appointments.. → (D)"
+        },
+        {
+          "id": 135,
+          "group": "135-136",
+          "passageTitle": "Part 7 - Notice: PBQ Radio (Câu 135-136)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q135_136.png",
+          "text": "For whom most likely was the notice written?",
+          "options": [
+            "(A) Radio-show hosts",
+            "(B) New recording artists",
+            "(C) Business owners",
+            "(D) Sound technicians"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) Business owners. → (C)"
+        },
+        {
+          "id": 136,
+          "group": "135-136",
+          "passageTitle": "Part 7 - Notice: PBQ Radio (Câu 135-136)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q135_136.png",
+          "text": "What is true about PBQ Radio?",
+          "options": [
+            "(A) It has been in business for ten years.",
+            "(B) It is looking for experienced musicians.",
+            "(C) It was voted the best station in the community.",
+            "(D) It has its own marketing department."
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) It has its own marketing department.. → (D)"
+        },
+        {
+          "id": 137,
+          "group": "137-138",
+          "passageTitle": "Part 7 - Notice: City of Bryanton Building Permit (Câu 137-138)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q137_138.png",
+          "text": "What change is the Building Permit Office making?",
+          "options": [
+            "(A) It is moving to a new location.",
+            "(B) It is simplifying the permit application process.",
+            "(C) It is reducing the number of days it will accept permit applications.",
+            "(D) It is increasing the processing time for permit applications."
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) It is reducing the number of days it will accept permit applications.. → (C)"
+        },
+        {
+          "id": 138,
+          "group": "137-138",
+          "passageTitle": "Part 7 - Notice: City of Bryanton Building Permit (Câu 137-138)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q137_138.png",
+          "text": "According to the notice, why is the change being made?",
+          "options": [
+            "(A) To save the city money",
+            "(B) To attract more residents",
+            "(C) To improve the quality of service",
+            "(D) To decrease the number of new permit applications"
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) To save the city money. → (A)"
+        },
+        {
+          "id": 139,
+          "group": "139-140",
+          "passageTitle": "Part 7 - Article: Rainsy To Move Headquarters (Câu 139-140)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q139_140.png",
+          "text": "What does Rainsy LLC do?",
+          "options": [
+            "(A) It stores and analyzes consumer information.",
+            "(B) It sells technology products online.",
+            "(C) It processes credit card payments for retailers.",
+            "(D) It develops computer software programs."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) It stores and analyzes consumer information.. → (A)"
+        },
+        {
+          "id": 140,
+          "group": "139-140",
+          "passageTitle": "Part 7 - Article: Rainsy To Move Headquarters (Câu 139-140)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q139_140.png",
+          "text": "Who will be based in Dade?",
+          "options": [
+            "(A) Rainsy's chief technology officer",
+            "(B) The entire Rainsy executive team",
+            "(C) About half of Rainsy's employees",
+            "(D) The Rainsy account management team"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) About half of Rainsy's employees. → (C)"
+        },
+        {
+          "id": 141,
+          "group": "141-143",
+          "passageTitle": "Part 7 - Notice: Event Guidelines (Câu 141-143)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q141_143.png",
+          "text": "Where most likely is the notice posted?",
+          "options": [
+            "(A) In an airplane",
+            "(B) In a concert hall",
+            "(C) At a restaurant",
+            "(D) At a post office"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) In a concert hall. → (B)"
+        },
+        {
+          "id": 142,
+          "group": "141-143",
+          "passageTitle": "Part 7 - Notice: Event Guidelines (Câu 141-143)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q141_143.png",
+          "text": "What is stated about large bags?",
+          "options": [
+            "(A) They can be put in a locked box for a fee.",
+            "(B) They must be left outside the building.",
+            "(C) They will be inspected by an attendant.",
+            "(D) They must be stored under a seat."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) They can be put in a locked box for a fee.. → (A)"
+        },
+        {
+          "id": 143,
+          "group": "141-143",
+          "passageTitle": "Part 7 - Notice: Event Guidelines (Câu 141-143)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q141_143.png",
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Please refrain from making phone calls or texting at all times.\"",
+          "options": [
+            "(A) [1]",
+            "(B) [2]",
+            "(C) [3]",
+            "(D) [4]"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) [2]. → (B)"
+        },
+        {
+          "id": 144,
+          "group": "144-146",
+          "passageTitle": "Part 7 - Letter: Rossery Building Corporation Lease (Câu 144-146)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q144_146.png",
+          "text": "What is the purpose of the letter?",
+          "options": [
+            "(A) To explain the fees for equipment installation",
+            "(B) To offer a discount on a service",
+            "(C) To provide information about a lease agreement",
+            "(D) To request a change to a property amenity"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) To provide information about a lease agreement. → (C)"
+        },
+        {
+          "id": 145,
+          "group": "144-146",
+          "passageTitle": "Part 7 - Letter: Rossery Building Corporation Lease (Câu 144-146)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q144_146.png",
+          "text": "According to the letter, what must Ms. Balakrishnan pay for each month?",
+          "options": [
+            "(A) Furniture rental",
+            "(B) Office supplies",
+            "(C) An inspection fee",
+            "(D) A parking space"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) A parking space. → (D)"
+        },
+        {
+          "id": 146,
+          "group": "144-146",
+          "passageTitle": "Part 7 - Letter: Rossery Building Corporation Lease (Câu 144-146)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q144_146.png",
+          "text": "Who most likely is Ms. Tan?",
+          "options": [
+            "(A) A repair person",
+            "(B) A property manager",
+            "(C) A cleaning person",
+            "(D) A security company employee"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) A property manager. → (B)"
+        },
+        {
+          "id": 147,
+          "group": "147-150",
+          "passageTitle": "Part 7 - Online Chat Discussion: Client Questionnaire (Câu 147-150)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q147_150.png",
+          "text": "What type of company do the writers most likely work for?",
+          "options": [
+            "(A) Publishing",
+            "(B) Accounting",
+            "(C) Retail",
+            "(D) Design"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) Accounting. → (B)"
+        },
+        {
+          "id": 148,
+          "group": "147-150",
+          "passageTitle": "Part 7 - Online Chat Discussion: Client Questionnaire (Câu 147-150)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q147_150.png",
+          "text": "What does Mr. Wikander suggest about a question?",
+          "options": [
+            "(A) It is mislabeled.",
+            "(B) It is difficult to read.",
+            "(C) It should be reworded.",
+            "(D) It should be made optional."
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) It should be reworded.. → (C)"
+        },
+        {
+          "id": 149,
+          "group": "147-150",
+          "passageTitle": "Part 7 - Online Chat Discussion: Client Questionnaire (Câu 147-150)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q147_150.png",
+          "text": "At 10:25 A.M., what does Mr. Wikander most likely mean when he writes, \"Well, it's four pages already\"?",
+          "options": [
+            "(A) He is surprised by the long answers clients gave.",
+            "(B) He is impressed with how quickly the questionnaire is coming along.",
+            "(C) He thinks information in the first four pages should be cut out.",
+            "(D) He thinks the questionnaire should not be any longer."
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) He thinks the questionnaire should not be any longer.. → (D)"
+        },
+        {
+          "id": 150,
+          "group": "147-150",
+          "passageTitle": "Part 7 - Online Chat Discussion: Client Questionnaire (Câu 147-150)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q147_150.png",
+          "text": "Why does Ms. Sakai think that paperless forms will be preferable?",
+          "options": [
+            "(A) They allow for faster data collection.",
+            "(B) They reduce the number of errors.",
+            "(C) They are good for the environment.",
+            "(D) They do not take up space in an office."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) They allow for faster data collection.. → (A)"
+        },
+        {
+          "id": 151,
+          "group": "151-155",
+          "passageTitle": "Part 7 - Press Release & Review: Kitchen Swifts / Chef Cordero (Câu 151-155)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q151_155.png",
+          "text": "What is the purpose of the press release?",
+          "options": [
+            "(A) To promote the opening of a restaurant",
+            "(B) To announce a business partnership",
+            "(C) To introduce a travel program",
+            "(D) To congratulate an award recipient"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) To announce a business partnership. → (B)"
+        },
+        {
+          "id": 152,
+          "group": "151-155",
+          "passageTitle": "Part 7 - Press Release & Review: Kitchen Swifts / Chef Cordero (Câu 151-155)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q151_155.png",
+          "text": "In the press release, the word \"reflects\" in paragraph 1, line 4, is closest in meaning to",
+          "options": [
+            "(A) results in",
+            "(B) changes",
+            "(C) shows",
+            "(D) thinks about"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) shows. → (C)"
+        },
+        {
+          "id": 153,
+          "group": "151-155",
+          "passageTitle": "Part 7 - Press Release & Review: Kitchen Swifts / Chef Cordero (Câu 151-155)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q151_155.png",
+          "text": "What is indicated about Kitchen Swifts?",
+          "options": [
+            "(A) It raised its prices for all customers.",
+            "(B) It revised its delivery schedule.",
+            "(C) It offers several meal options.",
+            "(D) It has a new vice president."
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) It offers several meal options.. → (C)"
+        },
+        {
+          "id": 154,
+          "group": "151-155",
+          "passageTitle": "Part 7 - Press Release & Review: Kitchen Swifts / Chef Cordero (Câu 151-155)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q151_155.png",
+          "text": "What is most likely true about Ms. Guan?",
+          "options": [
+            "(A) She went to Mr. Cordero's restaurant.",
+            "(B) She recently went to Sydney for a vacation.",
+            "(C) She is a colleague of Ms. Chambers.",
+            "(D) She regularly orders from Kitchen Swifts."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) She went to Mr. Cordero's restaurant.. → (A)"
+        },
+        {
+          "id": 155,
+          "group": "151-155",
+          "passageTitle": "Part 7 - Press Release & Review: Kitchen Swifts / Chef Cordero (Câu 151-155)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q151_155.png",
+          "text": "What did Ms. Guan suggest about Enriqua's in the review?",
+          "options": [
+            "(A) It has a limited lunch menu.",
+            "(B) It takes dinner reservations.",
+            "(C) It serves bread from a local bakery.",
+            "(D) It has a location in Hong Kong."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) It takes dinner reservations.. → (B)"
+        },
+        {
+          "id": 156,
+          "group": "156-160",
+          "passageTitle": "Part 7 - Notice / Web Page / Email: Westwood Library Book Club (Câu 156-160)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q156_160.png",
+          "text": "What is the purpose of the notice?",
+          "options": [
+            "(A) To highlight some books in the library",
+            "(B) To announce a change in library hours",
+            "(C) To promote an activity at the library",
+            "(D) To introduce a new librarian"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) To promote an activity at the library. → (C)"
+        },
+        {
+          "id": 157,
+          "group": "156-160",
+          "passageTitle": "Part 7 - Notice / Web Page / Email: Westwood Library Book Club (Câu 156-160)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q156_160.png",
+          "text": "What is suggested about the book Wild Open Range?",
+          "options": [
+            "(A) It is a best-selling title.",
+            "(B) It is a work of nonfiction.",
+            "(C) It was published ten years ago.",
+            "(D) It is available at a discount for library members."
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) It is a work of nonfiction.. → (B)"
+        },
+        {
+          "id": 158,
+          "group": "156-160",
+          "passageTitle": "Part 7 - Notice / Web Page / Email: Westwood Library Book Club (Câu 156-160)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q156_160.png",
+          "text": "What author most likely wrote about a famous person?",
+          "options": [
+            "(A) Jaxon McDonald",
+            "(B) Lucy Xi",
+            "(C) Peter Landers",
+            "(D) Kai Noble"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) Kai Noble. → (D)"
+        },
+        {
+          "id": 159,
+          "group": "156-160",
+          "passageTitle": "Part 7 - Notice / Web Page / Email: Westwood Library Book Club (Câu 156-160)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q156_160.png",
+          "text": "What can be concluded about Ms. Calle?",
+          "options": [
+            "(A) She is a library staff member.",
+            "(B) She has written book reviews.",
+            "(C) She is Ms. Frey's supervisor.",
+            "(D) She favors historical fiction."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) She is a library staff member.. → (A)"
+        },
+        {
+          "id": 160,
+          "group": "156-160",
+          "passageTitle": "Part 7 - Notice / Web Page / Email: Westwood Library Book Club (Câu 156-160)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q156_160.png",
+          "text": "What does Ms. Frey indicate about the book she read?",
+          "options": [
+            "(A) It discussed a topic that was unfamiliar to her.",
+            "(B) It had parts that she thought were inaccurate.",
+            "(C) It was easy to read in the time available.",
+            "(D) It inspired her to explore an old interest."
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) It inspired her to explore an old interest.. → (D)"
+        },
+        {
+          "id": 161,
+          "group": "161-165",
+          "passageTitle": "Part 7 - Brochure / Article / Email: Modern Salon Academy (Câu 161-165)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q161_165.png",
+          "text": "How does Modern Salon Academy teach its students?",
+          "options": [
+            "(A) Through online courses",
+            "(B) Through academic lectures",
+            "(C) Through individualized training",
+            "(D) Through large-group discussions"
+          ],
+          "answer": "C",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (C) (C) Through individualized training. → (C)"
+        },
+        {
+          "id": 162,
+          "group": "161-165",
+          "passageTitle": "Part 7 - Brochure / Article / Email: Modern Salon Academy (Câu 161-165)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q161_165.png",
+          "text": "According to the article, what has increased at Modern Salon Academy?",
+          "options": [
+            "(A) The cost of tuition",
+            "(B) The number of students",
+            "(C) The requirements for admission",
+            "(D) The hours needed for certification"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) The number of students. → (B)"
+        },
+        {
+          "id": 163,
+          "group": "161-165",
+          "passageTitle": "Part 7 - Brochure / Article / Email: Modern Salon Academy (Câu 161-165)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q161_165.png",
+          "text": "What is most likely true about Shoreline Barbers?",
+          "options": [
+            "(A) It is located in Oshawa.",
+            "(B) It is opening a shop in Toronto.",
+            "(C) It was sold to Francine Dupuis.",
+            "(D) It has very affordable services."
+          ],
+          "answer": "A",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (A) (A) It is located in Oshawa.. → (A)"
+        },
+        {
+          "id": 164,
+          "group": "161-165",
+          "passageTitle": "Part 7 - Brochure / Article / Email: Modern Salon Academy (Câu 161-165)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q161_165.png",
+          "text": "Who would best meet Mr. Persaud's needs?",
+          "options": [
+            "(A) Students in Cosmetology I",
+            "(B) Students in Cosmetology II",
+            "(C) Students in Skin Care",
+            "(D) Students in Leadership"
+          ],
+          "answer": "B",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (B) (B) Students in Cosmetology II. → (B)"
+        },
+        {
+          "id": 165,
+          "group": "161-165",
+          "passageTitle": "Part 7 - Brochure / Article / Email: Modern Salon Academy (Câu 161-165)",
+          "passageImage": "public/assets/bai-on-6/reading/passages/part7_q161_165.png",
+          "text": "According to the e-mail, what does Mr. Persaud want to do?",
+          "options": [
+            "(A) Establish another business",
+            "(B) Retrain staff members",
+            "(C) Teach some classes",
+            "(D) Interview some students"
+          ],
+          "answer": "D",
+          "category": "Part 7 - Reading Comprehension",
+          "hint": "Đọc đoạn văn cẩn thận → xác định ý chính của đoạn → chọn đáp án phù hợp nhất.",
+          "explanation": "Đáp án đúng: (D) (D) Interview some students. → (D)"
+        }
+      ]
+    }
+  }
+}

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Ôn Tập TOEIC – Luyện Thi Chuẩn 7 Parts</title>
   <meta name="description" content="Website ôn luyện và thi thử TOEIC chuẩn 7 phần – Bài ôn 1, 2, 3, 4 với nghe audio từng câu hỏi, phân tích kết quả chi tiết." />
-  <link rel="stylesheet" href="css/styles.css?v=2.6.0" />
+  <link rel="stylesheet" href="css/styles.css?v=2.8.0" />
 </head>
 
 <!-- ═══════════════════════════════════════════════════════════
@@ -182,7 +182,7 @@
   </div>
 
   <!-- 3-Column Workspace -->
-  <div class="workspace-container">
+  <div class="workspace-container" id="workspaceContainer">
     <!-- Left: Image / Passage -->
     <div class="media-panel" id="mediaPanel">
       <div class="no-media-placeholder">
@@ -197,9 +197,21 @@
     </div>
 
     <!-- Right: Palette -->
-    <aside class="palette-panel">
-      <div class="palette-status" id="paletteStatus">Đã trả lời: 0/0</div>
-      <div id="paletteContainer"><!-- Rendered by JS --></div>
+    <aside class="palette-panel" id="palettePanel">
+      <div class="palette-header">
+        <div class="palette-status" id="paletteStatus">Đã trả lời: 0/0</div>
+        <button class="btn-toggle-palette" id="btnTogglePalette" onclick="togglePaletteCollapse()" title="Thu gọn bảng câu hỏi">
+          <span class="palette-toggle-icon">⮞</span>
+        </button>
+      </div>
+      <div class="palette-collapsed-tab" id="paletteCollapsedTab" onclick="togglePaletteCollapse()" title="Mở rộng bảng câu hỏi (1–200)">
+        <span class="collapsed-tab-icon">⮜</span>
+        <span class="collapsed-tab-text">BẢNG CÂU HỎI</span>
+        <span class="collapsed-tab-badge" id="collapsedTabBadge">0/0</span>
+      </div>
+      <div class="palette-body" id="paletteBody">
+        <div id="paletteContainer"><!-- Rendered by JS --></div>
+      </div>
     </aside>
   </div>
 

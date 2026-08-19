@@ -68,12 +68,12 @@
             "A cup of coffee has spilled.",
             "A table leg is being repaired."
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Tranh tả vật",
           "startTime": 185,
           "endTime": 215,
           "transcript": "Some tool sets have been laid out.",
-          "explanation": "Quan sát hình ảnh câu 4 và chọn mô tả đúng nhất. → (D)"
+          "explanation": "Some tool sets have been laid out. -> (B)"
         },
         {
           "id": 5,
@@ -84,12 +84,12 @@
             "Some workers are carrying a ladder.",
             "Some workers are holding sheets of metal."
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Tranh tả một người",
           "startTime": 215,
           "endTime": 245,
           "transcript": "Some workers are holding sheets of metal.",
-          "explanation": "Quan sát hình ảnh câu 5 và chọn mô tả đúng nhất. → (C)"
+          "explanation": "A roof is under construction. -> (B)"
         },
         {
           "id": 6,
@@ -100,12 +100,12 @@
             "Wooden benches have been arranged in a circle.",
             "A wooden structure has been built near some trees."
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Tranh tả vật",
           "startTime": 245,
           "endTime": 275,
           "transcript": "A wooden structure has been built near some trees.",
-          "explanation": "Quan sát hình ảnh câu 6 và chọn mô tả đúng nhất. → (C)"
+          "explanation": "A wooden structure has been built near some trees. -> (D)"
         }
       ]
     },
@@ -1124,7 +1124,7 @@
           "startTime": 992,
           "endTime": 1067,
           "group": "68-70",
-          "transcript": "Hi Pablo. I wanted to talk to you about the video game we designed, the one we're launching soon. Sure. Did something come up? Well, I think the jungle level looks great, but in the underwater level, there's a problem with the part where the characters discover the lost city in the ocean. As I was going over the layout, I found a glitch in the gameplay. Oh, okay. We still have time to fix it. Yes, but we should work on it as soon as possible. I could put some extra time in over the weekend. How about you? Probably. Just let me check my calendar.",
+          "transcript": "Hi Pablo. I wanted to talk to you about the video game we designed, the one we're launching soon. Sure. Did something come up? Well, I think the jungle level looks great, but in the underwater level, there's a problem with the part where the characters discover the lost city in the ocean. As I was going over the layout, I found a glitch in the gameplay. Oh, okay. We still have time to fix it. Yes, but we should work on it as soon as possible. I could put some extra time in over the weekend. How about you? Probably. Just let me check my calendar.\nPART 4: TALKS (Câu 71 – 100)\nDirections: You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk.",
           "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C) → (C)"
         },
         {
@@ -1141,7 +1141,7 @@
           "startTime": 992,
           "endTime": 1067,
           "group": "68-70",
-          "transcript": "Hi Pablo. I wanted to talk to you about the video game we designed, the one we're launching soon. Sure. Did something come up? Well, I think the jungle level looks great, but in the underwater level, there's a problem with the part where the characters discover the lost city in the ocean. As I was going over the layout, I found a glitch in the gameplay. Oh, okay. We still have time to fix it. Yes, but we should work on it as soon as possible. I could put some extra time in over the weekend. How about you? Probably. Just let me check my calendar.",
+          "transcript": "Hi Pablo. I wanted to talk to you about the video game we designed, the one we're launching soon. Sure. Did something come up? Well, I think the jungle level looks great, but in the underwater level, there's a problem with the part where the characters discover the lost city in the ocean. As I was going over the layout, I found a glitch in the gameplay. Oh, okay. We still have time to fix it. Yes, but we should work on it as soon as possible. I could put some extra time in over the weekend. How about you? Probably. Just let me check my calendar.\nPART 4: TALKS (Câu 71 – 100)\nDirections: You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk.",
           "explanation": "Noi dung cho thay dap an dung la (D). Tham khao transcript de tim cau tra loi. -> (D) → (D)"
         },
         {
@@ -1158,7 +1158,7 @@
           "startTime": 992,
           "endTime": 1067,
           "group": "68-70",
-          "transcript": "Hi Pablo. I wanted to talk to you about the video game we designed, the one we're launching soon. Sure. Did something come up? Well, I think the jungle level looks great, but in the underwater level, there's a problem with the part where the characters discover the lost city in the ocean. As I was going over the layout, I found a glitch in the gameplay. Oh, okay. We still have time to fix it. Yes, but we should work on it as soon as possible. I could put some extra time in over the weekend. How about you? Probably. Just let me check my calendar.",
+          "transcript": "Hi Pablo. I wanted to talk to you about the video game we designed, the one we're launching soon. Sure. Did something come up? Well, I think the jungle level looks great, but in the underwater level, there's a problem with the part where the characters discover the lost city in the ocean. As I was going over the layout, I found a glitch in the gameplay. Oh, okay. We still have time to fix it. Yes, but we should work on it as soon as possible. I could put some extra time in over the weekend. How about you? Probably. Just let me check my calendar.\nPART 4: TALKS (Câu 71 – 100)\nDirections: You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk.",
           "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C) → (A)"
         }
       ]
@@ -1642,7 +1642,7 @@
           "startTime": 689,
           "endTime": 759,
           "group": "98-100",
-          "transcript": "Welcome to today's environmental science lecture. Our topic today is soil quality testing, which is essential for maintaining healthy crops and gardens. To get an accurate reading of soil health, samples must be collected at just the right depth. Based on our seasonal chart, this month you should collect samples at 6 inches. Next month the recommended depth changes, so make sure to check the chart regularly. I encourage you to ask questions throughout the session.",
+          "transcript": "Welcome to today's environmental science lecture. Our topic today is soil quality testing, which is essential for maintaining healthy crops and gardens. To get an accurate reading of soil health, samples must be collected at just the right depth. Based on our seasonal chart, this month you should collect samples at 6 inches. Next month the recommended depth changes, so make sure to check the chart regularly. I encourage you to ask questions throughout the session.\n► BẢNG ĐÁP ÁN TEST 3 – PART 3 & PART 4 (Câu 32 – 100):\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\nQ39\nQ40\nQ41\nC\nB\nD\nC\nB\nD\nC\nB\nD\nC\nQ42\nQ43\nQ44\nQ45\nQ46\nQ47\nQ48\nQ49\nQ50\nQ51\nA\nB\nC\nB\nD\nC\nA\nD\nC\nB\nQ52\nQ53\nQ54\nQ55\nQ56\nQ57\nQ58\nQ59\nQ60\nQ61\nA\nA\nA\nC\nC\nD\nA\nC\nD\nA\nQ62\nQ63\nQ64\nQ65\nQ66\nQ67\nQ68\nQ69\nQ70\nQ71\nD\nB\nC\nB\nC\nC\nC\nD\nA\nC\nQ72\nQ73\nQ74\nQ75\nQ76\nQ77\nQ78\nQ79\nQ80\nQ81\nC\nA\nA\nC\nB\nC\nC\nA\nD\nB\nQ82\nQ83\nQ84\nQ85\nQ86\nQ87\nQ88\nQ89\nQ90\nQ91\nC\nB\nC\nD\nC\nA\nB\nD\nC\nA\nQ92\nQ93\nQ94\nQ95\nQ96\nQ97\nQ98\nQ99\nQ100\nC\nC\nD\nA\nC\nC\nB\nB\nD",
           "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C) → (B)"
         },
         {
@@ -1659,7 +1659,7 @@
           "startTime": 689,
           "endTime": 759,
           "group": "98-100",
-          "transcript": "Welcome to today's environmental science lecture. Our topic today is soil quality testing, which is essential for maintaining healthy crops and gardens. To get an accurate reading of soil health, samples must be collected at just the right depth. Based on our seasonal chart, this month you should collect samples at 6 inches. Next month the recommended depth changes, so make sure to check the chart regularly. I encourage you to ask questions throughout the session.",
+          "transcript": "Welcome to today's environmental science lecture. Our topic today is soil quality testing, which is essential for maintaining healthy crops and gardens. To get an accurate reading of soil health, samples must be collected at just the right depth. Based on our seasonal chart, this month you should collect samples at 6 inches. Next month the recommended depth changes, so make sure to check the chart regularly. I encourage you to ask questions throughout the session.\n► BẢNG ĐÁP ÁN TEST 3 – PART 3 & PART 4 (Câu 32 – 100):\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\nQ39\nQ40\nQ41\nC\nB\nD\nC\nB\nD\nC\nB\nD\nC\nQ42\nQ43\nQ44\nQ45\nQ46\nQ47\nQ48\nQ49\nQ50\nQ51\nA\nB\nC\nB\nD\nC\nA\nD\nC\nB\nQ52\nQ53\nQ54\nQ55\nQ56\nQ57\nQ58\nQ59\nQ60\nQ61\nA\nA\nA\nC\nC\nD\nA\nC\nD\nA\nQ62\nQ63\nQ64\nQ65\nQ66\nQ67\nQ68\nQ69\nQ70\nQ71\nD\nB\nC\nB\nC\nC\nC\nD\nA\nC\nQ72\nQ73\nQ74\nQ75\nQ76\nQ77\nQ78\nQ79\nQ80\nQ81\nC\nA\nA\nC\nB\nC\nC\nA\nD\nB\nQ82\nQ83\nQ84\nQ85\nQ86\nQ87\nQ88\nQ89\nQ90\nQ91\nC\nB\nC\nD\nC\nA\nB\nD\nC\nA\nQ92\nQ93\nQ94\nQ95\nQ96\nQ97\nQ98\nQ99\nQ100\nC\nC\nD\nA\nC\nC\nB\nB\nD",
           "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C) → (B)"
         },
         {
@@ -1676,7 +1676,7 @@
           "startTime": 689,
           "endTime": 759,
           "group": "98-100",
-          "transcript": "Welcome to today's environmental science lecture. Our topic today is soil quality testing, which is essential for maintaining healthy crops and gardens. To get an accurate reading of soil health, samples must be collected at just the right depth. Based on our seasonal chart, this month you should collect samples at 6 inches. Next month the recommended depth changes, so make sure to check the chart regularly. I encourage you to ask questions throughout the session.",
+          "transcript": "Welcome to today's environmental science lecture. Our topic today is soil quality testing, which is essential for maintaining healthy crops and gardens. To get an accurate reading of soil health, samples must be collected at just the right depth. Based on our seasonal chart, this month you should collect samples at 6 inches. Next month the recommended depth changes, so make sure to check the chart regularly. I encourage you to ask questions throughout the session.\n► BẢNG ĐÁP ÁN TEST 3 – PART 3 & PART 4 (Câu 32 – 100):\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\nQ39\nQ40\nQ41\nC\nB\nD\nC\nB\nD\nC\nB\nD\nC\nQ42\nQ43\nQ44\nQ45\nQ46\nQ47\nQ48\nQ49\nQ50\nQ51\nA\nB\nC\nB\nD\nC\nA\nD\nC\nB\nQ52\nQ53\nQ54\nQ55\nQ56\nQ57\nQ58\nQ59\nQ60\nQ61\nA\nA\nA\nC\nC\nD\nA\nC\nD\nA\nQ62\nQ63\nQ64\nQ65\nQ66\nQ67\nQ68\nQ69\nQ70\nQ71\nD\nB\nC\nB\nC\nC\nC\nD\nA\nC\nQ72\nQ73\nQ74\nQ75\nQ76\nQ77\nQ78\nQ79\nQ80\nQ81\nC\nA\nA\nC\nB\nC\nC\nA\nD\nB\nQ82\nQ83\nQ84\nQ85\nQ86\nQ87\nQ88\nQ89\nQ90\nQ91\nC\nB\nC\nD\nC\nA\nB\nD\nC\nA\nQ92\nQ93\nQ94\nQ95\nQ96\nQ97\nQ98\nQ99\nQ100\nC\nC\nD\nA\nC\nC\nB\nB\nD",
           "explanation": "Noi dung cho thay dap an dung la (A). Tham khao transcript de tim cau tra loi. -> (A) → (D)"
         }
       ]

@@ -49,3 +49,4 @@ desktop.ini
 
 # ── Gemini / AI agent local files ────────────────────────────
 .gemini/
+.aider*

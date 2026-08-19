@@ -9,11 +9,12 @@ const SESSION_KEY = `toeic_session_v${APP_VERSION.replace(/\./g, '_')}`;
 
 /* ── Constants ────────────────────────────────────────────── */
 const TESTS_META = [
-  { id: 'bai-on-1', testNumber: 1, title: 'Bài Ôn Tập 1', dataFile: 'public/data/test-1.json', tag: 'LISTENING + READING' },
-  { id: 'bai-on-2', testNumber: 2, title: 'Bài Ôn Tập 2', dataFile: 'public/data/test-2.json', tag: 'LISTENING + READING' },
-  { id: 'bai-on-3', testNumber: 3, title: 'Bài Ôn Tập 3', dataFile: 'public/data/test-3.json', tag: 'LISTENING + READING' },
-  { id: 'bai-on-4', testNumber: 4, title: 'Bài Ôn Tập 4', dataFile: 'public/data/test-4.json', tag: 'LISTENING + READING' },
-  { id: 'bai-on-5', testNumber: 5, title: 'Bài Ôn Tập 5', dataFile: 'public/data/test-5.json', tag: 'READING ONLY' },
+  { id: 'bai-on-1', testNumber: 1, title: 'Bài Ôn Tập 1', dataFile: 'public/data/test-1.json', tag: 'LISTENING + READING', qCount: 200, timeStr: "120'", pCount: 7 },
+  { id: 'bai-on-2', testNumber: 2, title: 'Bài Ôn Tập 2', dataFile: 'public/data/test-2.json', tag: 'LISTENING + READING', qCount: 200, timeStr: "120'", pCount: 7 },
+  { id: 'bai-on-3', testNumber: 3, title: 'Bài Ôn Tập 3', dataFile: 'public/data/test-3.json', tag: 'LISTENING + READING', qCount: 200, timeStr: "120'", pCount: 7 },
+  { id: 'bai-on-4', testNumber: 4, title: 'Bài Ôn Tập 4', dataFile: 'public/data/test-4.json', tag: 'LISTENING + READING', qCount: 200, timeStr: "120'", pCount: 7 },
+  { id: 'bai-on-5', testNumber: 5, title: 'Bài Ôn Tập 5', dataFile: 'public/data/test-5.json', tag: 'READING ONLY', qCount: 100, timeStr: "75'", pCount: 3 },
+  { id: 'bai-on-6', testNumber: 6, title: 'Reading Mock Test', dataFile: 'public/data/test-6.json', tag: 'READING ONLY', qCount: 65, timeStr: "45'", pCount: 3 },
 ];
 
 const PART_CONFIG = [
@@ -42,6 +43,7 @@ const S = {
   startTime: null,
   transcriptVisible: {}, // { groupId: true/false } - Part3/4 transcript toggle
   shuffleMap: {},        // { qId: [displayIdx → originalIdx] } – deterministic shuffle cho Reading
+  paletteCollapsed: (localStorage.getItem('toeic_palette_collapsed') === 'true'), // Palette collapse state
 };
 
 /**
@@ -85,9 +87,9 @@ function renderHome() {
 
   grid.innerHTML = TESTS_META.map((t, idx) => {
     const isReadingOnly = t.tag === 'READING ONLY';
-    const qCount  = isReadingOnly ? 100   : 200;
-    const timeStr = isReadingOnly ? "75'"  : "120'";
-    const pCount  = isReadingOnly ? 3      : 7;
+    const qCount  = t.qCount  || (isReadingOnly ? 100 : 200);
+    const timeStr = t.timeStr || (isReadingOnly ? "75'" : "120'");
+    const pCount  = t.pCount  || (isReadingOnly ? 3 : 7);
     const subtitle = isReadingOnly ? `${qCount} câu hỏi • ${pCount} phần thi • Reading` : `${qCount} câu hỏi • ${pCount} phần thi • Nghe + Đọc`;
     return `
     <div class="test-card" data-idx="${idx}">
@@ -325,6 +327,18 @@ function renderWorkspace() {
   const badge = $('currentPartPill');
   if (badge) badge.textContent = part.name.split(' - ')[0];
 
+  // Adjust 7:3 ratio mode on workspace container
+  const container = $('workspaceContainer') || document.querySelector('.workspace-container');
+  const isReading73 = ['part6','part7'].includes(S.activePart) ||
+    (['part3','part4'].includes(S.activePart) && (S.submitted || S.transcriptVisible[part.questions.find(q => q.id === S.activeQId)?.group || '']));
+  
+  if (container) {
+    container.classList.toggle('reading-73-mode', isReading73);
+    container.classList.toggle('compact-media', !isReading73);
+    container.classList.toggle('palette-collapsed', !!S.paletteCollapsed);
+  }
+  updatePaletteCollapseUI();
+
   // Audio bar
   const audioBar = $('audioBar');
   const hasAudio = part.audio && part.audio.length > 0;
@@ -364,12 +378,23 @@ function renderMediaPanel(part, targetQId) {
     ? `${part.name.split(' - ')[0]} – Câu ${currentQ.group}`
     : `${part.name.split(' - ')[0]} – Câu ${currentQ.id}`;
 
-  // ── Part 3/4: Show transcript panel if toggled ──────────────────
+  // ── Part 3/4: Show transcript panel or prompt in media panel ──────────────────
   if (isPart34) {
     const groupId = currentQ.group || String(currentQ.id);
-    const showTrans = S.transcriptVisible[groupId];
+    const showTrans = S.submitted || S.transcriptVisible[groupId];
     if (showTrans) {
       panel.innerHTML = buildTranscriptPanel(part, currentQ, labelText);
+      return;
+    } else {
+      panel.innerHTML = `
+        <span class="media-panel-label">${labelText}</span>
+        <div class="part34-media-prompt">
+          <div class="prompt-icon">🎧</div>
+          <div class="prompt-title">${part.name.split(' - ')[0]} – Câu ${groupId}</div>
+          <div class="prompt-desc">Bạn đang làm bài ở <strong>Chế độ Luyện tập</strong>.<br>Bạn có thể mở Full Script để vừa nghe vừa đọc hiểu câu thoại.</div>
+          <button class="btn-open-script" onclick="openPart34Script('${groupId}', ${currentQ.id})">📜 Mở Full Script bài nghe (Gợi ý)</button>
+        </div>
+      `;
       return;
     }
   }
@@ -412,26 +437,130 @@ function renderMediaPanel(part, targetQId) {
   }
 
   // ── Floating passage button for mobile (Part 6/7 only) ──────────────
-  // Inject/update a sticky floating button at bottom of screen
   const isMobilePassagePart = ['part6','part7'].includes(S.activePart) && imgSrc;
   let floatBtn = document.getElementById('floatPassageBtn');
   if (isMobilePassagePart) {
     if (!floatBtn) {
       floatBtn = document.createElement('button');
       floatBtn.id = 'floatPassageBtn';
-      floatBtn.innerHTML = '\uD83D\uDCD6 Xem \u0111o\u1EA1n v\u0103n';
-      document.getElementById('viewWorkspace').appendChild(floatBtn);
+      document.body.appendChild(floatBtn);
     }
+    floatBtn.innerHTML = '📖 Hiển thị đoạn văn';
     floatBtn.onclick = () => openImageFull(imgSrc);
-    floatBtn.style.display = '';
+    floatBtn.style.display = (window.innerWidth <= 900) ? 'inline-flex' : '';
   } else {
     if (floatBtn) floatBtn.style.display = 'none';
   }
 }
 
 /**
+ * Locate evidence turns/sentences for each question in a Part 3/4 group.
+ */
+function findPart34Evidence(groupQs, rawTranscript) {
+  const rawLines = (rawTranscript || '').split(/\n+/).map(l => l.trim()).filter(Boolean);
+  const turns = [];
+  
+  for (const line of rawLines) {
+    const m = line.match(/^((?:Man|Woman|W-[A-Za-z]+|M-[A-Za-z]+|Speaker\s*\d+|A|B)[\s:]*)\s*(.*)$/i);
+    if (m) {
+      turns.push({
+        speaker: m[1].replace(/[:\s]+$/, '').trim(),
+        text: m[2].trim(),
+        raw: line
+      });
+    } else {
+      turns.push({
+        speaker: '',
+        text: line.trim(),
+        raw: line
+      });
+    }
+  }
+
+  const qEvidenceMap = {};
+  
+  groupQs.forEach(q => {
+    const ansLetter = q.answer || 'A';
+    const ansIdx = ansLetter.charCodeAt(0) - 65;
+    const optText = (q.options && q.options[ansIdx])
+      ? q.options[ansIdx].replace(/^\([A-D]\)\s*/i, '').trim()
+      : '';
+    const qText = (q.text || '').replace(/^\d+\.\s*/, '').trim();
+
+    const optKeywords = optText.toLowerCase()
+      .replace(/[^a-z0-9\s]/g, ' ')
+      .split(/\s+/)
+      .filter(w => w.length >= 3 && !['the','and','for','with','that','this','from','have','been','will','are','was','were','not','about','some'].includes(w));
+    
+    const qKeywords = qText.toLowerCase()
+      .replace(/[^a-z0-9\s]/g, ' ')
+      .split(/\s+/)
+      .filter(w => w.length >= 4 && !['what','where','when','which','does','will','most','likely','according','mention','suggest','speaker','woman','man','about'].includes(w));
+
+    let bestIdx = -1;
+    let bestScore = -1;
+    let bestMatchedKw = [];
+
+    turns.forEach((turn, idx) => {
+      const turnLower = turn.text.toLowerCase();
+      let score = 0;
+      const matched = [];
+
+      if (optText.length >= 4 && turnLower.includes(optText.toLowerCase())) {
+        score += 25;
+        matched.push(optText);
+      }
+
+      optKeywords.forEach(kw => {
+        if (turnLower.includes(kw)) {
+          score += 8;
+          matched.push(kw);
+        }
+      });
+
+      qKeywords.forEach(kw => {
+        if (turnLower.includes(kw)) {
+          score += 3;
+          matched.push(kw);
+        }
+      });
+
+      if (score > bestScore) {
+        bestScore = score;
+        bestIdx = idx;
+        bestMatchedKw = [...new Set(matched)];
+      }
+    });
+
+    qEvidenceMap[q.id] = {
+      turnIdx: bestScore >= 3 ? bestIdx : -1,
+      score: bestScore,
+      matchedKw: bestMatchedKw,
+      correctText: optText,
+      isDirect: bestScore >= 3
+    };
+  });
+
+  return { turns, qEvidenceMap };
+}
+
+function openPart34Script(groupId, qId) {
+  S.activeQId = qId;
+  S.transcriptVisible[groupId] = true;
+  const part = S.currentTest?.parts[S.activePart];
+  if (part) {
+    renderMediaPanel(part, qId);
+    renderPalette();
+  }
+  if (window.innerWidth <= 900) {
+    const media = $('mediaPanel');
+    if (media) media.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}
+
+/**
  * Build transcript panel HTML for Part 3/4 media panel.
- * Highlights sentences that relate to the active question.
+ * Highlights sentences that relate to the active question after submit.
  */
 function buildTranscriptPanel(part, currentQ, labelText) {
   const groupId = currentQ.group || String(currentQ.id);
@@ -439,143 +568,147 @@ function buildTranscriptPanel(part, currentQ, labelText) {
     (q.group && q.group === currentQ.group) || q.id === currentQ.id
   );
 
-  // Get transcript from first question in group
   const rawTranscript = (groupQs[0]?.transcript || '').trim();
-
-  // Detect placeholder transcripts (short or starts with Vietnamese description)
-  const isPlaceholder = rawTranscript.length < 250 ||
-    rawTranscript.startsWith('(Hội thoại') ||
-    rawTranscript.startsWith('(Bài nói') ||
-    rawTranscript.startsWith('Hội thoại') ||
-    rawTranscript.startsWith('Bài nói') ||
-    rawTranscript.startsWith('Thông báo') ||
-    rawTranscript.startsWith('Quảng cáo');
-
-  // Count correct answers in this group
-  const correctCount = groupQs.filter(q => S.answers[q.id] && S.answers[q.id] === q.answer).length;
-  const answeredCount = groupQs.filter(q => S.answers[q.id]).length;
-  const totalInGroup = groupQs.length;
-
-  const scoreBadge = `<div class="trans-score-badge">
-     <span class="trans-score-correct">${correctCount}/${totalInGroup}</span>
-     <span class="trans-score-label"> câu đúng</span>
-   </div>`;
-
-  // Per-question mini badges
   const activeQId = S.activeQId;
+
+  // Correct answer count if submitted
+  let scoreBadge = '';
+  if (S.submitted) {
+    const correctCount = groupQs.filter(q => S.answers[q.id] && S.answers[q.id] === q.answer).length;
+    scoreBadge = `
+      <div class="trans-score-badge">
+        <span class="trans-score-correct">${correctCount}/${groupQs.length}</span>
+        <span class="trans-score-label"> câu đúng</span>
+      </div>`;
+  }
+
+  // Mini Question Badges
   const qBadges = groupQs.map(q => {
     const ans = S.answers[q.id];
     let cls = 'trans-q-badge';
-    if (ans && ans === q.answer) cls += ' correct';
-    else if (ans) cls += ' wrong';
-    else if (q.id === activeQId) cls += ' active';
-    return `<span class="${cls}" title="Q${q.id}: ${q.text ? q.text.substring(0,50) : ''}"
+    if (S.submitted) {
+      if (ans && ans === q.answer) cls += ' correct';
+      else if (ans) cls += ' wrong';
+      else cls += ' skip';
+    } else if (q.id === activeQId) {
+      cls += ' active';
+    }
+    return `<span class="${cls}" title="Q${q.id}: ${(q.text || '').substring(0,50)}"
               onclick="S.activeQId=${q.id}; renderMediaPanel(S.currentTest.parts[S.activePart], ${q.id}); renderPalette();">Q${q.id}</span>`;
   }).join('');
 
-  // ── Content section ──────────────────────────────────────────
-  let contentHtml;
-
-  if (isPlaceholder) {
-    // No real transcript available
-    contentHtml = `
-      <div class="trans-no-data">
-        <div class="trans-no-data-icon">🎧</div>
-        <div class="trans-no-data-title">Chưa có script</div>
-        <div class="trans-no-data-msg">
-          Script của đoạn hội thoại này chưa được xử lý.<br>
-          <strong>Gợi ý:</strong> Nghe lại audio và chú ý các từ khóa trong câu hỏi bên phải.
+  if (!rawTranscript) {
+    return `
+      <div class="trans-panel">
+        <div class="trans-panel-header">
+          <div class="trans-header-left">
+            <span class="trans-group-title">🎧 ${labelText}</span>
+            <span class="trans-mode-pill practice">Chưa có script</span>
+          </div>
         </div>
-        <div class="trans-question-hints">
-          ${groupQs.map(q => `
-            <div class="trans-q-hint-row ${q.id === activeQId ? 'active-q' : ''}">
-              <span class="trans-q-hint-num">Q${q.id}</span>
-              <span class="trans-q-hint-text">${q.text ? q.text.replace(/^\d+\.\s*/, '') : ''}</span>
-            </div>`).join('')}
+        <div class="no-media-placeholder">
+          <div class="icon">🎧</div>
+          <div>Chưa có dữ liệu lời thoại cho cụm câu này</div>
         </div>
-      </div>`;
-  } else {
-    // Real transcript - split into speaker turns and sentences
-    // Detect speaker-tagged format (Man:, Woman:, M:, W:, Speaker 1:, etc.)
-    const hasSpeakerTags = /^(Man|Woman|M|W|Speaker\s*\d+|A|B)[\s:]/im.test(rawTranscript);
-
-    let sentences;
-    if (hasSpeakerTags) {
-      // Split by speaker turns
-      sentences = rawTranscript
-        .split(/\n/)
-        .map(s => s.trim())
-        .filter(Boolean);
-    } else {
-      // Split by sentence boundary
-      sentences = rawTranscript
-        .replace(/([.!?])\s+/g, '$1\n')
-        .split('\n')
-        .map(s => s.trim())
-        .filter(s => s.length > 2);
-    }
-
-    // Extract keywords from ALL questions in the group
-    const allGroupKeywords = groupQs.flatMap(q => {
-      const qWords = (q.text || '').toLowerCase()
-        .replace(/[^a-z0-9\s]/g, ' ')
-        .split(/\s+/)
-        .filter(w => w.length > 3 &&
-          !['what','when','where','which','does','will','they','this','that',
-            'have','with','from','about','most','likely','woman','according',
-            'mention','suggest','imply','does','man','say','speaker'].includes(w));
-      const optWords = Object.values(q.options || {}).flatMap(opt =>
-        (opt || '').toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/)
-          .filter(w => w.length > 4)
-      );
-      return [...qWords, ...optWords];
-    });
-
-    const allKeywords = [...new Set(allGroupKeywords)];
-
-    const sentenceHtml = sentences.map((sentence) => {
-      const lower = sentence.toLowerCase();
-
-      // Detect speaker prefix for styling
-      const speakerMatch = sentence.match(/^(Man|Woman|M|W|Speaker\s*\d+)[:\s]/i);
-      const speakerTag = speakerMatch
-        ? `<span class="trans-speaker ${speakerMatch[1].toLowerCase().startsWith('w') ? 'trans-speaker-w' : 'trans-speaker-m'}">${speakerMatch[1]}</span>`
-        : '';
-
-      const textContent = speakerMatch
-        ? sentence.replace(/^(Man|Woman|M|W|Speaker\s*\d+)[:\s]*/i, '').trim()
-        : sentence;
-
-      // Highlight matching keywords in the text
-      let displayText = textContent;
-      if (allKeywords.length > 0) {
-        const kwPattern = new RegExp(`(${allKeywords.map(k => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')})`, 'gi');
-        displayText = textContent.replace(kwPattern, '<mark class="trans-kw-mark">$1</mark>');
-      }
-
-      const isHighlighted = allKeywords.length > 0 && allKeywords.some(kw => lower.includes(kw));
-
-      return `<div class="trans-sentence ${isHighlighted ? 'trans-highlight' : ''}">
-        ${speakerTag}
-        <span class="trans-sent-text">${displayText}</span>
-      </div>`;
-    }).join('');
-
-    contentHtml = `
-      <div class="trans-body">
-        <div class="trans-label">📜 Full Script hội thoại — <span style="font-weight:600;color:#166534;">Nội dung tô xanh lá liên quan đến đáp án</span></div>
-        <div class="trans-sentences">${sentenceHtml}</div>
       </div>`;
   }
+
+  // Parse turns and evidence matches
+  const { turns, qEvidenceMap } = findPart34Evidence(groupQs, rawTranscript);
+
+  // Status Pill
+  const statusPill = S.submitted
+    ? `<span class="trans-mode-pill review">✅ Dẫn chứng đáp án</span>`
+    : `<span class="trans-mode-pill practice">💡 Script bài nghe</span>`;
+
+  // Render dialogue turns
+  const turnsHtml = turns.map((turn, turnIdx) => {
+    let spClass = 'generic';
+    const spLower = turn.speaker.toLowerCase();
+    if (spLower.startsWith('m') || spLower.includes('man') || spLower.includes('nam')) spClass = 'man';
+    else if (spLower.startsWith('w') || spLower.includes('woman') || spLower.includes('nữ')) spClass = 'woman';
+
+    const speakerTag = turn.speaker
+      ? `<span class="trans-speaker-badge ${spClass}">${turn.speaker}</span>`
+      : '';
+
+    let evidenceTags = '';
+    let isEvidenceTurn = false;
+    let turnDisplayText = turn.text;
+
+    if (S.submitted) {
+      const matchedQIds = [];
+      const matchedKeywords = [];
+
+      groupQs.forEach(q => {
+        const ev = qEvidenceMap[q.id];
+        if (ev && ev.turnIdx === turnIdx) {
+          matchedQIds.push(q.id);
+          matchedKeywords.push(...ev.matchedKw);
+        }
+      });
+
+      if (matchedQIds.length > 0) {
+        isEvidenceTurn = true;
+        evidenceTags = `<div class="trans-evidence-tag-list">${matchedQIds.map(qid => `<span class="trans-evidence-tag">Câu ${qid}</span>`).join('')}</div>`;
+
+        const uniqueKws = [...new Set(matchedKeywords)].filter(k => k.length >= 3);
+        if (uniqueKws.length > 0) {
+          const kwPattern = new RegExp(`(${uniqueKws.map(k => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')})`, 'gi');
+          turnDisplayText = turn.text.replace(kwPattern, '<mark class="trans-evidence-mark">$1</mark>');
+        }
+      }
+    }
+
+    return `
+      <div class="trans-turn ${isEvidenceTurn ? 'has-evidence' : ''}">
+        <div class="trans-turn-head">
+          ${speakerTag}
+          ${evidenceTags}
+        </div>
+        <div class="trans-turn-text">${turnDisplayText}</div>
+      </div>`;
+  }).join('');
+
+  // Inference notes for questions without a single direct sentence match
+  let inferenceNotesHtml = '';
+  if (S.submitted) {
+    const inferenceQs = groupQs.filter(q => {
+      const ev = qEvidenceMap[q.id];
+      return !ev || !ev.isDirect;
+    });
+
+    if (inferenceQs.length > 0) {
+      inferenceNotesHtml = `
+        <div class="trans-inference-list" style="margin-top: 10px; display:flex; flex-direction:column; gap:6px;">
+          ${inferenceQs.map(q => `
+            <div class="trans-inference-box">
+              <span>💡</span>
+              <div><strong>Câu ${q.id}:</strong> Đáp án <strong>(${q.answer}) ${qEvidenceMap[q.id]?.correctText || ''}</strong> được phân tích và suy luận từ ngữ cảnh toàn bài hội thoại.</div>
+            </div>`).join('')}
+        </div>`;
+    }
+  }
+
+  // Close button (only before submit)
+  const closeBtn = (!S.submitted)
+    ? `<button class="trans-close-btn" onclick="toggleGroupTranscript('${groupId}')" title="Ẩn script">✕ Ẩn script</button>`
+    : '';
 
   return `
     <div class="trans-panel">
       <div class="trans-panel-header">
-        <span class="media-panel-label">${labelText}</span>
-        <button class="trans-close-btn" onclick="toggleGroupTranscript('${groupId}')" title="Đóng script">✕ Ẩn script</button>
+        <div class="trans-header-left">
+          <span class="trans-group-title">🎧 ${labelText}</span>
+          ${statusPill}
+        </div>
+        ${closeBtn}
       </div>
       <div class="trans-q-row">${qBadges}${scoreBadge}</div>
-      ${contentHtml}
+      <div class="trans-dialogue-box">
+        ${turnsHtml}
+      </div>
+      ${inferenceNotesHtml}
     </div>`;
 }
 
@@ -593,13 +726,54 @@ function renderQuestionCard(q, idx, allQs) {
     p2Parsed = parseP2Transcript(q.transcript);
   }
 
+  // ══════════════════════════════════════════════════════════════════
+  // EXAM MODE – Part 1 & Part 2: ẩn câu hỏi & đáp án, chỉ hiển thị
+  // số câu + nút nghe + hình ảnh (Part 1) + bubble chọn đáp án
+  // ══════════════════════════════════════════════════════════════════
+  if (S.mode === 'exam' && (isPart1 || isPart2) && !S.submitted) {
+    const subAudioBtnExam = hasSeg
+      ? `<button class="q-subaudio-btn" onclick="playSegment(${q.id}, ${q.startTime}, ${q.endTime})">
+           🔊 Nghe câu ${q.id} (${TOEICAudioPlayer_fmt(q.startTime)} – ${TOEICAudioPlayer_fmt(q.endTime)})
+         </button>`
+      : '';
+    const qImgExam = q.image
+      ? `<img src="${q.image}" alt="Hình ảnh câu ${q.id}"
+             style="width:100%; max-height:340px; object-fit:contain; border-radius:8px; margin-bottom:12px; cursor:pointer;"
+             onclick="openImageFull('${q.image}')"
+             onerror="this.style.display='none'" />`
+      : '';
+
+    const optLetters = isPart2 ? ['A','B','C'] : ['A','B','C','D'];
+    const bubblesHtml = optLetters.map(letter => {
+      const isSelected = answered === letter;
+      let cls = 'q-option-exam-bubble' + (isSelected ? ' selected' : '');
+      return `<label class="${cls}" id="opt-${q.id}-${letter}">
+        <input type="radio" name="q${q.id}" value="${letter}" ${isSelected ? 'checked' : ''} style="display:none" />
+        <span class="bubble-letter">${letter}</span>
+      </label>`;
+    }).join('');
+
+    return `
+      <div class="q-card exam-listening-card ${S.activeQId === q.id ? 'current' : ''}" id="qcard-${q.id}">
+        <div class="q-card-header">
+          <div class="q-num-badge">${q.id}</div>
+          <button class="q-flag-btn ${isFlagged ? 'flagged' : ''}" id="flag-${q.id}"
+                  onclick="toggleFlag(${q.id})" title="Đánh dấu câu này">🚩</button>
+        </div>
+        <div class="q-audio-row">${subAudioBtnExam}</div>
+        ${qImgExam}
+        <div class="exam-listening-prompt">🎧 Nghe audio và chọn đáp án</div>
+        <div class="q-options-exam-row">${bubblesHtml}</div>
+      </div>`;
+  }
+
   const prevQ = allQs && idx > 0 ? allQs[idx - 1] : null;
   const isNewGroup = !prevQ || (q.group && prevQ.group !== q.group) || (q.passageTitle && prevQ.passageTitle !== q.passageTitle);
 
   // Part 3/4: single transcript toggle button on group banner
   const isPart34 = ['part3','part4'].includes(S.activePart);
   const groupId = q.group || String(q.id);
-  const transVisible = S.transcriptVisible[groupId];
+  const transVisible = S.submitted || S.transcriptVisible[groupId];
   const transBtn = (isPart34 && isNewGroup && !S.submitted)
     ? `<button class="trans-toggle-btn ${transVisible ? 'active' : ''}" onclick="toggleGroupTranscript('${groupId}')" title="Xem full script cả 3 câu">
          📜 ${transVisible ? 'Ẩn script hội thoại' : 'Xem full script cả 3 câu'}
@@ -730,6 +904,15 @@ function renderQuestionCard(q, idx, allQs) {
     } else {
       resultBadge = `<span class="q-result-badge wrong">❌ Sai · Đúng: (${q.answer})</span>`;
     }
+
+    if (q.explanation || (isPart34 && q.transcript)) {
+      explanationHtml = `
+        <div class="q-explanation-box">
+          <div class="exp-header">💡 Giải thích chi tiết – Câu ${q.id} (Đáp án: ${q.answer})</div>
+          ${q.explanation ? `<div class="exp-body">${q.explanation}</div>` : ''}
+          ${isPart34 ? `<div class="exp-script-notice">📍 Vị trí dẫn chứng câu ${q.id} được đánh dấu trong Full Script ở cột bên trái</div>` : ''}
+        </div>`;
+    }
   }
 
   return `
@@ -749,6 +932,7 @@ function renderQuestionCard(q, idx, allQs) {
       ${readingFocusNote}
       ${hintHtml}
       <div class="q-options" id="opts-${q.id}">${optionsHtml}</div>
+      ${explanationHtml}
     </div>`;
 }
 
@@ -821,9 +1005,15 @@ function bindQuestionEvents(questions) {
 }
 
 function highlightOptions(qId, selected) {
+  // Normal mode options
   document.querySelectorAll(`#opts-${qId} .q-option`).forEach(label => {
     const val = label.querySelector('input')?.value;
     label.classList.toggle('selected', val === selected);
+  });
+  // Exam bubble mode options (Part 1 & 2 in exam)
+  document.querySelectorAll(`.q-option-exam-bubble[id^="opt-${qId}-"]`).forEach(label => {
+    const input = label.querySelector('input');
+    if (input) label.classList.toggle('selected', input.value === selected);
   });
 }
 
@@ -923,6 +1113,30 @@ function openImageFull(src) {
 }
 
 /* ── Palette ────────────────────────────────────────────── */
+function togglePaletteCollapse() {
+  S.paletteCollapsed = !S.paletteCollapsed;
+  localStorage.setItem('toeic_palette_collapsed', S.paletteCollapsed ? 'true' : 'false');
+  updatePaletteCollapseUI();
+}
+
+function updatePaletteCollapseUI() {
+  const container = $('workspaceContainer') || document.querySelector('.workspace-container');
+  const panel = $('palettePanel') || document.querySelector('.palette-panel');
+  if (container) {
+    container.classList.toggle('palette-collapsed', !!S.paletteCollapsed);
+  }
+  if (panel) {
+    panel.classList.toggle('collapsed', !!S.paletteCollapsed);
+  }
+  const btn = $('btnTogglePalette');
+  if (btn) {
+    btn.innerHTML = S.paletteCollapsed
+      ? '<span class="palette-toggle-icon">⮜</span>'
+      : '<span class="palette-toggle-icon">⮞</span>';
+    btn.title = S.paletteCollapsed ? 'Mở rộng bảng câu hỏi' : 'Thu gọn bảng câu hỏi';
+  }
+}
+
 function renderPalette() {
   const container = $('paletteContainer');
   if (!container || !S.currentTest) return;
@@ -950,6 +1164,9 @@ function renderPalette() {
   container.innerHTML = html;
   const status = $('paletteStatus');
   if (status) status.textContent = `Đã trả lời: ${answered}/${total}`;
+
+  const collapsedBadge = $('collapsedTabBadge');
+  if (collapsedBadge) collapsedBadge.textContent = `${answered}/${total}`;
 }
 
 function jumpToQuestion(qId, partKey) {
@@ -1199,12 +1416,23 @@ function selectReviewQ(qId) {
   renderReviewQDetail(item);
 }
 
-/** Hiển thị passage image bên trái */
+/** Hiển thị passage image / script bên trái */
 function renderReviewMediaPanel(item) {
   const panel = $('reviewMediaPanel');
   if (!panel) return;
 
   const q = item.q;
+  const isPart34 = item.pKey === 'part3' || item.pKey === 'part4';
+
+  if (isPart34 && q.transcript) {
+    const part = S.currentTest?.parts[item.pKey];
+    if (part) {
+      const labelText = q.group ? `${part.name.split(' - ')[0]} – Câu ${q.group}` : `${part.name.split(' - ')[0]} – Câu ${q.id}`;
+      panel.innerHTML = buildTranscriptPanel(part, q, labelText);
+      return;
+    }
+  }
+
   const imgSrc = q.passageImage || q.image || null;
 
   if (imgSrc) {
@@ -1564,4 +1792,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Loading spinner init
   $('loadingSpinner')?.classList.add('hidden');
+
+  // Window resize handler for mobile passage button & layout
+  window.addEventListener('resize', () => {
+    const isP67 = ['part6','part7'].includes(S.activePart);
+    const floatBtn = document.getElementById('floatPassageBtn');
+    if (floatBtn) {
+      floatBtn.style.display = (isP67 && window.innerWidth <= 900) ? 'inline-flex' : 'none';
+    }
+  });
 });
