@@ -501,752 +501,752 @@
         {
           "id": 32,
           "group": "32-34",
-          "passageTitle": "Part 3 - Cau 32-34",
+          "passageTitle": "Part 3 - Câu 32-34",
           "text": "Where most likely are the speakers?",
           "options": [
-            "(A) At an airport.",
-            "(B) At a ferry terminal.",
-            "(C) At a train station.",
-            "(D) At a bus depot."
+            "(A) At a ferry terminal",
+            "(B) At a swimming area",
+            "(C) At a shopping mall",
+            "(D) At a restaurant"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M hỏi về chuyến ferry đến Osaka, W đề cập 'port authority' và 'marine traffic' → hai người đang ở bến phà. → (A)",
+          "hint": "Nghe các từ khóa liên quan đến địa điểm. Transcript đề cập đến 'ferry to Osaka', 'port authority', 'marine traffic' → địa điểm là gì?",
           "startTime": 80,
           "endTime": 155,
-          "transcript": "Excuse me, but wasn't the ferry to Osaka supposed to leave at 10 o'clock? Yes, but the port authority has suspended all marine traffic due to rough water. I see. Does that mean ferries are canceled all day? This storm is expected to pass in about 3 hours. Operations should return to normal after that. Your ticket will be good until midnight. Okay, then I guess I'll grab some lunch nearby."
+          "transcript": "M: Excuse me, but wasn't the ferry to Osaka supposed to leave at 10:00?\nW: Yes, but the port authority has suspended all marine traffic due to rough water.\nM: I see. Does that mean ferries are canceled all day?\nW: This storm is expected to pass in about 3 hours, but operations should return to normal after that. Your ticket will be good until midnight.\nM: Okay, then I guess I'll grab some lunch nearby.\nW: I highly recommend Mary's Cafe for sandwiches and soup."
         },
         {
           "id": 33,
           "group": "32-34",
-          "passageTitle": "Part 3 - Cau 32-34",
+          "passageTitle": "Part 3 - Câu 32-34",
           "text": "What problem does the man mention?",
           "options": [
-            "(A) A flight was overbooked.",
-            "(B) A transportation service is suspended.",
-            "(C) A ticket was lost.",
-            "(D) A route has changed."
+            "(A) Some repairs are needed.",
+            "(B) A business is understaffed.",
+            "(C) The weather is bad.",
+            "(D) Some tickets are sold out."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'This storm is expected to pass in about 3 hours' → thời tiết xấu là nguyên nhân. → (C)",
+          "hint": "M hỏi về sự cố → W giải thích lý do. Từ khóa nào nói đến thời tiết?",
           "startTime": 80,
           "endTime": 155,
-          "transcript": "Excuse me, but wasn't the ferry to Osaka supposed to leave at 10 o'clock? Yes, but the port authority has suspended all marine traffic due to rough water. I see. Does that mean ferries are canceled all day? This storm is expected to pass in about 3 hours. Operations should return to normal after that. Your ticket will be good until midnight. Okay, then I guess I'll grab some lunch nearby."
+          "transcript": "M: Excuse me, but wasn't the ferry to Osaka supposed to leave at 10:00?\nW: Yes, but the port authority has suspended all marine traffic due to rough water.\nM: I see. Does that mean ferries are canceled all day?\nW: This storm is expected to pass in about 3 hours, but operations should return to normal after that. Your ticket will be good until midnight.\nM: Okay, then I guess I'll grab some lunch nearby.\nW: I highly recommend Mary's Cafe for sandwiches and soup."
         },
         {
           "id": 34,
           "group": "32-34",
-          "passageTitle": "Part 3 - Cau 32-34",
-          "text": "What will the man do next?",
+          "passageTitle": "Part 3 - Câu 32-34",
+          "text": "What will the woman do next?",
           "options": [
-            "(A) Wait at the terminal.",
-            "(B) Contact customer service.",
-            "(C) Get some lunch.",
-            "(D) Buy a new ticket."
+            "(A) Read a book",
+            "(B) Get a meal",
+            "(C) Watch a movie",
+            "(D) Go to a hotel"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'I'll grab some lunch nearby' → đi ăn trưa = get a meal. → (B)",
+          "hint": "Cuối đoạn hội thoại, M nói gì về kế hoạch tiếp theo?",
           "startTime": 80,
           "endTime": 155,
-          "transcript": "Excuse me, but wasn't the ferry to Osaka supposed to leave at 10 o'clock? Yes, but the port authority has suspended all marine traffic due to rough water. I see. Does that mean ferries are canceled all day? This storm is expected to pass in about 3 hours. Operations should return to normal after that. Your ticket will be good until midnight. Okay, then I guess I'll grab some lunch nearby."
+          "transcript": "M: Excuse me, but wasn't the ferry to Osaka supposed to leave at 10:00?\nW: Yes, but the port authority has suspended all marine traffic due to rough water.\nM: I see. Does that mean ferries are canceled all day?\nW: This storm is expected to pass in about 3 hours, but operations should return to normal after that. Your ticket will be good until midnight.\nM: Okay, then I guess I'll grab some lunch nearby.\nW: I highly recommend Mary's Cafe for sandwiches and soup."
         },
         {
           "id": 35,
           "group": "35-37",
-          "passageTitle": "Part 3 - Cau 35-37",
+          "passageTitle": "Part 3 - Câu 35-37",
           "text": "Who most likely is the woman?",
           "options": [
-            "(A) A librarian.",
-            "(B) A bookstore clerk.",
-            "(C) An author.",
-            "(D) A school teacher."
+            "(A) An author",
+            "(B) A librarian",
+            "(C) A bookseller",
+            "(D) An event organizer"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (A). Tham khao transcript de tim cau tra loi. -> (A)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W hỏi 'Are you looking for any particular library book?' và đề nghị tìm sách trong hệ thống → bà ấy là thủ thư. → (B)",
+          "hint": "W hỏi về 'library book, magazine, or newspaper' → bà ấy làm việc ở đâu?",
           "startTime": 156,
           "endTime": 231,
-          "transcript": "Good morning. Are you looking for any particular library book, magazine, or newspaper? Actually, no. I'm here because I received an email notification this morning telling me that I have an overdue book. But I returned it to the after-hours bin last night. Sometimes a book gets returned and put back on the shelves without being entered into the system first. I can take a look. Can you tell me the title?"
+          "transcript": "W: Good morning. Are you looking for any particular library book, magazine, or newspaper?\nM: Actually, no. I'm here because I got an email this morning telling me that I have an overdue book. But I returned it to the after-hours bin last night.\nW: Sometimes a book gets returned and put back on the shelves without being entered into the system first. I can take a look. Can you tell me the title?"
         },
         {
           "id": 36,
           "group": "35-37",
-          "passageTitle": "Part 3 - Cau 35-37",
+          "passageTitle": "Part 3 - Câu 35-37",
           "text": "What does the man say happened this morning?",
           "options": [
-            "(A) He lost a library card.",
-            "(B) He received an email notification.",
-            "(C) He found an overdue notice.",
-            "(D) He returned a book."
+            "(A) He received an e-mail notification.",
+            "(B) He applied for a job online.",
+            "(C) He lost a receipt.",
+            "(D) He made a delivery."
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'I got an email this morning telling me that I have an overdue book' → nhận email thông báo. → (A)",
+          "hint": "M giải thích lý do đến thư viện. Từ khóa 'this morning' + điều gì xảy ra?",
           "startTime": 156,
           "endTime": 231,
-          "transcript": "Good morning. Are you looking for any particular library book, magazine, or newspaper? Actually, no. I'm here because I received an email notification this morning telling me that I have an overdue book. But I returned it to the after-hours bin last night. Sometimes a book gets returned and put back on the shelves without being entered into the system first. I can take a look. Can you tell me the title?"
+          "transcript": "W: Good morning. Are you looking for any particular library book, magazine, or newspaper?\nM: Actually, no. I'm here because I got an email this morning telling me that I have an overdue book. But I returned it to the after-hours bin last night.\nW: Sometimes a book gets returned and put back on the shelves without being entered into the system first. I can take a look. Can you tell me the title?"
         },
         {
           "id": 37,
           "group": "35-37",
-          "passageTitle": "Part 3 - Cau 35-37",
+          "passageTitle": "Part 3 - Câu 35-37",
           "text": "What does the woman offer to do?",
           "options": [
-            "(A) Issue a new library card.",
-            "(B) Look for the book.",
-            "(C) Cancel the late fee.",
-            "(D) Check the returned items."
+            "(A) Attend an event",
+            "(B) Fill out an online form",
+            "(C) Place an order",
+            "(D) Search for an item"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'I can take a look. Can you tell me the title?' → đề nghị tìm kiếm cuốn sách = search for an item. → (D)",
+          "hint": "W đề nghị giúp gì cho M? Câu 'I can take a look' ám chỉ điều gì?",
           "startTime": 156,
           "endTime": 231,
-          "transcript": "Good morning. Are you looking for any particular library book, magazine, or newspaper? Actually, no. I'm here because I received an email notification this morning telling me that I have an overdue book. But I returned it to the after-hours bin last night. Sometimes a book gets returned and put back on the shelves without being entered into the system first. I can take a look. Can you tell me the title?"
+          "transcript": "W: Good morning. Are you looking for any particular library book, magazine, or newspaper?\nM: Actually, no. I'm here because I got an email this morning telling me that I have an overdue book. But I returned it to the after-hours bin last night.\nW: Sometimes a book gets returned and put back on the shelves without being entered into the system first. I can take a look. Can you tell me the title?"
         },
         {
           "id": 38,
           "group": "38-40",
-          "passageTitle": "Part 3 - Cau 38-40",
+          "passageTitle": "Part 3 - Câu 38-40",
           "text": "What type of business does the man most likely work for?",
           "options": [
-            "(A) A furniture company.",
-            "(B) A painting company.",
-            "(C) An interior design firm.",
-            "(D) A cleaning service."
+            "(A) A moving company",
+            "(B) A furniture manufacturer",
+            "(C) A painting company",
+            "(D) A catering service"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'I talked to you about a price quote for some painting you want done' → M làm trong công ty sơn. → (C)",
+          "hint": "M đến nhà W để làm gì? Nghe từ khóa về công việc của M.",
           "startTime": 232,
           "endTime": 307,
-          "transcript": "Hi, I'm Malik from the home improvement company. I talked to you this morning on the phone about a price quote for some painting you want done. Oh, hi. Come in. Yes. I want to change the color in the dining room to something lighter. Not a problem. But I do want to stress that the quote may be higher than you expected, because going from a darker color to a lighter one requires more coats of paint. I understand. And will you move the table and chairs out of the room before you start?"
+          "transcript": "M: Hi, I'm Malik. I talked to you this morning on the phone about a price quote for some painting you want done.\nW: Oh, hi. Come in. Yes, I want to change the color in the dining room to something lighter.\nM: Not a problem. But I do want to stress that the quote may be higher than you expected, because going from a darker color to a lighter one requires more than one coat of paint.\nW: I understand. And will you move the table and chairs out of the room before you start?\nM: That shouldn't be necessary. We can cover them with a drop cloth."
         },
         {
           "id": 39,
           "group": "38-40",
-          "passageTitle": "Part 3 - Cau 38-40",
+          "passageTitle": "Part 3 - Câu 38-40",
           "text": "What point does the man emphasize?",
           "options": [
-            "(A) The job will take longer than expected.",
-            "(B) A lighter color requires more coats.",
-            "(C) The price includes furniture moving.",
-            "(D) The paint needs to dry before a second coat."
+            "(A) A deposit is required before work can begin.",
+            "(B) A price may be higher than expected.",
+            "(C) A discount is available for a limited time.",
+            "(D) A schedule cannot be changed easily."
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'I do want to stress that the quote may be higher than you expected' → báo giá có thể cao hơn dự kiến. → (B)",
+          "hint": "M nhấn mạnh điều gì về báo giá? Từ 'stress' trong transcript chỉ ra điều gì?",
           "startTime": 232,
           "endTime": 307,
-          "transcript": "Hi, I'm Malik from the home improvement company. I talked to you this morning on the phone about a price quote for some painting you want done. Oh, hi. Come in. Yes. I want to change the color in the dining room to something lighter. Not a problem. But I do want to stress that the quote may be higher than you expected, because going from a darker color to a lighter one requires more coats of paint. I understand. And will you move the table and chairs out of the room before you start?"
+          "transcript": "M: Hi, I'm Malik. I talked to you this morning on the phone about a price quote for some painting you want done.\nW: Oh, hi. Come in. Yes, I want to change the color in the dining room to something lighter.\nM: Not a problem. But I do want to stress that the quote may be higher than you expected, because going from a darker color to a lighter one requires more than one coat of paint.\nW: I understand. And will you move the table and chairs out of the room before you start?\nM: That shouldn't be necessary. We can cover them with a drop cloth."
         },
         {
           "id": 40,
           "group": "38-40",
-          "passageTitle": "Part 3 - Cau 38-40",
+          "passageTitle": "Part 3 - Câu 38-40",
           "text": "What does the woman ask about?",
           "options": [
-            "(A) The type of paint being used.",
-            "(B) The project timeline.",
-            "(C) Moving furniture.",
-            "(D) The cost of materials."
+            "(A) Signing a contract",
+            "(B) Purchasing specialized tools",
+            "(C) Moving some furniture",
+            "(D) Seeing some samples"
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W hỏi 'will you move the table and chairs out of the room?' → hỏi về việc di chuyển đồ nội thất. → (C)",
+          "hint": "W hỏi về điều gì ở cuối đoạn hội thoại?",
           "startTime": 232,
           "endTime": 307,
-          "transcript": "Hi, I'm Malik from the home improvement company. I talked to you this morning on the phone about a price quote for some painting you want done. Oh, hi. Come in. Yes. I want to change the color in the dining room to something lighter. Not a problem. But I do want to stress that the quote may be higher than you expected, because going from a darker color to a lighter one requires more coats of paint. I understand. And will you move the table and chairs out of the room before you start?"
+          "transcript": "M: Hi, I'm Malik. I talked to you this morning on the phone about a price quote for some painting you want done.\nW: Oh, hi. Come in. Yes, I want to change the color in the dining room to something lighter.\nM: Not a problem. But I do want to stress that the quote may be higher than you expected, because going from a darker color to a lighter one requires more than one coat of paint.\nW: I understand. And will you move the table and chairs out of the room before you start?\nM: That shouldn't be necessary. We can cover them with a drop cloth."
         },
         {
           "id": 41,
           "group": "41-43",
-          "passageTitle": "Part 3 - Cau 41-43",
-          "text": "Where are the speakers?",
+          "passageTitle": "Part 3 - Câu 41-43",
+          "text": "Where does the man work?",
           "options": [
-            "(A) At a sports facility.",
-            "(B) At a fitness center.",
-            "(C) At a swimming pool.",
-            "(D) At a recreational park."
+            "(A) At a community park",
+            "(B) At a fitness center",
+            "(C) At a public beach",
+            "(D) At a sports equipment store"
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'All the exercise bikes, treadmills, and workout stations are brand new' → đây là trung tâm thể dục. → (B)",
+          "hint": "M giới thiệu về địa điểm làm việc. Nghe từ khóa: exercise bikes, treadmills, workout stations.",
           "startTime": 308,
           "endTime": 383,
-          "transcript": "Hi, this is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment. Yes, our fitness center just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new. Great. I'm considering joining. My office is right around the corner. Well, here's a brochure with a description of our membership levels. Thanks. I do like to swim a few times a week. Do you have a pool? We do. Why don't we start by walking around so I can show you all of our facilities."
+          "transcript": "W: Hi, this is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment.\nM: Yes, we just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new.\nW: Great. I'm considering joining. My office is right around the corner.\nM: Well, here's a brochure with a description of our membership levels. I'm happy to answer any questions.\nW: Thanks. I do like to swim a few times a week. Do you have a pool?\nM: We do. Why don't we start by walking around so I can show you all of our facilities."
         },
         {
           "id": 42,
           "group": "41-43",
-          "passageTitle": "Part 3 - Cau 41-43",
-          "text": "What is the purpose of the man's visit?",
+          "passageTitle": "Part 3 - Câu 41-43",
+          "text": "What is the purpose of the woman's visit?",
           "options": [
-            "(A) To use the pool.",
-            "(B) To purchase equipment.",
-            "(C) To inquire about a membership.",
-            "(D) To meet a friend."
+            "(A) She is applying for a job.",
+            "(B) She has a complaint.",
+            "(C) She needs specific directions.",
+            "(D) She is interested in a membership."
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'I'm considering joining' và hỏi về brochure membership → muốn tham gia hội viên. → (D)",
+          "hint": "W nói 'I'm considering joining' → mục đích thăm là gì?",
           "startTime": 308,
           "endTime": 383,
-          "transcript": "Hi, this is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment. Yes, our fitness center just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new. Great. I'm considering joining. My office is right around the corner. Well, here's a brochure with a description of our membership levels. Thanks. I do like to swim a few times a week. Do you have a pool? We do. Why don't we start by walking around so I can show you all of our facilities."
+          "transcript": "W: Hi, this is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment.\nM: Yes, we just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new.\nW: Great. I'm considering joining. My office is right around the corner.\nM: Well, here's a brochure with a description of our membership levels. I'm happy to answer any questions.\nW: Thanks. I do like to swim a few times a week. Do you have a pool?\nM: We do. Why don't we start by walking around so I can show you all of our facilities."
         },
         {
           "id": 43,
           "group": "41-43",
-          "passageTitle": "Part 3 - Cau 41-43",
-          "text": "What will the speakers most likely do next?",
+          "passageTitle": "Part 3 - Câu 41-43",
+          "text": "What will the woman most likely do next?",
           "options": [
-            "(A) Sign a contract.",
-            "(B) Take a tour of the facilities.",
-            "(C) Try out the equipment.",
-            "(D) Fill out a form."
+            "(A) Join a team",
+            "(B) Go on a tour",
+            "(C) Make a phone call",
+            "(D) Fill out an application"
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M đề nghị 'walking around so I can show you all of our facilities' = đưa W đi tham quan. → (B)",
+          "hint": "Cuối hội thoại M đề nghị gì? 'Why don't we start by walking around...'",
           "startTime": 308,
           "endTime": 383,
-          "transcript": "Hi, this is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment. Yes, our fitness center just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new. Great. I'm considering joining. My office is right around the corner. Well, here's a brochure with a description of our membership levels. Thanks. I do like to swim a few times a week. Do you have a pool? We do. Why don't we start by walking around so I can show you all of our facilities."
+          "transcript": "W: Hi, this is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment.\nM: Yes, we just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new.\nW: Great. I'm considering joining. My office is right around the corner.\nM: Well, here's a brochure with a description of our membership levels. I'm happy to answer any questions.\nW: Thanks. I do like to swim a few times a week. Do you have a pool?\nM: We do. Why don't we start by walking around so I can show you all of our facilities."
         },
         {
           "id": 44,
           "group": "44-46",
-          "passageTitle": "Part 3 - Cau 44-46",
-          "text": "Who most likely is the woman?",
+          "passageTitle": "Part 3 - Câu 44-46",
+          "text": "Who most likely is the man?",
           "options": [
-            "(A) A building manager.",
-            "(B) A real estate agent.",
-            "(C) A building tenant.",
-            "(D) A property inspector."
+            "(A) A janitor",
+            "(B) A property manager",
+            "(C) A carpenter",
+            "(D) An interior designer"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'Hello, what brings you into our leasing office today?' → M là người quản lý bất động sản cho thuê. → (B)",
+          "hint": "M làm việc ở đâu? Từ 'leasing office' gợi ý vai trò của M.",
           "startTime": 384,
           "endTime": 459,
-          "transcript": "Hello, what brings you into our leasing office today? Hi. I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building. Let me see. Apartment 410 is quite large, and the lease on it ends this November. It's $1,000 per month. Does that interest you? I did just get a promotion at work recently, so I can afford to spend more. Great. I'll call the current tenant and we can figure out a time for a viewing."
+          "transcript": "M: Hello, what brings you into our leasing office today?\nW: Hi, I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.\nM: Let me see. Apartment 410 is quite large, and the lease on it ends this November. It's $1,000 per month. Does that interest you?\nW: I did just get promoted at work recently, so I can afford to spend more. So that won't be a problem.\nM: Great, I'll call the current tenant and we can figure out a time for a viewing."
         },
         {
           "id": 45,
           "group": "44-46",
-          "passageTitle": "Part 3 - Cau 44-46",
+          "passageTitle": "Part 3 - Câu 44-46",
           "text": "What does the woman say recently happened?",
           "options": [
-            "(A) She moved to a new area.",
-            "(B) She got a promotion at work.",
-            "(C) She renewed her lease.",
-            "(D) She received a pay cut."
+            "(A) She earned a degree.",
+            "(B) She won an award.",
+            "(C) She got a promotion.",
+            "(D) She transferred to a new location."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'I did just get promoted at work recently' → vừa được thăng chức. → (C)",
+          "hint": "W giải thích tại sao có thể trả giá thuê cao hơn. Sự kiện gần đây là gì?",
           "startTime": 384,
           "endTime": 459,
-          "transcript": "Hello, what brings you into our leasing office today? Hi. I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building. Let me see. Apartment 410 is quite large, and the lease on it ends this November. It's $1,000 per month. Does that interest you? I did just get a promotion at work recently, so I can afford to spend more. Great. I'll call the current tenant and we can figure out a time for a viewing."
+          "transcript": "M: Hello, what brings you into our leasing office today?\nW: Hi, I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.\nM: Let me see. Apartment 410 is quite large, and the lease on it ends this November. It's $1,000 per month. Does that interest you?\nW: I did just get promoted at work recently, so I can afford to spend more. So that won't be a problem.\nM: Great, I'll call the current tenant and we can figure out a time for a viewing."
         },
         {
           "id": 46,
           "group": "44-46",
-          "passageTitle": "Part 3 - Cau 44-46",
+          "passageTitle": "Part 3 - Câu 44-46",
           "text": "What will the man do next?",
           "options": [
-            "(A) Show the apartment.",
-            "(B) Call a current tenant.",
-            "(C) Process the paperwork.",
-            "(D) Discuss the lease terms."
+            "(A) Make a phone call",
+            "(B) Prepare a contract",
+            "(C) Drop off a key",
+            "(D) Log some work hours"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'I'll call the current tenant and we can figure out a time for a viewing' → gọi điện cho người thuê hiện tại. → (A)",
+          "hint": "Cuối hội thoại M nói gì về bước tiếp theo?",
           "startTime": 384,
           "endTime": 459,
-          "transcript": "Hello, what brings you into our leasing office today? Hi. I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building. Let me see. Apartment 410 is quite large, and the lease on it ends this November. It's $1,000 per month. Does that interest you? I did just get a promotion at work recently, so I can afford to spend more. Great. I'll call the current tenant and we can figure out a time for a viewing."
+          "transcript": "M: Hello, what brings you into our leasing office today?\nW: Hi, I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.\nM: Let me see. Apartment 410 is quite large, and the lease on it ends this November. It's $1,000 per month. Does that interest you?\nW: I did just get promoted at work recently, so I can afford to spend more. So that won't be a problem.\nM: Great, I'll call the current tenant and we can figure out a time for a viewing."
         },
         {
           "id": 47,
           "group": "47-49",
-          "passageTitle": "Part 3 - Cau 47-49",
-          "text": "What is the woman's main goal?",
+          "passageTitle": "Part 3 - Câu 47-49",
+          "text": "According to the woman, what has recently happened at her business?",
           "options": [
-            "(A) To expand her online store.",
-            "(B) To gather customer feedback.",
-            "(C) To hire a marketing manager.",
-            "(D) To redesign her website."
+            "(A) Customers have complained.",
+            "(B) Inspections have been conducted.",
+            "(C) Online orders have increased.",
+            "(D) Shipments have been incomplete."
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'recently my craft supply store has started receiving a lot of online orders' → đơn hàng online tăng. → (C)",
+          "hint": "W mô tả tình trạng kinh doanh gần đây. Từ khóa 'recently' + điều gì xảy ra?",
           "startTime": 460,
           "endTime": 535,
-          "transcript": "Hello Ms. Bajaj. I'm glad we have a chance to meet today. What is your company's main goal? Well, recently my store has started receiving a lot of online orders. It's important that I gather customer feedback about the products that I'm selling. We can design an online survey for you. It's automatically emailed out to your customers a week after their order is delivered. That's a great idea. Then perhaps I could offer a discount on future purchases to any customer who completes the survey."
+          "transcript": "M: Hello, Ms. Bajaj. I'm glad we have a chance to meet today to discuss your business. What's your company's main goal?\nW: Well, recently my craft supply store has started receiving a lot of online orders. It's important that I get feedback from those customers about the products that I'm selling.\nM: We can design an online survey for you. It's automatically emailed out to your customers a week after their order is delivered. We've had a lot of success getting people to respond to those.\nW: That's a great idea. Then perhaps I could offer a future discount to any customer who completes the survey."
         },
         {
           "id": 48,
           "group": "47-49",
-          "passageTitle": "Part 3 - Cau 47-49",
+          "passageTitle": "Part 3 - Câu 47-49",
           "text": "What can the man's company do?",
           "options": [
-            "(A) Manage social media accounts.",
-            "(B) Design an online survey.",
-            "(C) Process online payments.",
-            "(D) Create product videos."
+            "(A) Provide safety training",
+            "(B) Post demonstration videos",
+            "(C) Acquire more warehouse space",
+            "(D) Create customer surveys"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'We can design an online survey for you' → tạo khảo sát khách hàng. → (D)",
+          "hint": "M đề xuất dịch vụ gì cho W? 'We can...' là từ khóa quan trọng.",
           "startTime": 460,
           "endTime": 535,
-          "transcript": "Hello Ms. Bajaj. I'm glad we have a chance to meet today. What is your company's main goal? Well, recently my store has started receiving a lot of online orders. It's important that I gather customer feedback about the products that I'm selling. We can design an online survey for you. It's automatically emailed out to your customers a week after their order is delivered. That's a great idea. Then perhaps I could offer a discount on future purchases to any customer who completes the survey."
+          "transcript": "M: Hello, Ms. Bajaj. I'm glad we have a chance to meet today to discuss your business. What's your company's main goal?\nW: Well, recently my craft supply store has started receiving a lot of online orders. It's important that I get feedback from those customers about the products that I'm selling.\nM: We can design an online survey for you. It's automatically emailed out to your customers a week after their order is delivered. We've had a lot of success getting people to respond to those.\nW: That's a great idea. Then perhaps I could offer a future discount to any customer who completes the survey."
         },
         {
           "id": 49,
           "group": "47-49",
-          "passageTitle": "Part 3 - Cau 47-49",
+          "passageTitle": "Part 3 - Câu 47-49",
           "text": "What does the woman say she could offer her customers?",
           "options": [
-            "(A) Free shipping.",
-            "(B) A loyalty card.",
-            "(C) A discount on future purchases.",
-            "(D) A gift with purchase."
+            "(A) A discount",
+            "(B) Expedited shipping",
+            "(C) Free product samples",
+            "(D) A personal consultation"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'I could offer a future discount to any customer who completes the survey' → giảm giá cho khách hàng. → (A)",
+          "hint": "W nói sẽ cung cấp gì cho khách hàng hoàn thành khảo sát?",
           "startTime": 460,
           "endTime": 535,
-          "transcript": "Hello Ms. Bajaj. I'm glad we have a chance to meet today. What is your company's main goal? Well, recently my store has started receiving a lot of online orders. It's important that I gather customer feedback about the products that I'm selling. We can design an online survey for you. It's automatically emailed out to your customers a week after their order is delivered. That's a great idea. Then perhaps I could offer a discount on future purchases to any customer who completes the survey."
+          "transcript": "M: Hello, Ms. Bajaj. I'm glad we have a chance to meet today to discuss your business. What's your company's main goal?\nW: Well, recently my craft supply store has started receiving a lot of online orders. It's important that I get feedback from those customers about the products that I'm selling.\nM: We can design an online survey for you. It's automatically emailed out to your customers a week after their order is delivered. We've had a lot of success getting people to respond to those.\nW: That's a great idea. Then perhaps I could offer a future discount to any customer who completes the survey."
         },
         {
           "id": 50,
           "group": "50-52",
-          "passageTitle": "Part 3 - Cau 50-52",
+          "passageTitle": "Part 3 - Câu 50-52",
           "text": "Where most likely are the speakers?",
           "options": [
-            "(A) At a garden center.",
-            "(B) At a wedding venue.",
-            "(C) At a flower shop.",
-            "(D) At a delivery service."
+            "(A) At a farm",
+            "(B) At a landscaping company",
+            "(C) At a hotel",
+            "(D) At a catering firm"
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W1 gọi 'hotel's event manager', M đến 'reception', W2 chuẩn bị 'ballroom' → đây là khách sạn. → (C)",
+          "hint": "Cuộc trò chuyện đề cập đến 'hotel's event manager', 'ballroom', 'reception' → địa điểm là gì?",
           "startTime": 536,
           "endTime": 611,
-          "transcript": "Hello, I'm calling to check on an order I placed with your flower shop for a wedding this weekend. Yes, you've reached District Florist. How can I help you? I need to make a change. I ordered lilacs, but I'd like to add some calla lilies to the centerpieces. I can certainly help with that, but I'll need to contact the event manager first to confirm the exact arrangements."
+          "transcript": "M: Hello, I'm from District Flower Store, and I have your centerpiece order.\nW1: Let me get the hotel's event manager here, she's the one that ordered. Yulia, you have a delivery from District Flower Store at reception.\nW2: Hi, I'm glad you're early. The wedding's this evening, but we're already setting up the ballroom. I'll need you to acknowledge receipt. Could you sign here? And then, where should I unload your calla lily centerpieces?\nM: Calla lilies? I ordered lilacs for the wedding centerpieces.\nW2: Oh, I wouldn't know. I just deliver.\nM: Well, let me call your boss. We need to sort this out right away."
         },
         {
           "id": 51,
           "group": "50-52",
-          "passageTitle": "Part 3 - Cau 50-52",
-          "text": "What type of event is taking place?",
+          "passageTitle": "Part 3 - Câu 50-52",
+          "text": "What type of event is going to take place?",
           "options": [
-            "(A) A birthday party.",
-            "(B) A wedding.",
-            "(C) A graduation ceremony.",
-            "(D) A company banquet."
+            "(A) A wedding",
+            "(B) A flower exposition",
+            "(C) A grand opening",
+            "(D) A birthday party"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W2 nói 'The wedding's this evening, but we're already setting up the ballroom' → sự kiện là đám cưới. → (A)",
+          "hint": "Sự kiện gì đang được chuẩn bị tối nay?",
           "startTime": 536,
           "endTime": 611,
-          "transcript": "Hello, I'm calling to check on an order I placed with your flower shop for a wedding this weekend. Yes, you've reached District Florist. How can I help you? I need to make a change. I ordered lilacs, but I'd like to add some calla lilies to the centerpieces. I can certainly help with that, but I'll need to contact the event manager first to confirm the exact arrangements."
+          "transcript": "M: Hello, I'm from District Flower Store, and I have your centerpiece order.\nW1: Let me get the hotel's event manager here, she's the one that ordered. Yulia, you have a delivery from District Flower Store at reception.\nW2: Hi, I'm glad you're early. The wedding's this evening, but we're already setting up the ballroom. I'll need you to acknowledge receipt. Could you sign here? And then, where should I unload your calla lily centerpieces?\nM: Calla lilies? I ordered lilacs for the wedding centerpieces.\nW2: Oh, I wouldn't know. I just deliver.\nM: Well, let me call your boss. We need to sort this out right away."
         },
         {
           "id": 52,
           "group": "50-52",
-          "passageTitle": "Part 3 - Cau 50-52",
-          "text": "What will the woman do next?",
+          "passageTitle": "Part 3 - Câu 50-52",
+          "text": "What does the woman say she will do?",
           "options": [
-            "(A) Process the updated order.",
-            "(B) Contact the event manager.",
-            "(C) Send a price quote.",
-            "(D) Confirm the delivery time."
+            "(A) Sign a receipt",
+            "(B) Adjust a schedule",
+            "(C) Add items to an order",
+            "(D) Call a supervisor"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'let me call your boss. We need to sort this out' → gọi cho cấp trên/supervisor. → (D)",
+          "hint": "Cuối đoạn hội thoại, M nói sẽ làm gì để giải quyết vấn đề hoa sai?",
           "startTime": 536,
           "endTime": 611,
-          "transcript": "Hello, I'm calling to check on an order I placed with your flower shop for a wedding this weekend. Yes, you've reached District Florist. How can I help you? I need to make a change. I ordered lilacs, but I'd like to add some calla lilies to the centerpieces. I can certainly help with that, but I'll need to contact the event manager first to confirm the exact arrangements."
+          "transcript": "M: Hello, I'm from District Flower Store, and I have your centerpiece order.\nW1: Let me get the hotel's event manager here, she's the one that ordered. Yulia, you have a delivery from District Flower Store at reception.\nW2: Hi, I'm glad you're early. The wedding's this evening, but we're already setting up the ballroom. I'll need you to acknowledge receipt. Could you sign here? And then, where should I unload your calla lily centerpieces?\nM: Calla lilies? I ordered lilacs for the wedding centerpieces.\nW2: Oh, I wouldn't know. I just deliver.\nM: Well, let me call your boss. We need to sort this out right away."
         },
         {
           "id": 53,
           "group": "53-55",
-          "passageTitle": "Part 3 - Cau 53-55",
-          "text": "What type of business does the woman work for?",
+          "passageTitle": "Part 3 - Câu 53-55",
+          "text": "What kind of business do the men most likely work for?",
           "options": [
-            "(A) A property management company.",
-            "(B) A construction company.",
-            "(C) An insurance company.",
-            "(D) A real estate agency."
+            "(A) A fencing company",
+            "(B) A landscaping service",
+            "(C) A roofing company",
+            "(D) An auto repair shop"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M1 đến kiểm tra 'roof', M2 nói về 'shingles' và 'structural damage' → đây là công ty lợp mái nhà. → (C)",
+          "hint": "M1 nói về công việc gì đang làm? Từ khóa: 'roof', 'inspection', 'shingles'.",
           "startTime": 612,
           "endTime": 687,
-          "transcript": "Hi, I'm calling from the construction company. We finished inspecting the roof of your building. Oh, great. Is there any structural damage? Thankfully, there is no structural damage. However, some of the shingles are loose and need to be replaced. Okay. Could you have a repair completed as soon as possible?"
+          "transcript": "M1: Excuse me, Ms. Campbell. My engineer, Adisa, is still on your roof. But I just wanted to let you know we're almost done with the inspection.\nW: How does everything look?\nM1: Oh, here's Adisa now. He can answer that.\nM2: I conducted a thorough inspection. There's no structural damage. All of the support beams are intact. But we'll have to replace some of the shingles that were blown away in the storm.\nW: Well, that's a relief. I was worried that I'd need major repairs.\nM1: I'm afraid you'll have to close your store while we replace the shingles. But we'll be able to finish in one day. Does Tuesday work for you?\nW: That's fine."
         },
         {
           "id": 54,
           "group": "53-55",
-          "passageTitle": "Part 3 - Cau 53-55",
-          "text": "What does the woman say about the building?",
+          "passageTitle": "Part 3 - Câu 53-55",
+          "text": "Why is the woman relieved?",
           "options": [
-            "(A) The foundation needs work.",
-            "(B) The windows need replacing.",
-            "(C) There is no structural damage.",
-            "(D) The roof was recently installed."
+            "(A) Some damage is minor.",
+            "(B) A delivery arrived early.",
+            "(C) Customer reviews are positive.",
+            "(D) The weather forecast is good."
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M2 nói 'There's no structural damage' → W nhẹ nhõm vì thiệt hại nhỏ, chỉ cần thay ngói. → (A)",
+          "hint": "W nói 'that's a relief' sau khi nghe tin gì từ M2?",
           "startTime": 612,
           "endTime": 687,
-          "transcript": "Hi, I'm calling from the construction company. We finished inspecting the roof of your building. Oh, great. Is there any structural damage? Thankfully, there is no structural damage. However, some of the shingles are loose and need to be replaced. Okay. Could you have a repair completed as soon as possible?"
+          "transcript": "M1: Excuse me, Ms. Campbell. My engineer, Adisa, is still on your roof. But I just wanted to let you know we're almost done with the inspection.\nW: How does everything look?\nM1: Oh, here's Adisa now. He can answer that.\nM2: I conducted a thorough inspection. There's no structural damage. All of the support beams are intact. But we'll have to replace some of the shingles that were blown away in the storm.\nW: Well, that's a relief. I was worried that I'd need major repairs.\nM1: I'm afraid you'll have to close your store while we replace the shingles. But we'll be able to finish in one day. Does Tuesday work for you?\nW: That's fine."
         },
         {
           "id": 55,
           "group": "53-55",
-          "passageTitle": "Part 3 - Cau 53-55",
-          "text": "What does the man want to do?",
+          "passageTitle": "Part 3 - Câu 53-55",
+          "text": "What will the woman do on Tuesday?",
           "options": [
-            "(A) Get a second inspection.",
-            "(B) Replace the entire roof.",
-            "(C) Have a repair completed.",
-            "(D) Contact his insurance company."
+            "(A) Wash her car",
+            "(B) Close her store",
+            "(C) Take some measurements",
+            "(D) Look at some material samples"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M1 nói 'you'll have to close your store while we replace the shingles...Does Tuesday work?' → W đóng cửa hàng ngày thứ Ba. → (B)",
+          "hint": "M1 nói W phải làm gì trong khi sửa ngói? Ngày thứ Ba là ngày gì?",
           "startTime": 612,
           "endTime": 687,
-          "transcript": "Hi, I'm calling from the construction company. We finished inspecting the roof of your building. Oh, great. Is there any structural damage? Thankfully, there is no structural damage. However, some of the shingles are loose and need to be replaced. Okay. Could you have a repair completed as soon as possible?"
+          "transcript": "M1: Excuse me, Ms. Campbell. My engineer, Adisa, is still on your roof. But I just wanted to let you know we're almost done with the inspection.\nW: How does everything look?\nM1: Oh, here's Adisa now. He can answer that.\nM2: I conducted a thorough inspection. There's no structural damage. All of the support beams are intact. But we'll have to replace some of the shingles that were blown away in the storm.\nW: Well, that's a relief. I was worried that I'd need major repairs.\nM1: I'm afraid you'll have to close your store while we replace the shingles. But we'll be able to finish in one day. Does Tuesday work for you?\nW: That's fine."
         },
         {
           "id": 56,
           "group": "56-58",
-          "passageTitle": "Part 3 - Cau 56-58",
-          "text": "What problem does the man mention?",
+          "passageTitle": "Part 3 - Câu 56-58",
+          "text": "Why does the man apologize?",
           "options": [
-            "(A) He was stuck in traffic.",
-            "(B) He missed a morning meeting.",
-            "(C) His car broke down.",
-            "(D) He received incorrect directions."
+            "(A) He missed a meeting.",
+            "(B) He has a poor Internet connection.",
+            "(C) He failed to complete an assignment.",
+            "(D) He lost his employee badge."
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'I'm sorry about missing the morning meeting' → xin lỗi vì bỏ lỡ cuộc họp buổi sáng. → (A)",
+          "hint": "Câu đầu tiên của M là gì? M xin lỗi vì điều gì?",
           "startTime": 688,
           "endTime": 763,
-          "transcript": "I'm so sorry I'm late. I missed the morning meeting. That's okay. What happened? The train was delayed due to mechanical issues. You know, there's a bus line that runs near your house. I can suggest an alternative transportation route for you so this doesn't happen again. That would be great. I'll send some links to the bus schedules to your email right now."
+          "transcript": "M: Hi Irina. I'm sorry about missing the morning meeting. My commute was horrendous.\nW: No worries. The meeting notes will be sent out. What happened?\nM: The metro system's renovating some station platforms, and it added an extra half hour to my commute. Trains in both directions are only using one track, and the train's my only option.\nW: Well, there is a rapid transit bus service.\nM: I wasn't aware of that. I'm still new to this city. How do I get more information?\nW: I'll send you links to their website and system map."
         },
         {
           "id": 57,
           "group": "56-58",
-          "passageTitle": "Part 3 - Cau 56-58",
-          "text": "Why does the woman offer to help?",
+          "passageTitle": "Part 3 - Câu 56-58",
+          "text": "Why does the woman say, \"Well, there is a rapid-transit bus service\"?",
           "options": [
-            "(A) To improve the man's schedule.",
-            "(B) To save him money on travel.",
-            "(C) To suggest an alternative transportation route.",
-            "(D) To help him find a parking spot."
+            "(A) To praise improvements to a system",
+            "(B) To correct a mistaken assumption",
+            "(C) To express dissatisfaction",
+            "(D) To justify a decision"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nghĩ tàu là 'only option' → W sửa lại bằng cách nêu có xe bus nhanh → điều chỉnh nhận định sai của M. → (B)",
+          "hint": "M nói 'the train's my only option' → W phản ứng thế nào? Câu của W nhằm mục đích gì?",
           "startTime": 688,
           "endTime": 763,
-          "transcript": "I'm so sorry I'm late. I missed the morning meeting. That's okay. What happened? The train was delayed due to mechanical issues. You know, there's a bus line that runs near your house. I can suggest an alternative transportation route for you so this doesn't happen again. That would be great. I'll send some links to the bus schedules to your email right now."
+          "transcript": "M: Hi Irina. I'm sorry about missing the morning meeting. My commute was horrendous.\nW: No worries. The meeting notes will be sent out. What happened?\nM: The metro system's renovating some station platforms, and it added an extra half hour to my commute. Trains in both directions are only using one track, and the train's my only option.\nW: Well, there is a rapid transit bus service.\nM: I wasn't aware of that. I'm still new to this city. How do I get more information?\nW: I'll send you links to their website and system map."
         },
         {
           "id": 58,
           "group": "56-58",
-          "passageTitle": "Part 3 - Cau 56-58",
+          "passageTitle": "Part 3 - Câu 56-58",
           "text": "What will the woman do next?",
           "options": [
-            "(A) Print a bus schedule.",
-            "(B) Call the transit authority.",
-            "(C) Send some links.",
-            "(D) Update a company map."
+            "(A) Download a ticket",
+            "(B) Pick up some clients",
+            "(C) Activate a key card",
+            "(D) Forward some Web-site links"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'I'll send you links to their website and system map' → gửi đường link website. → (D)",
+          "hint": "W nói sẽ gửi gì cho M về thông tin xe bus?",
           "startTime": 688,
           "endTime": 763,
-          "transcript": "I'm so sorry I'm late. I missed the morning meeting. That's okay. What happened? The train was delayed due to mechanical issues. You know, there's a bus line that runs near your house. I can suggest an alternative transportation route for you so this doesn't happen again. That would be great. I'll send some links to the bus schedules to your email right now."
+          "transcript": "M: Hi Irina. I'm sorry about missing the morning meeting. My commute was horrendous.\nW: No worries. The meeting notes will be sent out. What happened?\nM: The metro system's renovating some station platforms, and it added an extra half hour to my commute. Trains in both directions are only using one track, and the train's my only option.\nW: Well, there is a rapid transit bus service.\nM: I wasn't aware of that. I'm still new to this city. How do I get more information?\nW: I'll send you links to their website and system map."
         },
         {
           "id": 59,
           "group": "59-61",
-          "passageTitle": "Part 3 - Cau 59-61",
-          "text": "Who is the man?",
+          "passageTitle": "Part 3 - Câu 59-61",
+          "text": "Who is the woman?",
           "options": [
-            "(A) A marketing director.",
-            "(B) A business consultant.",
-            "(C) A retail store manager.",
-            "(D) A sales representative."
+            "(A) An architect",
+            "(B) A clothing designer",
+            "(C) A construction manager",
+            "(D) A department store director"
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'I never expected so much attention for my clothing designs' → W là nhà thiết kế thời trang. → (B)",
+          "hint": "W đề cập đến 'my clothing designs' → W là ai?",
           "startTime": 764,
           "endTime": 839,
-          "transcript": "As a business consultant, I've reviewed your company's marketing plan. Your target audience is teenagers, but your advertisements are placed in magazines for older adults. I didn't realize that. Yes, I just wanted to point out a mismatch in the target audience. How can we fix this? I will provide a list of alternative stores and platforms where you should focus your marketing."
+          "transcript": "M: Hello, Sylvia. Good to see you again. My consultancy firm has been working hard to help you grow your clothing company.\nW: Thanks. I never expected so much attention for my clothing designs, but I'm so pleased with the reactions.\nM: Okay. What do you think about approaching region's department stores?\nW: They usually market to a younger clientele.\nM: I see. Let me get you a list of other stores we also had in mind."
         },
         {
           "id": 60,
           "group": "59-61",
-          "passageTitle": "Part 3 - Cau 59-61",
-          "text": "What is the man's purpose?",
+          "passageTitle": "Part 3 - Câu 59-61",
+          "text": "Why does the woman say, \"They usually market to a younger clientele\"?",
           "options": [
-            "(A) To propose a new product line.",
-            "(B) To review advertising costs.",
-            "(C) To point out a mismatch in target audience.",
-            "(D) To present a new marketing concept."
+            "(A) To reject a suggestion",
+            "(B) To justify a decision",
+            "(C) To express disappointment",
+            "(D) To ask for clarification"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M gợi ý tiếp cận department stores → W nói họ phục vụ khách trẻ hơn = từ chối gợi ý đó. → (A)",
+          "hint": "M đề xuất tiếp cận cửa hàng bách hóa → W phản ứng thế nào? Câu của W có ý nghĩa gì?",
           "startTime": 764,
           "endTime": 839,
-          "transcript": "As a business consultant, I've reviewed your company's marketing plan. Your target audience is teenagers, but your advertisements are placed in magazines for older adults. I didn't realize that. Yes, I just wanted to point out a mismatch in the target audience. How can we fix this? I will provide a list of alternative stores and platforms where you should focus your marketing."
+          "transcript": "M: Hello, Sylvia. Good to see you again. My consultancy firm has been working hard to help you grow your clothing company.\nW: Thanks. I never expected so much attention for my clothing designs, but I'm so pleased with the reactions.\nM: Okay. What do you think about approaching region's department stores?\nW: They usually market to a younger clientele.\nM: I see. Let me get you a list of other stores we also had in mind."
         },
         {
           "id": 61,
           "group": "59-61",
-          "passageTitle": "Part 3 - Cau 59-61",
-          "text": "What will the man provide?",
+          "passageTitle": "Part 3 - Câu 59-61",
+          "text": "What does the man say he will give the woman?",
           "options": [
-            "(A) A marketing budget.",
-            "(B) A sample advertisement.",
-            "(C) A list of alternative stores.",
-            "(D) A revised business plan."
+            "(A) An area map",
+            "(B) A list of businesses",
+            "(C) Some photographs",
+            "(D) Some measurements"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'Let me get you a list of other stores we also had in mind' → danh sách các cửa hàng khác. → (B)",
+          "hint": "M sẽ cung cấp gì sau khi W từ chối gợi ý về department stores?",
           "startTime": 764,
           "endTime": 839,
-          "transcript": "As a business consultant, I've reviewed your company's marketing plan. Your target audience is teenagers, but your advertisements are placed in magazines for older adults. I didn't realize that. Yes, I just wanted to point out a mismatch in the target audience. How can we fix this? I will provide a list of alternative stores and platforms where you should focus your marketing."
+          "transcript": "M: Hello, Sylvia. Good to see you again. My consultancy firm has been working hard to help you grow your clothing company.\nW: Thanks. I never expected so much attention for my clothing designs, but I'm so pleased with the reactions.\nM: Okay. What do you think about approaching region's department stores?\nW: They usually market to a younger clientele.\nM: I see. Let me get you a list of other stores we also had in mind."
         },
         {
           "id": 62,
           "group": "62-64",
-          "passageTitle": "Part 3 - Cau 62-64",
-          "text": "Who is the man?",
+          "passageTitle": "Part 3 - Câu 62-64",
+          "text": "Look at the graphic. Who is the woman?",
           "options": [
-            "(A) A stage manager.",
-            "(B) The lighting director.",
-            "(C) A theater critic.",
-            "(D) A sound engineer."
+            "(A) Liliana Flores",
+            "(B) Svetlana Popova",
+            "(C) Lauren Campbell",
+            "(D) So-Jin Park"
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M hỏi W về ánh sáng và xác nhận 'you're in charge of lighting' → W là giám đốc ánh sáng. Theo graphic, đó là Svetlana Popova. → (B)",
+          "hint": "M xác nhận W 'in charge of lighting' → nhìn vào danh sách nhân viên để tìm người phụ trách ánh sáng.",
           "startTime": 840,
           "endTime": 915,
-          "transcript": "Excuse me, are you the lighting director? Yes, I am. We're getting ready for the show tonight. I noticed earlier that one of the stage lights was flickering. Oh, really? We can't have that happen during the performance. After all, it is the opening night of the show. I'll get someone to fix it immediately.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q62_64_cast_roster.png"
+          "transcript": "M: Louise, I noticed something while I was directing yesterday's rehearsal. I had a problem while I was trying to give some directions to the actors during act three. I wanted to ask you about it since you're in charge of lighting.\nW: Sure, what is it?\nM: One of the footlights at the front of the stage was flickering, which was distracting. It made it hard to see the actors' faces and costumes. Can you do something to fix it?\nW: Actually, I've already ordered a replacement. It should be here tomorrow.\nM: Great, thanks. I can't believe opening night is next week. Everyone has put so much work into the show. It'll be great to have an audience.",
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-62-test-4.jpg"
         },
         {
           "id": 63,
           "group": "62-64",
-          "passageTitle": "Part 3 - Cau 62-64",
-          "text": "What problem does the woman mention?",
+          "passageTitle": "Part 3 - Câu 62-64",
+          "text": "What problem do the speakers discuss?",
           "options": [
-            "(A) A sound system is broken.",
-            "(B) A prop is missing.",
-            "(C) A light was flickering.",
-            "(D) A costume was damaged."
+            "(A) Some equipment is not working.",
+            "(B) Some costumes are not ready.",
+            "(C) Some music is distracting.",
+            "(D) An actor is late."
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'One of the footlights at the front of the stage was flickering' → đèn trên sân khấu không hoạt động tốt = thiết bị hỏng. → (A)",
+          "hint": "M mô tả vấn đề gặp phải khi đạo diễn. 'footlight was flickering' là gì?",
           "startTime": 840,
           "endTime": 915,
-          "transcript": "Excuse me, are you the lighting director? Yes, I am. We're getting ready for the show tonight. I noticed earlier that one of the stage lights was flickering. Oh, really? We can't have that happen during the performance. After all, it is the opening night of the show. I'll get someone to fix it immediately.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q62_64_cast_roster.png"
+          "transcript": "M: Louise, I noticed something while I was directing yesterday's rehearsal. I had a problem while I was trying to give some directions to the actors during act three. I wanted to ask you about it since you're in charge of lighting.\nW: Sure, what is it?\nM: One of the footlights at the front of the stage was flickering, which was distracting. It made it hard to see the actors' faces and costumes. Can you do something to fix it?\nW: Actually, I've already ordered a replacement. It should be here tomorrow.\nM: Great, thanks. I can't believe opening night is next week. Everyone has put so much work into the show. It'll be great to have an audience.",
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-62-test-4.jpg"
         },
         {
           "id": 64,
           "group": "62-64",
-          "passageTitle": "Part 3 - Cau 62-64",
-          "text": "What is happening tonight?",
+          "passageTitle": "Part 3 - Câu 62-64",
+          "text": "What will happen next week?",
           "options": [
-            "(A) A rehearsal is scheduled.",
-            "(B) A cast party is planned.",
-            "(C) The opening night of a show.",
-            "(D) A technical check is required."
+            "(A) A playwright will attend a show.",
+            "(B) Publicity photo will be taken.",
+            "(C) A play will open.",
+            "(D) A dress rehearsal will be held."
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'I can't believe opening night is next week' → buổi công diễn đầu tiên là tuần sau. → (C)",
+          "hint": "M đề cập đến sự kiện tuần sau là gì?",
           "startTime": 840,
           "endTime": 915,
-          "transcript": "Excuse me, are you the lighting director? Yes, I am. We're getting ready for the show tonight. I noticed earlier that one of the stage lights was flickering. Oh, really? We can't have that happen during the performance. After all, it is the opening night of the show. I'll get someone to fix it immediately.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q62_64_cast_roster.png"
+          "transcript": "M: Louise, I noticed something while I was directing yesterday's rehearsal. I had a problem while I was trying to give some directions to the actors during act three. I wanted to ask you about it since you're in charge of lighting.\nW: Sure, what is it?\nM: One of the footlights at the front of the stage was flickering, which was distracting. It made it hard to see the actors' faces and costumes. Can you do something to fix it?\nW: Actually, I've already ordered a replacement. It should be here tomorrow.\nM: Great, thanks. I can't believe opening night is next week. Everyone has put so much work into the show. It'll be great to have an audience.",
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-62-test-4.jpg"
         },
         {
           "id": 65,
           "group": "65-67",
-          "passageTitle": "Part 3 - Cau 65-67",
-          "text": "What does the woman say about the retreat?",
+          "passageTitle": "Part 3 - Câu 65-67",
+          "text": "Why is the man surprised?",
           "options": [
-            "(A) It was canceled due to bad weather.",
-            "(B) It was scheduled for a different month.",
-            "(C) It is fully booked.",
-            "(D) It will be held at a new location."
+            "(A) A new vacation policy was announced",
+            "(B) A group is larger than expected",
+            "(C) A price has increased",
+            "(D) A date has been changed"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'I'm surprised that it's in June this year, instead of September' → ngày đã thay đổi từ tháng 9 sang tháng 6. → (D)",
+          "hint": "M nói 'I'm surprised that...' về điều gì? Thời gian retreat thay đổi thế nào?",
           "startTime": 916,
           "endTime": 991,
-          "transcript": "I was looking at the schedule for the company retreat. Wasn't it supposed to be in September? Yes, but the retreat was scheduled for a different month because of the venue availability. It's in June now. Oh, I see. I'm really looking forward to the outdoor activities, especially kayaking. Me too. I also hope we get Jason as our specific guide. He was great last year.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q65_67_activity_schedule.png"
+          "transcript": "M: Hey Hiroko, I got the email invite to the company retreat. I'm surprised that it's in June this year, instead of September.\nW: Yeah, we changed the date so we could try out this venue. I toured it last month and was really impressed. The rooms especially are so comfortable. There weren't any openings in September, though. I'm sure it'll be worth the change.\nM: Your team and Human Resources plans great events. Here, I just pulled up their website. Take a look. Staff can choose one of these activities on the second day of the retreat. I've never been kayaking. This looks like a good chance to try it.",
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-67-test-4.jpg"
         },
         {
           "id": 66,
           "group": "65-67",
-          "passageTitle": "Part 3 - Cau 65-67",
-          "text": "What activity does the man mention?",
+          "passageTitle": "Part 3 - Câu 65-67",
+          "text": "What does the woman like about a venue?",
           "options": [
-            "(A) Hiking.",
-            "(B) Rock climbing.",
-            "(C) Kayaking.",
-            "(D) Swimming."
+            "(A) The comfortable rooms",
+            "(B) The food selection",
+            "(C) The views",
+            "(D) The fitness center"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'I was really impressed. The rooms especially are so comfortable' → W thích những phòng tiện nghi. → (A)",
+          "hint": "W mô tả địa điểm mới và nhấn mạnh điều gì đặc biệt?",
           "startTime": 916,
           "endTime": 991,
-          "transcript": "I was looking at the schedule for the company retreat. Wasn't it supposed to be in September? Yes, but the retreat was scheduled for a different month because of the venue availability. It's in June now. Oh, I see. I'm really looking forward to the outdoor activities, especially kayaking. Me too. I also hope we get Jason as our specific guide. He was great last year.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q65_67_activity_schedule.png"
+          "transcript": "M: Hey Hiroko, I got the email invite to the company retreat. I'm surprised that it's in June this year, instead of September.\nW: Yeah, we changed the date so we could try out this venue. I toured it last month and was really impressed. The rooms especially are so comfortable. There weren't any openings in September, though. I'm sure it'll be worth the change.\nM: Your team and Human Resources plans great events. Here, I just pulled up their website. Take a look. Staff can choose one of these activities on the second day of the retreat. I've never been kayaking. This looks like a good chance to try it.",
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-67-test-4.jpg"
         },
         {
           "id": 67,
           "group": "65-67",
-          "passageTitle": "Part 3 - Cau 65-67",
-          "text": "Look at the graphic. Who will guide the group?",
+          "passageTitle": "Part 3 - Câu 65-67",
+          "text": "Look at the graphic. Who will lead the activity the man is interested in?",
           "options": [
-            "(A) Jason.",
-            "(B) A new instructor.",
-            "(C) The retreat coordinator.",
-            "(D) A visiting expert."
+            "(A) Ketan Bora",
+            "(B) Beatriz Romero",
+            "(C) Amaud Fournier",
+            "(D) Brandon Murray"
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (A). Tham khao transcript de tim cau tra loi. -> (A)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M muốn thử kayaking → theo graphic, người hướng dẫn kayaking là Ketan Bora. → (A)",
+          "hint": "M quan tâm đến hoạt động chèo thuyền kayak. Nhìn vào bảng hoạt động để tìm người hướng dẫn.",
           "startTime": 916,
           "endTime": 991,
-          "transcript": "I was looking at the schedule for the company retreat. Wasn't it supposed to be in September? Yes, but the retreat was scheduled for a different month because of the venue availability. It's in June now. Oh, I see. I'm really looking forward to the outdoor activities, especially kayaking. Me too. I also hope we get Jason as our specific guide. He was great last year.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q65_67_activity_schedule.png"
+          "transcript": "M: Hey Hiroko, I got the email invite to the company retreat. I'm surprised that it's in June this year, instead of September.\nW: Yeah, we changed the date so we could try out this venue. I toured it last month and was really impressed. The rooms especially are so comfortable. There weren't any openings in September, though. I'm sure it'll be worth the change.\nM: Your team and Human Resources plans great events. Here, I just pulled up their website. Take a look. Staff can choose one of these activities on the second day of the retreat. I've never been kayaking. This looks like a good chance to try it.",
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-67-test-4.jpg"
         },
         {
           "id": 68,
           "group": "68-70",
-          "passageTitle": "Part 3 - Cau 68-70",
-          "text": "What are the speakers doing?",
+          "passageTitle": "Part 3 - Câu 68-70",
+          "text": "What is the conversation mostly about?",
           "options": [
-            "(A) Planning a construction project.",
-            "(B) Filming a documentary at an excavation site.",
-            "(C) Reviewing archaeological data.",
-            "(D) Preparing a museum exhibit."
+            "(A) Organizing an exhibit",
+            "(B) Arranging a public tour",
+            "(C) Filming a documentary",
+            "(D) Requesting financial support"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "W nói 'our first day of filming for our TV documentary special' → chủ đề chính là quay phim tài liệu. → (C)",
+          "hint": "W đang làm gì tại công trường khai quật? Từ khóa: 'camera crew', 'filming', 'documentary'.",
           "startTime": 992,
           "endTime": 1067,
-          "transcript": "How is filming going for the documentary at the excavation site? It's going well. We've found some interesting artifacts in quadrant two. That's great. But we need to pack up our equipment soon. Why is that? Operations have been suspended due to thunderstorms in the area.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q68_70_castle_map.png"
+          "transcript": "M: Hi, you must be with the camera crew. I'm Hector, head archaeologist here at the Arno Castle dig site.\nW: Nice to meet you. I'm Ling. Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage of your team at work.\nM: Great. We're working in quadrant 2 today. We've been finding lots of pottery, so you may capture us unearthing more.\nW: I see. This excavation has been a lengthy process, right?\nM: It has. We'd actually hoped to be further along. But there have been lots of thunderstorms lately, which have slowed things down.",
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-69-test-4.jpg"
         },
         {
           "id": 69,
           "group": "68-70",
-          "passageTitle": "Part 3 - Cau 68-70",
-          "text": "Look at the graphic. Where did the speakers find artifacts?",
+          "passageTitle": "Part 3 - Câu 68-70",
+          "text": "Look at the graphic. Which part of the castle is being excavated today?",
           "options": [
-            "(A) Quadrant one.",
-            "(B) Quadrant two.",
-            "(C) Quadrant three.",
-            "(D) Quadrant four."
+            "(A) The garden",
+            "(B) The kitchen",
+            "(C) The tower",
+            "(D) The great hall"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'We're working in quadrant 2 today' → theo graphic, quadrant 2 = the great hall. → (D)",
+          "hint": "M nói đang làm việc ở 'quadrant 2'. Nhìn vào bản đồ lâu đài để xem quadrant 2 tương ứng với khu vực nào.",
           "startTime": 992,
           "endTime": 1067,
-          "transcript": "How is filming going for the documentary at the excavation site? It's going well. We've found some interesting artifacts in quadrant two. That's great. But we need to pack up our equipment soon. Why is that? Operations have been suspended due to thunderstorms in the area.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q68_70_castle_map.png"
+          "transcript": "M: Hi, you must be with the camera crew. I'm Hector, head archaeologist here at the Arno Castle dig site.\nW: Nice to meet you. I'm Ling. Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage of your team at work.\nM: Great. We're working in quadrant 2 today. We've been finding lots of pottery, so you may capture us unearthing more.\nW: I see. This excavation has been a lengthy process, right?\nM: It has. We'd actually hoped to be further along. But there have been lots of thunderstorms lately, which have slowed things down.",
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-69-test-4.jpg"
         },
         {
           "id": 70,
           "group": "68-70",
-          "passageTitle": "Part 3 - Cau 68-70",
-          "text": "Why must the speakers pack up?",
+          "passageTitle": "Part 3 - Câu 68-70",
+          "text": "According to the man, why has some work been delayed?",
           "options": [
-            "(A) The film shoot is complete.",
-            "(B) Equipment is needed elsewhere.",
-            "(C) Due to thunderstorms.",
-            "(D) It is getting dark."
+            "(A) An archaeological team is very small.",
+            "(B) Weather conditions have been poor.",
+            "(C) A source of funding was unavailable.",
+            "(D) New volunteers required special training."
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "M nói 'there have been lots of thunderstorms lately, which have slowed things down' → thời tiết xấu làm chậm tiến độ. → (B)",
+          "hint": "M giải thích lý do công việc chậm tiến độ. Từ khóa gì liên quan đến thời tiết?",
           "startTime": 992,
           "endTime": 1067,
-          "transcript": "How is filming going for the documentary at the excavation site? It's going well. We've found some interesting artifacts in quadrant two. That's great. But we need to pack up our equipment soon. Why is that? Operations have been suspended due to thunderstorms in the area.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q68_70_castle_map.png"
+          "transcript": "M: Hi, you must be with the camera crew. I'm Hector, head archaeologist here at the Arno Castle dig site.\nW: Nice to meet you. I'm Ling. Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage of your team at work.\nM: Great. We're working in quadrant 2 today. We've been finding lots of pottery, so you may capture us unearthing more.\nW: I see. This excavation has been a lengthy process, right?\nM: It has. We'd actually hoped to be further along. But there have been lots of thunderstorms lately, which have slowed things down.",
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-69-test-4.jpg"
         }
       ]
     },
@@ -1259,18 +1259,18 @@
         {
           "id": 71,
           "group": "71-73",
-          "passageTitle": "Part 4 - Cau 71-73",
+          "passageTitle": "Part 4 - Câu 71-73",
           "text": "What kind of company does the speaker work for?",
           "options": [
-            "(A) A telecommunications company.",
-            "(B) A power utility company.",
-            "(C) An internet provider.",
-            "(D) A water treatment company."
+            "(A) A telecommunications company",
+            "(B) A power utility company",
+            "(C) An internet provider",
+            "(D) A water treatment company"
           ],
           "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'Imperial Electric and Gas, the number one power company' → công ty điện và gas. → (B)",
+          "hint": "Người nói đại diện cho công ty nào? Tên công ty là gì?",
           "startTime": 50,
           "endTime": 120,
           "transcript": "This is a notification from your local power and utility company. We want to inform you that the recent power outages in your area have been resolved, and your services will be fully restored by this evening. If you need to request any further maintenance, please go to our website and submit a work order form."
@@ -1278,18 +1278,18 @@
         {
           "id": 72,
           "group": "71-73",
-          "passageTitle": "Part 4 - Cau 71-73",
-          "text": "What does the speaker say will happen?",
+          "passageTitle": "Part 4 - Câu 71-73",
+          "text": "What does the speaker say will happen this afternoon?",
           "options": [
-            "(A) A new service will be offered.",
-            "(B) Services will be fully restored.",
-            "(C) Maintenance fees will be waived.",
-            "(D) Power will be shut off."
+            "(A) A problem will be resolved.",
+            "(B) A shipment will be delivered.",
+            "(C) Some software will be updated.",
+            "(D) Some refreshments will be offered."
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'services will be fully restored this afternoon' → vấn đề sẽ được giải quyết = (A) A problem will be resolved. → (A)",
+          "hint": "Người nói thông báo điều gì sẽ xảy ra chiều nay về vấn đề mất điện?",
           "startTime": 50,
           "endTime": 120,
           "transcript": "This is a notification from your local power and utility company. We want to inform you that the recent power outages in your area have been resolved, and your services will be fully restored by this evening. If you need to request any further maintenance, please go to our website and submit a work order form."
@@ -1297,18 +1297,18 @@
         {
           "id": 73,
           "group": "71-73",
-          "passageTitle": "Part 4 - Cau 71-73",
-          "text": "What is the listener asked to submit?",
+          "passageTitle": "Part 4 - Câu 71-73",
+          "text": "What does the speaker say is available on a Web site?",
           "options": [
-            "(A) A customer feedback form.",
-            "(B) A payment authorization.",
-            "(C) A work order form.",
-            "(D) An account registration."
+            "(A) Customer reviews",
+            "(B) Work order forms",
+            "(C) Business hours",
+            "(D) Product manuals"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'please visit our website to fill out a form to have a work order completed' → mẫu đặt lịch làm việc. → (B)",
+          "hint": "Người nói đề cập đến website để làm gì? Từ khóa 'form', 'work order'.",
           "startTime": 50,
           "endTime": 120,
           "transcript": "This is a notification from your local power and utility company. We want to inform you that the recent power outages in your area have been resolved, and your services will be fully restored by this evening. If you need to request any further maintenance, please go to our website and submit a work order form."
@@ -1316,18 +1316,18 @@
         {
           "id": 74,
           "group": "74-76",
-          "passageTitle": "Part 4 - Cau 74-76",
-          "text": "What is the purpose of the update?",
+          "passageTitle": "Part 4 - Câu 74-76",
+          "text": "According to the speaker, why is a change being made?",
           "options": [
-            "(A) To improve system performance.",
-            "(B) To protect customers' personal data.",
-            "(C) To install new features.",
-            "(D) To fix a network error."
+            "(A) To keep track of expenses",
+            "(B) To help a business expand",
+            "(C) To improve security",
+            "(D) To attract job applicants"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'installing new security software...an extra layer of protection on our customers' personal data' → cải thiện bảo mật. → (C)",
+          "hint": "Lý do cài đặt phần mềm bảo mật mới là gì? Từ khóa 'protection', 'security'.",
           "startTime": 121,
           "endTime": 191,
           "transcript": "Attention all employees. To protect our customers' personal data from security risks, we are going to update our internal network tonight. Because of this, it is very important that everyone remembers to shut down their computers before leaving the office today. If you experience any login issues tomorrow morning, please reach out to the Technical Support department."
@@ -1335,18 +1335,18 @@
         {
           "id": 75,
           "group": "74-76",
-          "passageTitle": "Part 4 - Cau 74-76",
-          "text": "What are employees asked to do?",
+          "passageTitle": "Part 4 - Câu 74-76",
+          "text": "What are the listeners asked to do?",
           "options": [
-            "(A) Log out of all accounts.",
-            "(B) Back up their files.",
-            "(C) Shut down their computers.",
-            "(D) Attend a training session."
+            "(A) Shut down their computers",
+            "(B) Reduce their expenses",
+            "(C) Consult with their department managers",
+            "(D) Create an equipment inventory"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'Before we leave the office on Friday, we'll need to shut down our computers to enable the patch' → tắt máy tính. → (A)",
+          "hint": "Nhân viên được yêu cầu làm gì trước khi rời văn phòng thứ Sáu?",
           "startTime": 121,
           "endTime": 191,
           "transcript": "Attention all employees. To protect our customers' personal data from security risks, we are going to update our internal network tonight. Because of this, it is very important that everyone remembers to shut down their computers before leaving the office today. If you experience any login issues tomorrow morning, please reach out to the Technical Support department."
@@ -1354,18 +1354,18 @@
         {
           "id": 76,
           "group": "74-76",
-          "passageTitle": "Part 4 - Cau 74-76",
-          "text": "Who should employees contact with problems?",
+          "passageTitle": "Part 4 - Câu 74-76",
+          "text": "What department does Marta Fuentes most likely work in?",
           "options": [
-            "(A) Their line manager.",
-            "(B) The security team.",
-            "(C) The IT department.",
-            "(D) The help desk supervisor."
+            "(A) Legal",
+            "(B) Marketing",
+            "(C) Human Resources",
+            "(D) Information Technology"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "Marta Fuentes được mời để 'explain how we'll finish the installation on our devices' → việc cài đặt phần mềm là IT. → (D)",
+          "hint": "Marta Fuentes được giới thiệu để giải thích gì? Công việc này thuộc bộ phận nào?",
           "startTime": 121,
           "endTime": 191,
           "transcript": "Attention all employees. To protect our customers' personal data from security risks, we are going to update our internal network tonight. Because of this, it is very important that everyone remembers to shut down their computers before leaving the office today. If you experience any login issues tomorrow morning, please reach out to the Technical Support department."
@@ -1373,18 +1373,18 @@
         {
           "id": 77,
           "group": "77-79",
-          "passageTitle": "Part 4 - Cau 77-79",
-          "text": "What problem is mentioned?",
+          "passageTitle": "Part 4 - Câu 77-79",
+          "text": "According to the speaker, what will begin on Monday?",
           "options": [
-            "(A) A stairway is blocked.",
-            "(B) The main entrance will be inaccessible.",
-            "(C) A parking garage is closed.",
-            "(D) An elevator is out of service."
+            "(A) A seasonal internship program",
+            "(B) Road construction",
+            "(C) Landscaping maintenance",
+            "(D) An equipment upgrade"
           ],
           "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'starting on Monday, the main entrance...will be inaccessible while the road is being widened and repaved' → xây dựng đường. → (B)",
+          "hint": "Điều gì bắt đầu vào thứ Hai khiến lối vào tòa nhà không thể tiếp cận?",
           "startTime": 192,
           "endTime": 262,
           "transcript": "As you know, the building's lobby is currently under renovation. Starting next Monday, the main entrance will be completely inaccessible. We have arranged a temporary van service to transport employees from the parking lot to the side entrances. Also, please make sure to attend our all-staff meeting on Friday to get project updates regarding the construction."
@@ -1392,18 +1392,18 @@
         {
           "id": 78,
           "group": "77-79",
-          "passageTitle": "Part 4 - Cau 77-79",
-          "text": "What transportation will be provided?",
+          "passageTitle": "Part 4 - Câu 77-79",
+          "text": "What will the company provide for the listeners?",
           "options": [
-            "(A) A bicycle rental.",
-            "(B) A shuttle bus.",
-            "(C) A van service.",
-            "(D) A taxi service."
+            "(A) Free lunch",
+            "(B) New identification badges",
+            "(C) Parking passes",
+            "(D) Transportation"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'the company will be providing a van service' → cung cấp dịch vụ xe buýt = transportation. → (D)",
+          "hint": "Công ty sẽ cung cấp gì để hỗ trợ nhân viên đi lại?",
           "startTime": 192,
           "endTime": 262,
           "transcript": "As you know, the building's lobby is currently under renovation. Starting next Monday, the main entrance will be completely inaccessible. We have arranged a temporary van service to transport employees from the parking lot to the side entrances. Also, please make sure to attend our all-staff meeting on Friday to get project updates regarding the construction."
@@ -1411,18 +1411,18 @@
         {
           "id": 79,
           "group": "77-79",
-          "passageTitle": "Part 4 - Cau 77-79",
-          "text": "Why should employees attend a meeting?",
+          "passageTitle": "Part 4 - Câu 77-79",
+          "text": "Why should the listeners visit a Web site?",
           "options": [
-            "(A) To elect a new safety officer.",
-            "(B) To vote on the renovation plans.",
-            "(C) To get project updates.",
-            "(D) To receive their updated schedules."
+            "(A) To download a map",
+            "(B) To post feedback",
+            "(C) To fill out a registration form",
+            "(D) To read project updates"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'We'll be posting project updates on our website, so be sure to check it regularly' → đọc cập nhật dự án. → (D)",
+          "hint": "Người nói yêu cầu nhân viên vào website để làm gì?",
           "startTime": 192,
           "endTime": 262,
           "transcript": "As you know, the building's lobby is currently under renovation. Starting next Monday, the main entrance will be completely inaccessible. We have arranged a temporary van service to transport employees from the parking lot to the side entrances. Also, please make sure to attend our all-staff meeting on Friday to get project updates regarding the construction."
@@ -1430,18 +1430,18 @@
         {
           "id": 80,
           "group": "80-82",
-          "passageTitle": "Part 4 - Cau 80-82",
-          "text": "What event is being planned?",
+          "passageTitle": "Part 4 - Câu 80-82",
+          "text": "What is the speaker preparing for?",
           "options": [
-            "(A) An annual company review.",
-            "(B) A product demonstration.",
-            "(C) A client's visit.",
-            "(D) A staff training day."
+            "(A) A client visit",
+            "(B) A branch opening",
+            "(C) A job fair",
+            "(D) An equipment upgrade"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'the hotel you asked me to book for our client visiting from India next month' → chuẩn bị cho khách hàng đến thăm. → (A)",
+          "hint": "Người nói đang đặt phòng khách sạn cho ai? Từ khóa 'client', 'visiting from India'.",
           "startTime": 263,
           "endTime": 333,
           "transcript": "Hello, this message is for the project management team. Next week, we are hosting a very important client's visit at our headquarters. Since parking will be extremely limited during their stay, we encourage all staff to use the shuttle bus service from the secondary lot. Please call me back when you get this message so we can finalize the presentation schedule."
@@ -1449,18 +1449,18 @@
         {
           "id": 81,
           "group": "80-82",
-          "passageTitle": "Part 4 - Cau 80-82",
-          "text": "What are employees encouraged to use?",
+          "passageTitle": "Part 4 - Câu 80-82",
+          "text": "Why does the speaker say, \"there is one on Jefferson Avenue\"?",
           "options": [
-            "(A) A carpool arrangement.",
-            "(B) Public transportation.",
-            "(C) A shuttle bus service.",
-            "(D) Ride-share apps."
+            "(A) To express surprise",
+            "(B) To correct some information",
+            "(C) To complain about a decision",
+            "(D) To recommend an alternative"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "Maple Lodge đã đầy → người nói giới thiệu khách sạn khác trên Jefferson Avenue = gợi ý lựa chọn thay thế. → (D)",
+          "hint": "Maple Lodge đã hết phòng → người nói đề xuất gì thay thế?",
           "startTime": 263,
           "endTime": 333,
           "transcript": "Hello, this message is for the project management team. Next week, we are hosting a very important client's visit at our headquarters. Since parking will be extremely limited during their stay, we encourage all staff to use the shuttle bus service from the secondary lot. Please call me back when you get this message so we can finalize the presentation schedule."
@@ -1468,18 +1468,18 @@
         {
           "id": 82,
           "group": "80-82",
-          "passageTitle": "Part 4 - Cau 80-82",
-          "text": "What is the listener asked to do?",
+          "passageTitle": "Part 4 - Câu 80-82",
+          "text": "What additional service is mentioned?",
           "options": [
-            "(A) Confirm the guest list.",
-            "(B) Book the conference room.",
-            "(C) Call the speaker back.",
-            "(D) Prepare a presentation."
+            "(A) A catered meal",
+            "(B) A shuttle bus",
+            "(C) Technical support",
+            "(D) Secure storage"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'They also have a complimentary shuttle bus that can take our guest back and forth from our office' → xe đưa đón miễn phí. → (B)",
+          "hint": "Khách sạn mới cung cấp dịch vụ nào thêm cho khách?",
           "startTime": 263,
           "endTime": 333,
           "transcript": "Hello, this message is for the project management team. Next week, we are hosting a very important client's visit at our headquarters. Since parking will be extremely limited during their stay, we encourage all staff to use the shuttle bus service from the secondary lot. Please call me back when you get this message so we can finalize the presentation schedule."
@@ -1487,18 +1487,18 @@
         {
           "id": 83,
           "group": "83-85",
-          "passageTitle": "Part 4 - Cau 83-85",
-          "text": "Why is the company making a change?",
+          "passageTitle": "Part 4 - Câu 83-85",
+          "text": "According to the speaker, why are some changes needed?",
           "options": [
-            "(A) To reduce operational costs.",
-            "(B) To comply with regulations.",
-            "(C) To meet customer expectations.",
-            "(D) To keep up with a competitor."
+            "(A) To retain employees",
+            "(B) To attract investors",
+            "(C) To satisfy customers",
+            "(D) To increase productivity"
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'we need to continually make changes to meet our customers' expectations' → để đáp ứng kỳ vọng của khách hàng = satisfy customers. → (C)",
+          "hint": "Lý do thay đổi là gì? Từ khóa 'customers' expectations'.",
           "startTime": 334,
           "endTime": 404,
           "transcript": "In order to stay competitive and meet customer expectations in today's fast-paced market, our logistics company will be launching a new delivery tracking service next month. Customers have been asking for real-time updates on their shipments. I will be spending most of this week working with our software developers to ensure the mobile application runs smoothly before launch."
@@ -1506,18 +1506,18 @@
         {
           "id": 84,
           "group": "83-85",
-          "passageTitle": "Part 4 - Cau 83-85",
-          "text": "What is the company launching?",
+          "passageTitle": "Part 4 - Câu 83-85",
+          "text": "What additional service does the company plan to offer?",
           "options": [
-            "(A) A new mobile application.",
-            "(B) A delivery tracking service.",
-            "(C) A customer loyalty program.",
-            "(D) A new logistics fleet."
+            "(A) Free product returns",
+            "(B) Expedited bulk shipping",
+            "(C) Pickup at self-service kiosks",
+            "(D) Real-time package tracking"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'customers will be able to see where their package is in real time' → theo dõi hàng theo thời gian thực. → (D)",
+          "hint": "Dịch vụ mới nào sẽ được triển khai? Từ khóa 'tracking', 'real time', 'smartphone application'.",
           "startTime": 334,
           "endTime": 404,
           "transcript": "In order to stay competitive and meet customer expectations in today's fast-paced market, our logistics company will be launching a new delivery tracking service next month. Customers have been asking for real-time updates on their shipments. I will be spending most of this week working with our software developers to ensure the mobile application runs smoothly before launch."
@@ -1525,18 +1525,18 @@
         {
           "id": 85,
           "group": "83-85",
-          "passageTitle": "Part 4 - Cau 83-85",
-          "text": "What will the speaker do this week?",
+          "passageTitle": "Part 4 - Câu 83-85",
+          "text": "According to the speaker, what will begin next month?",
           "options": [
-            "(A) Launch the new service.",
-            "(B) Conduct customer surveys.",
-            "(C) Work with software developers.",
-            "(D) Train the delivery team."
+            "(A) A workshop series",
+            "(B) A new corporate policy",
+            "(C) A land development project",
+            "(D) A business collaboration"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'next month, we'll begin working with developers from XKP Software' → hợp tác kinh doanh với đối tác phần mềm. → (D)",
+          "hint": "Tháng tới sẽ bắt đầu điều gì? Công ty sẽ làm việc với ai?",
           "startTime": 334,
           "endTime": 404,
           "transcript": "In order to stay competitive and meet customer expectations in today's fast-paced market, our logistics company will be launching a new delivery tracking service next month. Customers have been asking for real-time updates on their shipments. I will be spending most of this week working with our software developers to ensure the mobile application runs smoothly before launch."
@@ -1544,18 +1544,18 @@
         {
           "id": 86,
           "group": "86-88",
-          "passageTitle": "Part 4 - Cau 86-88",
+          "passageTitle": "Part 4 - Câu 86-88",
           "text": "What industry does the speaker work in?",
           "options": [
-            "(A) Film production.",
-            "(B) Radio broadcasting.",
-            "(C) Television broadcasting.",
-            "(D) Digital media."
+            "(A) Film production",
+            "(B) Radio broadcasting",
+            "(C) Television broadcasting",
+            "(D) Digital media"
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'Welcome to the Channel 5 Broadcasting network' → ngành phát thanh truyền hình. → (C)",
+          "hint": "Người nói làm việc ở đâu? Tên đài/kênh là gì?",
           "startTime": 405,
           "endTime": 475,
           "transcript": "Welcome to the Channel 5 Broadcasting network. We are thrilled to offer you a special behind-the-scenes tour of our television studios today. You will get to see how our daily news programs are filmed and edited. After the tour concludes, we are looking for several volunteers to sit in as a live audience for a new talk show pilot."
@@ -1563,18 +1563,18 @@
         {
           "id": 87,
           "group": "86-88",
-          "passageTitle": "Part 4 - Cau 86-88",
+          "passageTitle": "Part 4 - Câu 86-88",
           "text": "What is being offered today?",
           "options": [
-            "(A) A studio recording session.",
-            "(B) A behind-the-scenes tour.",
-            "(C) A job audition.",
-            "(D) A preview screening."
+            "(A) A studio recording session",
+            "(B) A behind-the-scenes tour",
+            "(C) A job audition",
+            "(D) A preview screening"
           ],
           "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "Transcript đề cập đến tour tham quan hậu trường ('behind-the-scenes tour'). → (B)",
+          "hint": "Người nghe được mời tham gia hoạt động gì đặc biệt hôm nay?",
           "startTime": 405,
           "endTime": 475,
           "transcript": "Welcome to the Channel 5 Broadcasting network. We are thrilled to offer you a special behind-the-scenes tour of our television studios today. You will get to see how our daily news programs are filmed and edited. After the tour concludes, we are looking for several volunteers to sit in as a live audience for a new talk show pilot."
@@ -1582,18 +1582,18 @@
         {
           "id": 88,
           "group": "86-88",
-          "passageTitle": "Part 4 - Cau 86-88",
+          "passageTitle": "Part 4 - Câu 86-88",
           "text": "Who is the speaker looking for?",
           "options": [
-            "(A) Experienced actors.",
-            "(B) Production assistants.",
-            "(C) Volunteers.",
-            "(D) News correspondents."
+            "(A) Experienced actors",
+            "(B) Production assistants",
+            "(C) Volunteers",
+            "(D) News correspondents"
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "Transcript đề cập đến việc tuyển tình nguyện viên ('volunteers'). → (C)",
+          "hint": "Người nói đang tuyển dụng ai để hỗ trợ chương trình?",
           "startTime": 405,
           "endTime": 475,
           "transcript": "Welcome to the Channel 5 Broadcasting network. We are thrilled to offer you a special behind-the-scenes tour of our television studios today. You will get to see how our daily news programs are filmed and edited. After the tour concludes, we are looking for several volunteers to sit in as a live audience for a new talk show pilot."
@@ -1601,18 +1601,18 @@
         {
           "id": 89,
           "group": "89-91",
-          "passageTitle": "Part 4 - Cau 89-91",
-          "text": "What kind of products are being sold?",
+          "passageTitle": "Part 4 - Câu 89-91",
+          "text": "What does the speaker's company most likely sell?",
           "options": [
-            "(A) Electronics.",
-            "(B) Office supplies.",
-            "(C) Furniture.",
-            "(D) Home appliances."
+            "(A) Beauty supplies",
+            "(B) Kitchen appliances",
+            "(C) Books",
+            "(D) Sporting goods"
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (D). Tham khao transcript de tim cau tra loi. -> (D)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'selling our ovens and refrigerators' → bán thiết bị nhà bếp. → (B)",
+          "hint": "Từ khóa trong transcript: 'ovens', 'refrigerators' → thuộc danh mục sản phẩm nào?",
           "startTime": 476,
           "endTime": 546,
           "transcript": "Thank you for shopping at our home goods center today, where we offer the best discounts on large home appliances like ovens and refrigerators. Before our staff ends their shift, I want to remind everyone about our annual company dinner taking place downtown tonight. Please try to leave a bit early, as we expect that traffic and parking might be difficult in that area."
@@ -1620,18 +1620,18 @@
         {
           "id": 90,
           "group": "89-91",
-          "passageTitle": "Part 4 - Cau 89-91",
-          "text": "What event is taking place tonight?",
+          "passageTitle": "Part 4 - Câu 89-91",
+          "text": "What event does the speaker invite the listeners to?",
           "options": [
-            "(A) A company picnic.",
-            "(B) A product launch party.",
-            "(C) A company dinner.",
-            "(D) An awards ceremony."
+            "(A) A sales workshop",
+            "(B) A product demonstration",
+            "(C) A celebratory dinner",
+            "(D) A concert"
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'we'd like to invite the sales team to join us for a company dinner' → bữa tối kỷ niệm. → (C)",
+          "hint": "Người nói mời nhân viên tham gia bữa ăn gì để kỷ niệm?",
           "startTime": 476,
           "endTime": 546,
           "transcript": "Thank you for shopping at our home goods center today, where we offer the best discounts on large home appliances like ovens and refrigerators. Before our staff ends their shift, I want to remind everyone about our annual company dinner taking place downtown tonight. Please try to leave a bit early, as we expect that traffic and parking might be difficult in that area."
@@ -1639,18 +1639,18 @@
         {
           "id": 91,
           "group": "89-91",
-          "passageTitle": "Part 4 - Cau 89-91",
-          "text": "What warning does the speaker give?",
+          "passageTitle": "Part 4 - Câu 89-91",
+          "text": "What does the speaker mean when he says, \"there's a sports event that night\"?",
           "options": [
-            "(A) The event may run late.",
-            "(B) Dress code is formal.",
-            "(C) Seating is limited.",
-            "(D) Traffic or parking might be difficult."
+            "(A) The office will be closed.",
+            "(B) Parking will be limited.",
+            "(C) A meeting will be rescheduled.",
+            "(D) The listeners should buy some tickets."
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (D). Tham khao transcript de tim cau tra loi. -> (D)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'You might want to carpool or take public transportation...there's a sports event that night' → đỗ xe sẽ khó khăn/hạn chế. → (B)",
+          "hint": "Tại sao người nói đề xuất carpool hoặc phương tiện công cộng? Sự kiện thể thao ảnh hưởng đến điều gì?",
           "startTime": 476,
           "endTime": 546,
           "transcript": "Thank you for shopping at our home goods center today, where we offer the best discounts on large home appliances like ovens and refrigerators. Before our staff ends their shift, I want to remind everyone about our annual company dinner taking place downtown tonight. Please try to leave a bit early, as we expect that traffic and parking might be difficult in that area."
@@ -1658,18 +1658,18 @@
         {
           "id": 92,
           "group": "92-94",
-          "passageTitle": "Part 4 - Cau 92-94",
-          "text": "Who is the speaker?",
+          "passageTitle": "Part 4 - Câu 92-94",
+          "text": "Who most likely is the speaker?",
           "options": [
-            "(A) A travel agent.",
-            "(B) A city official.",
-            "(C) A tour company owner.",
-            "(D) A museum director."
+            "(A) An artist",
+            "(B) A business owner",
+            "(C) A local journalist",
+            "(D) A government official"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'I founded this tour company 5 years ago' → người sáng lập công ty = business owner. → (B)",
+          "hint": "Người nói tự giới thiệu mình là ai? Từ khóa 'founded', 'tour company'.",
           "startTime": 547,
           "endTime": 617,
           "transcript": "As the founder of this local tour company, I am always looking for ways to expand our business. I'm excited to announce that next season, we will be adding a brand-new walking tour focused on the city's historical architecture. To help promote this, I need all of our guides to hand out these newly printed brochures to anyone who stops by our information desk."
@@ -1677,18 +1677,18 @@
         {
           "id": 93,
           "group": "92-94",
-          "passageTitle": "Part 4 - Cau 92-94",
-          "text": "What is the speaker announcing?",
+          "passageTitle": "Part 4 - Câu 92-94",
+          "text": "Why does the speaker say, \"art isn't only inside the walls of a museum\"?",
           "options": [
-            "(A) A price reduction.",
-            "(B) A new walking tour.",
-            "(C) A partnership with a hotel.",
-            "(D) A website update."
+            "(A) To apologize for an exhibit closure",
+            "(B) To disagree with an online review",
+            "(C) To motivate the listeners to take another tour",
+            "(D) To recommend a building renovation"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (B). Tham khao transcript de tim cau tra loi. -> (B)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "Người nói giới thiệu tour mới về murals và statues → câu này nhằm khuyến khích khách tham gia thêm tour khác. → (C)",
+          "hint": "Người nói nói câu này trong bối cảnh gì? Mục đích là gì?",
           "startTime": 547,
           "endTime": 617,
           "transcript": "As the founder of this local tour company, I am always looking for ways to expand our business. I'm excited to announce that next season, we will be adding a brand-new walking tour focused on the city's historical architecture. To help promote this, I need all of our guides to hand out these newly printed brochures to anyone who stops by our information desk."
@@ -1696,18 +1696,18 @@
         {
           "id": 94,
           "group": "92-94",
-          "passageTitle": "Part 4 - Cau 92-94",
-          "text": "What are the listeners asked to distribute?",
+          "passageTitle": "Part 4 - Câu 92-94",
+          "text": "What does the speaker give to the listeners?",
           "options": [
-            "(A) Ticket vouchers.",
-            "(B) Information cards.",
-            "(C) Brochures.",
-            "(D) Maps."
+            "(A) City maps",
+            "(B) Gift cards",
+            "(C) Name badges",
+            "(D) Informational brochures"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'Here are some brochures with information, including the times and prices' → phát tờ rơi thông tin. → (D)",
+          "hint": "Cuối bài nói, người nói trao gì cho khách tham quan?",
           "startTime": 547,
           "endTime": 617,
           "transcript": "As the founder of this local tour company, I am always looking for ways to expand our business. I'm excited to announce that next season, we will be adding a brand-new walking tour focused on the city's historical architecture. To help promote this, I need all of our guides to hand out these newly printed brochures to anyone who stops by our information desk."
@@ -1715,122 +1715,122 @@
         {
           "id": 95,
           "group": "95-97",
-          "passageTitle": "Part 4 - Cau 95-97",
-          "text": "What is the main topic of the meeting?",
+          "passageTitle": "Part 4 - Câu 95-97",
+          "text": "What is the broadcast mainly about?",
           "options": [
-            "(A) A park renovation.",
-            "(B) A highway expansion.",
-            "(C) A train station construction project.",
-            "(D) A community center plan."
+            "(A) A renovated airport terminal",
+            "(B) A redesigned city hall",
+            "(C) A new train station",
+            "(D) A new bridge"
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'construction has begun on the new Alexton train station, which will offer a direct rail connection' → về ga tàu mới. → (C)",
+          "hint": "Chủ đề chính của bản tin là gì? Từ khóa 'Alexton train station', 'rail connection'.",
           "startTime": 618,
           "endTime": 688,
           "transcript": "Good evening, everyone, and welcome to the town planning meeting. Our main agenda today is to review the upcoming train station construction project. If you look at the projected budget graphic provided in your folders, the committee has officially decided to approve the $250 million proposal. Once we wrap this up, our next item will be to brainstorm ideas for a new park to be built next to the station.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q95_97_proposal_table.png"
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-96-test-4.jpg"
         },
         {
           "id": 96,
           "group": "95-97",
-          "passageTitle": "Part 4 - Cau 95-97",
+          "passageTitle": "Part 4 - Câu 95-97",
           "text": "Look at the graphic. Which proposal was chosen?",
           "options": [
-            "(A) The $150 million proposal.",
-            "(B) The $200 million proposal.",
-            "(C) The $250 million proposal.",
-            "(D) The $300 million proposal."
+            "(A) Plan A",
+            "(B) Plan B",
+            "(C) Plan C",
+            "(D) Plan D"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'ultimately decided to go with a more cost-effective...proposal, with a price tag of $250 million' → theo graphic, $250M = Plan B. → (B)",
+          "hint": "Nhìn vào bảng đề xuất. Phương án nào có mức giá $250 triệu được chọn?",
           "startTime": 618,
           "endTime": 688,
           "transcript": "Good evening, everyone, and welcome to the town planning meeting. Our main agenda today is to review the upcoming train station construction project. If you look at the projected budget graphic provided in your folders, the committee has officially decided to approve the $250 million proposal. Once we wrap this up, our next item will be to brainstorm ideas for a new park to be built next to the station.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q95_97_proposal_table.png"
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-96-test-4.jpg"
         },
         {
           "id": 97,
           "group": "95-97",
-          "passageTitle": "Part 4 - Cau 95-97",
-          "text": "What will be discussed next?",
+          "passageTitle": "Part 4 - Câu 95-97",
+          "text": "According to the speaker, what will residents be able to vote on?",
           "options": [
-            "(A) The station design.",
-            "(B) The construction timeline.",
-            "(C) Ideas for a new park.",
-            "(D) Traffic management plans."
+            "(A) Parking options",
+            "(B) Food vendors",
+            "(C) Public artwork",
+            "(D) Park ideas"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'residents will be invited to vote on ideas for it' (cho công viên nhỏ kề bên) → ý tưởng cho công viên. → (D)",
+          "hint": "Người dân sẽ được bỏ phiếu về điều gì liên quan đến công viên nhỏ?",
           "startTime": 618,
           "endTime": 688,
           "transcript": "Good evening, everyone, and welcome to the town planning meeting. Our main agenda today is to review the upcoming train station construction project. If you look at the projected budget graphic provided in your folders, the committee has officially decided to approve the $250 million proposal. Once we wrap this up, our next item will be to brainstorm ideas for a new park to be built next to the station.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q95_97_proposal_table.png"
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-96-test-4.jpg"
         },
         {
           "id": 98,
           "group": "98-100",
-          "passageTitle": "Part 4 - Cau 98-100",
+          "passageTitle": "Part 4 - Câu 98-100",
           "text": "Who is the speaker?",
           "options": [
-            "(A) A construction manager.",
-            "(B) A community activist.",
-            "(C) A city mayor.",
-            "(D) An architect."
+            "(A) A structural engineer",
+            "(B) A journalist",
+            "(C) A tour guide",
+            "(D) A city official"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'As the mayor, I'm pleased to see this kind of growth in our city' → thị trưởng = city official. → (D)",
+          "hint": "Người nói tự giới thiệu là ai?",
           "startTime": 689,
           "endTime": 759,
           "transcript": "Hello everyone, as your city mayor, it is an honor to welcome you to the opening of our new community complex. This project is incredibly special because it incorporates several environmentally friendly features, such as solar roofing and an energy-efficient heating system. If you take a look at the facility map, you'll see that our opening ceremony will take place shortly over by the recreation center.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q98_100_building_floors.png"
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-100-test-4.jpg"
         },
         {
           "id": 99,
           "group": "98-100",
-          "passageTitle": "Part 4 - Cau 98-100",
-          "text": "What is special about the new facility?",
+          "passageTitle": "Part 4 - Câu 98-100",
+          "text": "Why is a building special?",
           "options": [
-            "(A) It was built in record time.",
-            "(B) It won a design award.",
+            "(A) It was constructed in a short time.",
+            "(B) It has a technologically advanced security system.",
             "(C) It has environmentally friendly features.",
-            "(D) It is the largest in the region."
+            "(D) It was designed by a famous architect."
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'the environmentally friendly elements incorporated into the design make this building special' → thiết kế thân thiện môi trường. → (C)",
+          "hint": "Điều gì làm cho tòa nhà Wilton Business Center đặc biệt? Từ khóa 'environmentally friendly'.",
           "startTime": 689,
           "endTime": 759,
           "transcript": "Hello everyone, as your city mayor, it is an honor to welcome you to the opening of our new community complex. This project is incredibly special because it incorporates several environmentally friendly features, such as solar roofing and an energy-efficient heating system. If you take a look at the facility map, you'll see that our opening ceremony will take place shortly over by the recreation center.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q98_100_building_floors.png"
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-100-test-4.jpg"
         },
         {
           "id": 100,
           "group": "98-100",
-          "passageTitle": "Part 4 - Cau 98-100",
-          "text": "Look at the graphic. Where will the ceremony take place?",
+          "passageTitle": "Part 4 - Câu 98-100",
+          "text": "Look at the graphic. Which floor of the building is not open yet?",
           "options": [
-            "(A) At the main entrance.",
-            "(B) In the auditorium.",
-            "(C) At the recreation center.",
-            "(D) In the lobby."
+            "(A) Floor 4",
+            "(B) Floor 3",
+            "(C) Floor 2",
+            "(D) Floor 1"
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Noi dung cho thay dap an dung la (C). Tham khao transcript de tim cau tra loi. -> (C)",
-          "hint": "Nghe ky tung doan, chu y tu khoa chinh.",
+          "explanation": "'the recreation center, will not be available for use until next month, as final touches are still being added to that floor' → tầng có recreation center chưa mở. Theo graphic, đó là tầng 2. → (C)",
+          "hint": "Phần nào của tòa nhà chưa mở cửa? 'Recreation center' nằm ở tầng nào theo graphic?",
           "startTime": 689,
           "endTime": 759,
           "transcript": "Hello everyone, as your city mayor, it is an honor to welcome you to the opening of our new community complex. This project is incredibly special because it incorporates several environmentally friendly features, such as solar roofing and an energy-efficient heating system. If you take a look at the facility map, you'll see that our opening ceremony will take place shortly over by the recreation center.",
-          "passageImage": "public/assets/bai-on-4/listening/graphics/q98_100_building_floors.png"
+          "passageImage": "public/assets/bai-on-4/listening/graphics/qes-100-test-4.jpg"
         }
       ]
     },
