@@ -502,7 +502,7 @@
           "id": 32,
           "group": "32-34",
           "passageTitle": "Part 3 - Câu 32-34",
-          "text": "Where most likely are the speakers?",
+          "text": "Where is the conversation taking place?",
           "options": [
             "(A) At a ferry terminal",
             "(B) At a swimming area",
@@ -511,17 +511,17 @@
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "M hỏi về chuyến ferry đến Osaka, W đề cập 'port authority' và 'marine traffic' → hai người đang ở bến phà. → (A)",
-          "hint": "Nghe các từ khóa liên quan đến địa điểm. Transcript đề cập đến 'ferry to Osaka', 'port authority', 'marine traffic' → địa điểm là gì?",
+          "explanation": "Người phụ nữ hỏi: 'wasn't the ferry to Osaka supposed to leave at 10:00?' và người đàn ông nhắc đến 'port authority' (cơ quan quản lý cảng) và 'marine traffic' (giao thông đường thủy) → Địa điểm là bến phà = At a ferry terminal. → (A)",
+          "hint": "Người phụ nữ mở đầu cuộc trò chuyện hỏi về chuyến phà đi Osaka ('ferry to Osaka'). Hai người đang ở địa điểm nào?",
           "startTime": 80,
           "endTime": 155,
-          "transcript": "M: Excuse me, but wasn't the ferry to Osaka supposed to leave at 10:00?\nW: Yes, but the port authority has suspended all marine traffic due to rough water.\nM: I see. Does that mean ferries are canceled all day?\nW: This storm is expected to pass in about 3 hours, but operations should return to normal after that. Your ticket will be good until midnight.\nM: Okay, then I guess I'll grab some lunch nearby.\nW: I highly recommend Mary's Cafe for sandwiches and soup."
+          "transcript": "Woman: Excuse me, but wasn't the ferry to Osaka supposed to leave at 10:00?\nMan: Yes, but the port authority has suspended all marine traffic due to rough water.\nWoman: I see. Does that mean ferries are canceled all day?\nMan: This storm is expected to pass in a couple of hours, so departures should resume this afternoon. In the meantime, you're welcome to wait in our passenger lounge, or there's a café across the street if you'd like to get something to eat.\nWoman: Okay, I think I'll get an early lunch."
         },
         {
           "id": 33,
           "group": "32-34",
           "passageTitle": "Part 3 - Câu 32-34",
-          "text": "What problem does the man mention?",
+          "text": "What is the problem?",
           "options": [
             "(A) Some repairs are needed.",
             "(B) A business is understaffed.",
@@ -530,17 +530,17 @@
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'This storm is expected to pass in about 3 hours' → thời tiết xấu là nguyên nhân. → (C)",
-          "hint": "M hỏi về sự cố → W giải thích lý do. Từ khóa nào nói đến thời tiết?",
+          "explanation": "Người đàn ông giải thích giao thông đường thủy bị tạm ngừng do biển động và bão: 'the port authority has suspended all marine traffic due to rough water... This storm is expected to pass in a couple of hours' → Vấn đề là do thời tiết xấu = The weather is bad. → (C)",
+          "hint": "Lắng nghe lý do giao thông đường thủy bị tạm dừng: 'due to rough water', 'This storm is expected to pass...'.",
           "startTime": 80,
           "endTime": 155,
-          "transcript": "M: Excuse me, but wasn't the ferry to Osaka supposed to leave at 10:00?\nW: Yes, but the port authority has suspended all marine traffic due to rough water.\nM: I see. Does that mean ferries are canceled all day?\nW: This storm is expected to pass in about 3 hours, but operations should return to normal after that. Your ticket will be good until midnight.\nM: Okay, then I guess I'll grab some lunch nearby.\nW: I highly recommend Mary's Cafe for sandwiches and soup."
+          "transcript": "Woman: Excuse me, but wasn't the ferry to Osaka supposed to leave at 10:00?\nMan: Yes, but the port authority has suspended all marine traffic due to rough water.\nWoman: I see. Does that mean ferries are canceled all day?\nMan: This storm is expected to pass in a couple of hours, so departures should resume this afternoon. In the meantime, you're welcome to wait in our passenger lounge, or there's a café across the street if you'd like to get something to eat.\nWoman: Okay, I think I'll get an early lunch."
         },
         {
           "id": 34,
           "group": "32-34",
           "passageTitle": "Part 3 - Câu 32-34",
-          "text": "What will the woman do next?",
+          "text": "What will the woman most likely do next?",
           "options": [
             "(A) Read a book",
             "(B) Get a meal",
@@ -549,11 +549,11 @@
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'I'll grab some lunch nearby' → đi ăn trưa = get a meal. → (B)",
-          "hint": "Cuối đoạn hội thoại, M nói gì về kế hoạch tiếp theo?",
+          "explanation": "Người phụ nữ quyết định ở câu cuối: 'Okay, I think I'll get an early lunch.' (Được rồi, tôi nghĩ tôi sẽ đi ăn trưa sớm.) → Đi ăn một bữa = Get a meal. → (B)",
+          "hint": "Người phụ nữ chốt lại câu cuối: 'Okay, I think I'll get an early lunch.'",
           "startTime": 80,
           "endTime": 155,
-          "transcript": "M: Excuse me, but wasn't the ferry to Osaka supposed to leave at 10:00?\nW: Yes, but the port authority has suspended all marine traffic due to rough water.\nM: I see. Does that mean ferries are canceled all day?\nW: This storm is expected to pass in about 3 hours, but operations should return to normal after that. Your ticket will be good until midnight.\nM: Okay, then I guess I'll grab some lunch nearby.\nW: I highly recommend Mary's Cafe for sandwiches and soup."
+          "transcript": "Woman: Excuse me, but wasn't the ferry to Osaka supposed to leave at 10:00?\nMan: Yes, but the port authority has suspended all marine traffic due to rough water.\nWoman: I see. Does that mean ferries are canceled all day?\nMan: This storm is expected to pass in a couple of hours, so departures should resume this afternoon. In the meantime, you're welcome to wait in our passenger lounge, or there's a café across the street if you'd like to get something to eat.\nWoman: Okay, I think I'll get an early lunch."
         },
         {
           "id": 35,
@@ -568,17 +568,17 @@
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "W hỏi 'Are you looking for any particular library book?' và đề nghị tìm sách trong hệ thống → bà ấy là thủ thư. → (B)",
-          "hint": "W hỏi về 'library book, magazine, or newspaper' → bà ấy làm việc ở đâu?",
+          "explanation": "Người phụ nữ chào: 'Are you looking for any particular library book, magazine, or newspaper?' và kiểm tra hồ sơ trả sách trong hệ thống thư viện → Người phụ nữ là thủ thư = A librarian. → (B)",
+          "hint": "Người phụ nữ mở đầu hỏi khách về việc tìm sách, tạp chí, báo trong thư viện ('library book, magazine, or newspaper').",
           "startTime": 156,
           "endTime": 231,
-          "transcript": "W: Good morning. Are you looking for any particular library book, magazine, or newspaper?\nM: Actually, no. I'm here because I got an email this morning telling me that I have an overdue book. But I returned it to the after-hours bin last night.\nW: Sometimes a book gets returned and put back on the shelves without being entered into the system first. I can take a look. Can you tell me the title?"
+          "transcript": "Woman: Good morning. Are you looking for any particular library book, magazine, or newspaper?\nMan: Actually, no. I'm here because I got an email this morning telling me that I have an overdue book, but I returned it to the after-hours bin last night.\nWoman: Sometimes it takes a while to check in the books from the drop box, especially on Mondays. What was the title of the book?\nMan: It's called \"The History of Architecture\".\nWoman: Let's go look for it in the return bin together to see if it's there. If it is, I'll clear it from your account right away."
         },
         {
           "id": 36,
           "group": "35-37",
           "passageTitle": "Part 3 - Câu 35-37",
-          "text": "What does the man say happened this morning?",
+          "text": "Why is the man visiting the facility?",
           "options": [
             "(A) He received an e-mail notification.",
             "(B) He applied for a job online.",
@@ -587,17 +587,17 @@
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'I got an email this morning telling me that I have an overdue book' → nhận email thông báo. → (A)",
-          "hint": "M giải thích lý do đến thư viện. Từ khóa 'this morning' + điều gì xảy ra?",
+          "explanation": "Người đàn ông giải thích: 'I'm here because I got an email this morning telling me that I have an overdue book, but I returned it to the after-hours bin last night.' (Tôi đến đây vì sáng nay nhận được email báo có sách quá hạn...) → Anh ấy nhận được email thông báo = He received an e-mail notification. → (A)",
+          "hint": "Người đàn ông giải thích lý do đến thư viện: 'because I got an email this morning telling me that I have an overdue book...'.",
           "startTime": 156,
           "endTime": 231,
-          "transcript": "W: Good morning. Are you looking for any particular library book, magazine, or newspaper?\nM: Actually, no. I'm here because I got an email this morning telling me that I have an overdue book. But I returned it to the after-hours bin last night.\nW: Sometimes a book gets returned and put back on the shelves without being entered into the system first. I can take a look. Can you tell me the title?"
+          "transcript": "Woman: Good morning. Are you looking for any particular library book, magazine, or newspaper?\nMan: Actually, no. I'm here because I got an email this morning telling me that I have an overdue book, but I returned it to the after-hours bin last night.\nWoman: Sometimes it takes a while to check in the books from the drop box, especially on Mondays. What was the title of the book?\nMan: It's called \"The History of Architecture\".\nWoman: Let's go look for it in the return bin together to see if it's there. If it is, I'll clear it from your account right away."
         },
         {
           "id": 37,
           "group": "35-37",
           "passageTitle": "Part 3 - Câu 35-37",
-          "text": "What does the woman offer to do?",
+          "text": "What will the speakers do next?",
           "options": [
             "(A) Attend an event",
             "(B) Fill out an online form",
@@ -606,17 +606,17 @@
           ],
           "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'I can take a look. Can you tell me the title?' → đề nghị tìm kiếm cuốn sách = search for an item. → (D)",
-          "hint": "W đề nghị giúp gì cho M? Câu 'I can take a look' ám chỉ điều gì?",
+          "explanation": "Người phụ nữ nói: 'Let's go look for it in the return bin together to see if it's there.' (Chúng ta hãy cùng đi tìm cuốn sách trong thùng trả đồ xem nó có ở đó không.) → Đi tìm một món đồ = Search for an item (look for = search for). → (D)",
+          "hint": "Người phụ nữ đề xuất: 'Let's go look for it in the return bin together...'. 'look for' đồng nghĩa với hành động nào?",
           "startTime": 156,
           "endTime": 231,
-          "transcript": "W: Good morning. Are you looking for any particular library book, magazine, or newspaper?\nM: Actually, no. I'm here because I got an email this morning telling me that I have an overdue book. But I returned it to the after-hours bin last night.\nW: Sometimes a book gets returned and put back on the shelves without being entered into the system first. I can take a look. Can you tell me the title?"
+          "transcript": "Woman: Good morning. Are you looking for any particular library book, magazine, or newspaper?\nMan: Actually, no. I'm here because I got an email this morning telling me that I have an overdue book, but I returned it to the after-hours bin last night.\nWoman: Sometimes it takes a while to check in the books from the drop box, especially on Mondays. What was the title of the book?\nMan: It's called \"The History of Architecture\".\nWoman: Let's go look for it in the return bin together to see if it's there. If it is, I'll clear it from your account right away."
         },
         {
           "id": 38,
           "group": "38-40",
           "passageTitle": "Part 3 - Câu 38-40",
-          "text": "What type of business does the man most likely work for?",
+          "text": "What type of business does the man work for?",
           "options": [
             "(A) A moving company",
             "(B) A furniture manufacturer",
@@ -625,17 +625,17 @@
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'I talked to you about a price quote for some painting you want done' → M làm trong công ty sơn. → (C)",
-          "hint": "M đến nhà W để làm gì? Nghe từ khóa về công việc của M.",
+          "explanation": "Người đàn ông giới thiệu: 'I talked to you this morning on the phone about a price quote for some painting you want done.' và người phụ nữ muốn đổi màu phòng ăn ('change the color in the dining room') → Công ty sơn nhà = A painting company. → (C)",
+          "hint": "Người đàn ông giới thiệu đến để báo giá công việc sơn ('price quote for some painting you want done').",
           "startTime": 232,
           "endTime": 307,
-          "transcript": "M: Hi, I'm Malik. I talked to you this morning on the phone about a price quote for some painting you want done.\nW: Oh, hi. Come in. Yes, I want to change the color in the dining room to something lighter.\nM: Not a problem. But I do want to stress that the quote may be higher than you expected, because going from a darker color to a lighter one requires more than one coat of paint.\nW: I understand. And will you move the table and chairs out of the room before you start?\nM: That shouldn't be necessary. We can cover them with a drop cloth."
+          "transcript": "Man: Hi, I'm Malik. I talked to you this morning on the phone about a price quote for some painting you want done.\nWoman: Oh, hi. Come in. Yes, I want to change the color in the dining room to something lighter.\nMan: Not a problem. But I do want to stress that because the current color is so dark, we'll need to apply a couple of coats of primer first. That will add to the final cost.\nWoman: That makes sense. Could you show me some paint swatches so I can choose a shade?\nMan: Sure, I have a sample book in my van. I'll go get it."
         },
         {
           "id": 39,
           "group": "38-40",
           "passageTitle": "Part 3 - Câu 38-40",
-          "text": "What point does the man emphasize?",
+          "text": "What does the man caution the woman about?",
           "options": [
             "(A) A deposit is required before work can begin.",
             "(B) A price may be higher than expected.",
@@ -644,11 +644,11 @@
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'I do want to stress that the quote may be higher than you expected' → báo giá có thể cao hơn dự kiến. → (B)",
-          "hint": "M nhấn mạnh điều gì về báo giá? Từ 'stress' trong transcript chỉ ra điều gì?",
+          "explanation": "Người đàn ông lưu ý: 'because the current color is so dark, we'll need to apply a couple of coats of primer first. That will add to the final cost.' (vì màu hiện tại rất tối, chúng tôi sẽ cần quét vài lớp sơn lót trước. Điều đó sẽ làm tăng chi phí cuối cùng.) → Giá có thể cao hơn dự kiến = A price may be higher than expected. → (B)",
+          "hint": "Người đàn ông nhấn mạnh màu sơn cũ quá tối nên phải sơn lót nhiều lớp: 'That will add to the final cost.'",
           "startTime": 232,
           "endTime": 307,
-          "transcript": "M: Hi, I'm Malik. I talked to you this morning on the phone about a price quote for some painting you want done.\nW: Oh, hi. Come in. Yes, I want to change the color in the dining room to something lighter.\nM: Not a problem. But I do want to stress that the quote may be higher than you expected, because going from a darker color to a lighter one requires more than one coat of paint.\nW: I understand. And will you move the table and chairs out of the room before you start?\nM: That shouldn't be necessary. We can cover them with a drop cloth."
+          "transcript": "Man: Hi, I'm Malik. I talked to you this morning on the phone about a price quote for some painting you want done.\nWoman: Oh, hi. Come in. Yes, I want to change the color in the dining room to something lighter.\nMan: Not a problem. But I do want to stress that because the current color is so dark, we'll need to apply a couple of coats of primer first. That will add to the final cost.\nWoman: That makes sense. Could you show me some paint swatches so I can choose a shade?\nMan: Sure, I have a sample book in my van. I'll go get it."
         },
         {
           "id": 40,
@@ -658,22 +658,22 @@
           "options": [
             "(A) Signing a contract",
             "(B) Purchasing specialized tools",
-            "(C) Moving some furniture",
-            "(D) Seeing some samples"
+            "(C) Seeing some samples",
+            "(D) Moving some furniture"
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "W hỏi 'will you move the table and chairs out of the room?' → hỏi về việc di chuyển đồ nội thất. → (C)",
-          "hint": "W hỏi về điều gì ở cuối đoạn hội thoại?",
+          "explanation": "Người phụ nữ hỏi: 'Could you show me some paint swatches so I can choose a shade?' (Anh có thể cho tôi xem các bảng mẫu màu sơn để tôi chọn tông màu không?) → Xem các mẫu thử = Seeing some samples (paint swatches = samples). → (C)",
+          "hint": "Người phụ nữ yêu cầu xem bảng mẫu màu sơn ('show me some paint swatches / sample book').",
           "startTime": 232,
           "endTime": 307,
-          "transcript": "M: Hi, I'm Malik. I talked to you this morning on the phone about a price quote for some painting you want done.\nW: Oh, hi. Come in. Yes, I want to change the color in the dining room to something lighter.\nM: Not a problem. But I do want to stress that the quote may be higher than you expected, because going from a darker color to a lighter one requires more than one coat of paint.\nW: I understand. And will you move the table and chairs out of the room before you start?\nM: That shouldn't be necessary. We can cover them with a drop cloth."
+          "transcript": "Man: Hi, I'm Malik. I talked to you this morning on the phone about a price quote for some painting you want done.\nWoman: Oh, hi. Come in. Yes, I want to change the color in the dining room to something lighter.\nMan: Not a problem. But I do want to stress that because the current color is so dark, we'll need to apply a couple of coats of primer first. That will add to the final cost.\nWoman: That makes sense. Could you show me some paint swatches so I can choose a shade?\nMan: Sure, I have a sample book in my van. I'll go get it."
         },
         {
           "id": 41,
           "group": "41-43",
           "passageTitle": "Part 3 - Câu 41-43",
-          "text": "Where does the man work?",
+          "text": "Where most likely are the speakers?",
           "options": [
             "(A) At a community park",
             "(B) At a fitness center",
@@ -682,17 +682,17 @@
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'All the exercise bikes, treadmills, and workout stations are brand new' → đây là trung tâm thể dục. → (B)",
-          "hint": "M giới thiệu về địa điểm làm việc. Nghe từ khóa: exercise bikes, treadmills, workout stations.",
+          "explanation": "Người đàn ông giới thiệu: 'All the exercise bikes, treadmills, and workout stations that you see are brand new.' (Tất cả xe đạp tập, máy chạy bộ và các khu tập luyện đều hoàn toàn mới.) → Phòng tập thể hình/trung tâm thể dục = At a fitness center. → (B)",
+          "hint": "Các thiết bị được nhắc đến như 'exercise bikes, treadmills, and workout stations' thuộc địa điểm nào?",
           "startTime": 308,
           "endTime": 383,
-          "transcript": "W: Hi, this is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment.\nM: Yes, we just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new.\nW: Great. I'm considering joining. My office is right around the corner.\nM: Well, here's a brochure with a description of our membership levels. I'm happy to answer any questions.\nW: Thanks. I do like to swim a few times a week. Do you have a pool?\nM: We do. Why don't we start by walking around so I can show you all of our facilities."
+          "transcript": "Woman: Hi. This is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment.\nMan: Yes, we just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new.\nWoman: Great. I'm considering joining, but I work odd hours, so I need to know if you're open late.\nMan: We're open until 11:00 P.M. every day. Would you like me to show you around the locker rooms and pool area?\nWoman: Sure, that would be wonderful."
         },
         {
           "id": 42,
           "group": "41-43",
           "passageTitle": "Part 3 - Câu 41-43",
-          "text": "What is the purpose of the woman's visit?",
+          "text": "Why does the woman say, \"I'm considering joining\"?",
           "options": [
             "(A) She is applying for a job.",
             "(B) She has a complaint.",
@@ -701,11 +701,11 @@
           ],
           "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'I'm considering joining' và hỏi về brochure membership → muốn tham gia hội viên. → (D)",
-          "hint": "W nói 'I'm considering joining' → mục đích thăm là gì?",
+          "explanation": "Người phụ nữ nói: 'I'm considering joining, but I work odd hours, so I need to know if you're open late.' (Tôi đang cân nhắc tham gia làm hội viên, nhưng giờ làm việc của tôi thất thường...) → Cô ấy quan tâm đến việc đăng ký thẻ hội viên = She is interested in a membership. → (D)",
+          "hint": "Cụm 'considering joining' trong ngữ cảnh phòng gym thể hiện điều gì về thẻ hội viên ('membership')?",
           "startTime": 308,
           "endTime": 383,
-          "transcript": "W: Hi, this is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment.\nM: Yes, we just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new.\nW: Great. I'm considering joining. My office is right around the corner.\nM: Well, here's a brochure with a description of our membership levels. I'm happy to answer any questions.\nW: Thanks. I do like to swim a few times a week. Do you have a pool?\nM: We do. Why don't we start by walking around so I can show you all of our facilities."
+          "transcript": "Woman: Hi. This is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment.\nMan: Yes, we just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new.\nWoman: Great. I'm considering joining, but I work odd hours, so I need to know if you're open late.\nMan: We're open until 11:00 P.M. every day. Would you like me to show you around the locker rooms and pool area?\nWoman: Sure, that would be wonderful."
         },
         {
           "id": 43,
@@ -720,17 +720,17 @@
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M đề nghị 'walking around so I can show you all of our facilities' = đưa W đi tham quan. → (B)",
-          "hint": "Cuối hội thoại M đề nghị gì? 'Why don't we start by walking around...'",
+          "explanation": "Người đàn ông đề nghị dẫn đi tham quan: 'Would you like me to show you around the locker rooms and pool area?' Người phụ nữ đáp: 'Sure, that would be wonderful.' → Đi tham quan cơ sở vật chất = Go on a tour (show around = go on a tour). → (B)",
+          "hint": "Người đàn ông mời: 'Would you like me to show you around the locker rooms and pool area?' và người phụ nữ đồng ý.",
           "startTime": 308,
           "endTime": 383,
-          "transcript": "W: Hi, this is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment.\nM: Yes, we just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new.\nW: Great. I'm considering joining. My office is right around the corner.\nM: Well, here's a brochure with a description of our membership levels. I'm happy to answer any questions.\nW: Thanks. I do like to swim a few times a week. Do you have a pool?\nM: We do. Why don't we start by walking around so I can show you all of our facilities."
+          "transcript": "Woman: Hi. This is my first time in here. Nice place. Looks like you've got lots of state-of-the-art equipment.\nMan: Yes, we just opened this week. All the exercise bikes, treadmills, and workout stations that you see are brand new.\nWoman: Great. I'm considering joining, but I work odd hours, so I need to know if you're open late.\nMan: We're open until 11:00 P.M. every day. Would you like me to show you around the locker rooms and pool area?\nWoman: Sure, that would be wonderful."
         },
         {
           "id": 44,
           "group": "44-46",
           "passageTitle": "Part 3 - Câu 44-46",
-          "text": "Who most likely is the man?",
+          "text": "Who is the man?",
           "options": [
             "(A) A janitor",
             "(B) A property manager",
@@ -739,30 +739,30 @@
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'Hello, what brings you into our leasing office today?' → M là người quản lý bất động sản cho thuê. → (B)",
-          "hint": "M làm việc ở đâu? Từ 'leasing office' gợi ý vai trò của M.",
+          "explanation": "Người đàn ông chào: 'What brings you into our leasing office today?' và kiểm tra các căn hộ cho thuê cũng như thời hạn hợp đồng → Người quản lý bất động sản/tòa nhà cho thuê = A property manager. → (B)",
+          "hint": "Người đàn ông làm việc tại văn phòng cho thuê căn hộ ('leasing office') và quản lý các hợp đồng thuê nhà ('lease on apartment 410').",
           "startTime": 384,
           "endTime": 459,
-          "transcript": "M: Hello, what brings you into our leasing office today?\nW: Hi, I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.\nM: Let me see. Apartment 410 is quite large, and the lease on it ends this November. It's $1,000 per month. Does that interest you?\nW: I did just get promoted at work recently, so I can afford to spend more. So that won't be a problem.\nM: Great, I'll call the current tenant and we can figure out a time for a viewing."
+          "transcript": "Man: Hello. What brings you into our leasing office today?\nWoman: Hi, I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.\nMan: Let me see... Apartment 410 is quite large, and the lease on it ends this Friday. The current tenant isn't renewing, so it will be available next month.\nWoman: Oh, perfect. Could I take a look at it sometime soon?\nMan: The tenant is still living there, so I'll need to call her first to get permission to show the place. Let me do that right now."
         },
         {
           "id": 45,
           "group": "44-46",
           "passageTitle": "Part 3 - Câu 44-46",
-          "text": "What does the woman say recently happened?",
+          "text": "What does the woman want to do?",
           "options": [
             "(A) She earned a degree.",
             "(B) She won an award.",
-            "(C) She got a promotion.",
+            "(C) Move to a larger unit.",
             "(D) She transferred to a new location."
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'I did just get promoted at work recently' → vừa được thăng chức. → (C)",
-          "hint": "W giải thích tại sao có thể trả giá thuê cao hơn. Sự kiện gần đây là gì?",
+          "explanation": "Người phụ nữ bày tỏ mong muốn: 'I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.' (Tôi muốn hỏi xem trong tòa nhà có căn hộ nào lớn hơn còn trống để thuê không.) → Chuyển sang căn hộ lớn hơn = Move to a larger unit (trong đề là đáp án C). → (C)",
+          "hint": "Người phụ nữ hiện đang sống ở phòng 217 và hỏi: 'wondering if there are any larger units available to rent in the building'.",
           "startTime": 384,
           "endTime": 459,
-          "transcript": "M: Hello, what brings you into our leasing office today?\nW: Hi, I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.\nM: Let me see. Apartment 410 is quite large, and the lease on it ends this November. It's $1,000 per month. Does that interest you?\nW: I did just get promoted at work recently, so I can afford to spend more. So that won't be a problem.\nM: Great, I'll call the current tenant and we can figure out a time for a viewing."
+          "transcript": "Man: Hello. What brings you into our leasing office today?\nWoman: Hi, I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.\nMan: Let me see... Apartment 410 is quite large, and the lease on it ends this Friday. The current tenant isn't renewing, so it will be available next month.\nWoman: Oh, perfect. Could I take a look at it sometime soon?\nMan: The tenant is still living there, so I'll need to call her first to get permission to show the place. Let me do that right now."
         },
         {
           "id": 46,
@@ -777,17 +777,17 @@
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'I'll call the current tenant and we can figure out a time for a viewing' → gọi điện cho người thuê hiện tại. → (A)",
-          "hint": "Cuối hội thoại M nói gì về bước tiếp theo?",
+          "explanation": "Người đàn ông nói ở câu cuối: 'The tenant is still living there, so I'll need to call her first to get permission to show the place. Let me do that right now.' (Tôi cần gọi điện cho cô ấy trước để xin phép dẫn khách vào xem. Để tôi làm việc đó ngay bây giờ.) → Gọi điện thoại = Make a phone call. → (A)",
+          "hint": "Người đàn ông nói cần xin phép người thuê hiện tại trước: 'I'll need to call her first... Let me do that right now.'",
           "startTime": 384,
           "endTime": 459,
-          "transcript": "M: Hello, what brings you into our leasing office today?\nW: Hi, I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.\nM: Let me see. Apartment 410 is quite large, and the lease on it ends this November. It's $1,000 per month. Does that interest you?\nW: I did just get promoted at work recently, so I can afford to spend more. So that won't be a problem.\nM: Great, I'll call the current tenant and we can figure out a time for a viewing."
+          "transcript": "Man: Hello. What brings you into our leasing office today?\nWoman: Hi, I currently live in unit 217, but I'm wondering if there are any larger units available to rent in the building.\nMan: Let me see... Apartment 410 is quite large, and the lease on it ends this Friday. The current tenant isn't renewing, so it will be available next month.\nWoman: Oh, perfect. Could I take a look at it sometime soon?\nMan: The tenant is still living there, so I'll need to call her first to get permission to show the place. Let me do that right now."
         },
         {
           "id": 47,
           "group": "47-49",
           "passageTitle": "Part 3 - Câu 47-49",
-          "text": "According to the woman, what has recently happened at her business?",
+          "text": "What recent change has occurred at the woman's business?",
           "options": [
             "(A) Customers have complained.",
             "(B) Inspections have been conducted.",
@@ -796,17 +796,17 @@
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'recently my craft supply store has started receiving a lot of online orders' → đơn hàng online tăng. → (C)",
-          "hint": "W mô tả tình trạng kinh doanh gần đây. Từ khóa 'recently' + điều gì xảy ra?",
+          "explanation": "Người phụ nữ nói: 'recently my craft supply store has started receiving a lot of online orders.' (gần đây cửa hàng dụng cụ thủ công của tôi bắt đầu nhận được rất nhiều đơn đặt hàng trực tuyến.) → Đơn hàng trực tuyến tăng lên = Online orders have increased. → (C)",
+          "hint": "Người phụ nữ chia sẻ về cửa hàng đồ thủ công mỹ nghệ: 'recently my craft supply store has started receiving a lot of online orders.'",
           "startTime": 460,
           "endTime": 535,
-          "transcript": "M: Hello, Ms. Bajaj. I'm glad we have a chance to meet today to discuss your business. What's your company's main goal?\nW: Well, recently my craft supply store has started receiving a lot of online orders. It's important that I get feedback from those customers about the products that I'm selling.\nM: We can design an online survey for you. It's automatically emailed out to your customers a week after their order is delivered. We've had a lot of success getting people to respond to those.\nW: That's a great idea. Then perhaps I could offer a future discount to any customer who completes the survey."
+          "transcript": "Man: Hello, Ms. Bajaj. I'm glad we have a chance to meet today to discuss your business. What's your company's main goal?\nWoman: Well, recently my craft supply store has started receiving a lot of online orders. It's important that I get feedback from those customers so I can improve our shipping and packaging processes.\nMan: I'd suggest creating a short customer satisfaction survey that gets emailed right after a package is delivered.\nWoman: That's a great idea. Should we offer an incentive to encourage people to fill it out?\nMan: Yes, providing a 10% discount on their next purchase usually increases survey completion rates."
         },
         {
           "id": 48,
           "group": "47-49",
           "passageTitle": "Part 3 - Câu 47-49",
-          "text": "What can the man's company do?",
+          "text": "What does the man suggest doing?",
           "options": [
             "(A) Provide safety training",
             "(B) Post demonstration videos",
@@ -815,17 +815,17 @@
           ],
           "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'We can design an online survey for you' → tạo khảo sát khách hàng. → (D)",
-          "hint": "M đề xuất dịch vụ gì cho W? 'We can...' là từ khóa quan trọng.",
+          "explanation": "Người đàn ông gợi ý: 'I'd suggest creating a short customer satisfaction survey that gets emailed right after a package is delivered.' (Tôi đề xuất tạo một khảo sát ngắn về độ hài lòng của khách hàng được gửi qua email ngay sau khi gói hàng được giao.) → Tạo các khảo sát khách hàng = Create customer surveys. → (D)",
+          "hint": "Người đàn ông đề xuất giải pháp thu thập phản hồi: 'creating a short customer satisfaction survey that gets emailed...'.",
           "startTime": 460,
           "endTime": 535,
-          "transcript": "M: Hello, Ms. Bajaj. I'm glad we have a chance to meet today to discuss your business. What's your company's main goal?\nW: Well, recently my craft supply store has started receiving a lot of online orders. It's important that I get feedback from those customers about the products that I'm selling.\nM: We can design an online survey for you. It's automatically emailed out to your customers a week after their order is delivered. We've had a lot of success getting people to respond to those.\nW: That's a great idea. Then perhaps I could offer a future discount to any customer who completes the survey."
+          "transcript": "Man: Hello, Ms. Bajaj. I'm glad we have a chance to meet today to discuss your business. What's your company's main goal?\nWoman: Well, recently my craft supply store has started receiving a lot of online orders. It's important that I get feedback from those customers so I can improve our shipping and packaging processes.\nMan: I'd suggest creating a short customer satisfaction survey that gets emailed right after a package is delivered.\nWoman: That's a great idea. Should we offer an incentive to encourage people to fill it out?\nMan: Yes, providing a 10% discount on their next purchase usually increases survey completion rates."
         },
         {
           "id": 49,
           "group": "47-49",
           "passageTitle": "Part 3 - Câu 47-49",
-          "text": "What does the woman say she could offer her customers?",
+          "text": "What incentive does the man recommend?",
           "options": [
             "(A) A discount",
             "(B) Expedited shipping",
@@ -834,17 +834,17 @@
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'I could offer a future discount to any customer who completes the survey' → giảm giá cho khách hàng. → (A)",
-          "hint": "W nói sẽ cung cấp gì cho khách hàng hoàn thành khảo sát?",
+          "explanation": "Người đàn ông khuyến nghị: 'Yes, providing a 10% discount on their next purchase usually increases survey completion rates.' (Cung cấp mức giảm giá 10% cho lần mua hàng tiếp theo thường làm tăng tỷ lệ hoàn thành khảo sát.) → Mức giảm giá = A discount. → (A)",
+          "hint": "Người đàn ông đề xuất phần thưởng khích lệ điền khảo sát: 'providing a 10% discount on their next purchase'.",
           "startTime": 460,
           "endTime": 535,
-          "transcript": "M: Hello, Ms. Bajaj. I'm glad we have a chance to meet today to discuss your business. What's your company's main goal?\nW: Well, recently my craft supply store has started receiving a lot of online orders. It's important that I get feedback from those customers about the products that I'm selling.\nM: We can design an online survey for you. It's automatically emailed out to your customers a week after their order is delivered. We've had a lot of success getting people to respond to those.\nW: That's a great idea. Then perhaps I could offer a future discount to any customer who completes the survey."
+          "transcript": "Man: Hello, Ms. Bajaj. I'm glad we have a chance to meet today to discuss your business. What's your company's main goal?\nWoman: Well, recently my craft supply store has started receiving a lot of online orders. It's important that I get feedback from those customers so I can improve our shipping and packaging processes.\nMan: I'd suggest creating a short customer satisfaction survey that gets emailed right after a package is delivered.\nWoman: That's a great idea. Should we offer an incentive to encourage people to fill it out?\nMan: Yes, providing a 10% discount on their next purchase usually increases survey completion rates."
         },
         {
           "id": 50,
           "group": "50-52",
           "passageTitle": "Part 3 - Câu 50-52",
-          "text": "Where most likely are the speakers?",
+          "text": "Where do the speakers work?",
           "options": [
             "(A) At a farm",
             "(B) At a landscaping company",
@@ -853,17 +853,17 @@
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "W1 gọi 'hotel's event manager', M đến 'reception', W2 chuẩn bị 'ballroom' → đây là khách sạn. → (C)",
-          "hint": "Cuộc trò chuyện đề cập đến 'hotel's event manager', 'ballroom', 'reception' → địa điểm là gì?",
+          "explanation": "Người nhân viên nói: 'Let me get the hotel's event manager here. She's the one that ordered.' và người quản lý sự kiện khách sạn (Yulia) ra nhận hàng → Địa điểm là tại một khách sạn = At a hotel. → (C)",
+          "hint": "Người giao hoa đến lễ tân và nhân viên nói: 'Let me get the hotel's event manager here.'",
           "startTime": 536,
           "endTime": 611,
-          "transcript": "M: Hello, I'm from District Flower Store, and I have your centerpiece order.\nW1: Let me get the hotel's event manager here, she's the one that ordered. Yulia, you have a delivery from District Flower Store at reception.\nW2: Hi, I'm glad you're early. The wedding's this evening, but we're already setting up the ballroom. I'll need you to acknowledge receipt. Could you sign here? And then, where should I unload your calla lily centerpieces?\nM: Calla lilies? I ordered lilacs for the wedding centerpieces.\nW2: Oh, I wouldn't know. I just deliver.\nM: Well, let me call your boss. We need to sort this out right away."
+          "transcript": "Man 1 (Delivery Person): Hello, I'm from District Flower Store, and I have your centerpiece order.\nMan 2 (Staff): Let me get the hotel's event manager here. She's the one that ordered. Yulia, you have a delivery from District Flower Store at reception.\nWoman (Yulia): Thanks, Marcus. I'll take them to the Grand Ballroom right away so we can set up for the wedding this evening.\nMan 1 (Delivery Person): Before you take them, I need a supervisor's signature on this delivery slip. Can you sign it for me?\nWoman (Yulia): Actually, my supervisor stepped out for a moment. But I'll call her right now and have her come down to sign it."
         },
         {
           "id": 51,
           "group": "50-52",
           "passageTitle": "Part 3 - Câu 50-52",
-          "text": "What type of event is going to take place?",
+          "text": "What type of event are the flowers for?",
           "options": [
             "(A) A wedding",
             "(B) A flower exposition",
@@ -872,144 +872,144 @@
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "W2 nói 'The wedding's this evening, but we're already setting up the ballroom' → sự kiện là đám cưới. → (A)",
-          "hint": "Sự kiện gì đang được chuẩn bị tối nay?",
+          "explanation": "Người phụ nữ (Yulia) nói: 'I'll take them to the Grand Ballroom right away so we can set up for the wedding this evening.' (Tôi sẽ mang chúng đến phòng Đại tiệc ngay để chúng tôi có thể sắp xếp cho đám cưới tối nay.) → Tiệc cưới = A wedding. → (A)",
+          "hint": "Người quản lý sự kiện nói mang hoa đến phòng Grand Ballroom để chuẩn bị cho sự kiện gì tối nay ('set up for the wedding this evening')?",
           "startTime": 536,
           "endTime": 611,
-          "transcript": "M: Hello, I'm from District Flower Store, and I have your centerpiece order.\nW1: Let me get the hotel's event manager here, she's the one that ordered. Yulia, you have a delivery from District Flower Store at reception.\nW2: Hi, I'm glad you're early. The wedding's this evening, but we're already setting up the ballroom. I'll need you to acknowledge receipt. Could you sign here? And then, where should I unload your calla lily centerpieces?\nM: Calla lilies? I ordered lilacs for the wedding centerpieces.\nW2: Oh, I wouldn't know. I just deliver.\nM: Well, let me call your boss. We need to sort this out right away."
+          "transcript": "Man 1 (Delivery Person): Hello, I'm from District Flower Store, and I have your centerpiece order.\nMan 2 (Staff): Let me get the hotel's event manager here. She's the one that ordered. Yulia, you have a delivery from District Flower Store at reception.\nWoman (Yulia): Thanks, Marcus. I'll take them to the Grand Ballroom right away so we can set up for the wedding this evening.\nMan 1 (Delivery Person): Before you take them, I need a supervisor's signature on this delivery slip. Can you sign it for me?\nWoman (Yulia): Actually, my supervisor stepped out for a moment. But I'll call her right now and have her come down to sign it."
         },
         {
           "id": 52,
           "group": "50-52",
           "passageTitle": "Part 3 - Câu 50-52",
-          "text": "What does the woman say she will do?",
+          "text": "What will the woman do next?",
           "options": [
-            "(A) Sign a receipt",
+            "(A) Sign an invoice",
             "(B) Adjust a schedule",
-            "(C) Add items to an order",
+            "(C) Add more decorations",
             "(D) Call a supervisor"
           ],
           "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'let me call your boss. We need to sort this out' → gọi cho cấp trên/supervisor. → (D)",
-          "hint": "Cuối đoạn hội thoại, M nói sẽ làm gì để giải quyết vấn đề hoa sai?",
+          "explanation": "Người phụ nữ nói ở câu cuối: 'Actually, my supervisor stepped out for a moment. But I'll call her right now and have her come down to sign it.' (Thực ra người giám sát của tôi vừa ra ngoài một lát. Nhưng tôi sẽ gọi cho cô ấy ngay bây giờ để cô ấy xuống ký.) → Gọi điện cho người giám sát = Call a supervisor. → (D)",
+          "hint": "Người phụ nữ nói sẽ làm gì khi người giao hàng cần chữ ký của giám sát: 'I'll call her right now and have her come down to sign it.'",
           "startTime": 536,
           "endTime": 611,
-          "transcript": "M: Hello, I'm from District Flower Store, and I have your centerpiece order.\nW1: Let me get the hotel's event manager here, she's the one that ordered. Yulia, you have a delivery from District Flower Store at reception.\nW2: Hi, I'm glad you're early. The wedding's this evening, but we're already setting up the ballroom. I'll need you to acknowledge receipt. Could you sign here? And then, where should I unload your calla lily centerpieces?\nM: Calla lilies? I ordered lilacs for the wedding centerpieces.\nW2: Oh, I wouldn't know. I just deliver.\nM: Well, let me call your boss. We need to sort this out right away."
+          "transcript": "Man 1 (Delivery Person): Hello, I'm from District Flower Store, and I have your centerpiece order.\nMan 2 (Staff): Let me get the hotel's event manager here. She's the one that ordered. Yulia, you have a delivery from District Flower Store at reception.\nWoman (Yulia): Thanks, Marcus. I'll take them to the Grand Ballroom right away so we can set up for the wedding this evening.\nMan 1 (Delivery Person): Before you take them, I need a supervisor's signature on this delivery slip. Can you sign it for me?\nWoman (Yulia): Actually, my supervisor stepped out for a moment. But I'll call her right now and have her come down to sign it."
         },
         {
           "id": 53,
           "group": "53-55",
           "passageTitle": "Part 3 - Câu 53-55",
-          "text": "What kind of business do the men most likely work for?",
+          "text": "What type of service is being discussed?",
           "options": [
-            "(A) A fencing company",
-            "(B) A landscaping service",
-            "(C) A roofing company",
-            "(D) An auto repair shop"
+            "(A) Fencing",
+            "(B) Landscaping",
+            "(C) Roofing",
+            "(D) Auto maintenance"
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "M1 đến kiểm tra 'roof', M2 nói về 'shingles' và 'structural damage' → đây là công ty lợp mái nhà. → (C)",
-          "hint": "M1 nói về công việc gì đang làm? Từ khóa: 'roof', 'inspection', 'shingles'.",
+          "explanation": "Người đàn ông nói: 'My engineer, Adisa, is still on your roof, but I just wanted to let you know we're almost done with the inspection.' và Adisa báo cáo về các tấm ngói lợp mái bị rơi ('missing shingles') → Dịch vụ lợp/sửa chữa mái nhà = Roofing. → (C)",
+          "hint": "Kỹ sư kiểm tra mái nhà ('on your roof', 'roof inspection', 'some missing shingles').",
           "startTime": 612,
           "endTime": 687,
-          "transcript": "M1: Excuse me, Ms. Campbell. My engineer, Adisa, is still on your roof. But I just wanted to let you know we're almost done with the inspection.\nW: How does everything look?\nM1: Oh, here's Adisa now. He can answer that.\nM2: I conducted a thorough inspection. There's no structural damage. All of the support beams are intact. But we'll have to replace some of the shingles that were blown away in the storm.\nW: Well, that's a relief. I was worried that I'd need major repairs.\nM1: I'm afraid you'll have to close your store while we replace the shingles. But we'll be able to finish in one day. Does Tuesday work for you?\nW: That's fine."
+          "transcript": "Man 1: Excuse me, Ms. Campbell. My engineer, Adisa, is still on your roof, but I just wanted to let you know we're almost done with the inspection.\nWoman: How does everything look?\nMan 1: Oh, here's Adisa now. He can answer that.\nMan 2 (Adisa): I conducted a full check. Overall, the structure is in good condition, but there is some minor damage near the chimney where a few shingles are missing.\nWoman: Oh, I see. What do you recommend doing?\nMan 2 (Adisa): We can replace those shingles easily. I can bring some material samples tomorrow so you can pick a color that matches the rest of your roof."
         },
         {
           "id": 54,
           "group": "53-55",
           "passageTitle": "Part 3 - Câu 53-55",
-          "text": "Why is the woman relieved?",
+          "text": "What does the engineer say about the roof?",
           "options": [
-            "(A) Some damage is minor.",
-            "(B) A delivery arrived early.",
-            "(C) Customer reviews are positive.",
-            "(D) The weather forecast is good."
+            "(A) The damage is minor.",
+            "(B) It needs to be replaced entirely.",
+            "(C) It was damaged by water.",
+            "(D) A previous repair was done incorrectly."
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "M2 nói 'There's no structural damage' → W nhẹ nhõm vì thiệt hại nhỏ, chỉ cần thay ngói. → (A)",
-          "hint": "W nói 'that's a relief' sau khi nghe tin gì từ M2?",
+          "explanation": "Kỹ sư Adisa thông báo: 'Overall, the structure is in good condition, but there is some minor damage near the chimney where a few shingles are missing.' (Tổng thể cấu trúc còn tốt, nhưng có một số hư hại nhỏ gần ống khói...) → Thiệt hại/hư hại là nhỏ = The damage is minor. → (A)",
+          "hint": "Kỹ sư Adisa nhận xét: 'Overall, the structure is in good condition, but there is some minor damage near the chimney...'.",
           "startTime": 612,
           "endTime": 687,
-          "transcript": "M1: Excuse me, Ms. Campbell. My engineer, Adisa, is still on your roof. But I just wanted to let you know we're almost done with the inspection.\nW: How does everything look?\nM1: Oh, here's Adisa now. He can answer that.\nM2: I conducted a thorough inspection. There's no structural damage. All of the support beams are intact. But we'll have to replace some of the shingles that were blown away in the storm.\nW: Well, that's a relief. I was worried that I'd need major repairs.\nM1: I'm afraid you'll have to close your store while we replace the shingles. But we'll be able to finish in one day. Does Tuesday work for you?\nW: That's fine."
+          "transcript": "Man 1: Excuse me, Ms. Campbell. My engineer, Adisa, is still on your roof, but I just wanted to let you know we're almost done with the inspection.\nWoman: How does everything look?\nMan 1: Oh, here's Adisa now. He can answer that.\nMan 2 (Adisa): I conducted a full check. Overall, the structure is in good condition, but there is some minor damage near the chimney where a few shingles are missing.\nWoman: Oh, I see. What do you recommend doing?\nMan 2 (Adisa): We can replace those shingles easily. I can bring some material samples tomorrow so you can pick a color that matches the rest of your roof."
         },
         {
           "id": 55,
           "group": "53-55",
           "passageTitle": "Part 3 - Câu 53-55",
-          "text": "What will the woman do on Tuesday?",
+          "text": "What will happen tomorrow?",
           "options": [
-            "(A) Wash her car",
-            "(B) Close her store",
-            "(C) Take some measurements",
-            "(D) Look at some material samples"
+            "(A) The roof will be power-washed.",
+            "(B) The engineer will bring some samples.",
+            "(C) A supervisor will inspect the work.",
+            "(D) Work will begin on the chimney."
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M1 nói 'you'll have to close your store while we replace the shingles...Does Tuesday work?' → W đóng cửa hàng ngày thứ Ba. → (B)",
-          "hint": "M1 nói W phải làm gì trong khi sửa ngói? Ngày thứ Ba là ngày gì?",
+          "explanation": "Kỹ sư Adisa nói ở câu cuối: 'I can bring some material samples tomorrow so you can pick a color that matches the rest of your roof.' (Tôi có thể mang một số mẫu vật liệu đến vào ngày mai để cô chọn màu phù hợp...) → Kỹ sư sẽ mang một số mẫu thử đến = The engineer will bring some samples. → (B)",
+          "hint": "Kỹ sư nói sẽ làm gì vào ngày mai ('tomorrow'): 'I can bring some material samples tomorrow so you can pick a color...'.",
           "startTime": 612,
           "endTime": 687,
-          "transcript": "M1: Excuse me, Ms. Campbell. My engineer, Adisa, is still on your roof. But I just wanted to let you know we're almost done with the inspection.\nW: How does everything look?\nM1: Oh, here's Adisa now. He can answer that.\nM2: I conducted a thorough inspection. There's no structural damage. All of the support beams are intact. But we'll have to replace some of the shingles that were blown away in the storm.\nW: Well, that's a relief. I was worried that I'd need major repairs.\nM1: I'm afraid you'll have to close your store while we replace the shingles. But we'll be able to finish in one day. Does Tuesday work for you?\nW: That's fine."
+          "transcript": "Man 1: Excuse me, Ms. Campbell. My engineer, Adisa, is still on your roof, but I just wanted to let you know we're almost done with the inspection.\nWoman: How does everything look?\nMan 1: Oh, here's Adisa now. He can answer that.\nMan 2 (Adisa): I conducted a full check. Overall, the structure is in good condition, but there is some minor damage near the chimney where a few shingles are missing.\nWoman: Oh, I see. What do you recommend doing?\nMan 2 (Adisa): We can replace those shingles easily. I can bring some material samples tomorrow so you can pick a color that matches the rest of your roof."
         },
         {
           "id": 56,
           "group": "56-58",
           "passageTitle": "Part 3 - Câu 56-58",
-          "text": "Why does the man apologize?",
+          "text": "What is the man apologizing for?",
           "options": [
-            "(A) He missed a meeting.",
-            "(B) He has a poor Internet connection.",
-            "(C) He failed to complete an assignment.",
-            "(D) He lost his employee badge."
+            "(A) Missing a meeting",
+            "(B) Arriving without an ID badge",
+            "(C) Forgetting to bring some notes",
+            "(D) Submitting a report late"
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'I'm sorry about missing the morning meeting' → xin lỗi vì bỏ lỡ cuộc họp buổi sáng. → (A)",
-          "hint": "Câu đầu tiên của M là gì? M xin lỗi vì điều gì?",
+          "explanation": "Người đàn ông nói câu đầu tiên: 'I'm sorry about missing the morning meeting. My commute was horrendous.' (Tôi xin lỗi vì đã bỏ lỡ cuộc họp buổi sáng. Đường đi làm của tôi kinh khủng quá.) → Bỏ lỡ cuộc họp = Missing a meeting. → (A)",
+          "hint": "Người đàn ông mở đầu xin lỗi: 'I'm sorry about missing the morning meeting.'",
           "startTime": 688,
           "endTime": 763,
-          "transcript": "M: Hi Irina. I'm sorry about missing the morning meeting. My commute was horrendous.\nW: No worries. The meeting notes will be sent out. What happened?\nM: The metro system's renovating some station platforms, and it added an extra half hour to my commute. Trains in both directions are only using one track, and the train's my only option.\nW: Well, there is a rapid transit bus service.\nM: I wasn't aware of that. I'm still new to this city. How do I get more information?\nW: I'll send you links to their website and system map."
+          "transcript": "Man: Hi, Irena. I'm sorry about missing the morning meeting. My commute was horrendous.\nWoman: No worries. The meeting notes will be sent out. What happened?\nMan: The metro system's renovating some station platforms, and it added an extra half hour to my commute.\nWoman: Oh, yeah. They posted an alert about that on their transit app last night. You should check it before you head out.\nMan: That's good to know. I'll download that app onto my phone right away."
         },
         {
           "id": 57,
           "group": "56-58",
           "passageTitle": "Part 3 - Câu 56-58",
-          "text": "Why does the woman say, \"Well, there is a rapid-transit bus service\"?",
+          "text": "Why was the man delayed?",
           "options": [
-            "(A) To praise improvements to a system",
-            "(B) To correct a mistaken assumption",
-            "(C) To express dissatisfaction",
-            "(D) To justify a decision"
+            "(A) His car broke down.",
+            "(B) Construction was taking place on the metro.",
+            "(C) An accident blocked a bridge.",
+            "(D) A bus driver went the wrong route."
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M nghĩ tàu là 'only option' → W sửa lại bằng cách nêu có xe bus nhanh → điều chỉnh nhận định sai của M. → (B)",
-          "hint": "M nói 'the train's my only option' → W phản ứng thế nào? Câu của W nhằm mục đích gì?",
+          "explanation": "Người đàn ông giải thích: 'The metro system's renovating some station platforms, and it added an extra half hour to my commute.' (Hệ thống tàu điện ngầm đang cải tạo một số sân ga, và điều đó làm tăng thêm nửa tiếng đi làm của tôi.) → Công trình thi công trên tàu điện ngầm = Construction was taking place on the metro (renovating = construction). → (B)",
+          "hint": "Lắng nghe lý do người đàn ông bị chậm trễ: 'The metro system's renovating some station platforms...'.",
           "startTime": 688,
           "endTime": 763,
-          "transcript": "M: Hi Irina. I'm sorry about missing the morning meeting. My commute was horrendous.\nW: No worries. The meeting notes will be sent out. What happened?\nM: The metro system's renovating some station platforms, and it added an extra half hour to my commute. Trains in both directions are only using one track, and the train's my only option.\nW: Well, there is a rapid transit bus service.\nM: I wasn't aware of that. I'm still new to this city. How do I get more information?\nW: I'll send you links to their website and system map."
+          "transcript": "Man: Hi, Irena. I'm sorry about missing the morning meeting. My commute was horrendous.\nWoman: No worries. The meeting notes will be sent out. What happened?\nMan: The metro system's renovating some station platforms, and it added an extra half hour to my commute.\nWoman: Oh, yeah. They posted an alert about that on their transit app last night. You should check it before you head out.\nMan: That's good to know. I'll download that app onto my phone right away."
         },
         {
           "id": 58,
           "group": "56-58",
           "passageTitle": "Part 3 - Câu 56-58",
-          "text": "What will the woman do next?",
+          "text": "What will the man do next?",
           "options": [
-            "(A) Download a ticket",
-            "(B) Pick up some clients",
-            "(C) Activate a key card",
-            "(D) Forward some Web-site links"
+            "(A) Read some meeting notes",
+            "(B) Speak to a supervisor",
+            "(C) Buy a train ticket",
+            "(D) Download an application"
           ],
           "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'I'll send you links to their website and system map' → gửi đường link website. → (D)",
-          "hint": "W nói sẽ gửi gì cho M về thông tin xe bus?",
+          "explanation": "Người đàn ông quyết định ở câu cuối: 'That's good to know. I'll download that app onto my phone right away.' (Tôi sẽ tải ứng dụng đó về điện thoại của mình ngay lập tức.) → Tải một ứng dụng = Download an application. → (D)",
+          "hint": "Người đàn ông kết thúc bằng hành động: 'I'll download that app onto my phone right away.'",
           "startTime": 688,
           "endTime": 763,
-          "transcript": "M: Hi Irina. I'm sorry about missing the morning meeting. My commute was horrendous.\nW: No worries. The meeting notes will be sent out. What happened?\nM: The metro system's renovating some station platforms, and it added an extra half hour to my commute. Trains in both directions are only using one track, and the train's my only option.\nW: Well, there is a rapid transit bus service.\nM: I wasn't aware of that. I'm still new to this city. How do I get more information?\nW: I'll send you links to their website and system map."
+          "transcript": "Man: Hi, Irena. I'm sorry about missing the morning meeting. My commute was horrendous.\nWoman: No worries. The meeting notes will be sent out. What happened?\nMan: The metro system's renovating some station platforms, and it added an extra half hour to my commute.\nWoman: Oh, yeah. They posted an alert about that on their transit app last night. You should check it before you head out.\nMan: That's good to know. I'll download that app onto my phone right away."
         },
         {
           "id": 59,
@@ -1019,233 +1019,233 @@
           "options": [
             "(A) An architect",
             "(B) A clothing designer",
-            "(C) A construction manager",
-            "(D) A department store director"
+            "(C) A construction contractor",
+            "(D) A department store buyer"
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'I never expected so much attention for my clothing designs' → W là nhà thiết kế thời trang. → (B)",
-          "hint": "W đề cập đến 'my clothing designs' → W là ai?",
+          "explanation": "Người đàn ông nói: 'My consultancy firm has been working hard to help you grow your clothing company.' và người phụ nữ đáp: 'I never expected so much attention for my clothing designs' → Người phụ nữ là nhà thiết kế thời trang/quần áo = A clothing designer. → (B)",
+          "hint": "Người đàn ông nói đang giúp phát triển công ty quần áo ('help you grow your clothing company') và người phụ nữ nhắc đến 'my clothing designs'.",
           "startTime": 764,
           "endTime": 839,
-          "transcript": "M: Hello, Sylvia. Good to see you again. My consultancy firm has been working hard to help you grow your clothing company.\nW: Thanks. I never expected so much attention for my clothing designs, but I'm so pleased with the reactions.\nM: Okay. What do you think about approaching region's department stores?\nW: They usually market to a younger clientele.\nM: I see. Let me get you a list of other stores we also had in mind."
+          "transcript": "Man: Hello, Silvia. Good to see you again. My consultancy firm has been working hard to help you grow your clothing company.\nWoman: Thanks. I never expected so much attention for my clothing designs, but I'm so pleased with the reactions.\nMan: Okay. What do you want to focus on next? Expanding to retail stores or building your online presence?\nWoman: I'd like to get my clothes into some local boutiques first.\nMan: Good idea. I have a list of local boutique owners in our business directory. Let me email that list to you so you can contact them."
         },
         {
           "id": 60,
           "group": "59-61",
           "passageTitle": "Part 3 - Câu 59-61",
-          "text": "Why does the woman say, \"They usually market to a younger clientele\"?",
+          "text": "What does the woman want to do next?",
           "options": [
-            "(A) To reject a suggestion",
-            "(B) To justify a decision",
-            "(C) To express disappointment",
-            "(D) To ask for clarification"
+            "(A) Sell products in local shops",
+            "(B) Expand an online store",
+            "(C) Hire more employees",
+            "(D) Launch an advertising campaign"
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "M gợi ý tiếp cận department stores → W nói họ phục vụ khách trẻ hơn = từ chối gợi ý đó. → (A)",
-          "hint": "M đề xuất tiếp cận cửa hàng bách hóa → W phản ứng thế nào? Câu của W có ý nghĩa gì?",
+          "explanation": "Người phụ nữ cho biết mục tiêu tiếp theo: 'I'd like to get my clothes into some local boutiques first.' (Tôi muốn đưa quần áo của mình vào một số cửa hàng thời trang địa phương trước.) → Bán sản phẩm ở các cửa hàng địa phương = Sell products in local shops (boutiques = local shops). → (A)",
+          "hint": "Người phụ nữ chọn hướng đi tiếp theo: 'I'd like to get my clothes into some local boutiques first.'",
           "startTime": 764,
           "endTime": 839,
-          "transcript": "M: Hello, Sylvia. Good to see you again. My consultancy firm has been working hard to help you grow your clothing company.\nW: Thanks. I never expected so much attention for my clothing designs, but I'm so pleased with the reactions.\nM: Okay. What do you think about approaching region's department stores?\nW: They usually market to a younger clientele.\nM: I see. Let me get you a list of other stores we also had in mind."
+          "transcript": "Man: Hello, Silvia. Good to see you again. My consultancy firm has been working hard to help you grow your clothing company.\nWoman: Thanks. I never expected so much attention for my clothing designs, but I'm so pleased with the reactions.\nMan: Okay. What do you want to focus on next? Expanding to retail stores or building your online presence?\nWoman: I'd like to get my clothes into some local boutiques first.\nMan: Good idea. I have a list of local boutique owners in our business directory. Let me email that list to you so you can contact them."
         },
         {
           "id": 61,
           "group": "59-61",
           "passageTitle": "Part 3 - Câu 59-61",
-          "text": "What does the man say he will give the woman?",
+          "text": "What will the man send the woman?",
           "options": [
-            "(A) An area map",
+            "(A) A contract",
             "(B) A list of businesses",
             "(C) Some photographs",
-            "(D) Some measurements"
+            "(D) A market analysis"
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'Let me get you a list of other stores we also had in mind' → danh sách các cửa hàng khác. → (B)",
-          "hint": "M sẽ cung cấp gì sau khi W từ chối gợi ý về department stores?",
+          "explanation": "Người đàn ông nói ở câu cuối: 'I have a list of local boutique owners in our business directory. Let me email that list to you so you can contact them.' (Tôi có danh sách các chủ cửa hàng địa phương trong danh bạ doanh nghiệp. Để tôi gửi email danh sách đó cho cô.) → Danh sách các doanh nghiệp/cửa hàng = A list of businesses. → (B)",
+          "hint": "Người đàn ông nói sẽ gửi email danh sách gì: 'I have a list of local boutique owners in our business directory. Let me email that list to you...'.",
           "startTime": 764,
           "endTime": 839,
-          "transcript": "M: Hello, Sylvia. Good to see you again. My consultancy firm has been working hard to help you grow your clothing company.\nW: Thanks. I never expected so much attention for my clothing designs, but I'm so pleased with the reactions.\nM: Okay. What do you think about approaching region's department stores?\nW: They usually market to a younger clientele.\nM: I see. Let me get you a list of other stores we also had in mind."
+          "transcript": "Man: Hello, Silvia. Good to see you again. My consultancy firm has been working hard to help you grow your clothing company.\nWoman: Thanks. I never expected so much attention for my clothing designs, but I'm so pleased with the reactions.\nMan: Okay. What do you want to focus on next? Expanding to retail stores or building your online presence?\nWoman: I'd like to get my clothes into some local boutiques first.\nMan: Good idea. I have a list of local boutique owners in our business directory. Let me email that list to you so you can contact them."
         },
         {
           "id": 62,
           "group": "62-64",
           "passageTitle": "Part 3 - Câu 62-64",
-          "text": "Look at the graphic. Who is the woman?",
+          "text": "Look at the graphic. Who is the man?",
           "options": [
-            "(A) Liliana Flores",
+            "(A) Daniel Lee",
             "(B) Svetlana Popova",
-            "(C) Lauren Campbell",
-            "(D) So-Jin Park"
+            "(C) Ronald Sterling",
+            "(D) Maya Lin"
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M hỏi W về ánh sáng và xác nhận 'you're in charge of lighting' → W là giám đốc ánh sáng. Theo graphic, đó là Svetlana Popova. → (B)",
-          "hint": "M xác nhận W 'in charge of lighting' → nhìn vào danh sách nhân viên để tìm người phụ trách ánh sáng.",
+          "explanation": "Người phụ nữ nói: 'I wanted to ask you about it since you're in charge of lighting.' (Tôi muốn hỏi anh về việc này vì anh phụ trách ánh sáng.) Nhìn vào bảng đồ họa đoàn kịch: mảng 'Lighting' do Svetlana Popova phụ trách. → Người đàn ông là Svetlana Popova. → (B)",
+          "hint": "Người phụ nữ nói với người đàn ông (Luis): 'I wanted to ask you about it since you're in charge of lighting.' Tra bảng nhân sự xem ai phụ trách mảng Lighting (ánh sáng).",
           "startTime": 840,
           "endTime": 915,
-          "transcript": "M: Louise, I noticed something while I was directing yesterday's rehearsal. I had a problem while I was trying to give some directions to the actors during act three. I wanted to ask you about it since you're in charge of lighting.\nW: Sure, what is it?\nM: One of the footlights at the front of the stage was flickering, which was distracting. It made it hard to see the actors' faces and costumes. Can you do something to fix it?\nW: Actually, I've already ordered a replacement. It should be here tomorrow.\nM: Great, thanks. I can't believe opening night is next week. Everyone has put so much work into the show. It'll be great to have an audience.",
+          "transcript": "Woman: Luis, I noticed something while I was directing yesterday's rehearsal. I had a problem while I was trying to give some directions to the actors during Act 3. I wanted to ask you about it since you're in charge of lighting.\nMan (Luis): Sure, what is it?\nWoman: During the final scene of Act 3, when the actors are at the front of the stage, the spotlight is too dim. The audience won't be able to see their facial expressions clearly.\nMan (Luis): Oh, I see what you mean. We actually have an extra, brighter spotlight in storage. I'll swap it out before tonight's dress rehearsal.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-62-test-4.jpg"
         },
         {
           "id": 63,
           "group": "62-64",
           "passageTitle": "Part 3 - Câu 62-64",
-          "text": "What problem do the speakers discuss?",
+          "text": "What problem does the woman mention?",
           "options": [
-            "(A) Some equipment is not working.",
-            "(B) Some costumes are not ready.",
-            "(C) Some music is distracting.",
-            "(D) An actor is late."
+            "(A) Some equipment is too dim.",
+            "(B) An actor arrived late.",
+            "(C) A microphone is not working.",
+            "(D) A costume was torn."
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'One of the footlights at the front of the stage was flickering' → đèn trên sân khấu không hoạt động tốt = thiết bị hỏng. → (A)",
-          "hint": "M mô tả vấn đề gặp phải khi đạo diễn. 'footlight was flickering' là gì?",
+          "explanation": "Người phụ nữ giải thích vấn đề: 'During the final scene of Act 3, when the actors are at the front of the stage, the spotlight is too dim.' (Trong cảnh cuối Hồi 3, đèn chiếu điểm quá tối.) → Thiết bị chiếu sáng quá mờ/tối = Some equipment is too dim. → (A)",
+          "hint": "Người phụ nữ miêu tả vấn đề ở màn 3: 'the spotlight is too dim. The audience won't be able to see...'.",
           "startTime": 840,
           "endTime": 915,
-          "transcript": "M: Louise, I noticed something while I was directing yesterday's rehearsal. I had a problem while I was trying to give some directions to the actors during act three. I wanted to ask you about it since you're in charge of lighting.\nW: Sure, what is it?\nM: One of the footlights at the front of the stage was flickering, which was distracting. It made it hard to see the actors' faces and costumes. Can you do something to fix it?\nW: Actually, I've already ordered a replacement. It should be here tomorrow.\nM: Great, thanks. I can't believe opening night is next week. Everyone has put so much work into the show. It'll be great to have an audience.",
+          "transcript": "Woman: Luis, I noticed something while I was directing yesterday's rehearsal. I had a problem while I was trying to give some directions to the actors during Act 3. I wanted to ask you about it since you're in charge of lighting.\nMan (Luis): Sure, what is it?\nWoman: During the final scene of Act 3, when the actors are at the front of the stage, the spotlight is too dim. The audience won't be able to see their facial expressions clearly.\nMan (Luis): Oh, I see what you mean. We actually have an extra, brighter spotlight in storage. I'll swap it out before tonight's dress rehearsal.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-62-test-4.jpg"
         },
         {
           "id": 64,
           "group": "62-64",
           "passageTitle": "Part 3 - Câu 62-64",
-          "text": "What will happen next week?",
+          "text": "What will the man do before tonight's rehearsal?",
           "options": [
-            "(A) A playwright will attend a show.",
-            "(B) Publicity photo will be taken.",
-            "(C) A play will open.",
-            "(D) A dress rehearsal will be held."
+            "(A) Print new script pages",
+            "(B) Test some audio cables",
+            "(C) Replace a spotlight",
+            "(D) Adjust the stage curtains"
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'I can't believe opening night is next week' → buổi công diễn đầu tiên là tuần sau. → (C)",
-          "hint": "M đề cập đến sự kiện tuần sau là gì?",
+          "explanation": "Người đàn ông nói ở câu cuối: 'We actually have an extra, brighter spotlight in storage. I'll swap it out before tonight's dress rehearsal.' (Chúng tôi có một chiếc đèn chiếu sáng hơn trong kho. Tôi sẽ thay thế nó trước buổi tổng duyệt tối nay.) → Thay thế đèn chiếu điểm = Replace a spotlight (swap out = replace). → (C)",
+          "hint": "Người đàn ông nói sẽ làm gì trước buổi tổng duyệt tối nay: 'We actually have an extra, brighter spotlight in storage. I'll swap it out...' ('swap out' = thay thế).",
           "startTime": 840,
           "endTime": 915,
-          "transcript": "M: Louise, I noticed something while I was directing yesterday's rehearsal. I had a problem while I was trying to give some directions to the actors during act three. I wanted to ask you about it since you're in charge of lighting.\nW: Sure, what is it?\nM: One of the footlights at the front of the stage was flickering, which was distracting. It made it hard to see the actors' faces and costumes. Can you do something to fix it?\nW: Actually, I've already ordered a replacement. It should be here tomorrow.\nM: Great, thanks. I can't believe opening night is next week. Everyone has put so much work into the show. It'll be great to have an audience.",
+          "transcript": "Woman: Luis, I noticed something while I was directing yesterday's rehearsal. I had a problem while I was trying to give some directions to the actors during Act 3. I wanted to ask you about it since you're in charge of lighting.\nMan (Luis): Sure, what is it?\nWoman: During the final scene of Act 3, when the actors are at the front of the stage, the spotlight is too dim. The audience won't be able to see their facial expressions clearly.\nMan (Luis): Oh, I see what you mean. We actually have an extra, brighter spotlight in storage. I'll swap it out before tonight's dress rehearsal.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-62-test-4.jpg"
         },
         {
           "id": 65,
           "group": "65-67",
           "passageTitle": "Part 3 - Câu 65-67",
-          "text": "Why is the man surprised?",
+          "text": "Why was the retreat date changed?",
           "options": [
-            "(A) A new vacation policy was announced",
-            "(B) A group is larger than expected",
-            "(C) A price has increased",
-            "(D) A date has been changed"
+            "(A) To avoid bad weather",
+            "(B) To allow more employees to attend",
+            "(C) To lower transportation costs",
+            "(D) To book a specific venue"
           ],
           "answer": "D",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'I'm surprised that it's in June this year, instead of September' → ngày đã thay đổi từ tháng 9 sang tháng 6. → (D)",
-          "hint": "M nói 'I'm surprised that...' về điều gì? Thời gian retreat thay đổi thế nào?",
+          "explanation": "Người phụ nữ giải thích: 'we changed the date so we could try out this venue. I toured it last month and was really impressed.' (chúng tôi đổi ngày để có thể thử địa điểm này. Tôi đã tham quan tháng trước và rất ấn tượng.) → Để đặt một địa điểm cụ thể = To book a specific venue. → (D)",
+          "hint": "Người phụ nữ giải thích lý do đổi ngày sang tháng 6: 'we changed the date so we could try out this venue.'",
           "startTime": 916,
           "endTime": 991,
-          "transcript": "M: Hey Hiroko, I got the email invite to the company retreat. I'm surprised that it's in June this year, instead of September.\nW: Yeah, we changed the date so we could try out this venue. I toured it last month and was really impressed. The rooms especially are so comfortable. There weren't any openings in September, though. I'm sure it'll be worth the change.\nM: Your team and Human Resources plans great events. Here, I just pulled up their website. Take a look. Staff can choose one of these activities on the second day of the retreat. I've never been kayaking. This looks like a good chance to try it.",
+          "transcript": "Man: Hey, Hiroko. I got the email invite to the company retreat. I'm surprised that it's in June this year instead of September.\nWoman: Yeah, we changed the date so we could try out this venue. I toured it last month and was really impressed. The rooms especially are much more spacious.\nMan: That sounds great. Have the outdoor activities been scheduled yet?\nWoman: Yes. Take a look at this list. Which activity are you interested in leading?\nMan: Well, I love being out on the water, so I signed up to lead the boating group.\nWoman: Wonderful. I'll put your name next to that activity.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-67-test-4.jpg"
         },
         {
           "id": 66,
           "group": "65-67",
           "passageTitle": "Part 3 - Câu 65-67",
-          "text": "What does the woman like about a venue?",
+          "text": "What feature of the venue impressed the woman?",
           "options": [
-            "(A) The comfortable rooms",
-            "(B) The food selection",
-            "(C) The views",
-            "(D) The fitness center"
+            "(A) The size of the rooms",
+            "(B) The dining options",
+            "(C) The scenic views",
+            "(D) The fitness amenities"
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'I was really impressed. The rooms especially are so comfortable' → W thích những phòng tiện nghi. → (A)",
-          "hint": "W mô tả địa điểm mới và nhấn mạnh điều gì đặc biệt?",
+          "explanation": "Người phụ nữ nhận xét: 'The rooms especially are much more spacious.' (Đặc biệt các phòng rộng rãi hơn nhiều.) → Kích thước của các phòng = The size of the rooms (spacious = room size). → (A)",
+          "hint": "Người phụ nữ khen điểm gì của địa điểm mới: 'The rooms especially are much more spacious.' ('spacious' = rộng rãi).",
           "startTime": 916,
           "endTime": 991,
-          "transcript": "M: Hey Hiroko, I got the email invite to the company retreat. I'm surprised that it's in June this year, instead of September.\nW: Yeah, we changed the date so we could try out this venue. I toured it last month and was really impressed. The rooms especially are so comfortable. There weren't any openings in September, though. I'm sure it'll be worth the change.\nM: Your team and Human Resources plans great events. Here, I just pulled up their website. Take a look. Staff can choose one of these activities on the second day of the retreat. I've never been kayaking. This looks like a good chance to try it.",
+          "transcript": "Man: Hey, Hiroko. I got the email invite to the company retreat. I'm surprised that it's in June this year instead of September.\nWoman: Yeah, we changed the date so we could try out this venue. I toured it last month and was really impressed. The rooms especially are much more spacious.\nMan: That sounds great. Have the outdoor activities been scheduled yet?\nWoman: Yes. Take a look at this list. Which activity are you interested in leading?\nMan: Well, I love being out on the water, so I signed up to lead the boating group.\nWoman: Wonderful. I'll put your name next to that activity.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-67-test-4.jpg"
         },
         {
           "id": 67,
           "group": "65-67",
           "passageTitle": "Part 3 - Câu 65-67",
-          "text": "Look at the graphic. Who will lead the activity the man is interested in?",
+          "text": "Look at the graphic. Who is the man?",
           "options": [
             "(A) Ketan Bora",
             "(B) Beatriz Romero",
-            "(C) Amaud Fournier",
+            "(C) Arnaud Fournier",
             "(D) Brandon Murray"
           ],
           "answer": "A",
           "category": "Part 3 - Conversations",
-          "explanation": "M muốn thử kayaking → theo graphic, người hướng dẫn kayaking là Ketan Bora. → (A)",
-          "hint": "M quan tâm đến hoạt động chèo thuyền kayak. Nhìn vào bảng hoạt động để tìm người hướng dẫn.",
+          "explanation": "Người đàn ông nói: 'Well, I love being out on the water, so I signed up to lead the boating group.' Nhìn vào bảng hoạt động dã ngoại: hoạt động chèo thuyền (Kayaking) dưới nước do Ketan Bora phụ trách. → Người đàn ông là Ketan Bora. → (A)",
+          "hint": "Người đàn ông nói thích hoạt động dưới nước và đã đăng ký dẫn nhóm chèo thuyền ('boating group / out on the water'). Tra bảng xem ai phụ trách Kayaking.",
           "startTime": 916,
           "endTime": 991,
-          "transcript": "M: Hey Hiroko, I got the email invite to the company retreat. I'm surprised that it's in June this year, instead of September.\nW: Yeah, we changed the date so we could try out this venue. I toured it last month and was really impressed. The rooms especially are so comfortable. There weren't any openings in September, though. I'm sure it'll be worth the change.\nM: Your team and Human Resources plans great events. Here, I just pulled up their website. Take a look. Staff can choose one of these activities on the second day of the retreat. I've never been kayaking. This looks like a good chance to try it.",
+          "transcript": "Man: Hey, Hiroko. I got the email invite to the company retreat. I'm surprised that it's in June this year instead of September.\nWoman: Yeah, we changed the date so we could try out this venue. I toured it last month and was really impressed. The rooms especially are much more spacious.\nMan: That sounds great. Have the outdoor activities been scheduled yet?\nWoman: Yes. Take a look at this list. Which activity are you interested in leading?\nMan: Well, I love being out on the water, so I signed up to lead the boating group.\nWoman: Wonderful. I'll put your name next to that activity.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-67-test-4.jpg"
         },
         {
           "id": 68,
           "group": "68-70",
           "passageTitle": "Part 3 - Câu 68-70",
-          "text": "What is the conversation mostly about?",
+          "text": "What are the speakers discussing?",
           "options": [
-            "(A) Organizing an exhibit",
-            "(B) Arranging a public tour",
-            "(C) Filming a documentary",
-            "(D) Requesting financial support"
+            "(A) A museum exhibit",
+            "(B) A guided tour",
+            "(C) A television documentary",
+            "(D) A funding grant"
           ],
           "answer": "C",
           "category": "Part 3 - Conversations",
-          "explanation": "W nói 'our first day of filming for our TV documentary special' → chủ đề chính là quay phim tài liệu. → (C)",
-          "hint": "W đang làm gì tại công trường khai quật? Từ khóa: 'camera crew', 'filming', 'documentary'.",
+          "explanation": "Người phụ nữ (Ling) nói: 'Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage...' (Vì hôm nay là ngày quay đầu tiên cho chương trình tài liệu truyền hình đặc biệt...) → Bộ phim tài liệu truyền hình = A television documentary. → (C)",
+          "hint": "Người phụ nữ (Ling) thuộc đoàn quay phim đến để làm chương trình gì ('filming for our TV documentary special')?",
           "startTime": 992,
           "endTime": 1067,
-          "transcript": "M: Hi, you must be with the camera crew. I'm Hector, head archaeologist here at the Arno Castle dig site.\nW: Nice to meet you. I'm Ling. Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage of your team at work.\nM: Great. We're working in quadrant 2 today. We've been finding lots of pottery, so you may capture us unearthing more.\nW: I see. This excavation has been a lengthy process, right?\nM: It has. We'd actually hoped to be further along. But there have been lots of thunderstorms lately, which have slowed things down.",
+          "transcript": "Man (Hector): Hi, you must be with the camera crew. I'm Hector, head archaeologist here at the Arno Castle dig site.\nWoman (Ling): Nice to meet you. I'm Ling. Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage of the landscape and the main fortress. But on Friday we want to be right there as you dig in the kitchen.\nMan (Hector): That shouldn't be a problem, but check the weather forecast. If it rains on Friday, we won't be able to excavate that area because it has no overhead cover.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-69-test-4.jpg"
         },
         {
           "id": 69,
           "group": "68-70",
-          "passageTitle": "Part 3 - Câu 68-70",
-          "text": "Look at the graphic. Which part of the castle is being excavated today?",
+          "passageTitle": "Part 3 - Câu 69-70",
+          "text": "Look at the graphic. Which quadrant will the crew film on Friday?",
           "options": [
-            "(A) The garden",
-            "(B) The kitchen",
-            "(C) The tower",
-            "(D) The great hall"
+            "(A) Quadrant 1",
+            "(B) Quadrant 2",
+            "(C) Quadrant 3",
+            "(D) Quadrant 4"
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'We're working in quadrant 2 today' → theo graphic, quadrant 2 = the great hall. → (D)",
-          "hint": "M nói đang làm việc ở 'quadrant 2'. Nhìn vào bản đồ lâu đài để xem quadrant 2 tương ứng với khu vực nào.",
+          "explanation": "Người phụ nữ nói: 'on Friday we want to be right there as you dig in the kitchen.' Nhìn vào sơ đồ khai quật Lâu đài Arno: khu vực Kitchen (nhà bếp) nằm ở Quadrant 2. → Khu vực quay phim vào thứ Sáu là Quadrant 2. → (B)",
+          "hint": "Đoàn làm phim muốn ghi hình vào thứ Sáu khi các nhà khảo cổ đào ở khu vực bếp ('dig in the kitchen'). Tra bảng xem Kitchen thuộc Quadrant mấy.",
           "startTime": 992,
           "endTime": 1067,
-          "transcript": "M: Hi, you must be with the camera crew. I'm Hector, head archaeologist here at the Arno Castle dig site.\nW: Nice to meet you. I'm Ling. Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage of your team at work.\nM: Great. We're working in quadrant 2 today. We've been finding lots of pottery, so you may capture us unearthing more.\nW: I see. This excavation has been a lengthy process, right?\nM: It has. We'd actually hoped to be further along. But there have been lots of thunderstorms lately, which have slowed things down.",
+          "transcript": "Man (Hector): Hi, you must be with the camera crew. I'm Hector, head archaeologist here at the Arno Castle dig site.\nWoman (Ling): Nice to meet you. I'm Ling. Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage of the landscape and the main fortress. But on Friday we want to be right there as you dig in the kitchen.\nMan (Hector): That shouldn't be a problem, but check the weather forecast. If it rains on Friday, we won't be able to excavate that area because it has no overhead cover.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-69-test-4.jpg"
         },
         {
           "id": 70,
           "group": "68-70",
           "passageTitle": "Part 3 - Câu 68-70",
-          "text": "According to the man, why has some work been delayed?",
+          "text": "What potential issue does the man mention?",
           "options": [
-            "(A) An archaeological team is very small.",
-            "(B) Weather conditions have been poor.",
-            "(C) A source of funding was unavailable.",
-            "(D) New volunteers required special training."
+            "(A) A shortage of excavation tools",
+            "(B) Bad weather could delay the work",
+            "(C) A lack of project funding",
+            "(D) The camera equipment needs a permit"
           ],
           "answer": "B",
           "category": "Part 3 - Conversations",
-          "explanation": "M nói 'there have been lots of thunderstorms lately, which have slowed things down' → thời tiết xấu làm chậm tiến độ. → (B)",
-          "hint": "M giải thích lý do công việc chậm tiến độ. Từ khóa gì liên quan đến thời tiết?",
+          "explanation": "Người đàn ông cảnh báo: 'That shouldn't be a problem, but check the weather forecast. If it rains on Friday, we won't be able to excavate that area because it has no overhead cover.' (Nếu trời mưa vào thứ Sáu, chúng tôi sẽ không thể khai quật khu vực đó vì không có mái che.) → Thời tiết xấu có thể làm trì hoãn công việc = Bad weather could delay the work. → (B)",
+          "hint": "Người đàn ông nhắc nhở kiểm tra dự báo thời tiết: 'If it rains on Friday, we won't be able to excavate...'.",
           "startTime": 992,
           "endTime": 1067,
-          "transcript": "M: Hi, you must be with the camera crew. I'm Hector, head archaeologist here at the Arno Castle dig site.\nW: Nice to meet you. I'm Ling. Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage of your team at work.\nM: Great. We're working in quadrant 2 today. We've been finding lots of pottery, so you may capture us unearthing more.\nW: I see. This excavation has been a lengthy process, right?\nM: It has. We'd actually hoped to be further along. But there have been lots of thunderstorms lately, which have slowed things down.",
+          "transcript": "Man (Hector): Hi, you must be with the camera crew. I'm Hector, head archaeologist here at the Arno Castle dig site.\nWoman (Ling): Nice to meet you. I'm Ling. Since it's our first day of filming for our TV documentary special, we're mainly going to capture general footage of the landscape and the main fortress. But on Friday we want to be right there as you dig in the kitchen.\nMan (Hector): That shouldn't be a problem, but check the weather forecast. If it rains on Friday, we won't be able to excavate that area because it has no overhead cover.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-69-test-4.jpg"
         }
       ]
@@ -1260,349 +1260,349 @@
           "id": 71,
           "group": "71-73",
           "passageTitle": "Part 4 - Câu 71-73",
-          "text": "What kind of company does the speaker work for?",
+          "text": "What kind of business recorded the message?",
           "options": [
-            "(A) A telecommunications company",
-            "(B) A power utility company",
-            "(C) An internet provider",
-            "(D) A water treatment company"
+            "(A) A city planning office",
+            "(B) A cybersecurity firm",
+            "(C) A utility company",
+            "(D) An electronics repair shop"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "'Imperial Electric and Gas, the number one power company' → công ty điện và gas. → (B)",
-          "hint": "Người nói đại diện cho công ty nào? Tên công ty là gì?",
+          "explanation": "Tin nhắn tự động mở đầu: 'Hello, you've reached Imperial Electric and Gas, the number-one power company in the northeast region.' (Xin chào, bạn đã gọi đến Điện và Khí đốt Imperial, công ty năng lượng số một...) → Công ty dịch vụ tiện ích (điện/ga) = A utility company. → (C)",
+          "hint": "Lời nhắn tự giới thiệu là công ty điện và khí đốt: 'Imperial Electric and Gas, the number-one power company...'.",
           "startTime": 50,
           "endTime": 120,
-          "transcript": "This is a notification from your local power and utility company. We want to inform you that the recent power outages in your area have been resolved, and your services will be fully restored by this evening. If you need to request any further maintenance, please go to our website and submit a work order form."
+          "transcript": "Speaker: Hello, you've reached Imperial Electric and Gas, the number-one power company in the northeast region. Please hold for the next available representative. If you're calling about reported electrical outages in Cedar Springs, rest assured that technicians are already on-site working to restore power by 6:00 P.M. If you are calling to report a gas leak, please hang up immediately and dial our emergency hotline at 555-0199. For all other billing and account inquiries, please have your ten-digit account number ready. You can also view and pay your bill online at our website."
         },
         {
           "id": 72,
           "group": "71-73",
           "passageTitle": "Part 4 - Câu 71-73",
-          "text": "What does the speaker say will happen this afternoon?",
+          "text": "What will happen by 6:00 P.M.?",
           "options": [
-            "(A) A problem will be resolved.",
-            "(B) A shipment will be delivered.",
-            "(C) Some software will be updated.",
-            "(D) Some refreshments will be offered."
+            "(A) Power will be restored.",
+            "(B) A shipment will arrive.",
+            "(C) A software update will finish.",
+            "(D) A customer service center will close."
           ],
           "answer": "A",
           "category": "Part 4 - Talks",
-          "explanation": "'services will be fully restored this afternoon' → vấn đề sẽ được giải quyết = (A) A problem will be resolved. → (A)",
-          "hint": "Người nói thông báo điều gì sẽ xảy ra chiều nay về vấn đề mất điện?",
+          "explanation": "Bản tin ghi âm cho biết: 'technicians are already on-site working to restore power by 6:00 P.M.' (các kỹ thuật viên đã có mặt tại hiện trường để khôi phục điện trước 6 giờ tối.) → Điện sẽ được khôi phục = Power will be restored. → (A)",
+          "hint": "Người nói thông báo về các kỹ thuật viên đang xử lý sự cố mất điện: 'technicians are already on-site working to restore power by 6:00 P.M.'",
           "startTime": 50,
           "endTime": 120,
-          "transcript": "This is a notification from your local power and utility company. We want to inform you that the recent power outages in your area have been resolved, and your services will be fully restored by this evening. If you need to request any further maintenance, please go to our website and submit a work order form."
+          "transcript": "Speaker: Hello, you've reached Imperial Electric and Gas, the number-one power company in the northeast region. Please hold for the next available representative. If you're calling about reported electrical outages in Cedar Springs, rest assured that technicians are already on-site working to restore power by 6:00 P.M. If you are calling to report a gas leak, please hang up immediately and dial our emergency hotline at 555-0199. For all other billing and account inquiries, please have your ten-digit account number ready. You can also view and pay your bill online at our website."
         },
         {
           "id": 73,
           "group": "71-73",
           "passageTitle": "Part 4 - Câu 71-73",
-          "text": "What does the speaker say is available on a Web site?",
+          "text": "What should callers reporting a gas leak do?",
           "options": [
-            "(A) Customer reviews",
-            "(B) Work order forms",
-            "(C) Business hours",
-            "(D) Product manuals"
+            "(A) Submit a form online",
+            "(B) Call a different number",
+            "(C) Stay on the line",
+            "(D) Visit an office in person"
           ],
           "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "'please visit our website to fill out a form to have a work order completed' → mẫu đặt lịch làm việc. → (B)",
-          "hint": "Người nói đề cập đến website để làm gì? Từ khóa 'form', 'work order'.",
+          "explanation": "Người nói hướng dẫn: 'If you are calling to report a gas leak, please hang up immediately and dial our emergency hotline at 555-0199.' (Nếu bạn gọi để báo rò rỉ gas, vui lòng cúp máy ngay và gọi đường dây nóng khẩn cấp theo số 555-0199.) → Gọi một số điện thoại khác = Call a different number. → (B)",
+          "hint": "Lắng nghe hướng dẫn khi phát hiện rò rỉ khí gas: 'hang up immediately and dial our emergency hotline at 555-0199'.",
           "startTime": 50,
           "endTime": 120,
-          "transcript": "This is a notification from your local power and utility company. We want to inform you that the recent power outages in your area have been resolved, and your services will be fully restored by this evening. If you need to request any further maintenance, please go to our website and submit a work order form."
+          "transcript": "Speaker: Hello, you've reached Imperial Electric and Gas, the number-one power company in the northeast region. Please hold for the next available representative. If you're calling about reported electrical outages in Cedar Springs, rest assured that technicians are already on-site working to restore power by 6:00 P.M. If you are calling to report a gas leak, please hang up immediately and dial our emergency hotline at 555-0199. For all other billing and account inquiries, please have your ten-digit account number ready. You can also view and pay your bill online at our website."
         },
         {
           "id": 74,
           "group": "74-76",
           "passageTitle": "Part 4 - Câu 74-76",
-          "text": "According to the speaker, why is a change being made?",
+          "text": "Why is the company installing new software?",
           "options": [
-            "(A) To keep track of expenses",
-            "(B) To help a business expand",
-            "(C) To improve security",
-            "(D) To attract job applicants"
+            "(A) To track employee hours",
+            "(B) To expand online sales",
+            "(C) To improve data security",
+            "(D) To speed up internet browsing"
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "'installing new security software...an extra layer of protection on our customers' personal data' → cải thiện bảo mật. → (C)",
-          "hint": "Lý do cài đặt phần mềm bảo mật mới là gì? Từ khóa 'protection', 'security'.",
+          "explanation": "Người nói nêu lý do: 'We'll be installing new security software on our internal servers... We need to have an extra layer of protection on our customers' personal data.' (Chúng ta sẽ cài phần mềm bảo mật mới... Chúng ta cần thêm một lớp bảo vệ dữ liệu cá nhân của khách hàng.) → Cải thiện bảo mật dữ liệu = To improve data security. → (C)",
+          "hint": "Người nói giải thích mục đích cài đặt phần mềm mới: 'installing new security software... need to have an extra layer of protection on our customers' personal data.'",
           "startTime": 121,
           "endTime": 191,
-          "transcript": "Attention all employees. To protect our customers' personal data from security risks, we are going to update our internal network tonight. Because of this, it is very important that everyone remembers to shut down their computers before leaving the office today. If you experience any login issues tomorrow morning, please reach out to the Technical Support department."
+          "transcript": "Speaker: This weekend, we'll be installing new security software on our internal servers. This is a little more involved than a routine update. We need to have an extra layer of protection on our customers' personal data. So, we're all being asked to help prepare for the transition. Before you leave the office on Friday, please make sure you save all your current files and shut down your desktop computers completely. If you leave them in sleep mode, the system installation might fail. If you run into any issues on Monday morning, contact the IT help desk at extension 404."
         },
         {
           "id": 75,
           "group": "74-76",
           "passageTitle": "Part 4 - Câu 74-76",
-          "text": "What are the listeners asked to do?",
+          "text": "What are employees asked to do on Friday?",
           "options": [
             "(A) Shut down their computers",
-            "(B) Reduce their expenses",
-            "(C) Consult with their department managers",
-            "(D) Create an equipment inventory"
+            "(B) Submit expense reports",
+            "(C) Meet with department managers",
+            "(D) Back up customer contact lists"
           ],
           "answer": "A",
           "category": "Part 4 - Talks",
-          "explanation": "'Before we leave the office on Friday, we'll need to shut down our computers to enable the patch' → tắt máy tính. → (A)",
-          "hint": "Nhân viên được yêu cầu làm gì trước khi rời văn phòng thứ Sáu?",
+          "explanation": "Người nói yêu cầu: 'Before you leave the office on Friday, please make sure you save all your current files and shut down your desktop computers completely.' (Trước khi rời văn phòng vào thứ Sáu, hãy lưu lại file và tắt hẳn máy tính bàn.) → Tắt máy tính hoàn toàn = Shut down their computers. → (A)",
+          "hint": "Trước khi rời văn phòng vào thứ Sáu, nhân viên được yêu cầu làm gì: 'please make sure you save all your current files and shut down your desktop computers completely.'",
           "startTime": 121,
           "endTime": 191,
-          "transcript": "Attention all employees. To protect our customers' personal data from security risks, we are going to update our internal network tonight. Because of this, it is very important that everyone remembers to shut down their computers before leaving the office today. If you experience any login issues tomorrow morning, please reach out to the Technical Support department."
+          "transcript": "Speaker: This weekend, we'll be installing new security software on our internal servers. This is a little more involved than a routine update. We need to have an extra layer of protection on our customers' personal data. So, we're all being asked to help prepare for the transition. Before you leave the office on Friday, please make sure you save all your current files and shut down your desktop computers completely. If you leave them in sleep mode, the system installation might fail. If you run into any issues on Monday morning, contact the IT help desk at extension 404."
         },
         {
           "id": 76,
           "group": "74-76",
           "passageTitle": "Part 4 - Câu 74-76",
-          "text": "What department does Marta Fuentes most likely work in?",
+          "text": "Which department should employees contact with problems on Monday?",
           "options": [
-            "(A) Legal",
-            "(B) Marketing",
-            "(C) Human Resources",
+            "(A) Human Resources",
+            "(B) Customer Support",
+            "(C) Facilities Maintenance",
             "(D) Information Technology"
           ],
           "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Marta Fuentes được mời để 'explain how we'll finish the installation on our devices' → việc cài đặt phần mềm là IT. → (D)",
-          "hint": "Marta Fuentes được giới thiệu để giải thích gì? Công việc này thuộc bộ phận nào?",
+          "explanation": "Người nói hướng dẫn ở câu cuối: 'If you run into any issues on Monday morning, contact the IT help desk at extension 404.' (Nếu bạn gặp vấn đề vào sáng thứ Hai, hãy liên hệ bàn trợ giúp CNTT...) → Phòng Công nghệ thông tin = Information Technology (IT). → (D)",
+          "hint": "Nếu gặp sự cố vào sáng thứ Hai, hãy liên hệ bộ phận nào: 'contact the IT help desk at extension 404'.",
           "startTime": 121,
           "endTime": 191,
-          "transcript": "Attention all employees. To protect our customers' personal data from security risks, we are going to update our internal network tonight. Because of this, it is very important that everyone remembers to shut down their computers before leaving the office today. If you experience any login issues tomorrow morning, please reach out to the Technical Support department."
+          "transcript": "Speaker: This weekend, we'll be installing new security software on our internal servers. This is a little more involved than a routine update. We need to have an extra layer of protection on our customers' personal data. So, we're all being asked to help prepare for the transition. Before you leave the office on Friday, please make sure you save all your current files and shut down your desktop computers completely. If you leave them in sleep mode, the system installation might fail. If you run into any issues on Monday morning, contact the IT help desk at extension 404."
         },
         {
           "id": 77,
           "group": "77-79",
           "passageTitle": "Part 4 - Câu 77-79",
-          "text": "According to the speaker, what will begin on Monday?",
+          "text": "What project is starting on Monday?",
           "options": [
-            "(A) A seasonal internship program",
+            "(A) An office renovation",
             "(B) Road construction",
-            "(C) Landscaping maintenance",
-            "(D) An equipment upgrade"
+            "(C) A landscaping upgrade",
+            "(D) Building security installation"
           ],
           "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "'starting on Monday, the main entrance...will be inaccessible while the road is being widened and repaved' → xây dựng đường. → (B)",
-          "hint": "Điều gì bắt đầu vào thứ Hai khiến lối vào tòa nhà không thể tiếp cận?",
+          "explanation": "Người nói thông báo: 'starting on Monday, the main entrance to the office building will be inaccessible while the road is being widened and repaved.' (bắt đầu từ thứ Hai, cổng chính tòa nhà sẽ không thể đi vào vì con đường đang được mở rộng và trải lại nhựa.) → Công trình làm đường = Road construction. → (B)",
+          "hint": "Người nói nhắc nhở về công việc bắt đầu từ thứ Hai: 'the main entrance... inaccessible while the road is being widened and repaved.'",
           "startTime": 192,
           "endTime": 262,
-          "transcript": "As you know, the building's lobby is currently under renovation. Starting next Monday, the main entrance will be completely inaccessible. We have arranged a temporary van service to transport employees from the parking lot to the side entrances. Also, please make sure to attend our all-staff meeting on Friday to get project updates regarding the construction."
+          "transcript": "Speaker: Let me remind everyone that starting on Monday, the main entrance to the office building will be inaccessible while the road is being widened and repaved. This also means that our usual parking lot won't be available, but don't worry. There's plenty of space at the public parking garage on Elm Street, and the company is providing a free shuttle to bring employees from the garage to the side entrance of our building every ten minutes. Please check the intranet website for daily updates on this construction project."
         },
         {
           "id": 78,
           "group": "77-79",
           "passageTitle": "Part 4 - Câu 77-79",
-          "text": "What will the company provide for the listeners?",
+          "text": "What is the company providing for employees?",
           "options": [
-            "(A) Free lunch",
-            "(B) New identification badges",
+            "(A) Free lunches",
+            "(B) New security badges",
             "(C) Parking passes",
             "(D) Transportation"
           ],
           "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "'the company will be providing a van service' → cung cấp dịch vụ xe buýt = transportation. → (D)",
-          "hint": "Công ty sẽ cung cấp gì để hỗ trợ nhân viên đi lại?",
+          "explanation": "Người nói thông báo: 'the company is providing a free shuttle to bring employees from the garage to the side entrance of our building every ten minutes.' (công ty đang cung cấp xe đưa đón miễn phí cứ 10 phút một chuyến để chở nhân viên từ nhà xe đến cổng phụ.) → Phương tiện đi lại/vận chuyển = Transportation (free shuttle = transportation). → (D)",
+          "hint": "Công ty cung cấp dịch vụ gì để đưa nhân viên từ nhà để xe đến cổng phụ: 'the company is providing a free shuttle to bring employees...'?",
           "startTime": 192,
           "endTime": 262,
-          "transcript": "As you know, the building's lobby is currently under renovation. Starting next Monday, the main entrance will be completely inaccessible. We have arranged a temporary van service to transport employees from the parking lot to the side entrances. Also, please make sure to attend our all-staff meeting on Friday to get project updates regarding the construction."
+          "transcript": "Speaker: Let me remind everyone that starting on Monday, the main entrance to the office building will be inaccessible while the road is being widened and repaved. This also means that our usual parking lot won't be available, but don't worry. There's plenty of space at the public parking garage on Elm Street, and the company is providing a free shuttle to bring employees from the garage to the side entrance of our building every ten minutes. Please check the intranet website for daily updates on this construction project."
         },
         {
           "id": 79,
           "group": "77-79",
           "passageTitle": "Part 4 - Câu 77-79",
-          "text": "Why should the listeners visit a Web site?",
+          "text": "Why should listeners check the intranet?",
           "options": [
-            "(A) To download a map",
-            "(B) To post feedback",
-            "(C) To fill out a registration form",
+            "(A) To download a parking map",
+            "(B) To submit feedback",
+            "(C) To register for a carpool",
             "(D) To read project updates"
           ],
           "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "'We'll be posting project updates on our website, so be sure to check it regularly' → đọc cập nhật dự án. → (D)",
-          "hint": "Người nói yêu cầu nhân viên vào website để làm gì?",
+          "explanation": "Người nói dặn ở câu cuối: 'Please check the intranet website for daily updates on this construction project.' (Vui lòng kiểm tra trang web nội bộ để xem cập nhật hàng ngày về dự án xây dựng này.) → Đọc các cập nhật về dự án = To read project updates. → (D)",
+          "hint": "Câu cuối hướng dẫn kiểm tra mạng nội bộ: 'Please check the intranet website for daily updates on this construction project.'",
           "startTime": 192,
           "endTime": 262,
-          "transcript": "As you know, the building's lobby is currently under renovation. Starting next Monday, the main entrance will be completely inaccessible. We have arranged a temporary van service to transport employees from the parking lot to the side entrances. Also, please make sure to attend our all-staff meeting on Friday to get project updates regarding the construction."
+          "transcript": "Speaker: Let me remind everyone that starting on Monday, the main entrance to the office building will be inaccessible while the road is being widened and repaved. This also means that our usual parking lot won't be available, but don't worry. There's plenty of space at the public parking garage on Elm Street, and the company is providing a free shuttle to bring employees from the garage to the side entrance of our building every ten minutes. Please check the intranet website for daily updates on this construction project."
         },
         {
           "id": 80,
           "group": "80-82",
           "passageTitle": "Part 4 - Câu 80-82",
-          "text": "What is the speaker preparing for?",
+          "text": "Why is the speaker calling?",
           "options": [
-            "(A) A client visit",
-            "(B) A branch opening",
-            "(C) A job fair",
-            "(D) An equipment upgrade"
+            "(A) To discuss a client visit",
+            "(B) To announce a branch opening",
+            "(C) To report on a job fair",
+            "(D) To request an equipment upgrade"
           ],
           "answer": "A",
           "category": "Part 4 - Talks",
-          "explanation": "'the hotel you asked me to book for our client visiting from India next month' → chuẩn bị cho khách hàng đến thăm. → (A)",
-          "hint": "Người nói đang đặt phòng khách sạn cho ai? Từ khóa 'client', 'visiting from India'.",
+          "explanation": "Người nói bắt đầu: 'I'm following up about the hotel you asked me to book for our client visiting from India next month.' (Tôi gọi để tiếp tục việc đặt khách sạn mà bạn đã nhờ tôi đặt cho khách hàng đến thăm từ Ấn Độ vào tháng tới.) → Trao đổi về chuyến thăm của khách hàng = To discuss a client visit. → (A)",
+          "hint": "Người nói gọi điện để theo dõi việc đặt phòng khách sạn cho khách hàng: 'following up about the hotel you asked me to book for our client visiting from India next month.'",
           "startTime": 263,
           "endTime": 333,
-          "transcript": "Hello, this message is for the project management team. Next week, we are hosting a very important client's visit at our headquarters. Since parking will be extremely limited during their stay, we encourage all staff to use the shuttle bus service from the secondary lot. Please call me back when you get this message so we can finalize the presentation schedule."
+          "transcript": "Speaker: Hi, Asako. I'm following up about the hotel you asked me to book for our client visiting from India next month. You wanted to reserve a room for her at the Maple Lodge, but it's fully booked that week. So, I've been looking at other hotels in the area, and I found a great alternative: the Grand Hotel. It's slightly further from our office than Maple Lodge, but they offer a free shuttle service directly to our business park. I think this would be very convenient for our guest. Please let me know if you approve so I can confirm the reservation."
         },
         {
           "id": 81,
           "group": "80-82",
           "passageTitle": "Part 4 - Câu 80-82",
-          "text": "Why does the speaker say, \"there is one on Jefferson Avenue\"?",
+          "text": "Why does the speaker recommend the Grand Hotel?",
           "options": [
-            "(A) To express surprise",
-            "(B) To correct some information",
-            "(C) To complain about a decision",
-            "(D) To recommend an alternative"
+            "(A) It offers a discount rate.",
+            "(B) It has a conference room.",
+            "(C) It is within walking distance.",
+            "(D) It provides a free shuttle."
           ],
           "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Maple Lodge đã đầy → người nói giới thiệu khách sạn khác trên Jefferson Avenue = gợi ý lựa chọn thay thế. → (D)",
-          "hint": "Maple Lodge đã hết phòng → người nói đề xuất gì thay thế?",
+          "explanation": "Người nói giải thích lý do chọn Grand Hotel: 'they offer a free shuttle service directly to our business park. I think this would be very convenient for our guest.' (họ cung cấp dịch vụ xe đưa đón miễn phí thẳng đến khu công viên doanh nghiệp của chúng ta.) → Cung cấp dịch vụ xe đưa đón miễn phí = It provides a free shuttle. → (D)",
+          "hint": "Khách sạn Grand Hotel có ưu điểm tiện lợi gì: 'they offer a free shuttle service directly to our business park.'?",
           "startTime": 263,
           "endTime": 333,
-          "transcript": "Hello, this message is for the project management team. Next week, we are hosting a very important client's visit at our headquarters. Since parking will be extremely limited during their stay, we encourage all staff to use the shuttle bus service from the secondary lot. Please call me back when you get this message so we can finalize the presentation schedule."
+          "transcript": "Speaker: Hi, Asako. I'm following up about the hotel you asked me to book for our client visiting from India next month. You wanted to reserve a room for her at the Maple Lodge, but it's fully booked that week. So, I've been looking at other hotels in the area, and I found a great alternative: the Grand Hotel. It's slightly further from our office than Maple Lodge, but they offer a free shuttle service directly to our business park. I think this would be very convenient for our guest. Please let me know if you approve so I can confirm the reservation."
         },
         {
           "id": 82,
           "group": "80-82",
           "passageTitle": "Part 4 - Câu 80-82",
-          "text": "What additional service is mentioned?",
+          "text": "What does the speaker ask Asako to do?",
           "options": [
-            "(A) A catered meal",
-            "(B) A shuttle bus",
-            "(C) Technical support",
-            "(D) Secure storage"
+            "(A) Contact the client directly",
+            "(B) Approve a recommendation",
+            "(C) Process a reimbursement",
+            "(D) Reserve a rental car"
           ],
           "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "'They also have a complimentary shuttle bus that can take our guest back and forth from our office' → xe đưa đón miễn phí. → (B)",
-          "hint": "Khách sạn mới cung cấp dịch vụ nào thêm cho khách?",
+          "explanation": "Người nói yêu cầu ở câu cuối: 'Please let me know if you approve so I can confirm the reservation.' (Vui lòng cho tôi biết nếu bạn đồng ý/phê duyệt để tôi có thể xác nhận việc đặt phòng.) → Phê duyệt một đề xuất = Approve a recommendation. → (B)",
+          "hint": "Câu cuối cùng người nói đề nghị: 'Please let me know if you approve so I can confirm the reservation.'",
           "startTime": 263,
           "endTime": 333,
-          "transcript": "Hello, this message is for the project management team. Next week, we are hosting a very important client's visit at our headquarters. Since parking will be extremely limited during their stay, we encourage all staff to use the shuttle bus service from the secondary lot. Please call me back when you get this message so we can finalize the presentation schedule."
+          "transcript": "Speaker: Hi, Asako. I'm following up about the hotel you asked me to book for our client visiting from India next month. You wanted to reserve a room for her at the Maple Lodge, but it's fully booked that week. So, I've been looking at other hotels in the area, and I found a great alternative: the Grand Hotel. It's slightly further from our office than Maple Lodge, but they offer a free shuttle service directly to our business park. I think this would be very convenient for our guest. Please let me know if you approve so I can confirm the reservation."
         },
         {
           "id": 83,
           "group": "83-85",
           "passageTitle": "Part 4 - Câu 83-85",
-          "text": "According to the speaker, why are some changes needed?",
+          "text": "What kind of company does the speaker work for?",
           "options": [
-            "(A) To retain employees",
-            "(B) To attract investors",
-            "(C) To satisfy customers",
-            "(D) To increase productivity"
+            "(A) An advertising agency",
+            "(B) An electronics retailer",
+            "(C) A shipping company",
+            "(D) A software development firm"
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "'we need to continually make changes to meet our customers' expectations' → để đáp ứng kỳ vọng của khách hàng = satisfy customers. → (C)",
-          "hint": "Lý do thay đổi là gì? Từ khóa 'customers' expectations'.",
+          "explanation": "Người nói phát biểu: 'in order to stay on top as a leading shipping company, we need to continually make changes to meet our customers' expectations.' (để duy trì vị thế là một công ty vận chuyển hàng đầu...) → Công ty vận chuyển = A shipping company. → (C)",
+          "hint": "Người nói nhắc đến vị thế doanh nghiệp: 'in order to stay on top as a leading shipping company...'.",
           "startTime": 334,
           "endTime": 404,
-          "transcript": "In order to stay competitive and meet customer expectations in today's fast-paced market, our logistics company will be launching a new delivery tracking service next month. Customers have been asking for real-time updates on their shipments. I will be spending most of this week working with our software developers to ensure the mobile application runs smoothly before launch."
+          "transcript": "Speaker: I'd like to start by giving everyone an update on our latest project. As you know, in order to stay on top as a leading shipping company, we need to continually make changes to meet our customers' expectations. Since our customers prefer doing almost everything on their smartphones, we've developed a new mobile application that allows real-time tracking for every single package. Our software developers have completed testing, and the app will launch next week. Additionally, we're partnering with major online retailers to offer exclusive delivery discounts through the app."
         },
         {
           "id": 84,
           "group": "83-85",
           "passageTitle": "Part 4 - Câu 83-85",
-          "text": "What additional service does the company plan to offer?",
+          "text": "What feature of a new app does the speaker mention?",
           "options": [
-            "(A) Free product returns",
-            "(B) Expedited bulk shipping",
-            "(C) Pickup at self-service kiosks",
-            "(D) Real-time package tracking"
+            "(A) Free returns",
+            "(B) Customer reviews",
+            "(C) Automated payments",
+            "(D) Real-time tracking"
           ],
           "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "'customers will be able to see where their package is in real time' → theo dõi hàng theo thời gian thực. → (D)",
-          "hint": "Dịch vụ mới nào sẽ được triển khai? Từ khóa 'tracking', 'real time', 'smartphone application'.",
+          "explanation": "Người nói giới thiệu tính năng ứng dụng: 'we've developed a new mobile application that allows real-time tracking for every single package.' (chúng ta đã phát triển một ứng dụng di động mới cho phép theo dõi thời gian thực cho từng gói hàng.) → Theo dõi thời gian thực = Real-time tracking. → (D)",
+          "hint": "Ứng dụng di động mới có tính năng gì: 'a new mobile application that allows real-time tracking for every single package.'?",
           "startTime": 334,
           "endTime": 404,
-          "transcript": "In order to stay competitive and meet customer expectations in today's fast-paced market, our logistics company will be launching a new delivery tracking service next month. Customers have been asking for real-time updates on their shipments. I will be spending most of this week working with our software developers to ensure the mobile application runs smoothly before launch."
+          "transcript": "Speaker: I'd like to start by giving everyone an update on our latest project. As you know, in order to stay on top as a leading shipping company, we need to continually make changes to meet our customers' expectations. Since our customers prefer doing almost everything on their smartphones, we've developed a new mobile application that allows real-time tracking for every single package. Our software developers have completed testing, and the app will launch next week. Additionally, we're partnering with major online retailers to offer exclusive delivery discounts through the app."
         },
         {
           "id": 85,
           "group": "83-85",
           "passageTitle": "Part 4 - Câu 83-85",
-          "text": "According to the speaker, what will begin next month?",
+          "text": "What does the company plan to do with retailers?",
           "options": [
-            "(A) A workshop series",
-            "(B) A new corporate policy",
-            "(C) A land development project",
-            "(D) A business collaboration"
+            "(A) Purchase their products",
+            "(B) Build new warehouses",
+            "(C) Merge with a competitor",
+            "(D) Partner on a business collaboration"
           ],
           "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "'next month, we'll begin working with developers from XKP Software' → hợp tác kinh doanh với đối tác phần mềm. → (D)",
-          "hint": "Tháng tới sẽ bắt đầu điều gì? Công ty sẽ làm việc với ai?",
+          "explanation": "Người nói thông báo ở câu cuối: 'Additionally, we're partnering with major online retailers to offer exclusive delivery discounts through the app.' (Ngoài ra, chúng ta đang hợp tác với các nhà bán lẻ trực tuyến lớn để cung cấp các ưu đãi giảm giá giao hàng độc quyền...) → Hợp tác kinh doanh = Partner on a business collaboration. → (D)",
+          "hint": "Công ty đang hợp tác như thế nào: 'we're partnering with major online retailers to offer exclusive delivery discounts...'?",
           "startTime": 334,
           "endTime": 404,
-          "transcript": "In order to stay competitive and meet customer expectations in today's fast-paced market, our logistics company will be launching a new delivery tracking service next month. Customers have been asking for real-time updates on their shipments. I will be spending most of this week working with our software developers to ensure the mobile application runs smoothly before launch."
+          "transcript": "Speaker: I'd like to start by giving everyone an update on our latest project. As you know, in order to stay on top as a leading shipping company, we need to continually make changes to meet our customers' expectations. Since our customers prefer doing almost everything on their smartphones, we've developed a new mobile application that allows real-time tracking for every single package. Our software developers have completed testing, and the app will launch next week. Additionally, we're partnering with major online retailers to offer exclusive delivery discounts through the app."
         },
         {
           "id": 86,
           "group": "86-88",
           "passageTitle": "Part 4 - Câu 86-88",
-          "text": "What industry does the speaker work in?",
+          "text": "What industry does the speaker most likely work in?",
           "options": [
-            "(A) Film production",
-            "(B) Radio broadcasting",
-            "(C) Television broadcasting",
-            "(D) Digital media"
+            "(A) Civil service",
+            "(B) Hospitality",
+            "(C) Media",
+            "(D) Architecture"
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "'Welcome to the Channel 5 Broadcasting network' → ngành phát thanh truyền hình. → (C)",
-          "hint": "Người nói làm việc ở đâu? Tên đài/kênh là gì?",
+          "explanation": "Người nói nhắc đến cảnh quay video độc quyền ('exclusive video footage'), phỏng vấn truyền thông đánh bại các đài/mạng lưới khác ('beat the other networks') và trường quay ('studio') → Ngành truyền thông = Media. → (C)",
+          "hint": "Các từ khóa như 'exclusive video footage', 'beat other networks in getting interview to public', 'studio' thuộc ngành nào?",
           "startTime": 405,
           "endTime": 475,
-          "transcript": "Welcome to the Channel 5 Broadcasting network. We are thrilled to offer you a special behind-the-scenes tour of our television studios today. You will get to see how our daily news programs are filmed and edited. After the tour concludes, we are looking for several volunteers to sit in as a live audience for a new talk show pilot."
+          "transcript": "Speaker: I'm so happy we got the exclusive video footage of the mayor's response today. We were able to beat the other networks in getting that interview to the public. I wanted to give you all a heads-up that next month we'll be providing a behind-the-scenes tour of our studio to the community. It's a great public relations opportunity, and we'll need staff members to act as guides for visiting school groups and residents. If you'd like to help volunteer for this, please send me an e-mail by Friday."
         },
         {
           "id": 87,
           "group": "86-88",
           "passageTitle": "Part 4 - Câu 86-88",
-          "text": "What is being offered today?",
+          "text": "What is planned for next month?",
           "options": [
-            "(A) A studio recording session",
-            "(B) A behind-the-scenes tour",
-            "(C) A job audition",
-            "(D) A preview screening"
+            "(A) A retirement luncheon",
+            "(B) An employee-performance review",
+            "(C) A computer-system upgrade",
+            "(D) A tour of a facility"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "Transcript đề cập đến tour tham quan hậu trường ('behind-the-scenes tour'). → (B)",
-          "hint": "Người nghe được mời tham gia hoạt động gì đặc biệt hôm nay?",
+          "explanation": "Người nói thông báo kế hoạch tháng tới: 'next month we'll be providing a behind-the-scenes tour of our studio to the community.' (tháng tới chúng ta sẽ tổ chức một chuyến tham quan hậu trường studio cho cộng đồng.) → Chuyến tham quan cơ sở vật chất = A tour of a facility. → (D)",
+          "hint": "Sự kiện diễn ra vào tháng tới ('next month') là hoạt động gì tại trường quay: 'providing a behind-the-scenes tour of our studio to the community.'?",
           "startTime": 405,
           "endTime": 475,
-          "transcript": "Welcome to the Channel 5 Broadcasting network. We are thrilled to offer you a special behind-the-scenes tour of our television studios today. You will get to see how our daily news programs are filmed and edited. After the tour concludes, we are looking for several volunteers to sit in as a live audience for a new talk show pilot."
+          "transcript": "Speaker: I'm so happy we got the exclusive video footage of the mayor's response today. We were able to beat the other networks in getting that interview to the public. I wanted to give you all a heads-up that next month we'll be providing a behind-the-scenes tour of our studio to the community. It's a great public relations opportunity, and we'll need staff members to act as guides for visiting school groups and residents. If you'd like to help volunteer for this, please send me an e-mail by Friday."
         },
         {
           "id": 88,
           "group": "86-88",
           "passageTitle": "Part 4 - Câu 86-88",
-          "text": "Who is the speaker looking for?",
+          "text": "Who should send the speaker an e-mail?",
           "options": [
-            "(A) Experienced actors",
-            "(B) Production assistants",
-            "(C) Volunteers",
-            "(D) News correspondents"
+            "(A) Those going on vacation",
+            "(B) Those willing to volunteer",
+            "(C) Those wishing to provide feedback",
+            "(D) Those presenting at a conference"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "Transcript đề cập đến việc tuyển tình nguyện viên ('volunteers'). → (C)",
-          "hint": "Người nói đang tuyển dụng ai để hỗ trợ chương trình?",
+          "explanation": "Người nói kêu gọi ở câu cuối: 'If you'd like to help volunteer for this, please send me an e-mail by Friday.' (Nếu bạn muốn tình nguyện giúp đỡ sự kiện này, vui lòng gửi email cho tôi trước thứ Sáu.) → Những ai sẵn sàng làm tình nguyện viên = Those willing to volunteer. → (B)",
+          "hint": "Người nói kêu gọi ai gửi email trước thứ Sáu: 'If you'd like to help volunteer for this, please send me an e-mail by Friday.'?",
           "startTime": 405,
           "endTime": 475,
-          "transcript": "Welcome to the Channel 5 Broadcasting network. We are thrilled to offer you a special behind-the-scenes tour of our television studios today. You will get to see how our daily news programs are filmed and edited. After the tour concludes, we are looking for several volunteers to sit in as a live audience for a new talk show pilot."
+          "transcript": "Speaker: I'm so happy we got the exclusive video footage of the mayor's response today. We were able to beat the other networks in getting that interview to the public. I wanted to give you all a heads-up that next month we'll be providing a behind-the-scenes tour of our studio to the community. It's a great public relations opportunity, and we'll need staff members to act as guides for visiting school groups and residents. If you'd like to help volunteer for this, please send me an e-mail by Friday."
         },
         {
           "id": 89,
           "group": "89-91",
           "passageTitle": "Part 4 - Câu 89-91",
-          "text": "What does the speaker's company most likely sell?",
+          "text": "What does the company sell?",
           "options": [
             "(A) Beauty supplies",
             "(B) Kitchen appliances",
@@ -1611,17 +1611,17 @@
           ],
           "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "'selling our ovens and refrigerators' → bán thiết bị nhà bếp. → (B)",
-          "hint": "Từ khóa trong transcript: 'ovens', 'refrigerators' → thuộc danh mục sản phẩm nào?",
+          "explanation": "Người nói chúc mừng thành tích bán hàng: 'You've all done such a great job selling our ovens and refrigerators that we've already exceeded our sales expectations for the year.' (Mọi người đã làm rất tốt khi bán lò nướng và tủ lạnh...) → Thiết bị nhà bếp = Kitchen appliances (ovens and refrigerators = kitchen appliances). → (B)",
+          "hint": "Người nói chúc mừng doanh số bán các mặt hàng: 'selling our ovens and refrigerators...'.",
           "startTime": 476,
           "endTime": 546,
-          "transcript": "Thank you for shopping at our home goods center today, where we offer the best discounts on large home appliances like ovens and refrigerators. Before our staff ends their shift, I want to remind everyone about our annual company dinner taking place downtown tonight. Please try to leave a bit early, as we expect that traffic and parking might be difficult in that area."
+          "transcript": "Speaker: Congratulations on a successful third quarter, everyone! You've all done such a great job selling our ovens and refrigerators that we've already exceeded our sales expectations for the year. To celebrate, we'd like to invite the sales team to join us for a dinner at Bistro Bella this Thursday evening. The company will cover the full cost of the meal and drinks. Please note that parking in front of the restaurant is very limited, so we encourage everyone to carpool from the office if possible."
         },
         {
           "id": 90,
           "group": "89-91",
           "passageTitle": "Part 4 - Câu 89-91",
-          "text": "What event does the speaker invite the listeners to?",
+          "text": "What event is taking place on Thursday?",
           "options": [
             "(A) A sales workshop",
             "(B) A product demonstration",
@@ -1630,17 +1630,17 @@
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "'we'd like to invite the sales team to join us for a company dinner' → bữa tối kỷ niệm. → (C)",
-          "hint": "Người nói mời nhân viên tham gia bữa ăn gì để kỷ niệm?",
+          "explanation": "Người nói thông báo: 'To celebrate, we'd like to invite the sales team to join us for a dinner at Bistro Bella this Thursday evening.' (Để ăn mừng, chúng tôi muốn mời đội ngũ bán hàng cùng tham gia bữa tối tại Bistro Bella vào tối thứ Năm này.) → Bữa tối ăn mừng = A celebratory dinner. → (C)",
+          "hint": "Để ăn mừng thành tích, công ty mời đội ngũ bán hàng tham dự sự kiện gì vào tối thứ Năm: 'dinner at Bistro Bella this Thursday evening'?",
           "startTime": 476,
           "endTime": 546,
-          "transcript": "Thank you for shopping at our home goods center today, where we offer the best discounts on large home appliances like ovens and refrigerators. Before our staff ends their shift, I want to remind everyone about our annual company dinner taking place downtown tonight. Please try to leave a bit early, as we expect that traffic and parking might be difficult in that area."
+          "transcript": "Speaker: Congratulations on a successful third quarter, everyone! You've all done such a great job selling our ovens and refrigerators that we've already exceeded our sales expectations for the year. To celebrate, we'd like to invite the sales team to join us for a dinner at Bistro Bella this Thursday evening. The company will cover the full cost of the meal and drinks. Please note that parking in front of the restaurant is very limited, so we encourage everyone to carpool from the office if possible."
         },
         {
           "id": 91,
           "group": "89-91",
           "passageTitle": "Part 4 - Câu 89-91",
-          "text": "What does the speaker mean when he says, \"there's a sports event that night\"?",
+          "text": "What potential difficulty does the speaker mention?",
           "options": [
             "(A) The office will be closed.",
             "(B) Parking will be limited.",
@@ -1649,17 +1649,17 @@
           ],
           "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "'You might want to carpool or take public transportation...there's a sports event that night' → đỗ xe sẽ khó khăn/hạn chế. → (B)",
-          "hint": "Tại sao người nói đề xuất carpool hoặc phương tiện công cộng? Sự kiện thể thao ảnh hưởng đến điều gì?",
+          "explanation": "Người nói lưu ý ở câu cuối: 'Please note that parking in front of the restaurant is very limited, so we encourage everyone to carpool...' (Xin lưu ý chỗ đỗ xe trước nhà hàng rất hạn chế, vì vậy chúng tôi khuyến khích mọi người đi chung xe...) → Chỗ đỗ xe bị hạn chế = Parking will be limited. → (B)",
+          "hint": "Người nói lưu ý khó khăn gì trước nhà hàng: 'parking in front of the restaurant is very limited'.",
           "startTime": 476,
           "endTime": 546,
-          "transcript": "Thank you for shopping at our home goods center today, where we offer the best discounts on large home appliances like ovens and refrigerators. Before our staff ends their shift, I want to remind everyone about our annual company dinner taking place downtown tonight. Please try to leave a bit early, as we expect that traffic and parking might be difficult in that area."
+          "transcript": "Speaker: Congratulations on a successful third quarter, everyone! You've all done such a great job selling our ovens and refrigerators that we've already exceeded our sales expectations for the year. To celebrate, we'd like to invite the sales team to join us for a dinner at Bistro Bella this Thursday evening. The company will cover the full cost of the meal and drinks. Please note that parking in front of the restaurant is very limited, so we encourage everyone to carpool from the office if possible."
         },
         {
           "id": 92,
           "group": "92-94",
           "passageTitle": "Part 4 - Câu 92-94",
-          "text": "Who most likely is the speaker?",
+          "text": "Who is the speaker?",
           "options": [
             "(A) An artist",
             "(B) A business owner",
@@ -1668,17 +1668,17 @@
           ],
           "answer": "B",
           "category": "Part 4 - Talks",
-          "explanation": "'I founded this tour company 5 years ago' → người sáng lập công ty = business owner. → (B)",
-          "hint": "Người nói tự giới thiệu mình là ai? Từ khóa 'founded', 'tour company'.",
+          "explanation": "Người nói giới thiệu: 'I founded this tour company 5 years ago, and I'm happy to announce that next month, my company is expanding its offerings.' (Tôi đã thành lập công ty du lịch này 5 năm trước...) → Chủ doanh nghiệp = A business owner. → (B)",
+          "hint": "Người nói giới thiệu bản thân là người sáng lập công ty du lịch: 'I founded this tour company 5 years ago, and I'm happy to announce that my company is expanding...' ('founded company' = người làm chủ).",
           "startTime": 547,
           "endTime": 617,
-          "transcript": "As the founder of this local tour company, I am always looking for ways to expand our business. I'm excited to announce that next season, we will be adding a brand-new walking tour focused on the city's historical architecture. To help promote this, I need all of our guides to hand out these newly printed brochures to anyone who stops by our information desk."
+          "transcript": "Speaker: I hope you've enjoyed this tour of historic homes in Salona City. I founded this tour company 5 years ago, and I'm happy to announce that next month, my company is expanding its offerings. We're launching a new walking tour that will focus on the various murals and street art created by local artists across downtown. I think you'll really enjoy discovering the stories behind those colorful murals. As you exit the tour bus, my assistant will hand you an informational brochure with the full schedule and discount coupon for our new art tour."
         },
         {
           "id": 93,
           "group": "92-94",
           "passageTitle": "Part 4 - Câu 92-94",
-          "text": "Why does the speaker say, \"art isn't only inside the walls of a museum\"?",
+          "text": "What is the purpose of the talk?",
           "options": [
             "(A) To apologize for an exhibit closure",
             "(B) To disagree with an online review",
@@ -1687,17 +1687,17 @@
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "Người nói giới thiệu tour mới về murals và statues → câu này nhằm khuyến khích khách tham gia thêm tour khác. → (C)",
-          "hint": "Người nói nói câu này trong bối cảnh gì? Mục đích là gì?",
+          "explanation": "Người nói giới thiệu tour nghệ thuật đường phố mới và phát brochure kèm phiếu giảm giá: 'We're launching a new walking tour... I think you'll really enjoy discovering... hand you an informational brochure with discount coupon' → Khuyến khích/thúc đẩy người nghe tham gia một chuyến tham quan khác = To motivate the listeners to take another tour. → (C)",
+          "hint": "Người nói giới thiệu tour đi bộ ngắm tranh tường mới và phát tài liệu kèm phiếu giảm giá nhằm mục đích gì?",
           "startTime": 547,
           "endTime": 617,
-          "transcript": "As the founder of this local tour company, I am always looking for ways to expand our business. I'm excited to announce that next season, we will be adding a brand-new walking tour focused on the city's historical architecture. To help promote this, I need all of our guides to hand out these newly printed brochures to anyone who stops by our information desk."
+          "transcript": "Speaker: I hope you've enjoyed this tour of historic homes in Salona City. I founded this tour company 5 years ago, and I'm happy to announce that next month, my company is expanding its offerings. We're launching a new walking tour that will focus on the various murals and street art created by local artists across downtown. I think you'll really enjoy discovering the stories behind those colorful murals. As you exit the tour bus, my assistant will hand you an informational brochure with the full schedule and discount coupon for our new art tour."
         },
         {
           "id": 94,
           "group": "92-94",
           "passageTitle": "Part 4 - Câu 92-94",
-          "text": "What does the speaker give to the listeners?",
+          "text": "What will the assistant distribute?",
           "options": [
             "(A) City maps",
             "(B) Gift cards",
@@ -1706,17 +1706,17 @@
           ],
           "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "'Here are some brochures with information, including the times and prices' → phát tờ rơi thông tin. → (D)",
-          "hint": "Cuối bài nói, người nói trao gì cho khách tham quan?",
+          "explanation": "Người nói cho biết ở câu cuối: 'As you exit the tour bus, my assistant will hand you an informational brochure with the full schedule and discount coupon for our new art tour.' (Khi các bạn xuống xe buýt, trợ lý của tôi sẽ phát cho bạn một cuốn tài liệu quảng cáo thông tin...) → Các cuốn tài liệu thông tin = Informational brochures. → (D)",
+          "hint": "Trợ lý sẽ phát vật dụng gì khi khách xuống xe buýt: 'my assistant will hand you an informational brochure...'?",
           "startTime": 547,
           "endTime": 617,
-          "transcript": "As the founder of this local tour company, I am always looking for ways to expand our business. I'm excited to announce that next season, we will be adding a brand-new walking tour focused on the city's historical architecture. To help promote this, I need all of our guides to hand out these newly printed brochures to anyone who stops by our information desk."
+          "transcript": "Speaker: I hope you've enjoyed this tour of historic homes in Salona City. I founded this tour company 5 years ago, and I'm happy to announce that next month, my company is expanding its offerings. We're launching a new walking tour that will focus on the various murals and street art created by local artists across downtown. I think you'll really enjoy discovering the stories behind those colorful murals. As you exit the tour bus, my assistant will hand you an informational brochure with the full schedule and discount coupon for our new art tour."
         },
         {
           "id": 95,
           "group": "95-97",
           "passageTitle": "Part 4 - Câu 95-97",
-          "text": "What is the broadcast mainly about?",
+          "text": "What project has been announced?",
           "options": [
             "(A) A renovated airport terminal",
             "(B) A redesigned city hall",
@@ -1725,51 +1725,51 @@
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "'construction has begun on the new Alexton train station, which will offer a direct rail connection' → về ga tàu mới. → (C)",
-          "hint": "Chủ đề chính của bản tin là gì? Từ khóa 'Alexton train station', 'rail connection'.",
+          "explanation": "Bản tin mở đầu: 'In local news, the Bayland Transit Agency has announced that construction has begun on the new Alexton train station, which will offer a direct rail connection to the city center.' (Cơ quan Giao thông Bayland thông báo đã bắt đầu xây dựng nhà ga tàu hỏa Alexton mới...) → Một nhà ga tàu hỏa mới = A new train station. → (C)",
+          "hint": "Cơ quan Giao thông Vận tải Bayland thông báo bắt đầu xây dựng dự án nào: 'construction has begun on the new Alexton train station'?",
           "startTime": 618,
           "endTime": 688,
-          "transcript": "Good evening, everyone, and welcome to the town planning meeting. Our main agenda today is to review the upcoming train station construction project. If you look at the projected budget graphic provided in your folders, the committee has officially decided to approve the $250 million proposal. Once we wrap this up, our next item will be to brainstorm ideas for a new park to be built next to the station.",
+          "transcript": "Speaker: In local news, the Bayland Transit Agency has announced that construction has begun on the new Alexton train station, which will offer a direct rail connection to the city center. Spokesperson Claudia Schneider explained that the agency initially considered several design options, but ultimately chose one of the designs that will cost $250 million. The station will feature extensive glass facades and modern energy-saving technology. Construction will continue through next summer. Now, the agency is seeking public feedback on potential public artwork to be installed in the central plaza. Please visit their website to vote on your favorite sculpture design.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-96-test-4.jpg"
         },
         {
           "id": 96,
           "group": "95-97",
           "passageTitle": "Part 4 - Câu 95-97",
-          "text": "Look at the graphic. Which proposal was chosen?",
+          "text": "Look at the graphic. Which plan was chosen?",
           "options": [
             "(A) Plan A",
             "(B) Plan B",
             "(C) Plan C",
             "(D) Plan D"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "'ultimately decided to go with a more cost-effective...proposal, with a price tag of $250 million' → theo graphic, $250M = Plan B. → (B)",
-          "hint": "Nhìn vào bảng đề xuất. Phương án nào có mức giá $250 triệu được chọn?",
+          "explanation": "Người nói cho biết: 'ultimately chose one of the designs that will cost $250 million.' Nhìn vào bảng đề xuất ngân sách trên hình ảnh đồ họa: Plan D có chi phí là $250 million. → Phương án được chọn là Plan D. → (D)",
+          "hint": "Người phát ngôn cho biết cơ quan đã chọn phương án thiết kế có chi phí là 250 triệu đô la ('cost $250 million'). Tra bảng đồ họa xem $250 million là Plan nào.",
           "startTime": 618,
           "endTime": 688,
-          "transcript": "Good evening, everyone, and welcome to the town planning meeting. Our main agenda today is to review the upcoming train station construction project. If you look at the projected budget graphic provided in your folders, the committee has officially decided to approve the $250 million proposal. Once we wrap this up, our next item will be to brainstorm ideas for a new park to be built next to the station.",
+          "transcript": "Speaker: In local news, the Bayland Transit Agency has announced that construction has begun on the new Alexton train station, which will offer a direct rail connection to the city center. Spokesperson Claudia Schneider explained that the agency initially considered several design options, but ultimately chose one of the designs that will cost $250 million. The station will feature extensive glass facades and modern energy-saving technology. Construction will continue through next summer. Now, the agency is seeking public feedback on potential public artwork to be installed in the central plaza. Please visit their website to vote on your favorite sculpture design.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-96-test-4.jpg"
         },
         {
           "id": 97,
           "group": "95-97",
           "passageTitle": "Part 4 - Câu 95-97",
-          "text": "According to the speaker, what will residents be able to vote on?",
+          "text": "What is the public invited to vote on?",
           "options": [
             "(A) Parking options",
             "(B) Food vendors",
-            "(C) Public artwork",
-            "(D) Park ideas"
+            "(C) Building colors",
+            "(D) Public artwork"
           ],
           "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "'residents will be invited to vote on ideas for it' (cho công viên nhỏ kề bên) → ý tưởng cho công viên. → (D)",
-          "hint": "Người dân sẽ được bỏ phiếu về điều gì liên quan đến công viên nhỏ?",
+          "explanation": "Người nói cho biết ở câu cuối: 'the agency is seeking public feedback on potential public artwork to be installed in the central plaza. Please visit their website to vote on your favorite sculpture design.' (cơ quan đang xin ý kiến người dân về tác phẩm nghệ thuật công cộng... bình chọn thiết kế điêu khắc) → Tác phẩm nghệ thuật công cộng = Public artwork. → (D)",
+          "hint": "Cơ quan đang xin ý kiến đóng góp của người dân về hạng mục gì ở quảng trường trung tâm: 'seeking public feedback on potential public artwork... vote on your favorite sculpture design'?",
           "startTime": 618,
           "endTime": 688,
-          "transcript": "Good evening, everyone, and welcome to the town planning meeting. Our main agenda today is to review the upcoming train station construction project. If you look at the projected budget graphic provided in your folders, the committee has officially decided to approve the $250 million proposal. Once we wrap this up, our next item will be to brainstorm ideas for a new park to be built next to the station.",
+          "transcript": "Speaker: In local news, the Bayland Transit Agency has announced that construction has begun on the new Alexton train station, which will offer a direct rail connection to the city center. Spokesperson Claudia Schneider explained that the agency initially considered several design options, but ultimately chose one of the designs that will cost $250 million. The station will feature extensive glass facades and modern energy-saving technology. Construction will continue through next summer. Now, the agency is seeking public feedback on potential public artwork to be installed in the central plaza. Please visit their website to vote on your favorite sculpture design.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-96-test-4.jpg"
         },
         {
@@ -1785,18 +1785,18 @@
           ],
           "answer": "D",
           "category": "Part 4 - Talks",
-          "explanation": "'As the mayor, I'm pleased to see this kind of growth in our city' → thị trưởng = city official. → (D)",
-          "hint": "Người nói tự giới thiệu là ai?",
+          "explanation": "Người nói tự giới thiệu: 'Welcome everyone to the grand opening of the Wilton Business Center. As the mayor, I'm pleased to see this kind of growth in our city...' (Chào mừng mọi người đến với lễ khai trương Trung tâm Thương mại Wilton. Với tư cách là Thị trưởng...) → Quan chức chính quyền thành phố = A city official (Mayor = city official). → (D)",
+          "hint": "Người nói mở đầu tự giới thiệu chức danh: 'Welcome everyone to the grand opening of the Wilton Business Center. As the mayor...'. 'Mayor' (Thị trưởng) là một quan chức thành phố.",
           "startTime": 689,
           "endTime": 759,
-          "transcript": "Hello everyone, as your city mayor, it is an honor to welcome you to the opening of our new community complex. This project is incredibly special because it incorporates several environmentally friendly features, such as solar roofing and an energy-efficient heating system. If you take a look at the facility map, you'll see that our opening ceremony will take place shortly over by the recreation center.",
+          "transcript": "Speaker: Welcome everyone to the grand opening of the Wilton Business Center. As the mayor, I'm pleased to see this kind of growth in our city, and the environmentally friendly elements incorporated into the design make this building special. In particular, this building utilizes solar panels on the roof to generate over 40% of its electricity. A map of the facility is near the building directory in the main lobby. The entire building is open to the public today, with the exception of the recreation center, which is currently having some equipment installed. Please feel free to explore the rest of the center.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-100-test-4.jpg"
         },
         {
           "id": 99,
           "group": "98-100",
           "passageTitle": "Part 4 - Câu 98-100",
-          "text": "Why is a building special?",
+          "text": "What special feature of the building does the speaker highlight?",
           "options": [
             "(A) It was constructed in a short time.",
             "(B) It has a technologically advanced security system.",
@@ -1805,18 +1805,18 @@
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "'the environmentally friendly elements incorporated into the design make this building special' → thiết kế thân thiện môi trường. → (C)",
-          "hint": "Điều gì làm cho tòa nhà Wilton Business Center đặc biệt? Từ khóa 'environmentally friendly'.",
+          "explanation": "Thị trưởng nhấn mạnh: 'the environmentally friendly elements incorporated into the design make this building special. In particular, this building utilizes solar panels on the roof...' (các yếu tố thân thiện với môi trường được tích hợp vào thiết kế khiến tòa nhà này trở nên đặc biệt. Cụ thể là sử dụng các tấm pin mặt trời...) → Các tính năng thân thiện với môi trường = It has environmentally friendly features. → (C)",
+          "hint": "Thị trưởng nhấn mạnh điểm đặc biệt của tòa nhà là sử dụng các tấm pin mặt trời và yếu tố thân thiện với môi trường ('environmentally friendly elements').",
           "startTime": 689,
           "endTime": 759,
-          "transcript": "Hello everyone, as your city mayor, it is an honor to welcome you to the opening of our new community complex. This project is incredibly special because it incorporates several environmentally friendly features, such as solar roofing and an energy-efficient heating system. If you take a look at the facility map, you'll see that our opening ceremony will take place shortly over by the recreation center.",
+          "transcript": "Speaker: Welcome everyone to the grand opening of the Wilton Business Center. As the mayor, I'm pleased to see this kind of growth in our city, and the environmentally friendly elements incorporated into the design make this building special. In particular, this building utilizes solar panels on the roof to generate over 40% of its electricity. A map of the facility is near the building directory in the main lobby. The entire building is open to the public today, with the exception of the recreation center, which is currently having some equipment installed. Please feel free to explore the rest of the center.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-100-test-4.jpg"
         },
         {
           "id": 100,
           "group": "98-100",
           "passageTitle": "Part 4 - Câu 98-100",
-          "text": "Look at the graphic. Which floor of the building is not open yet?",
+          "text": "Look at the graphic. Which floor is currently closed to the public?",
           "options": [
             "(A) Floor 4",
             "(B) Floor 3",
@@ -1825,11 +1825,11 @@
           ],
           "answer": "C",
           "category": "Part 4 - Talks",
-          "explanation": "'the recreation center, will not be available for use until next month, as final touches are still being added to that floor' → tầng có recreation center chưa mở. Theo graphic, đó là tầng 2. → (C)",
-          "hint": "Phần nào của tòa nhà chưa mở cửa? 'Recreation center' nằm ở tầng nào theo graphic?",
+          "explanation": "Thị trưởng thông báo: 'The entire building is open to the public today, with the exception of the recreation center, which is currently having some equipment installed.' (Toàn bộ tòa nhà mở cửa hôm nay, ngoại trừ trung tâm giải trí đang được lắp đặt thiết bị.) Nhìn vào sơ đồ tầng trên hình ảnh đồ họa: Recreation Center nằm ở Floor 2. Do đó tầng đang đóng cửa là Floor 2. → (C)",
+          "hint": "Thị trưởng thông báo cả tòa nhà đều mở cửa trừ khu vực trung tâm giải trí đang lắp thiết bị: 'with the exception of the recreation center'. Tra sơ đồ tầng xem Recreation Center nằm ở tầng mấy.",
           "startTime": 689,
           "endTime": 759,
-          "transcript": "Hello everyone, as your city mayor, it is an honor to welcome you to the opening of our new community complex. This project is incredibly special because it incorporates several environmentally friendly features, such as solar roofing and an energy-efficient heating system. If you take a look at the facility map, you'll see that our opening ceremony will take place shortly over by the recreation center.",
+          "transcript": "Speaker: Welcome everyone to the grand opening of the Wilton Business Center. As the mayor, I'm pleased to see this kind of growth in our city, and the environmentally friendly elements incorporated into the design make this building special. In particular, this building utilizes solar panels on the roof to generate over 40% of its electricity. A map of the facility is near the building directory in the main lobby. The entire building is open to the public today, with the exception of the recreation center, which is currently having some equipment installed. Please feel free to explore the rest of the center.",
           "passageImage": "public/assets/bai-on-4/listening/graphics/qes-100-test-4.jpg"
         }
       ]
