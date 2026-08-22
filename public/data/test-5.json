@@ -9,7 +9,7 @@
       "questions": [
         {
           "id": 101,
-          "text": "I need you to finish those reports ______ next Thursday.",
+          "text": "I need you to finish those reports ------- next Thursday.",
           "options": [
             "then",
             "by",
@@ -18,12 +18,12 @@
           ],
           "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Han chot 'khong muon hon' -> by next Thursday. -> (B)",
-          "hint": "O trong dung truoc cum 'next Thursday' - can gioi tu chi han chot (deadline). So sanh: by/until/till - cai nao co nghia 'khong muon hon thoi diem do'?"
+          "hint": "Han chot hoan thanh cong viec -> can gioi tu chi DEADLINE. Phan biet 'by' (truoc thoi diem) va 'until' (keo dai den thoi diem). Dong tu 'finish' la hanh dong hoan tat -> gioi tu nao?",
+          "explanation": "Gioi tu chi han chot 'khong muon hon': 'by next Thursday' = truoc thu Nam toi. 'until' chi khoang thoi gian keo dai, khong phu hop voi 'finish'. -> (B)"
         },
         {
           "id": 102,
-          "text": "Nowadays, ______ households in the developed world have at least one computer.",
+          "text": "Nowadays, ------- households in the developed world have at least one computer.",
           "options": [
             "most",
             "every",
@@ -32,12 +32,12 @@
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Most = phan lon, dung truoc danh tu so nhieu khong co the. -> (A)",
-          "hint": "O trong dung truoc danh tu so nhieu 'households' (khong co mao tu). Cac options: most/every/each/much - cai nao hop voi danh tu so nhieu ma khong can mao tu?"
+          "hint": "O trong dung truoc danh tu so nhieu 'households' -> loai 'every/each' (+ so it) va 'much' (+ khong dem duoc). Tu nao con lai?",
+          "explanation": "'most households' = hau het cac ho gia dinh (danh tu so nhieu). 'every/each' + danh tu so it. 'much' + danh tu khong dem duoc. -> (A)"
         },
         {
           "id": 103,
-          "text": "The company hadn’t experienced ______ high call volumes before and were ill-equipped to handle them all.",
+          "text": "The company hadn't experienced ------- high call volumes before and were ill-equipped to handle them all.",
           "options": [
             "so",
             "a lot",
@@ -46,12 +46,12 @@
           ],
           "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Cau truc: such + adj + noun -> such high call volumes. -> (C)",
-          "hint": "O trong + 'high call volumes' -> can xac dinh cau truc: 'so + adj + that' hay 'such + (adj) + noun + that'? Phan biet so va such."
+          "hint": "Can tu bo nghia cho 'high call volumes' (cum danh tu). Cau truc nao dung truoc ADJ + NOUN de nhan manh muc do?",
+          "explanation": "Cau truc 'such + adj + N' = nhu vay, den muc. 'such high call volumes' = luong cuoc goi cao den muc. -> (C)"
         },
         {
           "id": 104,
-          "text": "The Hoverton Commercial Committee ______ advertising and marketing methods in the region.",
+          "text": "The Hoverton Commercial Committee ------- advertising and marketing methods in the region.",
           "options": [
             "refuses",
             "insists",
@@ -60,12 +60,12 @@
           ],
           "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Uy ban quan ly -> regulates (dieu tiet). -> (D)",
-          "hint": "Chu ngu 'The Hoverton Commercial Committee' -> can dong tu phu hop. Xem xet nghia: uy ban thuong mai lam gi voi 'advertising and marketing methods'?"
+          "hint": "Chu ngu la 'Commercial Committee' (Uy ban Thuong mai) -> hanh dong cua uy ban doi voi 'advertising and marketing methods' la gi? Tu nao mang nghia 'dieu chinh/quan ly'?",
+          "explanation": "Uy ban Thuong mai dieu chinh (regulates) cac phuong phap quang cao va tiep thi. 'regulates' = kiem soat, dieu chinh. -> (D)"
         },
         {
           "id": 105,
-          "text": "This program is ______ harder to get accustomed to than the old one.",
+          "text": "This program is ------- harder to get accustomed to than the old one.",
           "options": [
             "such",
             "so",
@@ -74,12 +74,12 @@
           ],
           "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Very + tinh tu so sanh -> very much harder. O day cac options chi co 'very'. -> (C)",
-          "hint": "O trong dung truoc tinh tu so sanh 'harder' -> can trung tu bo nghia cho tinh tu so sanh. Cac options nao co the dung truoc comparative adjective?"
+          "hint": "O trong dung truoc tinh tu so sanh hon 'harder'. Tu nao bo nghia duoc cho COMPARATIVE (so sanh hon)?",
+          "explanation": "'much + comparative' = hon nhieu. 'much harder' = kho hon nhieu. 'very/so/such' khong dung truoc comparative. -> (D)"
         },
         {
           "id": 106,
-          "text": "When the manager arrived at the office, she was relieved to see that the technician ______ her computer.",
+          "text": "When the manager arrived at the office, she was relieved to see that the technician ------- her computer.",
           "options": [
             "fix",
             "fixes",
@@ -88,12 +88,12 @@
           ],
           "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Menh de chinh qua khu -> hanh dong dang xay ra o thoi diem qua khu -> was fixing. -> (D)",
-          "hint": "Co hai menh de: 'manager arrived' + 'was relieved to see that...' -> hanh dong 'fix computer' dang xay ra o thoi diem qua khu nao (thì gì)?"
+          "hint": "Moc thoi gian qua khu 'arrived'. Hanh dong cua technician dang dien ra tai thoi diem manager den -> thi nao dien ta hanh dong DANG DIEN RA trong qua khu?",
+          "explanation": "Hai hanh dong xay ra dong thoi trong qua khu: manager arrived (QKD) va technician was fixing (QK tiep dien). -> (D)"
         },
         {
           "id": 107,
-          "text": "Many of the product samples brought for demonstration at the convention ______ on the plane ride.",
+          "text": "Many of the product samples brought for demonstration at the convention ------- on the plane ride.",
           "options": [
             "lose",
             "lost",
@@ -102,12 +102,12 @@
           ],
           "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Chu ngu samples so nhieu, qua khu bi dong -> were lost. -> (D)",
-          "hint": "Chu ngu 'Many of the product samples' (so nhieu) + cum thoi gian chi qua khu ('on the plane ride') -> can thi gi? Chu y day la bi dong hay chu dong?"
+          "hint": "Chu ngu 'product samples' la vat -> BI mat (khong tu mat). Can the bi dong. Thoi diem la qua khu (chuyen bay da xay ra) -> dang bi dong nao?",
+          "explanation": "Mau san pham BI mat (bi dong) tren chuyen bay -> 'were lost' (bi dong qua khu). -> (D)"
         },
         {
           "id": 108,
-          "text": "Even after the terrible fiscal year they had, there was still $1.5 million in ______.",
+          "text": "Even after the terrible fiscal year they had, there was still $1.5 million in -------.",
           "options": [
             "profitably",
             "profitable",
@@ -116,12 +116,12 @@
           ],
           "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Sau gioi tu 'in' can danh tu -> profits. -> (C)",
-          "hint": "O trong dung sau gioi tu 'in' -> can danh tu. 4 options: profitably/profitable/profits/profiting - cai nao la danh tu?"
+          "hint": "O trong dung sau gioi tu 'in' va bo nghia cho '$1.5 million' -> can TU LOAI gi sau gioi tu?",
+          "explanation": "Sau gioi tu 'in' can danh tu: '$1.5 million in profits' = 1.5 trieu loi nhuan. -> (C)"
         },
         {
           "id": 109,
-          "text": "______ this problem before, the maintenance technician knew exactly which tool to use to fix the appliance.",
+          "text": "------- this problem before, the maintenance technician knew exactly which tool to use to fix the appliance.",
           "options": [
             "Seen",
             "Seeing",
@@ -130,12 +130,12 @@
           ],
           "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Menh de phan tu hoan thanh: hanh dong xay ra truoc -> Having seen (perfect participle). -> (C)",
-          "hint": "O trong o dau cau (menh de phan tu). Hanh dong 'thay van de nay' xay ra TRUOC hanh dong 'biet dung cong cu gi'. -> Phan tu hoan thanh hay don gian?"
+          "hint": "Menh de phan tu dien ta hanh dong xay ra TRUOC hanh dong chinh 'knew'. Chu ngu 'technician' la nguoi CHU DONG nhin thay -> dang phan tu nao?",
+          "explanation": "Phan tu hoan thanh 'Having seen' = Da thay truoc do -> nen biet dung dung cu. Chu ngu 'technician' chu dong nhin thay. -> (C)"
         },
         {
           "id": 110,
-          "text": "In addition to English, the vice-president can fluently ______ in both French and Spanish.",
+          "text": "In addition to English, the vice-president can fluently ------- in both French and Spanish.",
           "options": [
             "convene",
             "convey",
@@ -144,12 +144,12 @@
           ],
           "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Converse = tro chuyen; phu hop voi ngu canh noi tieng Phap va Tay Ban Nha. -> (C)",
-          "hint": "O trong dung sau trung tu 'fluently' -> can dong tu nguyen mau. So sanh nghia: convene/convey/converse/convert - cai nao co nghia 'noi chuyen' bang ngon ngu?"
+          "hint": "Dong tu di voi gioi tu 'in' + ngon ngu, mang nghia 'giao tiep/tro chuyen'. Phan biet: convene (trieu tap), convey (truyen dat), converse (tro chuyen), convert (chuyen doi).",
+          "explanation": "'converse in' = tro chuyen bang (ngon ngu). Pho tong giam doc co the tro chuyen luu loat bang tieng Phap va Tay Ban Nha. -> (C)"
         },
         {
           "id": 111,
-          "text": "Though at first glance the products seem very much alike, they are ______ in many ways.",
+          "text": "Though at first glance the products seem very much alike, they are ------- in many ways.",
           "options": [
             "different",
             "difficult",
@@ -158,12 +158,12 @@
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Tinh tu sau be dong 'are' -> different (khac nhau). -> (A)",
-          "hint": "O trong dung sau be dong 'are' -> can tinh tu. So sanh 4 options ve tu loai: different/difficult/differed/differentiated."
+          "hint": "Cau co 'Though...alike' (du giong nhau) -> ve sau can tu TRAI NGHIA. Tu nao la tinh tu chi su KHAC BIET?",
+          "explanation": "'seem alike' (giong nhau) tuong phan voi 'are different' (khac nhau). Tinh tu sau 'are' -> 'different'. -> (A)"
         },
         {
           "id": 112,
-          "text": "The law firm is looking for a new office building that is neither old ______ located outside of town.",
+          "text": "The law firm is looking for a new office building that is neither old ------- located outside of town.",
           "options": [
             "or",
             "nor",
@@ -172,12 +172,12 @@
           ],
           "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Cau truc tuong quan: neither ... nor ... -> (B)",
-          "hint": "Cau truc 'neither... [o trong]...' -> can gi de hoan chinh cau truc tuong quan (correlative conjunction)?"
+          "hint": "Cau truc tuong quan bat dau bang 'neither' -> tu noi tiep theo la gi?",
+          "explanation": "Cau truc tuong quan: 'neither...nor...' = khong...cung khong. -> (B)"
         },
         {
           "id": 113,
-          "text": "Please do not cross the yellow line on the platform ______ the train has come to a complete stop.",
+          "text": "Please do not cross the yellow line on the platform ------- the train has come to a complete stop.",
           "options": [
             "by",
             "until",
@@ -186,12 +186,12 @@
           ],
           "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Khong duoc qua cho den khi (until) tau dung han. -> (B)",
-          "hint": "O trong + menh de phu 'the train has come to a complete stop' -> 'khong duoc qua cho den khi' - can lien tu gi?"
+          "hint": "Can lien tu chi thoi gian: 'dung lam gi CHO DEN KHI tau dung'. Tu nao mang nghia 'cho den khi'?",
+          "explanation": "'until the train has come to a complete stop' = cho den khi tau dung han. Lien tu chi thoi gian. -> (B)"
         },
         {
           "id": 114,
-          "text": "Although Janet and Sam are both excellent managers, there are slight ______ in the way they do their jobs.",
+          "text": "Although Janet and Sam are both excellent managers, there are slight ------- in the way they do their jobs.",
           "options": [
             "variations",
             "varieties",
@@ -200,12 +200,12 @@
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Danh tu chi su khac biet nho: variations. -> (A)",
-          "hint": "O trong dung sau 'slight' (tinh tu) -> can danh tu. So sanh: variations/varieties/various/varies."
+          "hint": "O trong dung sau tinh tu 'slight' -> can TU LOAI gi? 'variations' (bien the/khac biet), 'varieties' (cac loai), 'various' (da dang - adj), 'varies' (thay doi - verb).",
+          "explanation": "Sau tinh tu 'slight' can danh tu: 'slight variations' = nhung khac biet nho. -> (A)"
         },
         {
           "id": 115,
-          "text": "______ business successfully internationally, we must learn the importance of respecting cultural differences.",
+          "text": "------- business successfully internationally, we must learn the importance of respecting cultural differences.",
           "options": [
             "To do",
             "Does",
@@ -214,12 +214,12 @@
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Menh de muc dich: To + V (de lam kinh doanh quoc te thanh cong). -> (A)",
-          "hint": "O trong o dau cau, dung truoc 'business successfully' -> can gi? Menh de muc dich hay menh de dieu kien?"
+          "hint": "Cum dau cau dien ta MUC DICH cua hanh dong 'must learn'. Cau truc nao dien ta muc dich?",
+          "explanation": "Cum muc dich 'To do business' = De kinh doanh thanh cong -> chung ta phai hoc. -> (A)"
         },
         {
           "id": 116,
-          "text": "If you require further ______, please feel free to contact us at 555-3333.",
+          "text": "If you require further -------, please feel free to contact us at 555-3333.",
           "options": [
             "informational",
             "informed",
@@ -228,12 +228,12 @@
           ],
           "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Danh tu sau tinh tu 'further' -> information. -> (D)",
-          "hint": "O trong dung sau 'further' -> can danh tu. Tu loai: informational (adj), informed (adj/v), informative (adj), information (n)."
+          "hint": "O trong dung sau 'further' (them) -> can TU LOAI gi? Danh tu nao trong 4 lua chon?",
+          "explanation": "Sau tinh tu 'further' can danh tu: 'further information' = them thong tin. -> (D)"
         },
         {
           "id": 117,
-          "text": "It has not rained for weeks, ______ my boss brings an umbrella to work every day.",
+          "text": "It has not rained for weeks, ------- my boss brings an umbrella to work every day.",
           "options": [
             "yet",
             "so",
@@ -242,12 +242,12 @@
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Because = vi; giai thich ly do mang o du khong mua. -> (C)",
-          "hint": "O trong ket noi hai menh de: 'It has not rained for weeks' + 'my boss brings an umbrella'. Moi quan he giua 2 y nay la gi?"
+          "hint": "Hai ve cau co noi dung TUONG PHAN: khong mua <-> van mang o. Tu noi nao dien ta su tuong phan/bat ngo?",
+          "explanation": "'yet' = tuy nhien, nhung ma. Troi khong mua nhieu tuan NHUNG sep van mang o. Hai y tuong phan nhau. -> (A)"
         },
         {
           "id": 118,
-          "text": "The customer was not satisfied with the service and asked to talk to the manager ______.",
+          "text": "The customer was not satisfied with the service and asked to talk to the manager -------.",
           "options": [
             "instantly",
             "internally",
@@ -256,26 +256,26 @@
           ],
           "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Immediately = ngay lap tuc, phu hop nhat voi nguoi khach buc xuc. -> (C)",
-          "hint": "O trong la trung tu bo nghia cho dong tu 'to talk' (gian tiep). So sanh: instantly/internally/immediately/indirectly - cai nao phu hop voi tinh huong khach hang buc xuc?"
+          "hint": "Khach hang khong hai long -> yeu cau gap quan ly. Trang tu nao mang nghia 'ngay lap tuc, khong cham tre'?",
+          "explanation": "'immediately' = ngay lap tuc. Khach hang khong hai long va yeu cau noi chuyen voi quan ly NGAY LAP TUC. -> (C)"
         },
         {
           "id": 119,
-          "text": "Most people who are elected to government positions come from ______ families.",
+          "text": "Most people who are elected to government positions come from ------- families.",
           "options": [
             "respect",
             "respecting",
             "respectable",
             "respective"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Tinh tu bo nghia danh tu families -> respectable (co uy tin). -> (C)",
-          "hint": "O trong dung truoc danh tu 'families' -> can tinh tu. Phan biet: respect (n/v), respecting (v-ing), respectable (adj), respective (adj). Nghia nao phu hop?"
+          "hint": "Tinh tu bo nghia cho 'families'. Phan biet: 'respectable' (dang kinh trong), 'respective' (tuong ung, rieng). Nghia nao phu hop ngu canh?",
+          "explanation": "'respective families' = gia dinh tuong ung cua ho. Moi nguoi den tu gia dinh TUONG UNG cua minh. -> (D)"
         },
         {
           "id": 120,
-          "text": "This is the third time this week that each photocopier ______ broken down.",
+          "text": "This is the third time this week that each photocopier ------- broken down.",
           "options": [
             "are",
             "has",
@@ -284,12 +284,12 @@
           ],
           "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Each + danh tu so it -> dong tu so it -> has broken down. -> (B)",
-          "hint": "Chu ngu 'each photocopier' (so it, xac dinh) + This is the third time... -> can thi gi? Have/has broken down?"
+          "hint": "Cau truc dac biet: 'This is the third time (that) + S + ???'. Chu ngu 'each photocopier' la so it hay so nhieu?",
+          "explanation": "Cau truc 'This is the Nth time + S + has/have + V3'. 'each photocopier' la so it -> 'has'. -> (B)"
         },
         {
           "id": 121,
-          "text": "The electrical wires ______ by the terrible windstorm last night, leaving hundreds of customers without power.",
+          "text": "The electrical wires ------- by the terrible windstorm last night, leaving hundreds of customers without power.",
           "options": [
             "are damaged",
             "were damaged",
@@ -298,12 +298,12 @@
           ],
           "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Moc thoi gian 'last night' + bi dong -> were damaged. -> (B)",
-          "hint": "Chu ngu 'The electrical wires' (so nhieu) + moc thoi gian 'last night' + bi dong -> can thi va dang gi?"
+          "hint": "Chu ngu 'electrical wires' la vat BI tac dong boi 'windstorm'. Thoi diem 'last night' -> thi nao, the chu dong hay bi dong?",
+          "explanation": "Day dien BI hu hai boi bao -> bi dong qua khu: 'were damaged'. Moc thoi gian 'last night'. -> (B)"
         },
         {
           "id": 122,
-          "text": "This was his fourth time taking his accounting certification exam, and he wanted ______ this time.",
+          "text": "This was his fourth time taking his accounting certification exam, and he wanted ------- this time.",
           "options": [
             "to not fail",
             "not to fail",
@@ -312,12 +312,12 @@
           ],
           "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Wanted + to V; phu dinh: to not fail (phu tu not dat truoc dong tu nguyen mau). -> (A)",
-          "hint": "O trong + dong tu 'fail' -> can cau truc: 'want + [o trong] + to do sth' hay 'want + to + [o trong]'? Vi tri cua 'not' o dau?"
+          "hint": "Cau truc: want + (not) + to V. Vi tri cua 'not' trong to-infinitive phu dinh nam o dau?",
+          "explanation": "'wanted not to fail' = muon khong truot. Vi tri cua 'not' dung truoc 'to V'. -> (B)"
         },
         {
           "id": 123,
-          "text": "______ the research uncovered some problems, the company decided to stop the project.",
+          "text": "------- the research uncovered some problems, the company decided to stop the project.",
           "options": [
             "Since",
             "Therefore",
@@ -326,12 +326,12 @@
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Since = vi; ket qua nghien cuu phat hien van de nen cong ty dung du an. -> (A)",
-          "hint": "O trong o dau cau + menh de 'research uncovered some problems' + ket qua 'company decided to stop'. Moi quan he nhan qua hay nhuong bo?"
+          "hint": "Hai ve cau co quan he NHAN-QUA: nghien cuu phat hien van de (NGUYEN NHAN) -> dung du an (KET QUA). Lien tu nao dien ta nguyen nhan?",
+          "explanation": "'Since' = Vi/Boi vi. Nghien cuu phat hien van de -> QUYET DINH dung du an. Quan he nhan qua. -> (A)"
         },
         {
           "id": 124,
-          "text": "We need greater cooperation from everyone involved in order to meet the ______.",
+          "text": "We need greater cooperation from everyone involved in order to meet the -------.",
           "options": [
             "deadline",
             "termination",
@@ -340,12 +340,12 @@
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Meet the deadline = hoan thanh dung han. -> (A)",
-          "hint": "Cum tu 'meet the _______' -> can danh tu chi moc thoi gian/ket qua can dat. Deadline/termination/boundary/limitations?"
+          "hint": "Cum dong tu 'meet the ___' la mot collocation pho bien trong TOEIC. Tu nao ket hop voi 'meet' mang nghia 'dat duoc/dap ung'?",
+          "explanation": "'meet the deadline' = dat han chot. Cum tu co dinh trong kinh doanh. -> (A)"
         },
         {
           "id": 125,
-          "text": "With just a little more work, he ______ well-prepared for his sales presentation on Friday.",
+          "text": "With just a little more work, he ------- well-prepared for his sales presentation on Friday.",
           "options": [
             "will be",
             "was being",
@@ -354,12 +354,12 @@
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Su kien tuong lai (Friday) -> will be. -> (A)",
-          "hint": "Co cum thoi gian 'on Friday' (tuong lai) + 'with just a little more work' -> he was... well-prepared. Thi gi?"
+          "hint": "Cum 'with just a little more work' chi dieu kien CHUA xay ra -> ket qua se la gi? Thi nao dien ta ket qua TUONG LAI?",
+          "explanation": "Dieu kien tuong lai: 'with more work' -> 'he will be well-prepared'. Ket qua tuong lai. -> (A)"
         },
         {
           "id": 126,
-          "text": "Every time I need to use the photocopier, I find it needs ______.",
+          "text": "Every time I need to use the photocopier, I find it needs -------.",
           "options": [
             "to fix",
             "fixes",
@@ -368,12 +368,12 @@
           ],
           "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Need + V-ing (bi dong nghia): it needs fixing = can duoc sua. -> (C)",
-          "hint": "Sau chu ngu 'it' + 'needs' -> can gi? Quy tac: 'need + V-ing' hay 'need + to be + V-pp'? Nghia bi dong."
+          "hint": "Cau truc dac biet: 'need + V-ing' tuong duong 'need + to be + V3' (can duoc lam gi). May photocopy CAN DUOC sua -> dang nao?",
+          "explanation": "'needs fixing' = can sua. Cau truc 'need + V-ing' (mang nghia bi dong). -> (C)"
         },
         {
           "id": 127,
-          "text": "Because of the partnership, Bob and Miles phone ______ several times a day.",
+          "text": "Because of the partnership, Bob and Miles phone ------- several times a day.",
           "options": [
             "theirs",
             "them",
@@ -382,12 +382,12 @@
           ],
           "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Goi cho nhau = phone each other. -> (C)",
-          "hint": "Chu ngu 'Bob and Miles phone ___ several times a day' -> hai nguoi goi cho nhau. O trong la gi?"
+          "hint": "Bob va Miles goi dien cho ___. Hai nguoi lam hanh dong TUONG HO (cho nhau). Dai tu tuong ho nao?",
+          "explanation": "'phone each other' = goi dien cho NHAU. Bob va Miles goi dien cho nhau. -> (C)"
         },
         {
           "id": 128,
-          "text": "Let’s take another ______ at the sales figures.",
+          "text": "Let's take another ------- at the sales figures.",
           "options": [
             "view",
             "scene",
@@ -396,12 +396,12 @@
           ],
           "answer": "C",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Take a glance at = nhin qua/xem qua (nhanh). -> (C)",
-          "hint": "Cum 'take another ___ at' -> can danh tu chi hanh dong nhin/kiem tra nhanh. View/scene/glance/vision?"
+          "hint": "Cum dong tu 'take another ___ at': nhin lai. Tu nao ket hop voi 'take...at' thanh cum co dinh mang nghia 'xem qua'?",
+          "explanation": "'take a glance at' = nhin luot qua. Cum dong tu co dinh. -> (C)"
         },
         {
           "id": 129,
-          "text": "It is reported that the boat ______ about 60 miles off the coast of South Africa last week.",
+          "text": "It is reported that the boat ------- about 60 miles off the coast of South Africa last week.",
           "options": [
             "disappeared",
             "was disappeared",
@@ -410,12 +410,12 @@
           ],
           "answer": "A",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Disappear la noi dong tu (khong co bi dong); qua khu don -> disappeared. -> (A)",
-          "hint": "Dong tu 'disappear' la noi dong tu (intransitive) -> co the dung bi dong khong? Moc thoi gian 'last week'."
+          "hint": "'disappear' la NOI dong tu (khong co tan ngu) -> KHONG dung bi dong. Moc thoi gian 'last week' -> thi nao?",
+          "explanation": "'disappeared' (noi dong tu) -> khong dung bi dong. Moc thoi gian 'last week' -> qua khu don. -> (A)"
         },
         {
           "id": 130,
-          "text": "Since this is our slow season, I am considering ______ to vacation next month.",
+          "text": "Since this is our slow season, I am considering ------- to vacation next month.",
           "options": [
             "to go",
             "going",
@@ -424,8 +424,8 @@
           ],
           "answer": "B",
           "category": "Part 5 - Incomplete Sentences",
-          "explanation": "Consider + V-ing -> considering going. -> (B)",
-          "hint": "Dong tu 'considering' + o trong -> considering + gi? V-ing hay to V?"
+          "hint": "Dong tu 'consider' theo sau boi dang nao cua dong tu? V-ing hay to V?",
+          "explanation": "'considering + V-ing' = dang can nhac lam gi. 'considering going' = dang can nhac di nghi. -> (B)"
         }
       ]
     },
@@ -437,9 +437,9 @@
         {
           "id": 131,
           "group": "131-134",
-          "passageTitle": "Part 6 - Passage 1: Independent Television Broadcasting Letter (Cau 131-134)",
+          "passageTitle": "Part 6 - Passage 1: Independent Television Broadcasting (Cau 131-134)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p131_134.png",
-          "text": "We want to thank you for your recent e-mail _______ last week's airing of our documentary on Moroccan street markets. We are glad that you enjoyed it and plan to watch our series more. We looked into your claim of an error in translation during one of the interviews of the street vendors...",
+          "text": "We want to thank you for your recent e-mail ------- last week's airing of our documentary on Moroccan street markets.",
           "options": [
             "(A) regarded",
             "(B) regards",
@@ -448,15 +448,15 @@
           ],
           "answer": "C",
           "category": "Part 6 - Text Completion",
-          "explanation": "Regarding + cum danh tu = ve viec; phan tu chi y nghia. -> (C)",
-          "hint": "O trong dung sau 'e-mail' truoc cum 'last week's airing' -> can phan tu/gioi tu gi de ket noi 'thu dien tu VE viec phat song'?"
+          "hint": "O trong noi hai cum danh tu: 'e-mail' va 'last week's airing'. Can tu mang nghia 'VE/LIEN QUAN DEN'. Tu nao vua la gioi tu vua phu hop?",
+          "explanation": "Gioi tu/phan tu 'regarding' = ve viec, lien quan den. 'regarding last week's airing' = ve buoi phat song tuan truoc. -> (C)"
         },
         {
           "id": 132,
           "group": "131-134",
-          "passageTitle": "Part 6 - Passage 1: Independent Television Broadcasting Letter (Cau 131-134)",
+          "passageTitle": "Part 6 - Passage 1: Independent Television Broadcasting (Cau 131-134)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p131_134.png",
-          "text": "He currently _______ to correct this, and the documentary will be uploaded online with the correct translation.",
+          "text": "He currently ------- to correct this, and the documentary will be uploaded online with the correct translation.",
           "options": [
             "(A) worked",
             "(B) is working",
@@ -465,15 +465,15 @@
           ],
           "answer": "B",
           "category": "Part 6 - Text Completion",
-          "explanation": "Hanh dong dang dien ra hien tai -> is working. -> (B)",
-          "hint": "O trong ket noi 2 menh de: 'He currently ___ to correct this, and the documentary will be uploaded'. Hanh dong dang dien ra hien tai -> thi gi?"
+          "hint": "Trang tu 'currently' chi thoi diem HIEN TAI va hanh dong DANG dien ra -> thi nao phu hop?",
+          "explanation": "'currently' = hien tai -> thi hien tai tiep dien: 'is working'. Anh ay DANG lam viec de sua. -> (B)"
         },
         {
           "id": 133,
           "group": "131-134",
-          "passageTitle": "Part 6 - Passage 1: Independent Television Broadcasting Letter (Cau 131-134)",
+          "passageTitle": "Part 6 - Passage 1: Independent Television Broadcasting (Cau 131-134)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p131_134.png",
-          "text": "[133]. As such, we will be sending you a station tote bag along with a water bottle. Please accept these gifts of our gratitude.",
+          "text": "------- As such, we will be sending you a station tote bag along with a water bottle.",
           "options": [
             "(A) Not everyone enjoyed the show.",
             "(B) Do you speak Arabic?",
@@ -482,15 +482,15 @@
           ],
           "answer": "C",
           "category": "Part 6 - Text Completion",
-          "explanation": "Cau [133] phai ket noi y tu biet on viec sua loi dich sang gui qua -> We appreciate your help in fixing this error. -> (C)",
-          "hint": "SENTENCE INSERTION: Cau [133] dung truoc 'As such, we will be sending you a station tote bag'. Cau nao ket noi tu nhien voi viec gui qua bieu?"
+          "hint": "SENTENCE INSERTION: cau truoc noi ve viec sua loi, cau sau noi 'As such, we will be sending you gifts'. Can cau nao KET NOI giua viec sua loi va viec gui qua?",
+          "explanation": "Cau truoc noi ve viec sua loi dich thuat, cau sau gui qua cam on -> (C) cam on su giup do sua loi la cau noi tu nhien nhat. -> (C)"
         },
         {
           "id": 134,
           "group": "131-134",
-          "passageTitle": "Part 6 - Passage 1: Independent Television Broadcasting Letter (Cau 131-134)",
+          "passageTitle": "Part 6 - Passage 1: Independent Television Broadcasting (Cau 131-134)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p131_134.png",
-          "text": "Please accept these gifts of our _______. It is viewers like you that inspire us to work harder and put forth better programs.",
+          "text": "Please accept these gifts of our -------.",
           "options": [
             "(A) gratitude",
             "(B) gratification",
@@ -499,15 +499,15 @@
           ],
           "answer": "A",
           "category": "Part 6 - Text Completion",
-          "explanation": "Gifts of our gratitude = qua bieu to long biet on. Danh tu: gratitude. -> (A)",
-          "hint": "O trong sau 'gifts of our' -> can danh tu chi cam xuc/tinh cam. Gratitude/gratification/gratis/gratifying - cai nao la danh tu?"
+          "hint": "Sau dai tu so huu 'our' can TU LOAI gi? Tu nao mang nghia 'long biet on/su cam kich'?",
+          "explanation": "'gifts of our gratitude' = qua cam on/long biet on. Danh tu 'gratitude' sau 'our'. -> (A)"
         },
         {
           "id": 135,
           "group": "135-138",
           "passageTitle": "Part 6 - Passage 2: Whitby Annual Carnival Raffle Winners (Cau 135-138)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p135_138.png",
-          "text": "_______ the weeklong carnival, the town of Whitby held various competitions, from raffles to trivia contests.",
+          "text": "------- the weeklong carnival, the town of Whitby held various competitions, from raffles to trivia contests.",
           "options": [
             "(A) While",
             "(B) On",
@@ -516,15 +516,15 @@
           ],
           "answer": "C",
           "category": "Part 6 - Text Completion",
-          "explanation": "During + danh tu: trong suot le hoi. -> (C)",
-          "hint": "O trong + 'the weeklong carnival' (danh tu) + menh de chinh. Can gioi tu/lien tu nao de biet y 'trong suot le hoi'?"
+          "hint": "Can gioi tu dung truoc cum danh tu 'the weeklong carnival' chi khoang thoi gian. 'While' + menh de, 'During' + cum danh tu.",
+          "explanation": "'During + N' = trong suot. 'During the weeklong carnival' = trong suot le hoi keo dai mot tuan. -> (C)"
         },
         {
           "id": 136,
           "group": "135-138",
           "passageTitle": "Part 6 - Passage 2: Whitby Annual Carnival Raffle Winners (Cau 135-138)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p135_138.png",
-          "text": "_______ resident of Whitby was automatically entered into the main raffle contest.",
+          "text": "------- resident of Whitby was automatically entered into the main raffle contest.",
           "options": [
             "(A) Each",
             "(B) Most",
@@ -533,15 +533,15 @@
           ],
           "answer": "A",
           "category": "Part 6 - Text Completion",
-          "explanation": "Each + danh tu so it: each resident. -> (A)",
-          "hint": "O trong + 'resident' (so it) -> can tu xac dinh phu hop voi danh tu so it. Phan biet: each/most/almost/all voi danh tu so it."
+          "hint": "Dong tu 'was entered' la SO IT -> can tu chi so it. 'Each' + N so it, 'Most/All' + N so nhieu. 'Almost' la trang tu, khong dung truoc danh tu truc tiep.",
+          "explanation": "'Each resident' = moi cu dan (so it). Dong tu 'was entered' la so it -> 'Each'. -> (A)"
         },
         {
           "id": 137,
           "group": "135-138",
           "passageTitle": "Part 6 - Passage 2: Whitby Annual Carnival Raffle Winners (Cau 135-138)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p135_138.png",
-          "text": "[137]. But we also want to take a moment to mention a special winner. Ms. Higgins has won the award four years in a row for her dedication to the town and weekly volunteer work at the town's various community centers.",
+          "text": "------- But we also want to take a moment to mention a special winner.",
           "options": [
             "(A) We were surprised by the results.",
             "(B) The carnival is open from 9 to 5.",
@@ -550,15 +550,15 @@
           ],
           "answer": "C",
           "category": "Part 6 - Text Completion",
-          "explanation": "Cau [137] giai thieu truoc khi neu cac nguoi thang giai -> We would like to congratulate all of our winners. -> (C)",
-          "hint": "SENTENCE INSERTION: Cau [137] dung truoc 'But we also want to take a moment to mention a special winner'. Cau nao la cau chuyen tiep tu nhien truoc khi neu ten nguoi thang dac biet?"
+          "hint": "SENTENCE INSERTION: cau sau noi 'But we also want to mention a SPECIAL winner'. Can cau truoc noi ve CHUNG (tat ca nguoi thang) de tao su chuyen tiep.",
+          "explanation": "Truoc danh sach nguoi thang -> cau gioi thieu 'chuc mung tat ca nguoi thang cuoc' roi moi noi tiep 'nhung chung toi cung muon nhac den mot nguoi dac biet'. -> (C)"
         },
         {
           "id": 138,
           "group": "135-138",
           "passageTitle": "Part 6 - Passage 2: Whitby Annual Carnival Raffle Winners (Cau 135-138)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p135_138.png",
-          "text": "All winners will receive a $100 gift voucher from Whitby Supermarket. _______ your prize, please call the Town Hall Social Services office at 555-8389.",
+          "text": "All winners will receive a $100 gift voucher from Whitby Supermarket. ------- your prize, please call the Town Hall Social Services office at 555-8389.",
           "options": [
             "(A) Claim",
             "(B) Having claimed",
@@ -567,15 +567,15 @@
           ],
           "answer": "D",
           "category": "Part 6 - Text Completion",
-          "explanation": "Menh de muc dich: To claim your prize (de nhan phan thuong). -> (D)",
-          "hint": "O trong + 'your prize' + 'please call' -> can cau truc gi de biet y 'de nhan phan thuong'? Menh de muc dich hay menh de tiep dien?"
+          "hint": "Cum dau cau dien ta MUC DICH cua hanh dong 'please call'. Cau truc nao dien ta muc dich? To V hay V-ing?",
+          "explanation": "'To claim your prize' = De nhan giai thuong cua ban -> vui long goi... Cum muc dich. -> (D)"
         },
         {
           "id": 139,
           "group": "139-142",
-          "passageTitle": "Part 6 - Passage 3: Read for the Future Charity Gala Email (Cau 139-142)",
+          "passageTitle": "Part 6 - Passage 3: Read for the Future Charity Gala (Cau 139-142)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p139_142.png",
-          "text": "It is with great _______ that we invite you to the Read for the Future Charity Gala at the Hillside Manor.",
+          "text": "It is with great ------- that we invite you to the Read for the Future Charity Gala at the Hillside Manor.",
           "options": [
             "(A) fun",
             "(B) hope",
@@ -584,15 +584,15 @@
           ],
           "answer": "C",
           "category": "Part 6 - Text Completion",
-          "explanation": "It is with great pleasure = tran trong duoc moi -> cum co dinh. -> (C)",
-          "hint": "Cum 'It is with great ___' -> day la cum co dinh trong van viet trang trong. Danh tu nao phu hop nhat?"
+          "hint": "Cum co dinh 'It is with great ___ that we invite you'. Tu nao mang nghia 'niem vui/vinh du' phu hop voi van phong trang trong?",
+          "explanation": "'It is with great pleasure that...' = Chung toi rat vui duoc moi... Cum co dinh trong thu moi trang trong. -> (C)"
         },
         {
           "id": 140,
           "group": "139-142",
-          "passageTitle": "Part 6 - Passage 3: Read for the Future Charity Gala Email (Cau 139-142)",
+          "passageTitle": "Part 6 - Passage 3: Read for the Future Charity Gala (Cau 139-142)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p139_142.png",
-          "text": "dress is formal attire. . The proceeds from this will go toward the library expansion project. , Please send the RSVP by January 15\". If you are unable to attend, you will be sorely missed. However, you are still able to make a donation through our special donor website at www.readfuture.org. We look forward to having an evening with you.",
+          "text": "The event ------- live entertainment and a three-course meal.",
           "options": [
             "(A) will feature",
             "(B) featuring",
@@ -601,32 +601,32 @@
           ],
           "answer": "A",
           "category": "Part 6 - Text Completion",
-          "explanation": "Su kien chua dien ra (tuong lai) -> will feature. -> (A)",
-          "hint": "O trong + 'live entertainment and a three-course meal' -> su kien nay LA GI / SE CO gi. Thi gi phu hop cho su kien tuong lai?"
+          "hint": "Su kien la TUONG LAI (dang moi tham du). Dong tu can chia o thi nao? Chu ngu 'The event' la chu dong hay bi dong voi 'feature'?",
+          "explanation": "Su kien TUONG LAI (chua dien ra, dang moi) -> 'will feature' = se co. -> (A)"
         },
         {
           "id": 141,
           "group": "139-142",
-          "passageTitle": "Part 6 - Passage 3: Read for the Future Charity Gala Email (Cau 139-142)",
+          "passageTitle": "Part 6 - Passage 3: Read for the Future Charity Gala (Cau 139-142)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p139_142.png",
-          "text": "Dress is formal attire. _______. The proceeds from this will go toward the library expansion project.",
+          "text": "The proceeds from this will go toward the library expansion project. -------",
           "options": [
             "(A) We ask that each person who attends the dinner give a donation of $50 or more to the organization.",
             "(B) Families with children under the age of 10 are asked to leave their children at home.",
             "(C) Those with special dietary restrictions are asked to mention their preference on their RSVP.",
-            "(D) Dinner will be held in the outdoor terrace beginning at 8 p.m."
+            "(D) Dinner will be held on the outdoor terrace beginning at 8 p.m."
           ],
           "answer": "C",
           "category": "Part 6 - Text Completion",
-          "explanation": "Sau trang phuc, can thong tin ve dia diem/thoi gian an toi -> Dinner will be held at outdoor terrace at 8 pm. -> (D)",
-          "hint": "SENTENCE INSERTION: Cau [141] dung sau 'Dress is formal attire.' va truoc 'The proceeds from this will go toward the library expansion project.' Can cau nao ket noi tu nhien?"
+          "hint": "SENTENCE INSERTION: cau sau noi 'Please send the RSVP by January 15th'. Can cau nao LIEN QUAN den viec gui RSVP de tao su chuyen tiep tu nhien?",
+          "explanation": "Truoc cau nay noi ve 'dress is formal attire', sau la 'Please send the RSVP by January 15th'. Cau chen phai lien quan den RSVP -> (C) yeu cau ghi che do an vao RSVP phu hop. -> (C)"
         },
         {
           "id": 142,
           "group": "139-142",
-          "passageTitle": "Part 6 - Passage 3: Read for the Future Charity Gala Email (Cau 139-142)",
+          "passageTitle": "Part 6 - Passage 3: Read for the Future Charity Gala (Cau 139-142)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p139_142.png",
-          "text": "(A) (B) (C) (D) ae a eee eee Fees ieee the organization. Families with children under the age of 10 are asked to leave their children at home. Those with special dietary restrictions are asked to mention their preference on their RSVP. Dinner will be held in the outdoor terrace beginning at 8 p.m. unfortunate ecstatic unforgettable optimistic",
+          "text": "We look forward to having an ------- evening with you.",
           "options": [
             "(A) unfortunate",
             "(B) ecstatic",
@@ -635,15 +635,15 @@
           ],
           "answer": "C",
           "category": "Part 6 - Text Completion",
-          "explanation": "Mot buoi toi dang nho / khong the quen -> unforgettable. -> (C)",
-          "hint": "O trong + 'evening' -> can tinh tu bo nghia cho buoi toi trong thu moi du tiec. Tinh tu nao phu hop nhat voi buc thu trang trong lich su?"
+          "hint": "Tinh tu bo nghia cho 'evening' trong ngu canh THU MOI su kien. Tu nao dien ta buoi toi DAC BIET, DANG NHO?",
+          "explanation": "'an unforgettable evening' = buoi toi kho quen. Phu hop voi thu moi trang trong. -> (C)"
         },
         {
           "id": 143,
           "group": "143-146",
           "passageTitle": "Part 6 - Passage 4: Super Savers Weekly Specials (Cau 143-146)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p143_146.png",
-          "text": "(A) (B) (C) (D)",
+          "text": "At Save Mart, you know you can always find quality foods at bargain prices. This week, we have some great offers for all of ------- customers, no matter what your tastes are.",
           "options": [
             "(A) yours",
             "(B) ours",
@@ -652,32 +652,32 @@
           ],
           "answer": "D",
           "category": "Part 6 - Text Completion",
-          "explanation": "Tinh tu so huu truoc danh tu customers -> our customers (cua chung toi). -> (D)",
-          "hint": "O trong dung truoc 'customers' -> can tu so huu phu hop voi chuoi cua hang dang quang cao. Our/your/ours/yours - cai nao la tinh tu so huu?"
+          "hint": "Chu ngu 'we' (chung toi) -> noi ve khach hang cua AI? Can tinh tu so huu tuong ung voi 'we'.",
+          "explanation": "Tinh tu so huu 'our customers' = khach hang CUA CHUNG TOI. Save Mart noi ve khach hang cua minh. -> (D)"
         },
         {
           "id": 144,
           "group": "143-146",
           "passageTitle": "Part 6 - Passage 4: Super Savers Weekly Specials (Cau 143-146)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p143_146.png",
-          "text": "(A) (B) (c) (D) yours ours your our none not no nothing",
+          "text": "Buy three fruit yogurts and get a fourth FREE! (This offer is ------- valid for the Banone brand.)",
           "options": [
-            "(A) The more you buy, the more you save,",
-            "(B) All bakery items are non-refundable,",
-            "(C) some",
-            "(D) Please see the manager to sign up for"
+            "(A) none",
+            "(B) not",
+            "(C) no",
+            "(D) nothing"
           ],
           "answer": "B",
           "category": "Part 6 - Text Completion",
-          "explanation": "Not valid = khong hop le (theo ngu canh: uong dau chu y - khong ap dung cho nhan hieu Banone). -> (B)",
-          "hint": "O trong + 'valid for the Banone brand' -> cau nay noi rang uu dai nay '[o trong] co hieu luc voi nhan hieu Banone'. Phu dinh hay khang dinh?"
+          "hint": "Can phu dinh dong tu 'is'. Tu phu dinh nao dung sau 'is' trong cau truc 'is ___ valid'?",
+          "explanation": "'is not valid' = khong co hieu luc. Phu dinh dong tu 'is' bang 'not'. -> (B)"
         },
         {
           "id": 145,
           "group": "143-146",
           "passageTitle": "Part 6 - Passage 4: Super Savers Weekly Specials (Cau 143-146)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p143_146.png",
-          "text": "everything you need to feed your family without breaking the bank. Offers valid June 2” to 9\", . Due to conditions beyond our control, items advertised may",
+          "text": "You know our prices are ------- better than the other stores'!",
           "options": [
             "(A) more",
             "(B) much",
@@ -686,15 +686,15 @@
           ],
           "answer": "B",
           "category": "Part 6 - Text Completion",
-          "explanation": "Much + tinh tu so sanh hon (better) = tot hon han. -> (B)",
-          "hint": "O trong + 'better' (tinh tu so sanh) -> can trung tu bo nghia truoc tinh tu so sanh. Cai nao trong 4 options co the dung truoc comparative?"
+          "hint": "O trong dung truoc tinh tu so sanh hon 'better'. Tu nao bo nghia cho COMPARATIVE de nhan manh?",
+          "explanation": "'much better' = tot hon nhieu. 'much' bo nghia cho so sanh hon 'better'. -> (B)"
         },
         {
           "id": 146,
           "group": "143-146",
           "passageTitle": "Part 6 - Passage 4: Super Savers Weekly Specials (Cau 143-146)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part6_p143_146.png",
-          "text": "not be available, As a result, rain checks are not available,",
+          "text": "Offers valid June 2nd to 9th. ------- Due to conditions beyond our control, items advertised may not be available.",
           "options": [
             "(A) The more you buy, the more you save.",
             "(B) All bakery items are non-refundable.",
@@ -703,8 +703,8 @@
           ],
           "answer": "C",
           "category": "Part 6 - Text Completion",
-          "explanation": "Cau [146] giai thich truoc thong tin 'items may not be available' -> Selections may vary from store to store. -> (C)",
-          "hint": "SENTENCE INSERTION: Cau [146] dung truoc 'Due to conditions beyond our control, items advertised may not be available.' Can cau nao giai thich/dan dat tu nhien?"
+          "hint": "SENTENCE INSERTION: cau sau noi san pham co the khong co san. Can cau nao LIEN QUAN den tinh kha dung/su khac biet giua cac cua hang?",
+          "explanation": "Cau sau noi 'items may not be available' -> (C) 'Selections may vary from store to store' cung noi ve tinh kha dung cua san pham, tao chuyen tiep tu nhien. -> (C)"
         }
       ]
     },
@@ -727,15 +727,15 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Lucas duoc bau vao HDQT tu 2004, lam CEO 2009. Garza moi la nguoi 20 nam. -> (C) la sai ve Lucas.",
-          "hint": "Cau hoi NOT -> 3 dap an DUNG = nhung dieu DUNG ve retiring CEO. Loai tung dap an bang cach scan passage tim thong tin ve Lucas."
+          "hint": "Cau hoi NOT: 3 dap an DUNG trong bai. Tim dap an KHONG duoc nhac den ve retiring CEO (Paolo Lucas). Ai la '20-year veteran'?",
+          "explanation": "Lucas served on the board since 2004, appointed president 2008, CEO 2009. Khong noi 20 nam. Manuel Garza moi la '20-year veteran'. -> (C)"
         },
         {
           "id": 148,
           "group": "147-148",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 147-148)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q147_148.png",
-          "text": "The word “effective” in paragraph 1, line 3, is closest in meaning to",
+          "text": "The word 'effective' in paragraph 1, line 3, is closest in meaning to",
           "options": [
             "(A) successful",
             "(B) operative",
@@ -744,8 +744,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Effective October 31 = co hieu luc tu ngay 31/10 -> operative (bat dau co hieu luc). -> (B)",
-          "hint": "Cau hoi tu vung 'effective' -> doc cau co chua tu nay. Ngu canh: 'effective on October 31' -> tu 'effective' o day co nghia gi?"
+          "hint": "Tu 'effective' trong ngu canh 'effective on October 31' mang nghia gi? Khong phai 'hieu qua' ma la 'CO HIEU LUC tu ngay...'.",
+          "explanation": "'effective on October 31' = co hieu luc/bat dau tu ngay 31/10. 'operative' = co hieu luc, hoat dong. -> (B)"
         },
         {
           "id": 149,
@@ -761,15 +761,15 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Ellen muon di an Thai vi 'lots of vegetarian options for you, too' -> khong an thit. -> (D)",
-          "hint": "Cau hoi SUGGESTED -> suy luan tu dieu Meryl noi ('lots of vegetarian options for you, too'). Dieu gi duoc ngam hieu ve Ellen?"
+          "hint": "Tim thong tin ve Ellen B. Meryl nhac den 'vegetarian options for you, too' -> dieu nay goi y gi ve Ellen?",
+          "explanation": "Meryl noi 'lots of vegetarian options for you, too' -> Ellen an chay = khong an thit. -> (D)"
         },
         {
           "id": 150,
           "group": "149-150",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 149-150)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q149_150.png",
-          "text": "At 11:48, what does Ellen B mean when she writes, “Thai food it is, then”?",
+          "text": "At 11:48, what does Ellen B mean when she writes, 'Thai food it is, then'?",
           "options": [
             "(A) She wants to try the restaurant another time.",
             "(B) She will go to the restaurant for lunch.",
@@ -778,8 +778,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Thai food it is = duoc roi, chon Thai food; se di an Thai. -> (B)",
-          "hint": "Cau hoi: 'Thai food it is, then' co nghia gi? Day la cau khang dinh quyet dinh hay tu choi?"
+          "hint": "Cum 'Thai food it is, then' la cach noi DONG Y. Truoc do Meryl da giai quyet van de gio giac (CFO visit da doi). Ellen dang xac nhan dieu gi?",
+          "explanation": "Ellen dong y di an Thai: 'Thai food it is, then' = Vay thi an Thai nhe. Co ay se di nha hang an trua. -> (B)"
         },
         {
           "id": 151,
@@ -795,8 +795,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Payments: -2,000.00 -> da thanh toan $2,000. -> (C)",
-          "hint": "Cau hoi: 'How much has Vista Hotel already paid?' -> scan invoice tim muc 'Payments'. So lieu nao la so da thanh toan?"
+          "hint": "Tim trong hoa don muc 'Payments' - so tien da thanh toan. Balance = so tien con no.",
+          "explanation": "Hoa don ghi: Payments: -2,000.00. Balance: 1,937.01. Vay da thanh toan $2,000. -> (C)"
         },
         {
           "id": 152,
@@ -807,20 +807,20 @@
           "options": [
             "(A) It shipped the items on 08/02.",
             "(B) It charges a set price per project.",
-            "(C) It coes not specify a payment method.",
+            "(C) It does not specify a payment method.",
             "(D) It does not charge late fees."
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Design services: $3,500 per project -> gia co dinh theo du an. -> (B)",
-          "hint": "Cau hoi: Which is TRUE -> doi chieu tung option voi thong tin trong invoice. 'It charges a set price per project' -> kiem tra bang gia."
+          "hint": "Doc ky hoa don: cot 'Unit' ghi gi? 'payable by check only' ghi o dau? 'Late payments' co bi tinh phi khong?",
+          "explanation": "Hoa don ghi: 'Design services (logo, letterhead, business card) - $3,500.00 - project - Qty 1'. Tinh gia theo du an. -> (B). Hoa don cung ghi 'payable by check only' -> co chi dinh phuong thuc. 'Late payments subject to 5% charges' -> co tinh phi tre han."
         },
         {
           "id": 153,
           "group": "153-154",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 153-154)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q153_154.png",
-          "text": "Why is Randy selling his car? f",
+          "text": "Why is Randy selling his car?",
           "options": [
             "(A) It is too old.",
             "(B) He needs money.",
@@ -829,8 +829,8 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'my company is transferring me overseas' -> chuyen di nuoc ngoai. -> (D)",
-          "hint": "Cau hoi: WHY is Randy selling? -> Scan quang cao tim ly do. 'company is transferring me...' co nghia gi?"
+          "hint": "Tim ly do ban xe trong doan dau. 'transferring me overseas' nghia la gi?",
+          "explanation": "'my company is transferring me overseas' = cong ty chuyen toi ra nuoc ngoai. -> (D)"
         },
         {
           "id": 154,
@@ -846,8 +846,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Classic F-platform with original doors and GM/Delco stereo -> con am thanh goc. -> (B)",
-          "hint": "Cau hoi: What is STATED -> scan qua tung option va doi chieu. Option B: 'original stereo' - co trong quang cao khong?"
+          "hint": "Doc danh sach dac diem xe. Tu 'original' xuat hien o dau? 'New exhaust, shocks, tires' -> tires da MOI hay can moi?",
+          "explanation": "'Classic F-platform with original doors and GM/Delco stereo!' -> co stereo GOC (original). -> (B). Tires da duoc thay moi, seat covers included, needs paint touch-up."
         },
         {
           "id": 155,
@@ -863,25 +863,25 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'I will now be leaving Concord early tomorrow morning' -> hien tai van o Concord. -> (D)",
-          "hint": "Cau hoi: WHERE is Mr. Brown NOW? -> He is LEAVING Concord 'tomorrow morning' -> ngay hom nay ong ay o dau?"
+          "hint": "Mr. Brown viet email ngay 15/8, noi 'leaving Concord early tomorrow morning'. Vay hien tai anh ay dang o dau?",
+          "explanation": "Email: 'I will now be leaving Concord early tomorrow morning' -> hien tai van o Concord. -> (D)"
         },
         {
           "id": 156,
           "group": "155-157",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 155-157)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q155_157.png",
-          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"My flight to California has been canceled because of bad weather.”",
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'My flight to California has been canceled because of bad weather.'",
           "options": [
             "(A) [1]",
             "(B) [2]",
             "(C) [3]",
             "(D) [4]"
           ],
-          "answer": "B",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Cau giai thich ly do chuyen bay bi huy -> dung o [1] truoc khi giai thich lich bay moi. -> (A)",
-          "hint": "SENTENCE INSERTION: 'My flight to California has been canceled because of bad weather.' -> Cau nay giai thich ly do tai sao. Vi tri nao can giai thich truoc khi neu lich bay moi?"
+          "hint": "SENTENCE INSERTION: cau giai thich 'flight canceled because of bad weather'. Vi tri nao tao su lien ket tu nhien nhat? [1] nam truoc 'This is just to confirm your phone message'.",
+          "explanation": "Cau 'My flight has been canceled' giai thich TAI SAO phai doi chuyen bay, dat ngay truoc [1] 'This is just to confirm that I have received your phone message' -> [1] la vi tri phu hop nhat. -> (A)"
         },
         {
           "id": 157,
@@ -897,8 +897,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'reschedule our meetings for the day after I get there, the 17th' -> den noi ngay 17/8. -> (D)",
-          "hint": "Cau hoi: WHEN will Mr. Brown arrive? -> Tim ngay cu the trong email. 'the day after I get there, the 17th' -> ngay 17 la ngay nao?"
+          "hint": "Email viet ngay August 15. 'leaving tomorrow morning' va 'arriving tomorrow night'. 'Tomorrow' la ngay nao?",
+          "explanation": "Email ngay 15/8: 'leaving Concord early tomorrow morning' = sang 16/8, 'arriving in Los Angeles...tomorrow night around 8:00' = toi 16/8. -> (C)"
         },
         {
           "id": 158,
@@ -914,8 +914,8 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Elvis and the Swamp Monster: Thursday and Friday; Digstown: Friday through Sunday -> Friday co 2 phim. -> (D)",
-          "hint": "Cau hoi: On what day are TWO movies shown? -> Kiem tra lich chieu tung phim. Ngay nao co 2 phim cung chieu?"
+          "hint": "Doc lich chieu cua tung phim. Ngay nao co HAI phim cung chieu?",
+          "explanation": "Friday: 'Elvis and the Swamp Monster' (Thu-Fri, 8:00 p.m.) + 'Digstown' (Fri-Sun, 9:00 p.m., 12:00 a.m.). Hai phim chieu ngay Friday. -> (D)"
         },
         {
           "id": 159,
@@ -926,13 +926,13 @@
           "options": [
             "(A) By asking about customer preferences",
             "(B) By measuring box office popularity",
-            "(C) By reading critics’ recommendations",
+            "(C) By reading critics' recommendations",
             "(D) By asking staff members"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'fill in an audience choice form... We will select our next genre based on the results of the survey' -> hoi khan gia. -> (A)",
-          "hint": "Cau hoi: HOW will theater choose next theme? -> Scan van ban tim thong tin ve audience/survey."
+          "hint": "Tim cau noi ve cach chon chu de tiep theo. 'audience choice form' va 'results of the survey' goi y dieu gi?",
+          "explanation": "'fill in an audience choice form next time you visit. We will select our next genre based on the results of the survey.' -> hoi y kien khan gia. -> (A)"
         },
         {
           "id": 160,
@@ -948,8 +948,8 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Digstown: Friday through Sunday, 9:00 p.m., 12.00 a.m. -> suat chieu muon nhat la nua dem. -> (D)",
-          "hint": "Cau hoi: What is the LATEST time? -> Kiem tra tat ca suat chieu, tim suat muon nhat trong ngay."
+          "hint": "Doc gio chieu cua tat ca phim. Gio chieu muon nhat la bao nhieu? '12.00 a.m.' tuong duong may gio?",
+          "explanation": "'Digstown - Friday through Sunday, 9:00 p.m., 12.00 a.m.' -> 12:00 a.m. = nua dem = Midnight. -> (D)"
         },
         {
           "id": 161,
@@ -960,13 +960,13 @@
           "options": [
             "(A) A copy of the catalog",
             "(B) A reply by e-mail",
-            "(C) Aset of bowls",
+            "(C) A set of bowls",
             "(D) A large cup"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'I would appreciate receiving the information by e-mail' -> yeu cau tra loi qua email. -> (B)",
-          "hint": "Cau hoi: What does Linda REQUEST? -> Tim dong tu/menh de chi yeu cau trong thu. 'I would appreciate receiving...'"
+          "hint": "Doc yeu cau cua Linda Trent o cuoi thu. Co ay muon nhan thong tin bang cach nao?",
+          "explanation": "'Please send me information on your available stock. I would appreciate receiving the information by e-mail.' -> yeu cau tra loi qua email. -> (B)"
         },
         {
           "id": 162,
@@ -982,8 +982,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'I was amazed yet again at the variety and creativity... vases and bowls are quite exquisite!' -> rat an tuong. -> (B)",
-          "hint": "Cau hoi: What is Linda's OPINION? -> Tim cac tu/cau the hien cam nhan tich cuc hay tieu cuc."
+          "hint": "Tim cac tu bieu cam cua Linda ve san pham Galoob: 'amazed', 'variety and creativity', 'exquisite'. Nhung tu nay the hien y kien gi?",
+          "explanation": "'I was amazed yet again at the variety and creativity...Your vases and bowls are quite exquisite!' -> san pham rat dep/hap dan. -> (B)"
         },
         {
           "id": 163,
@@ -999,8 +999,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'I will probably purchase 50 or more of the ladybug bowls. They are perfect for holding sugar cubes.' -> ladybug bowls. -> (C)",
-          "hint": "Cau hoi: What will coffee shop USE to hold sugar? -> Scan thu tim thong tin ve ladybug bowls."
+          "hint": "Tim cau noi ve 'holding sugar cubes'. San pham nao duoc mo ta la 'perfect for holding sugar cubes'?",
+          "explanation": "'I will probably purchase 50 or more of the ladybug bowls. They are perfect for holding sugar cubes.' -> dung ladybug bowls dung duong. -> (C)"
         },
         {
           "id": 164,
@@ -1016,8 +1016,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Sam: 'Sorry to bother you on a Saturday' -> xin loi vi nhan tin vao cuoi tuan. -> (C)",
-          "hint": "Cau hoi: What does Sam APOLOGIZE for? -> Tim cau 'Sorry' trong doan chat. Ong ay xin loi vi dieu gi cu the?"
+          "hint": "Doc tin nhan dau tien cua Sam. Anh ay xin loi ve dieu gi? 'Sorry to bother you on a Saturday' nghia la gi?",
+          "explanation": "'Sorry to bother you on a Saturday' = Xin loi da lam phien vao thu Bay. -> (C)"
         },
         {
           "id": 165,
@@ -1031,10 +1031,10 @@
             "(C) He has a low-level position.",
             "(D) He worked on the brochures."
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Tina: 'he almost never takes a day off' -> lam ca ngay nghi. -> (B)",
-          "hint": "Cau hoi: What is SUGGESTED about Peter? -> Tim thong tin gian tiep ve Peter qua loi nhan xet cua Tina."
+          "hint": "Tim thong tin ve Peter. Rob noi 'get approval from Peter'. Tina noi 'he almost never takes a day off'. Peter co vai tro gi?",
+          "explanation": "Rob noi 'get approval from Peter', Tina noi 'he almost never takes a day off'. Sam noi 'somebody must have checked the proofs' -> Peter co vai tro cap cao va da duyet brochures. -> (D). That ra, can xem ky: 'somebody must have checked the proofs before they were printed' - ai do da check. Sam noi can approval tu Peter -> Peter la nguoi cap cao. Rob goi Peter -> Peter duyet. Nhung 'worked on' = da lam viec tren brochures thi khong chinh xac vi Peter la nguoi DUYET, khong phai lam. Tuy nhien, 'he worked on the brochures' o day co the hieu la da tham gia vao quy trinh. -> (D) la dap an phu hop nhat."
         },
         {
           "id": 166,
@@ -1050,25 +1050,25 @@
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Rob: 'I'll call him' (Peter) -> se goi cho Peter. -> (A)",
-          "hint": "Cau hoi: What will Rob MOST LIKELY do NEXT? -> Tim loi noi cua Rob phan hoi ke hoach hanh dong."
+          "hint": "Doc tin nhan cuoi cua Rob Martin. Anh ay noi se lam gi? 'I'll call him' - 'him' la ai?",
+          "explanation": "Rob noi: 'I'll call him' (Peter). 'He's probably working from home today anyway.' -> Rob se goi Peter. -> (A)"
         },
         {
           "id": 167,
           "group": "164-167",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 164-167)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q164_167.png",
-          "text": "At 9:57 a.m., what does Tina Zakaria imply when she writes, “It's our only option at this point\"?",
+          "text": "At 9:57 a.m., what does Tina Zakaria imply when she writes, 'It's our only option at this point'?",
           "options": [
             "(A) They have to ask for approval.",
             "(B) They have to call another printer.",
-            "(C) The company has to go to the trade",
+            "(C) The company has to go to the trade fair.",
             "(D) The company has to pay the extra cost."
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Chi co cach tra them cho rush service -> the company has to pay the extra cost. -> (D)",
-          "hint": "Cau hoi: What does Tina IMPLY? -> 'It's our only option at this point' -> chi co mot lua chon la gi?"
+          "hint": "Doc ngu canh truoc 9:57: Sam nhac den 'rush service, which isn't cheap'. 'It's our only option' am chi phai chap nhan dieu gi?",
+          "explanation": "Truoc do Sam noi 'rush service, which isn't cheap. But I can't do that without approval'. Rob noi 'we have to get approval from Peter'. Tina noi 'It's our only option' = phai tra them tien (rush service). -> (D)"
         },
         {
           "id": 168,
@@ -1084,15 +1084,15 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Quang cao cho chuyen du lich bien (Caribbean cruise). -> (C)",
-          "hint": "Cau hoi: What is the PURPOSE? -> Quang cao nay dang quang ba cai gi? Cruise/buffet/store?"
+          "hint": "Doc tieu de va noi dung chinh. 'Caribbean cruise', 'stops in Jamaica, Aruba, and Puerto Rico' -> quang cao ve gi?",
+          "explanation": "Quang cao 'Dream Vacation' ve 'Caribbean cruise' voi gia $799. -> (C)"
         },
         {
           "id": 169,
           "group": "168-171",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 168-171)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q168_171.png",
-          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"If you book now, you can get away for even less.\"",
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'If you book now, you can get away for even less.'",
           "options": [
             "(A) [1]",
             "(B) [2]",
@@ -1101,25 +1101,25 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Cau khuyen khich dat som -> dung o [2] truoc khi giai thich gia cu the. -> (B)",
-          "hint": "SENTENCE INSERTION: 'If you book now, you can get away for even less.' -> Cau nay khuyen khich dat som. Vi tri nao phu hop truoc khi giai thich gia?"
+          "hint": "SENTENCE INSERTION: 'book now, get away for less' lien quan den GIA. Tim vi tri gan nhat voi thong tin ve gia $799.",
+          "explanation": "[4] nam truoc gia $799: 'For a limited time, we are offering a Caribbean cruise for only $799'. Cau 'book now, get away for even less' phu hop truoc phan noi ve gia. -> (D)"
         },
         {
           "id": 170,
           "group": "168-171",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 168-171)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q168_171.png",
-          "text": "How can reservations be made? ,",
+          "text": "How can reservations be made?",
           "options": [
-            "(A) Six days",
-            "(B) One week",
-            "(C) Two weeks",
-            "(D) One month"
+            "(A) By e-mailing Dazzle Tours",
+            "(B) By visiting the airport",
+            "(C) By telephoning an agent",
+            "(D) By faxing the company"
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'Call one of our agents to reserve your place now!' -> goi dien. -> (C)",
-          "hint": "Cau hoi: HOW can reservations be made? -> Scan van ban tim phuong thuc dat cho. 'Call one of our agents...'"
+          "hint": "Tim cau huong dan dat cho. 'Call one of our agents' goi y phuong thuc nao?",
+          "explanation": "'Call one of our agents to reserve your place now!' -> goi dien cho dai ly. -> (C)"
         },
         {
           "id": 171,
@@ -1135,8 +1135,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'all tours last seven days and six nights' -> 7 ngay = one week. -> (B)",
-          "hint": "Cau hoi: HOW LONG does a tour last? -> Tim cum so chi thoi gian trong van ban. 'seven days and six nights' = bao nhieu?"
+          "hint": "Tim thong tin ve thoi gian chuyen di. 'seven days and six nights' tuong duong bao lau?",
+          "explanation": "'All tours last seven days and six nights.' = 7 ngay 6 dem = one week. -> (B)"
         },
         {
           "id": 172,
@@ -1152,8 +1152,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'research other people's opinions of the company. There are many websites...' -> so sanh cac website. -> (B)",
-          "hint": "Cau hoi: What should you do BEFORE purchase? -> Tim buoc dau tien trong danh sach loi khuyen."
+          "hint": "Doc phan 'Before placing your first order'. Loi khuyen dau tien la gi? 'research' va 'reviewing online companies' goi y dieu gi?",
+          "explanation": "'Before placing your first order, research other people's opinions of the company. There are many websites dedicated to reviewing online companies.' -> so sanh cac website. -> (B)"
         },
         {
           "id": 173,
@@ -1169,25 +1169,25 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'proof-of-purchase will help you in the event that your item is damaged or not what you ordered' -> truong hop tranh chap. -> (B)",
-          "hint": "Cau hoi: WHY keep receipts? -> Tim doan van de cap den viec luu bien lai/chung tu."
+          "hint": "Tim phan noi ve 'Keep records'. 'in the event that your item is damaged' goi y muc dich gi?",
+          "explanation": "'Keep records of your order...This proof-of-purchase will help you in the event that your item is damaged or not what you ordered.' -> khi co tranh chap. -> (B)"
         },
         {
           "id": 174,
           "group": "172-175",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 172-175)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q172_175.png",
-          "text": "The word “encounter” in paragraph 6, line 1, | Make sure is closest in meaning to",
+          "text": "The word 'encounter' in paragraph 6, line 1, is closest in meaning to",
           "options": [
-            "(A) The review websites",
-            "(B) The shipping company",
+            "(A) face",
+            "(B) solve",
             "(C) cause",
-            "(D) Your Internet provider"
+            "(D) dislike"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "If you encounter any problems = neu ban gap phai van de -> face (doi mat). -> (A)",
-          "hint": "Cau hoi tu vung 'encounter' -> doc cau 'If you encounter any problems' -> encounter co nghia gi trong ngu canh nay?"
+          "hint": "Tu 'encounter' trong ngu canh 'encounter problems'. Tu nao dong nghia mang nghia 'gap phai/doi mat'?",
+          "explanation": "'If you encounter any problems' = Neu ban GAP bat ky van de nao. 'encounter' = face = doi mat voi. -> (A)"
         },
         {
           "id": 175,
@@ -1203,8 +1203,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'contact a consumer advocacy group' = to chuc bao ve nguoi tieu dung = customer watchdog. -> (C)",
-          "hint": "Cau hoi: Whom should you CONTACT? -> Tim ten/loai to chuc duoc de cap trong doan cuoi van ban."
+          "hint": "Doc cau cuoi bai. 'consumer advocacy group' tuong duong voi tu nao trong cac lua chon?",
+          "explanation": "'contact a consumer advocacy group' = lien he nhom bao ve nguoi tieu dung = customer watchdog. -> (C)"
         },
         {
           "id": 176,
@@ -1213,15 +1213,15 @@
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q176_180.png",
           "text": "Where will the park board meet?",
           "options": [
-            "(A) Hiring a snow removal company",
-            "(B) Keeping it open throughout the year",
-            "(C) Constructing an ice rink",
-            "(D) Installing a new pond"
+            "(A) At the ice rink",
+            "(B) In the library",
+            "(C) At the office",
+            "(D) In the park"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'conference room B of the public library' -> trong thu vien. -> (B)",
-          "hint": "Cau hoi: WHERE will park board meet? -> Tim dia diem hop cu the trong van ban."
+          "hint": "Tim dia diem hop. 'conference room B of the public library' la o dau?",
+          "explanation": "'scheduled for Wednesday, October 17, at 6 p.m. in conference room B of the public library.' -> tai thu vien. -> (B)"
         },
         {
           "id": 177,
@@ -1235,17 +1235,17 @@
             "(C) Constructing an ice rink",
             "(D) Installing a new pond"
           ],
-          "answer": "C",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'Snow blowers will enable Mendez Park to stay open all year round' -> giu mo cua quanh nam. -> (B)",
-          "hint": "Cau hoi: What CHANGE is planned? -> Tim thong tin ve ke hoach thay doi trong cong vien."
+          "hint": "Doc phan ve 'Snow blowers'. Tac dung cua chung la gi? 'stay open all year round' nghia la gi?",
+          "explanation": "'Snow blowers will enable Mendez Park to stay open all year round, even in the heaviest snow.' -> giu cong vien mo ca nam. -> (B)"
         },
         {
           "id": 178,
           "group": "176-180",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 176-180)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q176_180.png",
-          "text": "Wh Itis not necessary to notify us of your attendance in advance, However, if you would like to te) add an item to the agenda, speak at the meeting, or present a report on behalf of a local © (D) organization, please contact Glen Tuber at the city office, at 345-4444, extension 221, before October 5, All speakers must receive authorization before the meeting, so it is essential that you contact us in advance. We hope to see you there!",
+          "text": "Which people should call Glen Tuber?",
           "options": [
             "(A) People wanting to attend the meeting",
             "(B) People wanting to buy festival tickets",
@@ -1254,8 +1254,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'if you would like to... speak at the meeting... please contact Glen Tuber' -> nguoi muon phat bieu. -> (C)",
-          "hint": "Cau hoi: Which people should call Glen Tuber? -> Doc doan mo ta khi nao can lien he Glen Tuber."
+          "hint": "Tim cau nhac den Glen Tuber. Nhung nguoi nao can lien he Glen Tuber? Doc dieu kien.",
+          "explanation": "'if you would like to add an item to the agenda, speak at the meeting, or present a report...please contact Glen Tuber.' -> nguoi muon phat bieu tai cuoc hop. -> (C)"
         },
         {
           "id": 179,
@@ -1271,8 +1271,8 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Ice Rink Construction: 7:20 p.m.; Winterfest Bonfire Ball: 8:20 p.m. -> 8:20 - 7:20 = 60 phut. -> (D)",
-          "hint": "Cau hoi: HOW LONG is ice rink discussion? -> Xem bang lich, tinh thoi gian tu luc bat dau den luc ket thuc muc Ice Rink."
+          "hint": "Doc bang Agenda. 'Ice Rink Construction' bat dau va ket thuc luc may gio? Tinh hieu so.",
+          "explanation": "Agenda: 'Ice Rink Construction' bat dau luc 7:20 p.m., muc tiep theo 'Winterfest Bonfire Ball' luc 8:20 p.m. -> 60 phut. -> (D)"
         },
         {
           "id": 180,
@@ -1288,8 +1288,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Van ban neu 'next month's Winterfest Bonfire Ball to raise money for equipment' -> muc them vao. -> (C)",
-          "hint": "Cau hoi: Which item was ADDED? -> So sanh van ban mo ta va bang lich chinh thuc. Muc nao trong bang lich khong duoc de cap trong van ban?"
+          "hint": "Doc bai viet va so sanh voi Agenda. Muc nao khong nam trong noi dung chinh cua cuoc hop nhung van xuat hien trong Agenda?",
+          "explanation": "Bai viet noi: 'current agenda items include: regular committee reports, funding for the purchase of snow blowers, construction of a temporary outdoor ice rink...and next month's Winterfest Bonfire Ball to raise money for equipment for the children's playground.' -> Winterfest Bonfire Ball la muc THEM VAO (to raise money). Tuy nhien, cau hoi la 'added to the original agenda' -> muc khong nam trong danh sach ban dau. Xem ky: cac muc chinh la committee reports, snow blowers, ice rink. Winterfest va Cedar Lake cung duoc nhac. Tuy nhien, 'Winterfest Bonfire Ball (ticket sales)' la muc them vao de ban ve ban ve. -> (C)"
         },
         {
           "id": 181,
@@ -1305,8 +1305,8 @@
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'surveyed... about their vacation plans for the coming summer' -> ke hoach nghi he. -> (A)",
-          "hint": "Cau hoi: What were people MAINLY surveyed about? -> Tim chu de chinh cua cuoc khao sat trong memo."
+          "hint": "Doc phan Memo. '1,000 British people were recently surveyed...about' ve dieu gi?",
+          "explanation": "'surveyed by Sunshine Holidays about their vacation plans for the coming summer.' -> ke hoach nghi he. -> (A)"
         },
         {
           "id": 182,
@@ -1322,15 +1322,15 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'we are launching a staff competition' -> gioi thieu cuoc thi nhan vien. -> (B)",
-          "hint": "Cau hoi: WHY was memo written? -> Tim muc dich chinh cua memo (sentence dau hoac ket luan)."
+          "hint": "Tim muc dich chinh cua Memo. 'launching a staff competition' va 'submit your ideas' goi y muc dich gi?",
+          "explanation": "Memo: 'we are launching a staff competition...Please submit your ideas.' -> gioi thieu cuoc thi nhan vien. -> (B)"
         },
         {
           "id": 183,
           "group": "181-185",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 181-185)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q181_185.png",
-          "text": ", start brainstorming. Then on Friday, each team will make a presentation, and we'll give each other feedback. My assistant will combine all the best ideas into a slide deck, which I'll send in What were the people mainly surveyed about?",
+          "text": "What is stated about the contest?",
           "options": [
             "(A) Only one person can win.",
             "(B) The prize is extra time off.",
@@ -1339,25 +1339,25 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'All staff at the branch with the winning ideas will get five additional paid vacation days' -> them ngay nghi. -> (B)",
-          "hint": "Cau hoi: What is STATED about contest? -> Doi chieu tung option voi thong tin trong memo."
+          "hint": "Tim phan thuong cua cuoc thi. 'five additional paid vacation days' la gi?",
+          "explanation": "'All staff at the branch with the winning ideas will get five additional paid vacation days.' -> giai thuong la ngay nghi them. -> (B)"
         },
         {
           "id": 184,
           "group": "181-185",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 181-185)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q181_185.png",
-          "text": "In the e-mail, the word \"tackle\" in line 3 is closest in meaning to",
+          "text": "In the e-mail, the word 'tackle' in line 3 is closest in meaning to",
           "options": [
-            "(A) Only one person can win.",
-            "(B) The prize is extra time off.",
-            "(C) It involves marketing to one age group.",
-            "(D) A deadline has not been chosen yet."
+            "(A) finish",
+            "(B) explain",
+            "(C) handle",
+            "(D) challenge"
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Tackle = giai quyet/xu ly -> handle. -> (C)",
-          "hint": "Cau hoi tu vung 'tackle' -> doc cau 'I'd like you to tackle target B'. Tackle co nghia gi trong ngu canh nay?"
+          "hint": "Tu 'tackle' trong ngu canh 'I'd like you to tackle target B'. Tu nao dong nghia mang nghia 'xu ly/giai quyet'?",
+          "explanation": "'tackle target B' = xu ly/giai quyet muc tieu B. 'tackle' = handle = giai quyet, xu ly. -> (C)"
         },
         {
           "id": 185,
@@ -1371,27 +1371,27 @@
             "(C) Work on ideas for marketing trips to young people",
             "(D) Think of ways to market Spanish vacations"
           ],
-          "answer": "A",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Email: Olivia nham target B (younger visitors within Britain) -> Work on ideas for marketing trips to young people. -> (C)",
-          "hint": "Cau hoi: What will Olivia Benn DO this week? -> Scan email tim ke hoach hanh dong cu the cua Olivia."
+          "hint": "Doc email cua Olivia Benn. Co ay tu phan cong minh lam target nao? Target A va B la gi?",
+          "explanation": "Email: 'Greg and I will work on target A. Nigel and Yasmin, I'd like you to tackle target B.' -> Olivia (+ Greg) lam target A = tang khach lon di Tay Ban Nha. Nhung cau hoi hoi Olivia lam gi -> (C) la phu hop vi target B la young visitors traveling within Britain, va Olivia phan cong cho Nigel+Yasmin. Olivia lam target A. Tuy nhien doc ky: Target A = increase older customers visiting Spain, Target B = increase younger visitors traveling within Britain. Olivia + Greg lam Target A -> (D) nghien cuu tiep thi cho du lich Tay Ban Nha. Nhung (D) noi 'market Spanish vacations' chi la mot phan. Xem lai: Olivia Benn lam gi 'this week'? Email noi 'Let's meet as teams tomorrow at 4:30 and start brainstorming. Then on Friday, each team will make a presentation.' -> tuan nay Olivia se brainstorm + present ve target A (older customers -> Spain). (C) noi 'marketing trips to young people' la target B (Nigel+Yasmin lam). (D) 'market Spanish vacations' = target A (Olivia lam). -> (D) chinh xac hon."
         },
         {
           "id": 186,
           "group": "186-190",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 186-190)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q186_190.png",
-          "text": "How far in advance must event locations be booked? - ;",
+          "text": "How far in advance must event locations be booked?",
           "options": [
-            "(A) Because it is organized by students",
-            "(B) Because it charges admission",
-            "(C) Because it is open to the public",
-            "(D) Because it includes a meal"
+            "(A) 5 days",
+            "(B) 10 days",
+            "(C) 4 weeks",
+            "(D) 6 weeks"
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'Large venues on campus must be reserved six weeks ahead of time' -> 6 tuan. -> (D)",
-          "hint": "Cau hoi: How FAR IN ADVANCE must locations be booked? -> Tim cum so/thoi gian cu the trong van ban."
+          "hint": "Tim thong tin ve dat dia diem. 'must be reserved ___ ahead of time'. Thoi gian la bao lau?",
+          "explanation": "'Large venues on campus must be reserved six weeks ahead of time.' -> 6 tuan. -> (D)"
         },
         {
           "id": 187,
@@ -1407,8 +1407,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'if your event is open to the public, then you must obtain prior authorization' -> vi mo cua cho cong chung. -> (C)",
-          "hint": "Cau hoi: WHY does Drama Club event require permission? -> Tim dieu kien can xin phep trong 'Authorized Events' section."
+          "hint": "Doc phan 'Not all student-organized events must be authorized'. Dieu kien nao bat buoc phai xin phep? Don dang ky ghi 'open to the public: Yes'.",
+          "explanation": "'if your event is open to the public, then you must obtain prior authorization.' Su kien Drama Club: 'Is your event open to the public? Yes.' -> can xin phep vi mo cua cho cong chung. -> (C)"
         },
         {
           "id": 188,
@@ -1417,15 +1417,15 @@
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q186_190.png",
           "text": "Which person involved is a teacher?",
           "options": [
-            "(A) To persuade readers to attend the",
-            "(B) To request readers’ help with the event",
+            "(A) Binu Sharma",
+            "(B) Lara Miller",
             "(C) Javier Nunes",
-            "(D) To praise students’ efforts on the event"
+            "(D) Charles Goldman"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Faculty sponsor: Lara Miller -> giang vien bao tro. -> (B)",
-          "hint": "Cau hoi: Which person is a TEACHER? -> Tim 'Faculty sponsor' trong form dang ky."
+          "hint": "Tim tu 'Faculty sponsor' trong don dang ky. 'Faculty' co nghia la gi?",
+          "explanation": "Don dang ky ghi 'Faculty sponsor: Lara Miller'. Faculty = giang vien. -> (B)"
         },
         {
           "id": 189,
@@ -1441,8 +1441,8 @@
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'Come to the Student Center auditorium... support some of Lakeland's most talented students' -> khuyen khich den xem. -> (A)",
-          "hint": "Cau hoi: What is the PURPOSE of the article? -> Doc cau cuoi cua bai bao. Bai bao khuyen khich nguoi doc lam gi?"
+          "hint": "Doc cau cuoi bai bao. 'Come to...', 'There's no charge for admission', 'you won't get a finer evening'. Muc dich cua nhung cau nay la gi?",
+          "explanation": "Bai bao: 'Come to the Student Center auditorium on May 2 at 7:00 p.m. and support...There's no charge for admission.' -> keu goi den tham du. -> (A)"
         },
         {
           "id": 190,
@@ -1456,27 +1456,27 @@
             "(C) It involves performing world-famous plays.",
             "(D) It is expected to draw a large audience."
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'last time it was standing-room only' -> lan truoc het cho, du kien lan nay cung dong. -> (D)",
-          "hint": "Cau hoi: What is SUGGESTED about the event? -> Tim thong tin gian tiep (implied). 'standing-room only' co nghia gi?"
+          "hint": "Tim cau noi ve dia diem. 'moved to a bigger venue' va 'standing-room only' goi y dieu gi ve so luong khan gia du kien?",
+          "explanation": "'We've even moved to a bigger venue because last time it was standing-room only.' -> du kien dong khan gia -> chuyen den dia diem lon hon. -> (D)"
         },
         {
           "id": 191,
           "group": "191-195",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 191-195)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q191_195.png",
-          "text": "Which product is expected to increase most 194, According to the teport, why has beef in value over the next 10 years? become popular?",
+          "text": "Which product is expected to increase most in value over the next 10 years?",
           "options": [
-            "(A) Larger quantities are available.",
-            "(B) It appeared on a television show.",
-            "(C) It can be delivered quickly.",
-            "(D) People’s wages have risen."
+            "(A) Beef",
+            "(B) Coffee",
+            "(C) Grains",
+            "(D) Wine"
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'over the next five years, we will be offering substantial subsidies to farmers who plant coffee' -> coffee. -> (B)",
-          "hint": "Cau hoi: Which product is expected to INCREASE MOST? -> Tim san pham duoc ho tro nhat trong ke hoach tuong lai."
+          "hint": "Tim san pham nao duoc chinh phu dau tu nhieu nhat va du kien tang truong. 'substantial subsidies' va 'fastest growing export' noi ve san pham nao?",
+          "explanation": "'Over the next five years, we will be offering substantial subsidies to farmers who plant coffee.' + 'in five to ten years, these will be our fastest growing export items.' -> ca phe tang truong nhanh nhat. Tuy nhien, cau hoi hoi 'increase most in value over the next 10 years'. Doc ky: 'coffee is becoming increasingly popular...cheap but tasty coffee worldwide. We feel it is important for Gromatia to gain a position in this market.' + subsidies cho coffee -> (B) Coffee. -> (B)"
         },
         {
           "id": 192,
@@ -1492,8 +1492,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'Despite the winter flooding and the summer drought' -> thien tai/khi hau. -> (B)",
-          "hint": "Cau hoi: What PROBLEMS did farmers suffer? -> Tim thong tin ve thoi tiet/khi hau nam 2010."
+          "hint": "Tim van de nam 2010. 'winter flooding' va 'summer drought' thuoc loai van de gi?",
+          "explanation": "'Despite the winter flooding and the summer drought, 2010 was a great year.' -> van de thoi tiet: lu lut mua dong va han han mua he = climate troubles. -> (B)"
         },
         {
           "id": 193,
@@ -1509,8 +1509,8 @@
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'our five-year plan' -> 5 nam. -> (A)",
-          "hint": "Cau hoi: HOW LONG will subsidies last? -> Tim cum so chi thoi gian trong van ban (five-year plan)."
+          "hint": "Tim thoi gian tro cap. 'Over the next ___ years' la bao lau?",
+          "explanation": "'Over the next five years, we will be offering substantial subsidies.' -> 5 nam. -> (A)"
         },
         {
           "id": 194,
@@ -1522,12 +1522,12 @@
             "(A) Larger quantities are available.",
             "(B) It appeared on a television show.",
             "(C) It can be delivered quickly.",
-            "(D) People’s wages have risen."
+            "(D) People's wages have risen."
           ],
-          "answer": "A",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'With more leisure time, better education, and higher incomes...' -> thu nhap tang. -> (D)",
-          "hint": "Cau hoi: WHY has beef become popular? -> Scan van ban tim ly do lien quan den thu nhap/loi song."
+          "hint": "Tim ly do thit bo tro nen pho bien. 'higher incomes' va 'luxury items' co lien quan gi?",
+          "explanation": "'With more leisure time, better education, and higher incomes, people are becoming more interested in these luxury items.' -> thu nhap tang -> nguoi dan quan tam hon den thit bo (luxury item). -> (D)"
         },
         {
           "id": 195,
@@ -1543,8 +1543,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'this aid could be more carefully targeted' + 'support for farmers who grow essential foods' -> tro cap co muc tieu. -> (B)",
-          "hint": "Cau hoi: What does G. Happ THINK government should do? -> Doc thu gui ban bien tap, tim kien nghi cu the."
+          "hint": "Doc thu cua G. Happ. 'aid could be more carefully targeted' va 'support for farmers who grow essential foods' goi y chinh sach nao?",
+          "explanation": "Letter: 'this aid could be more carefully targeted where it can do the most good. We should provide support for farmers who grow essential foods like fruits, vegetables, and grains.' -> tro cap CU THE cho san pham cu the. -> (B)"
         },
         {
           "id": 196,
@@ -1558,10 +1558,10 @@
             "(C) Letterhead paper",
             "(D) Envelopes"
           ],
-          "answer": "C",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Memo liet ke quy trinh tai che giay chung; email khen HR lang phi it nhat. Loai bi cac lua chon duoc de cap ro -> envelopes it bi de cap nhat = lang phi it nhat. -> (D)",
-          "hint": "Cau hoi: Which type of paper was wasted the LEAST? -> Memo liet ke nhieu loai giay. Loai nao KHONG duoc de cap la loai bi lang phi?"
+          "hint": "Tim thong tin ve loai giay it bi lang phi nhat. Doc ca Memo va Email. Loai nao it duoc nhac den trong danh sach van phong pham?",
+          "explanation": "Memo noi ve van phong pham moi: letterhead, business stationery. Email khen bo phan HR tai che gioi. Envelopes it duoc nhac den nhat va la loai giay it bi lang phi nhat (khong duoc de cap cu the trong danh sach lang phi). -> (D)"
         },
         {
           "id": 197,
@@ -1577,25 +1577,25 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'Since our official merger with MAJOR Electronics Inc. last month' -> sap nhap cong ty. -> (C)",
-          "hint": "Cau hoi: What happened LAST MONTH? -> Tim thong tin ve su kien xay ra thang truoc trong memo."
+          "hint": "Doc cau dau Memo. 'official merger with MAJOR Electronics Inc. last month' nghia la gi?",
+          "explanation": "'Since our official merger with MAJOR Electronics Inc. last month' -> hai cong ty da sap nhap thang truoc. -> (C)"
         },
         {
           "id": 198,
           "group": "196-200",
           "passageTitle": "Part 7 - Reading Comprehension (Cau 196-200)",
           "passageImage": "public/assets/bai-on-5/reading/passages/part7_q196_200.png",
-          "text": "Which type of paper was wasted the least?",
+          "text": "What is the purpose of the memo?",
           "options": [
-            "(A) By counting all wasted sheets",
-            "(B) By recycling more frequently",
-            "(C) Two companies were merged.",
-            "(D) By changing its stationery provider"
+            "(A) To inform employees about the new printer",
+            "(B) To introduce a new policy about paper",
+            "(C) To announce a merger with another company",
+            "(D) To tell all employees about the new logo"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Memo gioi thieu sign-out system va recycling -> chinh sach moi ve giay. -> (B)",
-          "hint": "Cau hoi: What is the PURPOSE of the memo? -> Doc doan dau memo. Muc dich chinh la gi?"
+          "hint": "Doc noi dung chinh cua Memo. Co 2 he thong moi duoc gioi thieu. Muc dich chinh la gi?",
+          "explanation": "Memo gioi thieu 2 he thong moi: Sign-out system va Recycling -> chinh sach moi ve giay. -> (B)"
         },
         {
           "id": 199,
@@ -1611,8 +1611,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "'sign a sheet specifying what you took, how much you took, and when you took it. This information will be recorded on your employee record card' -> ghi chep chi tiet. -> (C)",
-          "hint": "Cau hoi: HOW will company TRACK paper use? -> Tim he thong ghi chep duoc mo ta trong memo."
+          "hint": "Doc phan 'Sign-out system'. Nhan vien phai lam gi khi nhan van phong pham? 'sign a sheet specifying...' la hinh thuc theo doi nao?",
+          "explanation": "'Sign-out system: Each time you receive any company stationery, you must sign a sheet specifying what you took, how much you took, and when you took it.' -> ghi chep chi tiet. -> (C)"
         },
         {
           "id": 200,
@@ -1628,8 +1628,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "explanation": "Email: 'A catered pizza party will be awarded to the department that wastes the least paper' -> free food (pizza party). -> (B)",
-          "hint": "Cau hoi: What might HR department win in NOVEMBER? -> Doc email, tim phan thuong cho thang ke tiep."
+          "hint": "Doc Email. Phan thuong hang thang cho bo phan tai che tot nhat la gi? 'catered pizza party' la gi?",
+          "explanation": "Email: 'if your department succeeds in producing the least wastage for three months in a row, each member will receive a $50 bonus.' + 'you will therefore be enjoying delicious free pizza next week'. HR da thang thang 9 -> neu thang tiep 3 thang lien tiep (9,10,11) -> $50 bonus. Nhung cau hoi hoi 'win in November' -> catered pizza party cho thang thang tiep. Doc ky: pizza la phan thuong cho thang THANG 9. Thang 10, 11 neu thang tiep -> $50 bonus. -> (A). Nhung xem ky: 'catered pizza party will be awarded to the department that wastes the least paper during the month of September' -> pizza la cho thang 9. Neu HR thang thang 10 -> lai duoc pizza. Thang 11 cung vay. -> (B) Free food (pizza). -> (B)"
         }
       ]
     }
