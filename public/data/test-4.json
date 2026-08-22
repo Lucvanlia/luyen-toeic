@@ -2559,8 +2559,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan hóa đơn tìm ngày 'May 23' và danh mục các mặt hàng được liệt kê. Hóa đơn ghi mua loại mặt hàng nào?",
-          "explanation": "Trên biên lai ngày 23 tháng 5, các mặt hàng bao gồm đồ ăn nhẹ và nước giải khát (Snacks) được tính tiền. → (B)"
+          "hint": "Scan biên lai tìm ngày '23 May' và danh mục các món hàng đã mua (Biscuits, Fruit cup, Crisps). Đây là các mặt hàng gì?",
+          "explanation": "Trên biên lai liệt kê các mặt hàng: Biscuits (bánh quy), Fruit cup (cốc trái cây), Crisps (khoai tây chiên giòn) → Đây đều là đồ ăn nhẹ / đồ ăn vặt (Snacks). → (B)"
         },
         {
           "id": 148,
@@ -2576,8 +2576,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tìm thông tin ở phần cuối hóa đơn về điểm tích lũy hoặc chương trình thành viên (Rewards Points / Loyalty).",
-          "explanation": "Biên lai có dòng hiển thị 'Reward Points Earned' và số dư tài khoản điểm thưởng, chứng tỏ cửa hàng có chương trình khách hàng thân thiết (customer rewards program). → (C)"
+          "hint": "Đọc phần ghi chú cuối biên lai: 'Sign up for our Zippy Club rewards card. You could have earned 4 Zippy Club points...'. Điều này cho thấy điều gì?",
+          "explanation": "Biên lai có lời mời đăng ký thẻ Zippy Club tích điểm đổi quà: 'Sign up for our Zippy Club rewards card. You could have earned 4 Zippy Club points on this transaction' → Cửa hàng có chương trình tích điểm thưởng cho khách hàng (customer rewards program). → (C)"
         },
         {
           "id": 149,
@@ -2593,8 +2593,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc câu mở đầu thông báo của đài phát thanh PBQ Radio về các gói quảng cáo (advertising packages) dành cho ai muốn quảng bá sản phẩm/dịch vụ.",
-          "explanation": "Thông báo giới thiệu các gói quảng cáo phát thanh nhằm giúp các chủ doanh nghiệp (Business owners) tiếp cận khách hàng địa phương. → (C)"
+          "hint": "Đọc đoạn 2 của thông báo: 'Advertising time is available for purchase. Let our listeners know that your business is one of the best in the community!'. Thông báo này hướng tới đối tượng nào?",
+          "explanation": "Đoạn 2 mời chào mua thời lượng phát sóng quảng cáo: 'Advertising time is available for purchase. Let our listeners know that your business is one of the best in the community!' → Hướng tới các chủ doanh nghiệp (Business owners). → (C)"
         },
         {
           "id": 150,
@@ -2610,8 +2610,8 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan đoạn văn tìm thông tin về đội ngũ hỗ trợ lên kịch bản và sản xuất quảng cáo nội bộ của đài phát thanh.",
-          "explanation": "Đoạn văn nêu rõ đài phát thanh có đội ngũ marketing chuyên nghiệp riêng để hỗ trợ khách hàng thiết kế quảng cáo (in-house marketing department). → (D)"
+          "hint": "Scan đoạn 2 tìm thông tin về đội ngũ nhân sự của đài PBQ Radio: '...or our professional marketing team can write and record a 30-second advertisement'.",
+          "explanation": "Đoạn 2 nêu rõ đài phát thanh có đội ngũ tiếp thị riêng để viết và ghi âm quảng cáo: 'our professional marketing team can write and record a 30-second advertisement' → Đài có phòng/bộ phận marketing riêng (It has its own marketing department). → (D)"
         },
         {
           "id": 151,
@@ -2620,32 +2620,32 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q151_152.png",
           "text": "What most likely has Ms. Dibello purchased?",
           "options": [
-            "(A) A laptop computer",
-            "(B) A printer",
-            "(C) An office desk",
-            "(D) A conference table"
+            "(A) Linens",
+            "(B) Bookshelves",
+            "(C) Gardening tools",
+            "(D) Appliances"
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc đoạn chat trao đổi về kích thước và số ghế ngồi quanh bàn trong phòng họp.",
-          "explanation": "Đoạn tin nhắn nhắc tới chiếc bàn lớn kèm số lượng ghế dành cho phòng họp công ty → 'A conference table'. → (D)"
+          "hint": "Đọc tin nhắn của Maxine Larsen lúc 11:13: 'She says she needs to set up her kitchen properly so that she can prepare a special meal tonight'. Món đồ nào dùng để lắp đặt cho nhà bếp?",
+          "explanation": "Maxine cho biết khách hàng Dibello đang nóng lòng nhận hàng để 'set up her kitchen properly so that she can prepare a special meal tonight' (chuẩn bị phòng bếp để nấu bữa tối) → Các thiết bị/đồ gia dụng nhà bếp (Appliances). → (D)"
         },
         {
           "id": 152,
           "group": "151-152",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 151-152)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q151_152.png",
-          "text": "At 11:17 a.m., what does Ms. Larsen most likely mean when she writes, 'That shouldn't be an issue'?",
+          "text": "At 11:17 a.m., what does Ms. Larsen most likely mean when she writes, “What’s your estimate”?",
           "options": [
-            "(A) She can deliver the furniture tomorrow.",
-            "(B) The customer can receive a full refund.",
-            "(C) The delivery truck will fit into the loading bay.",
-            "(D) A discount code has been applied."
+            "(A) She must verify the distance of a route.",
+            "(B) She wants to know how much traffic there is.",
+            "(C) She wants to know a delivery time.",
+            "(D) She has to calculate a delivery charge."
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc ngữ cảnh câu hỏi trước đó lúc 11:16 về việc xe tải giao hàng có vào vừa khu vực bốc dỡ hàng (loading bay) hay không.",
-          "explanation": "Trước đó khách hỏi về chiều cao của cửa bốc hàng, câu trả lời 'That shouldn't be an issue' nhằm khẳng định xe tải giao hàng sẽ vào vừa bãi bốc dỡ. → (C)"
+          "hint": "Đọc ngữ cảnh trước đó: Frank nói đường tắc vì đang sửa chữa. Maxine hỏi 'What's your estimate?' và Frank trả lời 'Maybe around 1 P.M.'. Câu hỏi này hỏi về điều gì?",
+          "explanation": "Trước đó Maxine hỏi giờ Frank đến, Frank nói đường tắc, Maxine hỏi 'What's your estimate?' (Ước tính của anh là mấy giờ?) và Frank trả lời 'Maybe around 1 P.M.' → Maxine muốn biết ước tính thời gian giao hàng (She wants to know a delivery time). → (C)"
         },
         {
           "id": 153,
@@ -2654,15 +2654,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q153_154.png",
           "text": "What types of purchases earn reward points?",
           "options": [
-            "(A) Online orders only",
-            "(B) In-store purchases only",
-            "(C) Purchases of clearance items",
-            "(D) Gift card purchases"
+            "(A) Those made online",
+            "(B) Those made by mail",
+            "(C) Those made by phone",
+            "(D) Those made in a store"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan văn bản tìm điều kiện tích lũy điểm thưởng (earning points) áp dụng cho hình thức mua sắm nào.",
-          "explanation": "Điều khoản quy định điểm thưởng chỉ được tích lũy khi khách hàng đặt hàng qua trang web/ứng dụng trực tuyến (Online orders only). → (A)"
+          "hint": "Đọc đoạn 2: 'Be sure to enter your account number to earn points on all your purchases from our Web site... However, those purchases [via mail, phone, in-store] do not currently qualify for the rewards program'.",
+          "explanation": "Đoạn 2 nêu rõ: 'earn points on all your purchases from our Web site' và nói thêm việc mua qua thư, điện thoại hoặc tại cửa hàng hiện không đủ điều kiện tích điểm → Chỉ những đơn mua trực tuyến trên trang web mới được tích điểm (Those made online). → (A)"
         },
         {
           "id": 154,
@@ -2671,15 +2671,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q153_154.png",
           "text": "What is a benefit of the program?",
           "options": [
-            "(A) Free annual membership",
-            "(B) Extended warranty coverage",
-            "(C) Vouchers for future discounts",
-            "(D) Expedited shipping on all items"
+            "(A) Invitations to retail events",
+            "(B) Free samples",
+            "(C) Faster shipping",
+            "(D) Extended product warranties"
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tìm thông tin về quyền lợi khi tích đủ điểm (Redeeming points) để đổi lấy quà tặng hoặc phiếu giảm giá.",
-          "explanation": "Khách hàng tích lũy điểm có thể đổi điểm lấy các phiếu giảm giá cho các lần mua hàng tiếp theo (Vouchers for future discounts). → (C)"
+          "hint": "Scan đoạn 2 tìm các phần thưởng khi đổi điểm: 'Redeem your points on your account page for rewards, including free two-day expedited shipping, special discounts, and more'.",
+          "explanation": "Phần thưởng quy đổi bao gồm: 'free two-day expedited shipping' (giao hàng hỏa tốc 2 ngày miễn phí) → Lợi ích là được giao hàng nhanh hơn (Faster shipping). → (C)"
         },
         {
           "id": 155,
@@ -2688,15 +2688,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q155_157.png",
           "text": "What is the purpose of the letter?",
           "options": [
-            "(A) To decline an invitation to a botanical conference",
-            "(B) To express appreciation for a community initiative",
-            "(C) To request funding for a local park",
-            "(D) To apply for a volunteer position"
+            "(A) To announce a special event",
+            "(B) To explain changes based on a relocation",
+            "(C) To propose a new meeting time",
+            "(D) To request updated contact information"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc đoạn đầu bức thư: Tác giả viết thư để cảm ơn hoặc khen ngợi sáng kiến trồng cây xanh của hội thực vật bản địa.",
-          "explanation": "Bức thư được gửi nhằm bày tỏ sự cảm kích và khen ngợi đối với sáng kiến phủ xanh không gian công cộng của hội (express appreciation for a community initiative). → (B)"
+          "hint": "Đọc đoạn đầu bức thư: 'Given your recent move, your membership has been transferred to the chapter located in the city of Perth...'. Mục đích của bức thư là gì?",
+          "explanation": "Bức thư thông báo về việc chuyển sinh hoạt hội viên sang chi nhánh thành phố Perth do bà Harabi vừa chuyển nhà: 'Given your recent move, your membership has been transferred to the chapter located in the city of Perth' → Giải thích các thay đổi dựa trên việc chuyển nơi ở (To explain changes based on a relocation). → (B)"
         },
         {
           "id": 156,
@@ -2705,15 +2705,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q155_157.png",
           "text": "What is suggested about the city of Canberra?",
           "options": [
-            "(A) It lacks sufficient public transportation.",
-            "(B) It recently suffered severe flood damage.",
-            "(C) It has experienced rapid urban development.",
-            "(D) It was named the cleanest city in the country."
+            "(A) It is famous for its many gardens.",
+            "(B) It houses the headquarters of Ms. Davis’ organization.",
+            "(C) It is where Ms. Harabi previously lived.",
+            "(D) It is home to some of Australia’s rarest plants."
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan tìm từ khóa 'Canberra' trong đoạn 2 và tìm chi tiết về sự phát triển các tòa nhà và khu đô thị mới.",
-          "explanation": "Bức thư đề cập sự phát triển nhanh chóng của các khu đô thị và tòa nhà mới tại Canberra, khiến không gian xanh bị thu hẹp. → (C)"
+          "hint": "Đoạn 2 viết: 'Unlike the chapter in the city of Canberra, the Perth branch meets the first Saturday of every month...'. Vì bà Harabi vừa chuyển đến Perth nên chi nhánh trước đây của bà là ở đâu?",
+          "explanation": "Đoạn 2 đối chiếu chi nhánh mới ở Perth với 'the chapter in the city of Canberra', kết hợp với việc bà Harabi vừa chuyển nơi ở ('recent move') → Canberra chính là nơi bà Harabi từng sinh sống trước đây (It is where Ms. Harabi previously lived). → (C)"
         },
         {
           "id": 157,
@@ -2722,15 +2722,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q155_157.png",
           "text": "What can be concluded about the Native Plant Society?",
           "options": [
-            "(A) It was founded by government officials.",
-            "(B) It charges a fee for its public workshops.",
-            "(C) It operates plant nurseries across the country.",
-            "(D) Its members are active in planting local flora."
+            "(A) It is under new leadership.",
+            "(B) Its membership is growing.",
+            "(C) It is raising membership dues.",
+            "(D) Its chapters hold monthly meetings."
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tìm thông tin về hoạt động thực tế của các thành viên trong hội thực vật bản địa.",
-          "explanation": "Hội gồm các tình nguyện viên tích cực tham gia trồng và bảo tồn các loài thực vật đặc trưng bản địa (active in planting local flora). → (D)"
+          "hint": "Đọc câu: '...the Perth branch meets the first Saturday of every month, so your next meeting will be in three weeks'. Các chi nhánh có lịch họp như thế nào?",
+          "explanation": "Bức thư đề cập: 'the Perth branch meets the first Saturday of every month' (chi nhánh Perth họp vào thứ Bảy đầu tiên hàng tháng) và nhắc đến lịch họp của chi nhánh Canberra → Các chi nhánh của hội đều tổ chức các cuộc họp định kỳ hàng tháng (Its chapters hold monthly meetings). → (D)"
         },
         {
           "id": 158,
@@ -2739,15 +2739,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q158_160.png",
           "text": "According to the Web page, what can visitors to the Web site do?",
           "options": [
-            "(A) Calculate potential energy savings",
-            "(B) Purchase gardening equipment online",
-            "(C) Schedule a free in-home consultation",
-            "(D) Sign up for a subscription newsletter"
+            "(A) Discuss how to create a garden",
+            "(B) Learn how to maximize vegetable production",
+            "(C) Seek advice about landscaping problems",
+            "(D) Help contractors calculate costs"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan trang web tìm tính năng tương tác dành cho khách truy cập (calculator / tool).",
-          "explanation": "Trang web cung cấp công cụ tính toán trực tuyến giúp người dùng ước tính mức tiết kiệm năng lượng tiềm năng khi lắp đặt mái nhà xanh (Calculate potential energy savings). → (A)"
+          "hint": "Đọc câu cuối đoạn 1: 'This Web site is designed for sharing ideas, photos, and resources to create and maintain a green roof'.",
+          "explanation": "Trang web được thiết kế để: 'sharing ideas, photos, and resources to create and maintain a green roof' (chia sẻ ý tưởng, hình ảnh và tài nguyên để tạo và duy trì mái nhà xanh) → Thảo luận về cách tạo một khu vườn trên mái (Discuss how to create a garden). → (A)"
         },
         {
           "id": 159,
@@ -2756,22 +2756,22 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q158_160.png",
           "text": "What is NOT mentioned about green roofs?",
           "options": [
-            "(A) They help absorb rainwater.",
-            "(B) They are lightweight compared to traditional materials.",
-            "(C) They improve air quality around buildings.",
-            "(D) They reduce indoor cooling costs."
+            "(A) They decrease energy bills.",
+            "(B) They remove pollution from the air.",
+            "(C) They make a structure more beautiful.",
+            "(D) They can be installed on commercial and residential buildings."
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc kỹ các lợi ích được liệt kê: lọc nước mưa, giảm chi phí làm mát, cải thiện không khí. Đặc điểm nào KHÔNG được nhắc đến?",
-          "explanation": "Bài viết nêu rõ mái xanh cần kết cấu vững chắc chịu tải vì đất và cây cối có trọng lượng lớn, nên việc nói mái xanh nhẹ hơn vật liệu truyền thống là KHÔNG được nêu (thậm chí ngược lại). → (B)"
+          "hint": "Loại trừ các thông tin xuất hiện trong bài: 'energy-saving option for office buildings and homes' (D), 'lowers heating and cooling costs' (A), 'increasing a structure's aesthetic appeal' (C). Đặc điểm nào KHÔNG được đề cập?",
+          "explanation": "Đoạn 1 nêu rõ: mái nhà xanh tiết kiệm năng lượng cho cả tòa nhà văn phòng và nhà ở (D), giảm chi phí sưởi ấm và làm mát (A), tăng tính thẩm mỹ/làm đẹp công trình (C). Việc lọc bụi/ô nhiễm không khí (remove pollution from the air) hoàn toàn KHÔNG được nhắc tới trong bài. → (B)"
         },
         {
           "id": 160,
           "group": "158-160",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 158-160)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q158_160.png",
-          "text": "In paragraph 3, line 1, the word 'handle' is closest in meaning to",
+          "text": "In paragraph 3, line 1, the word “handle” is closest in meaning to",
           "options": [
             "(A) touch",
             "(B) control",
@@ -2780,8 +2780,8 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc câu chứa từ 'handle' trong đoạn 3 nói về khả năng kết cấu của tòa nhà chịu được sức nặng của đất và thảm thực vật.",
-          "explanation": "Trong ngữ cảnh 'ensure the roof structure can handle the extra weight', từ 'handle' mang nghĩa là nâng đỡ / chịu tải (support / bear). → (D)"
+          "hint": "Đọc câu chứa từ 'handle': 'If your contractor determines that your roof can handle the extra weight of soil, plants, and irrigation...'. Từ 'handle' ở đây nói về việc mái nhà chịu được sức nặng.",
+          "explanation": "Trong ngữ cảnh 'your roof can handle the extra weight' (mái nhà có thể chịu được trọng lượng tăng thêm), từ 'handle' đồng nghĩa với 'support' (nâng đỡ / chịu tải). → (D)"
         },
         {
           "id": 161,
@@ -2797,15 +2797,15 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan bài viết tìm các con số thời gian hoặc năm thành lập công ty Martino Technical.",
-          "explanation": "Bài viết nêu rõ công ty đã có hơn ba thập kỷ kinh nghiệm hoạt động trong ngành âm thanh kỹ thuật (founded over 30 years ago). → (B)"
+          "hint": "Đọc câu mở đầu quảng cáo: 'Martino Technical has been providing live sound-mixing services for more than 30 years'.",
+          "explanation": "Câu đầu tiên nêu rõ: 'Martino Technical has been providing live sound-mixing services for more than 30 years' (đã cung cấp dịch vụ hòa âm trực tiếp hơn 30 năm) → Công ty được thành lập hơn 30 năm trước (It was founded over 30 years ago). → (B)"
         },
         {
           "id": 162,
           "group": "161-163",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 161-163)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q161_163.png",
-          "text": "The word 'promote' in paragraph 2, line 4, is closest in meaning to",
+          "text": "The word “promote” in paragraph 2, line 4, is closest in meaning to",
           "options": [
             "(A) encourage",
             "(B) schedule",
@@ -2814,8 +2814,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc câu chứa từ 'promote' trong đoạn 2 nói về việc quảng bá sự kiện hòa nhạc hoặc dịch vụ âm thanh.",
-          "explanation": "Trong cụm 'promote upcoming concert tours and musical events', 'promote' có nghĩa là quảng bá, truyền thông đại chúng (publicize). → (C)"
+          "hint": "Đọc ngữ cảnh: '...we create recordings for them that they can post on social media to promote their shows'. Đăng bản thu âm lên mạng xã hội để quảng bá chương trình biểu diễn.",
+          "explanation": "Cụm 'post on social media to promote their shows' (đăng lên mạng xã hội để quảng bá các buổi diễn) → Từ 'promote' đồng nghĩa với 'publicize' (quảng bá, truyền thông rộng rãi). → (C)"
         },
         {
           "id": 163,
@@ -2831,8 +2831,8 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Loại trừ các thông tin về kỹ sư âm thanh: kinh nghiệm chuyên môn, đi lưu diễn, tham gia tạo tư liệu. Chi tiết nào về bằng cấp KHÔNG được đề cập?",
-          "explanation": "Bài viết nói về kỹ năng và kinh nghiệm thực tế của kỹ sư nhưng KHÔNG hề đề cập đến việc họ bắt buộc phải có bằng đại học âm nhạc (degrees in music). → (D)"
+          "hint": "Loại trừ các thông tin có trong bài: tạo bản thu quảng bá (A), có nhiều kinh nghiệm chuyên môn (B), đi lưu diễn thế giới (C). Thông tin nào KHÔNG được đề cập?",
+          "explanation": "Bài viết nêu kỹ sư tạo bản ghi âm quảng bá (A), có chuyên môn và kinh nghiệm cao 'experience and professionalism' (B), đi lưu diễn khắp thế giới 'working on tours worldwide' (C). Việc họ có bằng cấp âm nhạc (degrees in music) hoàn toàn KHÔNG được đề cập. → (D)"
         },
         {
           "id": 164,
@@ -2848,8 +2848,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc dòng tiêu đề (Subject) và câu mở đầu email về bữa tiệc bí mật dành cho đồng nghiệp sắp nghỉ hưu/chuyển công tác.",
-          "explanation": "Email được gửi nhằm mời toàn bộ nhân viên tham dự bữa tiệc bất ngờ (surprise party) chúc mừng đồng nghiệp. → (C)"
+          "hint": "Đọc đoạn 1 và đoạn 2: 'there will be a formal dinner to honor our company president... This event... is intended to be a surprise, so please avoid mentioning it to him'.",
+          "explanation": "Email mời nhân viên tham gia bữa tối vinh danh chủ tịch công ty và nhấn mạnh đây là sự kiện bí mật bất ngờ: 'This event... is intended to be a surprise, so please avoid mentioning it to him' → Mời nhân viên dự tiệc bất ngờ (To invite workers to a surprise party). → (C)"
         },
         {
           "id": 165,
@@ -2865,8 +2865,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tìm mốc thời gian khách mời cần có mặt trước khi nhân vật chính xuất hiện lúc 6:30 p.m.",
-          "explanation": "Email dặn dò mọi người có mặt lúc 6:15 p.m. để chuẩn bị trước khi vị khách danh dự bước vào phòng lúc 6:30 p.m. → (B)"
+          "hint": "Đọc đoạn 2: 'Those few who are involved with the setup will arrive at 5 P.M. All other attendees should come no later than 6:15 P.M. in anticipation of Mr. Bonahoom’s arrival at 6:30 P.M.'.",
+          "explanation": "Đoạn 2 quy định: Những người phụ trách sắp đặt đến lúc 5 P.M, còn 'All other attendees' (tất cả những người tham dự còn lại / đa số mọi người) cần đến muộn nhất là 6:15 P.M. → (B)"
         },
         {
           "id": 166,
@@ -2878,19 +2878,19 @@
             "(A) They should request it from Mr. Bonahoom.",
             "(B) They should e-mail Ms. Noh.",
             "(C) They should wait for it to be passed around the office.",
-            "(D) They should go to Ms. Mueller's desk."
+            "(D) They should go to Ms. Mueller’s desk."
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan tìm từ khóa 'card' hoặc 'sign' trong email để biết thiệp chúc mừng đang được để ở đâu.",
-          "explanation": "Email thông báo rằng thiệp chúc mừng đang được đặt tại bàn làm việc của cô Mueller (Ms. Mueller's desk) để mọi người đến ký tên. → (D)"
+          "hint": "Scan đoạn 3 tìm từ khóa 'sign a card': 'We do ask, though, that you find time this week to sign a card for him. It can be found at Ms. Mueller’s desk...'.",
+          "explanation": "Đoạn 3 hướng dẫn: 'sign a card for him. It can be found at Ms. Mueller’s desk, inside an envelope marked “November 28”' → Đi đến bàn làm việc của cô Mueller (They should go to Ms. Mueller’s desk). → (D)"
         },
         {
           "id": 167,
           "group": "164-167",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 164-167)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q164_167.png",
-          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'The senior staff will be presenting a commemorative plaque on behalf of the whole office.'",
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “The senior staff will be presenting a commemorative plaque on behalf of the whole office.”",
           "options": [
             "(A) [1]",
             "(B) [2]",
@@ -2899,8 +2899,8 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc vị trí [3] nằm giữa phần giới thiệu chương trình tặng quà lưu niệm và phát biểu chúc mừng.",
-          "explanation": "Câu nói về việc ban lãnh đạo trao tặng kỷ niệm chương đại diện cho toàn thể văn phòng khớp hoàn hảo tại vị trí [3] ngay trước lời cảm ơn. → (C)"
+          "hint": "Đọc câu cần chèn: 'The senior staff will be presenting a commemorative plaque on behalf of the whole office' (Ban lãnh đạo sẽ đại diện toàn văn phòng trao tặng kỷ niệm chương). Đoạn 3 có câu 'There is no need to bring a gift' (Không cần mang quà). Hai câu này liên kết chặt chẽ ở vị trí nào?",
+          "explanation": "Đoạn 3 mở đầu bằng: 'There is no need to bring a gift. — [3] —' (Không cần phải mang theo quà). Câu chèn giải thích lý do: vì ban lãnh đạo cấp cao sẽ đại diện tặng kỷ niệm chương rồi, sau đó nối tiếp 'We do ask, though, that you find time this week to sign a card...' → Vị trí [3] là chính xác nhất. → (C)"
         },
         {
           "id": 168,
@@ -2916,8 +2916,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc đoạn chat bàn luận về bảng câu hỏi khảo sát thuế, kiểm toán hoặc hồ sơ tài chính khách hàng.",
-          "explanation": "Các từ khóa như 'tax forms', 'financial audits', 'client records' chứng minh người viết làm việc trong công ty kế toán/tài chính (Accounting firm). → (B)"
+          "hint": "Đọc các chủ đề được thảo luận: 'bookkeeping strategies' (chiến lược ghi chép sổ sách), 'financial and tax reports' (báo cáo tài chính và thuế). Đây là lĩnh vực gì?",
+          "explanation": "Đoạn hội thoại xoay quanh việc soạn bảng hỏi cho khách hàng mới về 'bookkeeping strategies' (sổ sách kế toán) và 'financial and tax reports' (báo cáo tài chính và thuế) → Công ty kế toán (Accounting). → (B)"
         },
         {
           "id": 169,
@@ -2933,15 +2933,15 @@
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tìm tin nhắn của Mr. Wikander nhận xét về câu hỏi số 4 hoặc câu hỏi trong bảng khảo sát bị mơ hồ.",
-          "explanation": "Mr. Wikander nhận xét rằng câu hỏi hiện tại có thể khiến khách hàng hiểu lầm và đề xuất diễn đạt lại cho rõ ràng hơn (It should be reworded). → (C)"
+          "hint": "Đọc tin nhắn lúc 10:23 của Colin Wikander: 'I would make the question about bookkeeping strategies more open-ended, though. As written, it may lead respondents to give simple yes or no answers'.",
+          "explanation": "Mr. Wikander nhận xét câu hỏi hiện tại có thể khiến người trả lời chỉ chọn 'yes/no' và đề xuất nên diễn đạt lại theo hướng mở hơn: 'make the question... more open-ended' → Câu hỏi nên được viết lại (It should be reworded). → (C)"
         },
         {
           "id": 170,
           "group": "168-171",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q168_171.png",
-          "text": "At 10:25 a.m., what does Mr. Wikander most likely mean when he writes, 'Well, it's four pages already'?",
+          "text": "At 10:25 a.m., what does Mr. Wikander most likely mean when he writes, “Well, it’s four pages already”?",
           "options": [
             "(A) He is surprised by the long answers clients gave.",
             "(B) He is impressed with how quickly the questionnaire is coming along.",
@@ -2950,25 +2950,25 @@
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc tin nhắn lúc 10:25 phản hồi đề xuất thêm câu hỏi của đồng nghiệp.",
-          "explanation": "Khi đồng nghiệp muốn bổ sung thêm mục, câu 'it's four pages already' ngụ ý rằng bảng khảo sát đã quá dài và không nên thêm trang nữa (should not be any longer). → (D)"
+          "hint": "Đọc mạch trò chuyện: Midori đề xuất 'I also want to add a couple of questions...'. Colin phản hồi 'Well, it’s four pages already'. Ý của Colin là gì?",
+          "explanation": "Khi Midori muốn bổ sung thêm vài câu hỏi, Colin nhắc nhở 'Well, it's four pages already' (Biểu mẫu đã dài 4 trang rồi) → Ngụ ý bảng câu hỏi đã quá dài và không nên dài thêm nữa (He thinks the questionnaire should not be any longer). → (D)"
         },
         {
           "id": 171,
           "group": "168-171",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 168-171)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q168_171.png",
-          "text": "Why does Ms. Sakai think that paperless forms will be preferred?",
+          "text": "Why does Ms. Sakai think that paperless forms will be preferable?",
           "options": [
-            "(A) They are faster to complete and submit.",
-            "(B) They protect confidential client data better.",
-            "(C) They can be translated into multiple languages.",
-            "(D) They reduce the company's printing expenses."
+            "(A) They allow for faster data collection.",
+            "(B) They reduce the number of errors.",
+            "(C) They are good for the environment.",
+            "(D) They do not take up space in an office."
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tìm tin nhắn của Ms. Sakai giải thích lợi ích của biểu mẫu điện tử trực tuyến.",
-          "explanation": "Ms. Sakai cho rằng biểu mẫu trực tuyến giúp khách hàng điền và gửi lại nhanh chóng hơn nhiều so với bản giấy (faster to complete and submit). → (A)"
+          "hint": "Đọc tin nhắn lúc 10:30 của Midori Sakai: 'digital collection is preferable to avoid the lag time of waiting for our clients to print, fill out, and scan the forms to send them back'.",
+          "explanation": "Ms. Sakai giải thích biểu mẫu kỹ thuật số được ưu tiên hơn để tránh mất thời gian chờ khách hàng in, điền và quét gửi lại: 'avoid the lag time of waiting...' → Cho phép thu thập dữ liệu nhanh hơn (They allow for faster data collection). → (A)"
         },
         {
           "id": 172,
@@ -2977,15 +2977,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q172_175.png",
           "text": "Why did Mr. Karikas write the post?",
           "options": [
-            "(A) To advertise a job opening at a hotel",
-            "(B) To share insights about improving guest satisfaction",
-            "(C) To criticize a recent conference presentation",
-            "(D) To recommend a hotel booking application"
+            "(A) To promote a job fair",
+            "(B) To request referrals to a service provider",
+            "(C) To recommend a tourist destination",
+            "(D) To invite colleagues to a grand opening"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc tiêu đề và đoạn đầu bài đăng của chuyên gia ngành khách sạn Mr. Karikas.",
-          "explanation": "Bài đăng nhằm chia sẻ các giải pháp và góc nhìn thực tế để nâng cao trải nghiệm hài lòng của khách lưu trú (share insights about improving guest satisfaction). → (B)"
+          "hint": "Đọc đoạn 2 bài đăng: 'I am looking for recommendations for a janitorial service on the island of Djerba. My company is opening a hotel there...'.",
+          "explanation": "Mr. Karikas viết bài đăng để tìm kiếm lời giới thiệu về công ty cung cấp dịch vụ vệ sinh/tạp vụ: 'I am looking for recommendations for a janitorial service...' → Yêu cầu giới thiệu nhà cung cấp dịch vụ (To request referrals to a service provider). → (B)"
         },
         {
           "id": 173,
@@ -2994,15 +2994,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q172_175.png",
           "text": "What is suggested about the TRE Hospitality Association?",
           "options": [
-            "(A) It was recently acquired by a competitor.",
-            "(B) It offers free lodging to seminar attendees.",
-            "(C) It organizes regular professional development events.",
-            "(D) It publishes an annual ranking of luxury hotels."
+            "(A) It is based in Egypt.",
+            "(B) It was recently expanded to include hotel owners.",
+            "(C) It is an international organization.",
+            "(D) It offers janitorial services."
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan tìm tên 'TRE Hospitality Association' và thông tin về các hội thảo, khóa bồi dưỡng nghiệp vụ.",
-          "explanation": "Bài viết nhắc tới các buổi hội thảo và tập huấn định kỳ do hiệp hội TRE tổ chức cho các nhà quản lý khách sạn (organizes regular professional development events). → (C)"
+          "hint": "Đọc đoạn 1 và đoạn 3: Tác giả nhắc đến các diễn đàn 'Greece and Egypt forums', 'Tunisia forum', và hội nghị gần nhất tại 'Rabat' (Morocco).",
+          "explanation": "Hiệp hội có diễn đàn hoạt động tại nhiều quốc gia khác nhau (Hy Lạp, Ai Cập, Tunisia, Morocco...) → Đây là một tổ chức quốc tế (It is an international organization). → (C)"
         },
         {
           "id": 174,
@@ -3011,22 +3011,22 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q172_175.png",
           "text": "What is indicated about Mr. Karikas?",
           "options": [
-            "(A) He owns a boutique hotel in Athens.",
-            "(B) He recently resigned from his position.",
-            "(C) He is a frequent keynote speaker in Asia.",
-            "(D) He has extensive experience in the hotel industry."
+            "(A) He teaches a hospitality course.",
+            "(B) He lives in Rabat.",
+            "(C) He is a former restaurant owner.",
+            "(D) He attended at least one hospitality conference."
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc phần giới thiệu lý lịch tác giả ở cuối bài viết.",
-          "explanation": "Phần giới thiệu cho biết tác giả có hơn hai mươi năm kinh nghiệm quản lý khách sạn quốc tế (extensive experience in the hotel industry). → (D)"
+          "hint": "Đọc đoạn 3: 'In fact, I attended the most recent one in Rabat'. 'one' ở đây thay thế cho từ gì ở câu trước?",
+          "explanation": "Đoạn 3 nêu: 'I may have met some of you previously at one of our hospitality conferences... In fact, I attended the most recent one in Rabat' → Ông Karikas đã từng tham dự ít nhất một hội nghị ngành khách sạn (He attended at least one hospitality conference). → (D)"
         },
         {
           "id": 175,
           "group": "172-175",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 172-175)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q172_175.png",
-          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'Personalized greetings upon check-in make guests feel instantly valued.'",
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “It will also have a large meeting room.”",
           "options": [
             "(A) [1]",
             "(B) [2]",
@@ -3035,8 +3035,8 @@
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc đoạn văn nói về ấn tượng ban đầu tại quầy lễ tân khi khách làm thủ tục nhận phòng.",
-          "explanation": "Câu nói về lời chào đón nồng nhiệt mang tính cá nhân khi nhận phòng khớp chính xác với ngữ cảnh vị trí [2] thảo luận về thủ tục check-in. → (B)"
+          "hint": "Đọc câu cần chèn: 'It will also have a large meeting room' (Nó cũng sẽ có một phòng họp lớn). Đoạn 2 mô tả quy mô khách sạn: 'Our hotel will offer 80 rooms with two restaurants on-site. — [2] —'. Vị trí nào phù hợp nhất?",
+          "explanation": "Đoạn 2 đang mô tả các tiện ích của khách sạn mới: 'Our hotel will offer 80 rooms with two restaurants on-site. — [2] —' → Câu chèn 'It will also have a large meeting room' bổ sung tiện ích phòng họp hoàn toàn khớp với ngữ cảnh, trước khi nói về nhu cầu thuê nhân sự cho các sự kiện lớn. → (B)"
         },
         {
           "id": 176,
@@ -3045,32 +3045,32 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q176_180.png",
           "text": "What can be inferred about Mr. Torres?",
           "options": [
-            "(A) He purchased a property in New York.",
-            "(B) He recently relocated to a new apartment.",
-            "(C) He is canceling his insurance policy.",
-            "(D) He works as an insurance claims adjuster."
+            "(A) He is moving to a new home.",
+            "(B) He recently bought a car.",
+            "(C) He will be retiring soon.",
+            "(D) He recently opened a bank account."
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc email đầu tiên: Mr. Torres thông báo thay đổi địa chỉ hợp đồng bảo hiểm nhà ở do vừa chuyển nhà.",
-          "explanation": "Email yêu cầu cập nhật địa chỉ bảo hiểm người thuê nhà sang nơi ở mới, suy ra anh ấy vừa chuyển sang căn hộ mới (recently relocated to a new apartment). → (B)"
+          "hint": "Đọc email 1: 'provide you with comprehensive automobile insurance for your new vehicle' và email 2: 'the new car is now registered in my name'.",
+          "explanation": "Email 1 chào mừng khách hàng mua bảo hiểm cho 'your new vehicle' và email 2 ông Torres xác nhận 'the new car is now registered in my name' → Ông Torres vừa mới mua một chiếc xe ô tô (He recently bought a car). → (B)"
         },
         {
           "id": 177,
           "group": "176-180",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 176-180)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q176_180.png",
-          "text": "In the first e-mail, the word 'coverage' in paragraph 1, line 3, is closest in meaning to",
+          "text": "In the first e-mail, the word “coverage” in paragraph 1, line 3, is closest in meaning to",
           "options": [
-            "(A) concealment",
-            "(B) reporting",
-            "(C) compensation",
+            "(A) measurement",
+            "(B) information",
+            "(C) commentary",
             "(D) protection"
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc câu chứa từ 'coverage' trong văn cảnh hợp đồng bảo hiểm bảo vệ tài sản người thuê nhà.",
-          "explanation": "Trong lĩnh vực bảo hiểm tài sản, 'insurance coverage' chính là phạm vi bảo hiểm / sự bảo vệ quyền lợi tài chính (protection against loss). → (D)"
+          "hint": "Đọc câu chứa từ 'coverage': 'We have received your first payment of £36.00, and your coverage is now in effect'. Trong lĩnh vực bảo hiểm, 'coverage' có nghĩa là gì?",
+          "explanation": "Trong hợp đồng bảo hiểm xe hơi, 'coverage' chỉ phạm vi bảo hiểm / sự bảo vệ quyền lợi bảo hiểm, đồng nghĩa với 'protection' (sự bảo vệ / bảo hiểm). → (D)"
         },
         {
           "id": 178,
@@ -3079,15 +3079,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q176_180.png",
           "text": "What does Ms. Patel recommend that Mr. Torres do?",
           "options": [
-            "(A) Enroll in automatic monthly billing",
-            "(B) Submit copies of his new lease agreement",
-            "(C) Upgrade to a higher policy limit",
-            "(D) Pay the annual premium in full"
+            "(A) Call an agent if needed",
+            "(B) Register at a local office",
+            "(C) Place an order promptly",
+            "(D) Revise an agreement"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan email thứ hai từ nhân viên tư vấn Ms. Patel tìm lời khuyên về phương thức thanh toán tiện lợi.",
-          "explanation": "Ms. Patel khuyên khách hàng nên đăng ký tính năng thanh toán định kỳ tự động hàng tháng (automatic monthly billing) để tránh trễ hạn. → (A)"
+          "hint": "Đọc đoạn 4 email 1: 'Should you have any questions... call the customer support centre... In the event of a vehicle incident, please contact an agent as soon as possible...'.",
+          "explanation": "Đoạn 4 hướng dẫn: 'Should you have any questions or wish to change your policy, call the customer support centre... In the event of a vehicle incident, please contact an agent...' → Gọi cho đại lý/tổng đài hỗ trợ khi cần thiết (Call an agent if needed). → (A)"
         },
         {
           "id": 179,
@@ -3096,15 +3096,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q176_180.png",
           "text": "How does Mr. Torres intend to make future payments?",
           "options": [
-            "(A) By mailing paper checks",
-            "(B) In person at a local branch",
-            "(C) Through an automated bank transfer",
-            "(D) Using a company credit card"
+            "(A) By money order",
+            "(B) By credit card",
+            "(C) By electronic transfer",
+            "(D) By personal check"
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc email phản hồi của Mr. Torres đồng ý với đề xuất của chuyên viên.",
-          "explanation": "Mr. Torres đồng ý đăng ký trích nợ tự động từ tài khoản ngân hàng trực tuyến (automated bank transfer). → (C)"
+          "hint": "Kết hợp thông tin: Email 1 giới thiệu phương thức 'making payments with scheduled transfers directly from your bank'. Email 2 ông Torres nói: 'I plan to follow the process outlined in your e-mail for future payments'.",
+          "explanation": "Email 1 hướng dẫn thanh toán bằng chuyển khoản tự động từ ngân hàng trực tuyến ('transfers directly from your bank'). Email 2 ông Torres xác nhận sẽ thanh toán các kỳ sau theo đúng quy trình trong email → Thanh toán bằng chuyển khoản điện tử (By electronic transfer). → (C)"
         },
         {
           "id": 180,
@@ -3113,32 +3113,32 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q176_180.png",
           "text": "What does Mr. Torres state that he looked for?",
           "options": [
-            "(A) A policy with roadside assistance",
-            "(B) A lower deductible option",
-            "(C) An insurance certificate for his landlord",
-            "(D) A discount for bundled home and auto policies"
+            "(A) Directions to an office",
+            "(B) A document to download",
+            "(C) Reviews from customers",
+            "(D) Contact information"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tìm chi tiết trong email của Mr. Torres hỏi về mức khấu trừ bảo hiểm (deductible).",
-          "explanation": "Mr. Torres đề cập rằng anh đã tìm kiếm phương án có mức khấu trừ thấp hơn (lower deductible option) để giảm thiểu chi phí khi có sự cố. → (B)"
+          "hint": "Đọc đoạn cuối email 2: 'I have not yet received the insurance certificate. I looked for one that I could download from your Web site, but I could not find anything'.",
+          "explanation": "Ông Torres viết: 'I have not yet received the insurance certificate. I looked for one that I could download from your Web site...' (Tôi chưa nhận được chứng nhận bảo hiểm. Tôi đã tìm bản để tải về từ trang web của bạn nhưng không thấy) → Tìm một tài liệu để tải về (A document to download). → (B)"
         },
         {
           "id": 181,
           "group": "181-185",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 181-185)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q181_185.png",
-          "text": "According to the schedule, what is NOT mentioned as an activity at the book festival?",
+          "text": "According to the schedule, what is NOT mentioned as an activity for Mr. Darr?",
           "options": [
-            "(A) Author book signings",
-            "(B) Writing workshops",
-            "(C) Panel discussions",
-            "(D) A poetry competition"
+            "(A) Reading from his book",
+            "(B) Answering questions",
+            "(C) Signing books for individuals",
+            "(D) Taking photos with participants"
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "So sánh lịch trình sự kiện: buổi ký tặng sách, xưởng viết văn, tọa đàm tác giả. Hoạt động nào KHÔNG có trong lịch?",
-          "explanation": "Lịch trình có đầy đủ tọa đàm, ký tặng sách, hội thảo viết lách nhưng KHÔNG hề có cuộc thi làm thơ (A poetry competition). → (D)"
+          "hint": "Đọc phần mô tả lịch trình: 'Mr. Darr will read an excerpt from his new novel (A), followed by a question-and-answer session (B). Afterward, Mr. Darr will be available to autograph copies of his books (C)'. Hoạt động nào KHÔNG được nhắc đến?",
+          "explanation": "Lịch trình nêu rõ tác giả sẽ đọc trích đoạn sách (A), trả lời câu hỏi giao lưu (B) và ký tặng sách cho độc giả (C). Hoạt động chụp ảnh cùng người tham gia (Taking photos with participants) hoàn toàn KHÔNG được đề cập. → (D)"
         },
         {
           "id": 182,
@@ -3147,15 +3147,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q181_185.png",
           "text": "What city is the book reviewer from?",
           "options": [
-            "(A) Seattle",
-            "(B) Chicago",
-            "(C) Boston",
-            "(D) Denver"
+            "(A) Toronto",
+            "(B) Ottawa",
+            "(C) Winnipeg",
+            "(D) Regina"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc phần chữ ký / thông tin tác giả bài bình luận sách bên dưới (Reviewer bio / Seattle Post).",
-          "explanation": "Phần giới thiệu nhà phê bình sách cho thấy người này viết bài cho ấn bản tại thành phố Seattle. → (A)"
+          "hint": "Đọc bài điểm sách ngày 15 May: 'Andrew Darr... will be visiting our city this week, appearing at Neighbourhood Books...'. Đối chiếu với bảng lịch trình, hiệu sách 'Neighbourhood Books' ở thành phố nào vào ngày 18 May?",
+          "explanation": "Người điểm sách viết vào ngày 15 May: tác giả sẽ ghé thăm thành phố của chúng tôi tuần này tại hiệu sách 'Neighbourhood Books'. Tra trong bảng lịch trình, Neighbourhood Books diễn ra vào ngày 18 May tại thành phố Toronto, Ontario → Người điểm sách đến từ Toronto. → (A)"
         },
         {
           "id": 183,
@@ -3164,15 +3164,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q181_185.png",
           "text": "What is most likely true about Down the Mountainside?",
           "options": [
-            "(A) It is the author's debut novel.",
-            "(B) It is currently out of print.",
-            "(C) It takes place in a mountainous region.",
-            "(D) It has been adapted into a film."
+            "(A) It is the author’s first book.",
+            "(B) It is a collection of short stories.",
+            "(C) It is part of a series.",
+            "(D) It is being translated into French."
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc bài điểm sách miêu tả bối cảnh cốt truyện cuốn tiểu thuyết 'Down the Mountainside'.",
-          "explanation": "Cốt truyện cuốn sách lấy bối cảnh sinh tồn và thám hiểm tại vùng núi hoang sơ hiểm trở (takes place in a mountainous region). → (C)"
+          "hint": "Đọc đoạn 1 và 2 của bài review: 'the author of the best-selling series about detective Charles Martin... this installment is Darr’s strongest work to date... since readers first met Charles Martin in The Doorbell...'.",
+          "explanation": "Bài đánh giá giới thiệu đây là tác phẩm mới nhất trong 'the best-selling series about detective Charles Martin' và là tập truyện tiếp theo ('this installment') sau cuốn 'The Doorbell' → Cuốn tiểu thuyết là một phần của bộ truyện nhiều tập (It is part of a series). → (C)"
         },
         {
           "id": 184,
@@ -3181,15 +3181,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q181_185.png",
           "text": "Who is Mr. Martin?",
           "options": [
-            "(A) A festival organizer",
-            "(B) The author of a featured book",
-            "(C) A bookstore proprietor",
-            "(D) A literary agent"
+            "(A) A fan of the author’s",
+            "(B) A character in the book",
+            "(C) The writer of the review",
+            "(D) The owner of a bookstore"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đối chiếu tên Mr. Martin giữa lịch trình lễ hội và bìa sách/bài bình luận.",
-          "explanation": "Mr. Martin là tác giả của cuốn tiểu thuyết được giới thiệu và sẽ tham gia buổi giao lưu ra mắt sách (author of a featured book). → (B)"
+          "hint": "Đọc đoạn 1: 'the best-selling series about detective Charles Martin... The new work sees Martin investigating mysterious events at a ski resort...'. Charles Martin là ai?",
+          "explanation": "Đoạn 1 nêu rõ: 'detective Charles Martin... The new work sees Martin investigating mysterious events...' (thám tử Charles Martin điều tra các sự kiện bí ẩn) → Charles Martin là nhân vật thám tử trong truyện (A character in the book). → (B)"
         },
         {
           "id": 185,
@@ -3198,15 +3198,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q181_185.png",
           "text": "According to the review, who would most likely read Down the Mountainside?",
           "options": [
-            "(A) Fans of fast-paced adventure fiction",
-            "(B) Readers interested in historical biographies",
-            "(C) University students studying geology",
-            "(D) Young children learning outdoor skills"
+            "(A) People who like to read mysteries",
+            "(B) People who enjoy novels based on true stories",
+            "(C) People who travel frequently",
+            "(D) People who prefer science fiction"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc đoạn kết bài bình luận đưa ra lời khuyên dành cho đối tượng độc giả nào.",
-          "explanation": "Nhà phê bình kết luận cuốn sách đặc biệt lôi cuốn những độc giả yêu thích thể loại phiêu lưu mạo hiểm tiết tấu nhanh (fast-paced adventure fiction). → (A)"
+          "hint": "Đọc câu cuối cùng của bài review: 'I highly recommend this book to all mystery fans. You won’t be disappointed'.",
+          "explanation": "Người đánh giá kết luận: 'I highly recommend this book to all mystery fans' (Tôi nhiệt liệt giới thiệu cuốn sách này cho tất cả những người hâm mộ truyện trinh thám/bí ẩn) → Những người thích đọc thể loại trinh thám/hồi hộp (People who like to read mysteries). → (A)"
         },
         {
           "id": 186,
@@ -3215,15 +3215,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q186_190.png",
           "text": "What does the report indicate about the Yuma County region?",
           "options": [
-            "(A) It has seen a drop in agricultural production.",
-            "(B) Its tourism industry has grown steadily.",
-            "(C) It lacks sufficient highway connections.",
-            "(D) Its population has decreased over five years."
+            "(A) It does not tax fruit that is sold there.",
+            "(B) Several types of fruit are cultivated there.",
+            "(C) More workers are needed for agricultural jobs.",
+            "(D) New types of fruit are being produced there."
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc biểu đồ và báo cáo thống kê kinh tế quận Yuma về lượng du khách và doanh thu du lịch.",
-          "explanation": "Báo cáo chỉ ra ngành du lịch của quận Yuma liên tục tăng trưởng vững chắc trong những năm gần đây (tourism industry has grown steadily). → (B)"
+          "hint": "Đọc phần báo cáo đầu tiên 'Annual Citrus Production in Yuma County' liệt kê các loại trái cây: lemons (chanh), oranges (cam), grapefruit (bưởi).",
+          "explanation": "Báo cáo liệt kê sản lượng của 3 loại trái cây có múi khác nhau gồm chanh (120,000 boxes of lemons), cam (15,000 boxes of oranges), và bưởi (9,000 boxes of grapefruit) → Nhiều loại trái cây được trồng/canh tác tại đây (Several types of fruit are cultivated there). → (B)"
         },
         {
           "id": 187,
@@ -3232,15 +3232,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q186_190.png",
           "text": "What is one reason Ms. Schreiber writes to Mr. Ramirez?",
           "options": [
-            "(A) To propose a joint promotional campaign",
-            "(B) To request permission to film a documentary",
-            "(C) To dispute a hotel tax assessment",
-            "(D) To apply for a regional grant"
+            "(A) To explain the benefits of doing business together",
+            "(B) To clarify information in the report",
+            "(C) To remind him to make a loan payment",
+            "(D) To offer him advice from university agricultural researchers"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc bức thư của giám đốc trung tâm du lịch gửi chủ doanh nghiệp khách sạn địa phương.",
-          "explanation": "Bà Schreiber viết thư để đề xuất chiến dịch tiếp thị và quảng bá chung giữa hiệp hội và các khu nghỉ dưỡng địa phương (propose a joint promotional campaign). → (A)"
+          "hint": "Đọc thư của bà Schreiber gửi ông Ramirez: 'City West Bank wants to help the Arizona Agriculture Division you lead by expanding this industry further. We offer low-interest loans and provide expert advice... Together, we can accomplish great things'.",
+          "explanation": "Bà Schreiber viết thư đại diện ngân hàng City West Bank đề xuất hợp tác, nêu rõ các lợi ích như cho vay lãi suất thấp, kết nối tư vấn chuyên gia nhằm mở rộng ngành nông nghiệp → Giải thích lợi ích của việc hợp tác kinh doanh cùng nhau (To explain the benefits of doing business together). → (A)"
         },
         {
           "id": 188,
@@ -3249,15 +3249,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q186_190.png",
           "text": "According to the letter, why do tourists visit Yuma County?",
           "options": [
-            "(A) For duty-free shopping",
-            "(B) For major medical conventions",
-            "(C) To visit historical mining museums",
-            "(D) For outdoor recreational activities and sunshine"
+            "(A) To shop at farmers markets",
+            "(B) To take pictures",
+            "(C) To enjoy theme parks",
+            "(D) To observe wildlife"
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tìm lý do thu hút khách du lịch được nêu trong thư: khí hậu nắng ấm quanh năm và hoạt động dã ngoại ngoài trời.",
-          "explanation": "Bức thư nhấn mạnh du khách đổ về quận Yuma nhờ thời tiết nắng ấm và các hoạt động thể thao dã ngoại (outdoor recreational activities and sunshine). → (D)"
+          "hint": "Đọc đoạn 2 của bức thư: 'We recognize that agritourism in southwest Arizona is growing as a result of the popularity of farm tours, bird-watching, and scenic country lodging...'. 'bird-watching' liên quan đến hoạt động gì?",
+          "explanation": "Bức thư nêu các hoạt động du lịch nông nghiệp phổ biến gồm: 'farm tours, bird-watching, and scenic country lodging'. Hoạt động ngắm chim muông ('bird-watching') chính là quan sát đời sống động vật hoang dã (To observe wildlife). → (D)"
         },
         {
           "id": 189,
@@ -3266,15 +3266,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q186_190.png",
           "text": "What is suggested about Mr. Ramirez?",
           "options": [
-            "(A) He manages a resort near the Colorado River.",
-            "(B) He recently purchased a local vineyard.",
-            "(C) He is the president of the Chamber of Commerce.",
-            "(D) He writes a column for a travel magazine."
+            "(A) He accepted Ms. Schreiber’s proposal.",
+            "(B) He used to be employed by City West Bank.",
+            "(C) He is a member of the Yuma Chamber of Commerce.",
+            "(D) He recently bought a citrus farm."
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đối chiếu thông tin về khu nghỉ dưỡng của Mr. Ramirez ở tài liệu 2 và 3.",
-          "explanation": "Mr. Ramirez là giám đốc điều hành khu nghỉ dưỡng cao cấp nằm ven sông Colorado (resort near the Colorado River). → (A)"
+          "hint": "Kết hợp thư (văn bản 2) bà Schreiber đề xuất hợp tác với bài báo (văn bản 3): 'Ms. Schreiber’s efforts in working with the director of the Arizona Agriculture Division have significantly boosted citrus production'. Điều này chứng tỏ ông Ramirez đã làm gì?",
+          "explanation": "Bức thư ngày 21/3 bà Schreiber gửi đề xuất cho ông Ramirez (Director of Arizona Agriculture Division). Bài báo ngày 19/1 năm sau ghi nhận: 'Ms. Schreiber’s efforts in working with the director of the Arizona Agriculture Division have significantly boosted citrus production' → Ông Ramirez đã đồng ý tiếp nhận và làm việc theo đề xuất của bà Schreiber (He accepted Ms. Schreiber’s proposal). → (A)"
         },
         {
           "id": 190,
@@ -3283,15 +3283,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q186_190.png",
           "text": "For what accomplishment does Mr. Dolle praise Ms. Schreiber?",
           "options": [
-            "(A) Publishing a bestselling regional guidebook",
-            "(B) Securing federal funding for highway repairs",
-            "(C) Designing an effective marketing campaign",
-            "(D) Organizing the annual desert festival"
+            "(A) Arranging the shipping of agricultural products",
+            "(B) Opening many City West Bank branch offices",
+            "(C) Helping to increase grapefruit production to 15,000 boxes",
+            "(D) Promoting Yuma County as a vacation destination"
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc email của chủ tịch hội đồng Mr. Dolle gửi lời khen ngợi bà Schreiber.",
-          "explanation": "Chủ tịch khen ngợi chiến dịch tiếp thị số thành công vượt bậc do bà Schreiber thiết kế và triển khai (Designing an effective marketing campaign). → (C)"
+          "hint": "Kết hợp báo cáo 1 và bài báo 3: Báo cáo 1 ghi sản lượng ban đầu là 15,000 thùng cam và 9,000 thùng bưởi. Bài báo 3 ông Dolle khen ngợi: 'Yuma County now produces as many grapefruit as it does oranges' (Sản lượng bưởi nay đã ngang bằng sản lượng cam = 15,000 thùng).",
+          "explanation": "Báo cáo 1 cho biết sản lượng cam là 15,000 thùng, bưởi là 9,000 thùng. Bài báo 3 trích lời chủ tịch ngân hàng William Dolle: 'Yuma County now produces as many grapefruit as it does oranges' (Quận Yuma hiện sản xuất lượng bưởi nhiều ngang bằng lượng cam = 15,000 thùng) → Giúp tăng sản lượng bưởi lên 15,000 thùng (Helping to increase grapefruit production to 15,000 boxes). → (C)"
         },
         {
           "id": 191,
@@ -3300,15 +3300,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q191_195.png",
           "text": "What does the invitation indicate about Unetcon?",
           "options": [
-            "(A) It is held in a different city each month.",
-            "(B) It is open exclusively to software executives.",
-            "(C) It is celebrating its twenty-fifth anniversary.",
-            "(D) It is an annual conference on telecommunications technology."
+            "(A) It is a business consulting firm.",
+            "(B) It hosts in-person conferences.",
+            "(C) It is a newly launched platform.",
+            "(D) It is a professional networking Web site."
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc thư mời tham dự hội nghị Unetcon: Đây là hội nghị thường niên về công nghệ viễn thông và mạng kết nối.",
-          "explanation": "Thư mời xác định Unetcon là hội nghị thường niên hàng đầu trong lĩnh vực công nghệ viễn thông (annual conference on telecommunications technology). → (D)"
+          "hint": "Đọc lời mời từ Don Fitzpatrick: 'Please accept this invitation to connect professionally on Unetcon... I am always looking to expand my network... joining the private Stonerook alumni group page...'.",
+          "explanation": "Lời mời kết nối nghề nghiệp và mở rộng mạng lưới giao lưu cựu sinh viên: 'connect professionally on Unetcon... expand my network' → Unetcon là trang web kết nối mạng lưới nghề nghiệp (It is a professional networking Web site). → (D)"
         },
         {
           "id": 192,
@@ -3317,15 +3317,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q191_195.png",
           "text": "According to the Web page, where is Mr. Hilliard currently working?",
           "options": [
-            "(A) At a university in London",
-            "(B) At Nextel Networks in Toronto",
-            "(C) At a startup in San Francisco",
-            "(D) At a government research lab in Tokyo"
+            "(A) In Lagos",
+            "(B) In Charleston",
+            "(C) In Wilsonville",
+            "(D) In Manchester"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan trang tiểu sử diễn giả tìm tên Mr. Hilliard và nơi công tác hiện tại.",
-          "explanation": "Tiểu sử diễn giả nêu rõ Mr. Hilliard hiện là kỹ sư trưởng tại tập đoàn Nextel Networks tại Toronto (Nextel Networks in Toronto). → (B)"
+          "hint": "Đọc trang hồ sơ của Jonah Hilliard: phần địa chỉ văn phòng làm việc 'Office: 403 Gordon Hall, 530 N Kensington St, Charleston, SC 29425'.",
+          "explanation": "Hồ sơ của Jonah Hilliard ghi rõ văn phòng làm việc hiện tại: 'Director, Albright School of Business... Office: 403 Gordon Hall, 530 N Kensington St, Charleston, SC 29425' → Tại thành phố Charleston (In Charleston). → (B)"
         },
         {
           "id": 193,
@@ -3334,15 +3334,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q191_195.png",
           "text": "What is suggested about Ms. Smith?",
           "options": [
-            "(A) She is attending Unetcon for the first time.",
-            "(B) She will give the opening keynote address.",
-            "(C) She has collaborated with Mr. Hilliard previously.",
-            "(D) She is seeking employment at Nextel Networks."
+            "(A) She taught at Stonerook University.",
+            "(B) She works at Wilsonville Financial.",
+            "(C) She accepted Mr. Fitzpatrick’s invitation.",
+            "(D) She plans to visit Lagos this year."
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc email của Ms. Smith gửi Mr. Hilliard nhắc lại dự án nghiên cứu chung trong quá khứ.",
-          "explanation": "Ms. Smith nhắc tới kỷ niệm khi hai người từng hợp tác chung trong một dự án nghiên cứu mạng quang học trước đây (collaborated previously). → (C)"
+          "hint": "Kết hợp văn bản 1 và 3: Văn bản 1 là lời mời từ Don Fitzpatrick gửi Audrey Smith tham gia Unetcon. Văn bản 3 bà Smith viết: 'I recently came across your profile on Unetcon and saw that you are now leading the business school...'.",
+          "explanation": "Văn bản 1 là thư mời của Don Fitzpatrick gửi cho Audrey Smith để tham gia mạng lưới cựu sinh viên trên Unetcon. Trong email gửi Jonah Hilliard, bà Smith cho biết 'I recently came across your profile on Unetcon' → Bà Smith đã chấp nhận lời mời tham gia Unetcon của ông Fitzpatrick (She accepted Mr. Fitzpatrick’s invitation). → (C)"
         },
         {
           "id": 194,
@@ -3351,32 +3351,32 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q191_195.png",
           "text": "What do Ms. Smith and Mr. Hilliard have in common?",
           "options": [
-            "(A) They graduated from the same university.",
-            "(B) They are both presenting on Thursday afternoon.",
-            "(C) They both hold executive positions at startup companies.",
-            "(D) They are both scheduled speakers at Unetcon."
+            "(A) They cofounded Clear Path.",
+            "(B) They are colleagues at Pryor and Martell.",
+            "(C) They were classmates at Turnbull University.",
+            "(D) They both conducted research in Nigeria."
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đối chiếu danh sách diễn giả ở lịch trình và nội dung email trao đổi.",
-          "explanation": "Cả hai chuyên gia đều có tên trong danh sách các diễn giả được mời trình bày tại hội nghị Unetcon (scheduled speakers at Unetcon). → (D)"
+          "hint": "Đọc hồ sơ của Jonah Hilliard: 'carried out extensive research on emerging markets in West Africa while teaching business management in Lagos, Nigeria'. Email của Audrey Smith: 'My research in Lagos ended last year...'. Cả hai có điểm chung gì?",
+          "explanation": "Hồ sơ của Hilliard nêu ông đã tiến hành nghiên cứu thị trường ở Lagos, Nigeria. Email của bà Smith cũng cho biết 'My research in Lagos ended last year' → Cả hai người đều từng thực hiện nghiên cứu tại Nigeria (They both conducted research in Nigeria). → (D)"
         },
         {
           "id": 195,
           "group": "191-195",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 191-195)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q191_195.png",
-          "text": "What is one purpose of Ms. Smith's e-mail to Mr. Hilliard?",
+          "text": "What is one purpose of Ms. Smith’s e-mail to Mr. Hilliard?",
           "options": [
-            "(A) To coordinate meeting for lunch during the conference",
-            "(B) To request a copy of his presentation slides",
-            "(C) To suggest changes to their panel session",
-            "(D) To recommend a hotel near the convention center"
+            "(A) To refer a potential client to him",
+            "(B) To provide a professional reference",
+            "(C) To conduct an informational interview",
+            "(D) To apply for a position at Albright School of Business"
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc câu cuối email của Ms. Smith hẹn gặp mặt tại hội nghị.",
-          "explanation": "Ms. Smith đề xuất hai người cùng ăn trưa vào giờ nghỉ giữa hội nghị để thảo luận thêm về các cơ hội hợp tác mới (coordinate meeting for lunch). → (A)"
+          "hint": "Đọc đoạn 2 của email: 'I have a nephew who is interested in pursuing a degree in management information systems in the United States, and I was hoping I could put you both in touch so that he can take advantage of your new company’s expertise...'.",
+          "explanation": "Bà Smith muốn kết nối người cháu trai muốn du học Mỹ với công ty tư vấn du học Clear Path của ông Hilliard: 'put you both in touch so that he can take advantage of your new company's expertise' → Giới thiệu một khách hàng tiềm năng cho ông Hilliard (To refer a potential client to him). → (A)"
         },
         {
           "id": 196,
@@ -3385,15 +3385,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q196_200.png",
           "text": "How does Modern Salon Academy teach its students?",
           "options": [
-            "(A) Exclusively through prerecorded video lectures",
-            "(B) Through unpaid apprenticeships at franchised salons",
-            "(C) With a combination of classroom instruction and practical training",
-            "(D) By assigning one-on-one private tutors to each student"
+            "(A) Through online courses",
+            "(B) Through academic lectures",
+            "(C) Through individualized training",
+            "(D) Through large-group discussions"
           ],
           "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc bài báo giới thiệu mô hình đào tạo tại học viện Modern Salon Academy.",
-          "explanation": "Học viện kết hợp giữa giảng dạy lý thuyết tại lớp và thực hành trực tiếp tại salon thực tế (combination of classroom instruction and practical training). → (C)"
+          "hint": "Đọc đoạn đầu của cuốn tài liệu giới thiệu (Brochure): 'The school offers hands-on training, small class sizes, and individualized instruction from leading industry professionals...'.",
+          "explanation": "Cuốn tài liệu giới thiệu nêu rõ phương pháp đào tạo: 'offers hands-on training, small class sizes, and individualized instruction' (hướng dẫn/đào tạo cá nhân hóa theo từng học viên) → Thông qua đào tạo cá nhân hóa (Through individualized training). → (C)"
         },
         {
           "id": 197,
@@ -3402,15 +3402,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q196_200.png",
           "text": "According to the article, what has increased at Modern Salon Academy?",
           "options": [
-            "(A) Tuition fees for international applicants",
-            "(B) The number of enrolled students",
-            "(C) The average length of diploma programs",
-            "(D) The minimum passing score for licensing exams"
+            "(A) The cost of tuition",
+            "(B) The number of students",
+            "(C) The requirements for admission",
+            "(D) The hours needed for certification"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Scan bài viết tìm các số liệu hoặc danh từ đi kèm với 'growth / increased / rise'.",
-          "explanation": "Bài viết nêu rõ số lượng học viên đăng ký theo học tại học viện đã tăng trưởng vượt bậc trong năm qua (number of enrolled students). → (B)"
+          "hint": "Đọc đoạn 2 của bài báo: 'Modern Salon Academy has had a substantial rise in enrollment over the past few years'. Cụm 'rise in enrollment' chỉ sự gia tăng của cái gì?",
+          "explanation": "Bài báo nêu: 'Modern Salon Academy has had a substantial rise in enrollment over the past few years' (sự gia tăng đáng kể về số lượng tuyển sinh/học viên nhập học) → Số lượng học viên đã tăng lên (The number of students). → (B)"
         },
         {
           "id": 198,
@@ -3419,32 +3419,32 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q196_200.png",
           "text": "What is most likely true about Shoreline Barbers?",
           "options": [
-            "(A) It is looking to hire a new stylist.",
-            "(B) It was opened by a graduate of Modern Salon Academy.",
-            "(C) It recently relocated to a larger retail space.",
-            "(D) It offers discounted haircuts to students."
+            "(A) It is located in Oshawa.",
+            "(B) It is opening a shop in Toronto.",
+            "(C) It was sold to Francine Dupuis.",
+            "(D) It has very affordable services."
           ],
           "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc mẩu tin tuyển dụng hoặc email từ chủ tiệm Shoreline Barbers Mr. Persaud.",
-          "explanation": "Chủ tiệm cắt tóc Shoreline Barbers đang tìm kiếm thợ tạo mẫu tóc mới có tay nghề để bổ sung vào đội ngũ nhân sự (looking to hire a new stylist). → (A)"
+          "hint": "Kết hợp bài báo 2 và email 3: Bài báo cho biết học viện mở cơ sở mới ở thành phố Oshawa ('opening a regional campus in Oshawa'). Email của ông Persaud nói tiệm cắt tóc của ông 'is just around the corner from your newly established regional campus'. Tiệm cắt tóc nằm ở đâu?",
+          "explanation": "Bài báo thông báo học viện mở cơ sở mới tại Oshawa. Email của chủ tiệm cắt tóc Amit Persaud cho biết tiệm của ông nằm ngay góc phố cạnh cơ sở mới này ('just around the corner from your newly established regional campus') → Tiệm Shoreline Barbers nằm ở thành phố Oshawa (It is located in Oshawa). → (A)"
         },
         {
           "id": 199,
           "group": "196-200",
           "passageTitle": "Part 7 - Reading Comprehension (Câu 196-200)",
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q196_200.png",
-          "text": "Who would best meet Mr. Persaud's needs?",
+          "text": "Who would best meet Mr. Persaud’s needs?",
           "options": [
-            "(A) An entry-level apprentice with no formal training",
-            "(B) A candidate with certification in classic men's grooming and styling",
-            "(C) An experienced salon manager seeking part-time administrative work",
-            "(D) A nail technician looking for salon booth rental space"
+            "(A) Students in Cosmetology I",
+            "(B) Students in Cosmetology II",
+            "(C) Students in Skin Care",
+            "(D) Students in Leadership"
           ],
           "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đối chiếu yêu cầu công việc tại tiệm cắt tóc nam truyền thống với chương trình đào tạo của học viện.",
-          "explanation": "Ứng viên có chứng chỉ chuyên sâu về cắt tỉa và tạo kiểu tóc nam cổ điển (classic men's grooming and styling) là người đáp ứng tốt nhất nhu cầu. → (B)"
+          "hint": "Email ông Persaud yêu cầu nhân viên 'can provide both haircutting and hair-colouring services'. Đối chiếu với Brochure 1: Khóa học nào dạy cả kỹ thuật cắt tóc (haircutting) và nhuộm màu (colouring)?",
+          "explanation": "Email 3 nêu yêu cầu tuyển dụng nhân sự có thể làm cả cắt tóc và nhuộm màu tóc: 'can provide both haircutting and hair-colouring services'. Trong tài liệu 1: 'Cosmetology II: Learn techniques in haircutting, styling, and colouring' → Học viên khóa Cosmetology II đáp ứng tốt nhất yêu cầu này (Students in Cosmetology II). → (B)"
         },
         {
           "id": 200,
@@ -3453,15 +3453,15 @@
           "passageImage": "public/assets/bai-on-4/reading/passages/part7_q196_200.png",
           "text": "According to the e-mail, what does Mr. Persaud want to do?",
           "options": [
-            "(A) Sponsor a student scholarship fund",
-            "(B) Purchase salon chairs at a discount",
-            "(C) Teach a guest lecture on business management",
-            "(D) Post a job announcement on the academy's career board"
+            "(A) Establish another business",
+            "(B) Retrain staff members",
+            "(C) Teach some classes",
+            "(D) Interview some students"
           ],
           "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Đọc câu kết email của Mr. Persaud gửi cho phòng đào tạo/hướng nghiệp của học viện.",
-          "explanation": "Mr. Persaud gửi thông báo tuyển dụng và nhờ nhà trường đăng lên bảng tin việc làm dành cho sinh viên sắp tốt nghiệp (post a job announcement on the career board). → (D)"
+          "hint": "Đọc đoạn 2 của email: 'Would it be possible for me to visit the nearby campus to give interested students an opportunity to talk with me? This would be a convenient way for me to evaluate them for the positions...'.",
+          "explanation": "Ông Persaud đề xuất đến thăm cơ sở để gặp gỡ, trao đổi và đánh giá các học viên tiềm năng cho vị trí tuyển dụng: 'give interested students an opportunity to talk with me... evaluate them for the positions' → Phỏng vấn các học viên (Interview some students). → (D)"
         }
       ]
     }
