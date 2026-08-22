@@ -878,10 +878,10 @@
             "(C) [3]",
             "(D) [4]"
           ],
-          "answer": "A",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "SENTENCE INSERTION: cau giai thich 'flight canceled because of bad weather'. Vi tri nao tao su lien ket tu nhien nhat? [1] nam truoc 'This is just to confirm your phone message'.",
-          "explanation": "Cau 'My flight has been canceled' giai thich TAI SAO phai doi chuyen bay, dat ngay truoc [1] 'This is just to confirm that I have received your phone message' -> [1] la vi tri phu hop nhat. -> (A)"
+          "hint": "SENTENCE INSERTION: Đọc ngữ cảnh các vị trí [1], [2], [3], [4]. Câu 'My flight to California has been canceled because of bad weather' giải thích lý do cho việc hoãn và đổi lịch trình, vị trí nào kết nối tự nhiên nhất trước khi đưa ra thông tin chuyến bay mới?",
+          "explanation": "Câu 'My flight to California has been canceled because of bad weather' giải thích lý do tại sao chuyến bay bị hủy và cần dời lịch hẹn, phù hợp đặt tại vị trí [2] trước khi chuyển sang chi tiết thời gian đến mới. → (B)"
         },
         {
           "id": 157,
@@ -1031,10 +1031,10 @@
             "(C) He has a low-level position.",
             "(D) He worked on the brochures."
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tim thong tin ve Peter. Rob noi 'get approval from Peter'. Tina noi 'he almost never takes a day off'. Peter co vai tro gi?",
-          "explanation": "Rob noi 'get approval from Peter', Tina noi 'he almost never takes a day off'. Sam noi 'somebody must have checked the proofs' -> Peter co vai tro cap cao va da duyet brochures. -> (D). That ra, can xem ky: 'somebody must have checked the proofs before they were printed' - ai do da check. Sam noi can approval tu Peter -> Peter la nguoi cap cao. Rob goi Peter -> Peter duyet. Nhung 'worked on' = da lam viec tren brochures thi khong chinh xac vi Peter la nguoi DUYET, khong phai lam. Tuy nhien, 'he worked on the brochures' o day co the hieu la da tham gia vao quy trinh. -> (D) la dap an phu hop nhat."
+          "hint": "Tìm thông tin về Peter trong đoạn chat. Chú ý nhận xét của Tina: 'he almost never takes a day off' (anh ấy hầu như không bao giờ nghỉ ngày nào) → Điều này gợi ý điều gì về thói quen làm việc của Peter?",
+          "explanation": "Trong đoạn hội thoại, Tina cho biết về Peter: 'he almost never takes a day off' (anh ấy hầu như không bao giờ nghỉ ngày nào, kể cả cuối tuần) → Suy ra Peter thường làm việc cả vào cuối tuần (He often works on weekends). → (B)"
         },
         {
           "id": 166,
@@ -1235,10 +1235,10 @@
             "(C) Constructing an ice rink",
             "(D) Installing a new pond"
           ],
-          "answer": "B",
+          "answer": "C",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Doc phan ve 'Snow blowers'. Tac dung cua chung la gi? 'stay open all year round' nghia la gi?",
-          "explanation": "'Snow blowers will enable Mendez Park to stay open all year round, even in the heaviest snow.' -> giu cong vien mo ca nam. -> (B)"
+          "hint": "Scan bài đọc tìm các kế hoạch thay đổi cụ thể tại công viên Mendez Park. Trong danh sách các hạng mục được đề cập (construction of a temporary outdoor ice rink), lựa chọn nào tương ứng?",
+          "explanation": "Trong bài viết về kế hoạch công viên Mendez Park, có nhắc đến việc xây dựng sân trượt băng tạm thời ngoài trời: 'construction of a temporary outdoor ice rink' → Dự định xây dựng một sân trượt băng (Constructing an ice rink). → (C)"
         },
         {
           "id": 178,
@@ -1286,10 +1286,10 @@
             "(C) Winterfest Bonfire Ball",
             "(D) Committee Reports"
           ],
-          "answer": "C",
+          "answer": "A",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Doc bai viet va so sanh voi Agenda. Muc nao khong nam trong noi dung chinh cua cuoc hop nhung van xuat hien trong Agenda?",
-          "explanation": "Bai viet noi: 'current agenda items include: regular committee reports, funding for the purchase of snow blowers, construction of a temporary outdoor ice rink...and next month's Winterfest Bonfire Ball to raise money for equipment for the children's playground.' -> Winterfest Bonfire Ball la muc THEM VAO (to raise money). Tuy nhien, cau hoi la 'added to the original agenda' -> muc khong nam trong danh sach ban dau. Xem ky: cac muc chinh la committee reports, snow blowers, ice rink. Winterfest va Cedar Lake cung duoc nhac. Tuy nhien, 'Winterfest Bonfire Ball (ticket sales)' la muc them vao de ban ve ban ve. -> (C)"
+          "hint": "So sánh danh sách các nội dung trong thông báo ban đầu với Agenda chính thức của buổi họp. Mục nào được ghi chú là mục bổ sung vào chương trình nghị sự?",
+          "explanation": "Đối chiếu bài viết và lịch trình Agenda của cuộc họp, hạng mục 'Cedar Lake Beach Improvements' (Cải tạo bãi biển hồ Cedar Lake) là mục được bổ sung thêm vào chương trình nghị sự ban đầu. → (A)"
         },
         {
           "id": 181,
@@ -1473,10 +1473,10 @@
             "(C) Grains",
             "(D) Wine"
           ],
-          "answer": "B",
+          "answer": "D",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tim san pham nao duoc chinh phu dau tu nhieu nhat va du kien tang truong. 'substantial subsidies' va 'fastest growing export' noi ve san pham nao?",
-          "explanation": "'Over the next five years, we will be offering substantial subsidies to farmers who plant coffee.' + 'in five to ten years, these will be our fastest growing export items.' -> ca phe tang truong nhanh nhat. Tuy nhien, cau hoi hoi 'increase most in value over the next 10 years'. Doc ky: 'coffee is becoming increasingly popular...cheap but tasty coffee worldwide. We feel it is important for Gromatia to gain a position in this market.' + subsidies cho coffee -> (B) Coffee. -> (B)"
+          "hint": "Xem bảng số liệu 'Value of Exports for the Country of Gromatia, 2000 vs. 2010 and 2020 Estimated Income'. So sánh cột '2010' và cột '2020 (estimated)' để tính mức tăng giá trị của từng mặt hàng trong 10 năm tới (2010 - 2020). Mặt hàng nào có mức tăng cao nhất?",
+          "explanation": "Dựa vào bảng số liệu xuất khẩu của Gromatia từ năm 2010 đến dự báo 2020 (10 năm tới): Wine tăng từ $0.3 lên $1.0 (mức tăng $0.7, cao nhất trong tất cả các mặt hàng cả về giá trị tuyệt đối lẫn tỷ lệ tăng trưởng ~233.3%). → (D)"
         },
         {
           "id": 192,
@@ -1558,10 +1558,10 @@
             "(C) Letterhead paper",
             "(D) Envelopes"
           ],
-          "answer": "D",
+          "answer": "B",
           "category": "Part 7 - Reading Comprehension",
-          "hint": "Tim thong tin ve loai giay it bi lang phi nhat. Doc ca Memo va Email. Loai nao it duoc nhac den trong danh sach van phong pham?",
-          "explanation": "Memo noi ve van phong pham moi: letterhead, business stationery. Email khen bo phan HR tai che gioi. Envelopes it duoc nhac den nhat va la loai giay it bi lang phi nhat (khong duoc de cap cu the trong danh sach lang phi). -> (D)"
+          "hint": "Quan sát biểu đồ tròn (Pie chart) 'Monthly Wastage of Stationery Supplies' ở góc phải bản ghi nhớ Memorandum. Tìm phần lát cắt (slice) có tỷ lệ nhỏ nhất tương ứng với loại giấy nào trong chú thích?",
+          "explanation": "Dựa vào biểu đồ tròn 'Monthly Wastage of Stationery Supplies in the Offices of MAJOR Knottzach Systems' đính kèm trong bản ghi nhớ (Memorandum): Phần lát cắt nhỏ nhất trong biểu đồ tương ứng với loại giấy 'B4 copy paper' → B4 copy paper là loại giấy bị lãng phí ít nhất. → (B)"
         },
         {
           "id": 197,
